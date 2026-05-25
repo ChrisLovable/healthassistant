@@ -10,508 +10,104 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --color-bg: #FBF7F2;
-    --color-surface: #FFFFFF;
-    --color-text: #1F1B1A;
-    --color-text-soft: #5A4F4C;
-    --color-text-mute: #8B7E78;
-    --color-accent: #B73E2D;
-    --color-accent-soft: #F4DED9;
-    --color-accent-deep: #8C2D1F;
-    --color-accent-bright: #E25A45;
-    --color-emerald: #2E7D5B;
-    --color-emerald-soft: #DDEEE4;
-    --color-line: #E8DED4;
-    --color-line-strong: #D4C5B5;
-    --color-ink-on-dark: #FBF7F2;
-    --font-display: 'Fraunces', Georgia, serif;
-    --font-body: 'DM Sans', system-ui, sans-serif;
+    --color-bg: #FBF7F2; --color-surface: #FFFFFF; --color-text: #1F1B1A;
+    --color-text-soft: #5A4F4C; --color-text-mute: #8B7E78;
+    --color-accent: #B73E2D; --color-accent-soft: #F4DED9; --color-accent-deep: #8C2D1F; --color-accent-bright: #E25A45;
+    --color-emerald: #2E7D5B; --color-emerald-soft: #DDEEE4;
+    --color-line: #E8DED4; --color-line-strong: #D4C5B5; --color-ink-on-dark: #FBF7F2;
+    --font-display: 'Fraunces', Georgia, serif; --font-body: 'DM Sans', system-ui, sans-serif;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
-  body {
-    font-family: var(--font-body);
-    background: var(--color-bg);
-    color: var(--color-text);
-    line-height: 1.55;
-    -webkit-font-smoothing: antialiased;
-    -webkit-text-size-adjust: 100%;
-  }
-  .page {
-    max-width: 480px;
-    margin: 0 auto;
-    background: var(--color-bg);
-    min-height: 100vh;
-    position: relative;
-  }
-  .lang-bar {
-    position: sticky;
-    top: 0;
-    z-index: 50;
-    background: rgba(251, 247, 242, 0.92);
-    backdrop-filter: blur(14px);
-    -webkit-backdrop-filter: blur(14px);
-    border-bottom: 1px solid var(--color-line);
-    padding: 10px 20px;
-    display: flex;
-    gap: 4px;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .lang-bar .brand {
-    font-family: var(--font-display);
-    font-weight: 600;
-    font-size: 13px;
-    color: var(--color-text-soft);
-    letter-spacing: -0.01em;
-  }
+  html, body { overflow-x: hidden; max-width: 100%; }
+  body { font-family: var(--font-body); background: var(--color-bg); color: var(--color-text); line-height: 1.55; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: 100%; }
+  h1,h2,h3,h4,p,li,div { overflow-wrap: break-word; word-wrap: break-word; }
+  .page { max-width: 480px; margin: 0 auto; background: var(--color-bg); min-height: 100vh; }
+  .lang-bar { position: sticky; top: 0; z-index: 50; background: rgba(251, 247, 242, 0.92); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border-bottom: 1px solid var(--color-line); padding: 10px 18px; display: flex; gap: 4px; justify-content: space-between; align-items: center; }
+  .lang-bar .brand { font-family: var(--font-display); font-weight: 600; font-size: 12.5px; color: var(--color-text-soft); letter-spacing: -0.01em; }
   .lang-buttons { display: flex; gap: 4px; }
-  .lang-btn {
-    font-family: var(--font-body);
-    font-size: 12px;
-    font-weight: 600;
-    padding: 6px 10px;
-    border: 1px solid transparent;
-    background: transparent;
-    color: var(--color-text-soft);
-    border-radius: 6px;
-    cursor: pointer;
-    letter-spacing: 0.06em;
-    transition: all 0.2s;
-  }
-  .lang-btn.active {
-    background: var(--color-accent);
-    color: var(--color-ink-on-dark);
-  }
-  .lang-btn:not(.active):hover {
-    background: var(--color-accent-soft);
-    color: var(--color-accent-deep);
-  }
-  .hero {
-    padding: 36px 24px 32px;
-    border-bottom: 1px solid var(--color-line);
-    position: relative;
-    background: linear-gradient(180deg, rgba(244, 222, 217, 0.4) 0%, transparent 100%);
-  }
-  .ribbon-icon {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 18px;
-    color: var(--color-accent);
-  }
-  .disease-tag {
-    font-family: var(--font-body);
-    font-size: 10.5px;
-    font-weight: 700;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--color-accent);
-    margin-bottom: 14px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .disease-tag::after {
-    content: "";
-    flex: 1;
-    height: 1px;
-    background: var(--color-accent);
-    opacity: 0.3;
-  }
-  .disease-title {
-    font-family: var(--font-display);
-    font-size: 64px;
-    font-weight: 700;
-    line-height: 0.92;
-    letter-spacing: -0.03em;
-    color: var(--color-text);
-    margin-bottom: 14px;
-    font-variation-settings: "opsz" 120;
-  }
-  .disease-subtitle {
-    font-family: var(--font-display);
-    font-size: 18px;
-    font-style: italic;
-    font-weight: 500;
-    color: var(--color-accent-deep);
-    margin-bottom: 22px;
-    font-variation-settings: "opsz" 14";
-  }
-  .disease-lede {
-    font-family: var(--font-body);
-    font-size: 17px;
-    line-height: 1.55;
-    color: var(--color-text);
-    font-weight: 400;
-  }
-  section {
-    padding: 36px 24px;
-    border-bottom: 1px solid var(--color-line);
-  }
-  .section-label {
-    font-family: var(--font-body);
-    font-size: 10.5px;
-    font-weight: 700;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--color-accent);
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-number {
-    width: 22px;
-    height: 22px;
-    border-radius: 50%;
-    background: var(--color-accent);
-    color: var(--color-ink-on-dark);
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 0;
-  }
-  .section-title {
-    font-family: var(--font-display);
-    font-size: 30px;
-    font-weight: 600;
-    line-height: 1.05;
-    margin-bottom: 16px;
-    letter-spacing: -0.02em;
-    color: var(--color-text);
-    font-variation-settings: "opsz" 36;
-  }
-  .section-intro {
-    font-size: 16px;
-    color: var(--color-text);
-    margin-bottom: 4px;
-    line-height: 1.6;
-  }
-  .key-facts {
-    background: var(--color-accent-soft);
-    border-radius: 14px;
-    padding: 22px;
-    margin-top: 18px;
-    border: 1px solid rgba(140, 45, 31, 0.08);
-  }
+  .lang-btn { font-family: var(--font-body); font-size: 11.5px; font-weight: 700; padding: 6px 9px; border: 1px solid transparent; background: transparent; color: var(--color-text-soft); border-radius: 6px; cursor: pointer; letter-spacing: 0.06em; transition: all 0.18s; min-width: 36px; }
+  .lang-btn.active { background: var(--color-accent); color: var(--color-ink-on-dark); }
+  .lang-btn:not(.active):active { transform: scale(0.96); }
+  .lang-btn:not(.active):hover { background: var(--color-accent-soft); color: var(--color-accent-deep); }
+  .hero { padding: 32px 22px 30px; border-bottom: 1px solid var(--color-line); background: linear-gradient(180deg, rgba(244, 222, 217, 0.4) 0%, transparent 100%); }
+  .ribbon-icon { width: 36px; height: 36px; margin-bottom: 14px; color: var(--color-accent); }
+  .disease-tag { font-family: var(--font-body); font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-accent); margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+  .disease-tag::after { content: ""; flex: 1; height: 1px; background: var(--color-accent); opacity: 0.3; }
+  .disease-title { font-family: var(--font-display); font-size: 56px; font-weight: 700; line-height: 0.92; letter-spacing: -0.03em; margin-bottom: 12px; }
+  .disease-subtitle { font-family: var(--font-display); font-size: 16.5px; font-style: italic; font-weight: 500; color: var(--color-accent-deep); margin-bottom: 18px; }
+  .disease-lede { font-size: 16px; line-height: 1.55; }
+  section { padding: 30px 22px; border-bottom: 1px solid var(--color-line); }
+  .section-label { font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-accent); margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+  .section-number { width: 20px; height: 20px; border-radius: 50%; background: var(--color-accent); color: var(--color-ink-on-dark); display: inline-flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; }
+  .section-title { font-family: var(--font-display); font-size: 26px; font-weight: 600; line-height: 1.05; margin-bottom: 14px; letter-spacing: -0.02em; }
+  .section-intro { font-size: 15px; margin-bottom: 4px; line-height: 1.55; }
+  .key-facts { background: var(--color-accent-soft); border-radius: 12px; padding: 18px; margin-top: 16px; border: 1px solid rgba(140, 45, 31, 0.08); }
   .key-facts ul { list-style: none; }
-  .key-facts li {
-    font-size: 15px;
-    line-height: 1.5;
-    padding: 12px 0;
-    border-bottom: 1px solid rgba(140, 45, 31, 0.12);
-    color: var(--color-accent-deep);
-    display: flex;
-    gap: 12px;
-    align-items: flex-start;
-    font-weight: 500;
-  }
+  .key-facts li { font-size: 14px; line-height: 1.5; padding: 10px 0; border-bottom: 1px solid rgba(140, 45, 31, 0.12); color: var(--color-accent-deep); display: flex; gap: 10px; align-items: flex-start; font-weight: 500; }
   .key-facts li:last-child { border-bottom: none; }
-  .key-facts li::before {
-    content: "";
-    flex-shrink: 0;
-    width: 6px;
-    height: 6px;
-    background: var(--color-accent);
-    border-radius: 50%;
-    margin-top: 9px;
-  }
-  .symptom-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
-    margin-top: 18px;
-  }
-  .symptom-card {
-    background: var(--color-surface);
-    border: 1px solid var(--color-line);
-    border-radius: 10px;
-    padding: 14px 12px;
-    text-align: center;
-    transition: all 0.2s;
-  }
-  .symptom-card:hover {
-    border-color: var(--color-accent);
-    transform: translateY(-1px);
-  }
-  .symptom-icon {
-    font-size: 22px;
-    margin-bottom: 4px;
-    display: block;
-  }
-  .symptom-name {
-    font-size: 13.5px;
-    font-weight: 500;
-    color: var(--color-text);
-  }
-  .note {
-    font-size: 14px;
-    color: var(--color-text-soft);
-    font-style: italic;
-    margin-top: 18px;
-    padding: 14px 16px;
-    background: rgba(0,0,0,0.025);
-    border-radius: 10px;
-    border-left: 3px solid var(--color-line-strong);
-  }
-  .twocol {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 14px;
-    margin-top: 18px;
-  }
-  .twocol-card {
-    border-radius: 12px;
-    padding: 20px;
-    position: relative;
-  }
-  .twocol-card.spreads {
-    background: rgba(183, 62, 45, 0.06);
-    border: 1px solid rgba(183, 62, 45, 0.25);
-  }
-  .twocol-card.no-spread {
-    background: rgba(46, 125, 91, 0.06);
-    border: 1px solid rgba(46, 125, 91, 0.25);
-  }
-  .twocol-heading {
-    font-family: var(--font-body);
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    margin-bottom: 12px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
+  .key-facts li::before { content: ""; flex-shrink: 0; width: 6px; height: 6px; background: var(--color-accent); border-radius: 50%; margin-top: 8px; }
+  .symptom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 16px; }
+  .symptom-card { background: var(--color-surface); border: 1px solid var(--color-line); border-radius: 10px; padding: 12px 10px; text-align: center; }
+  .symptom-icon { font-size: 20px; margin-bottom: 4px; display: block; }
+  .symptom-name { font-size: 13px; font-weight: 500; }
+  .note { font-size: 13.5px; color: var(--color-text-soft); font-style: italic; margin-top: 16px; padding: 12px 14px; background: rgba(0,0,0,0.025); border-radius: 10px; border-left: 3px solid var(--color-line-strong); }
+  .twocol { display: grid; gap: 12px; margin-top: 16px; }
+  .twocol-card { border-radius: 12px; padding: 18px; }
+  .twocol-card.spreads { background: rgba(183, 62, 45, 0.06); border: 1px solid rgba(183, 62, 45, 0.25); }
+  .twocol-card.no-spread { background: rgba(46, 125, 91, 0.06); border: 1px solid rgba(46, 125, 91, 0.25); }
+  .twocol-heading { font-size: 10.5px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 10px; }
   .spreads .twocol-heading { color: var(--color-accent); }
   .no-spread .twocol-heading { color: var(--color-emerald); }
   .twocol-card ul { list-style: none; }
-  .twocol-card li {
-    font-size: 14.5px;
-    padding: 6px 0;
-    color: var(--color-text);
-    line-height: 1.45;
-    display: flex;
-    gap: 8px;
-  }
-  .spreads li::before {
-    content: "✕";
-    color: var(--color-accent);
-    font-weight: 700;
-  }
-  .no-spread li::before {
-    content: "✓";
-    color: var(--color-emerald);
-    font-weight: 700;
-  }
-  .myth-list { display: flex; flex-direction: column; gap: 14px; margin-top: 18px; }
-  .myth-card {
-    background: var(--color-surface);
-    border: 1px solid var(--color-line);
-    border-radius: 12px;
-    overflow: hidden;
-  }
-  .myth-row {
-    padding: 14px 18px;
-    display: flex;
-    gap: 14px;
-    align-items: flex-start;
-  }
-  .myth-row.myth {
-    background: rgba(183, 62, 45, 0.04);
-    border-bottom: 1px solid var(--color-line);
-  }
-  .myth-tag {
-    font-family: var(--font-body);
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 0.15em;
-    padding: 3px 8px;
-    border-radius: 4px;
-    flex-shrink: 0;
-    line-height: 1.4;
-    margin-top: 2px;
-  }
-  .myth-row.myth .myth-tag {
-    background: var(--color-accent);
-    color: var(--color-ink-on-dark);
-  }
-  .myth-row.fact .myth-tag {
-    background: var(--color-emerald);
-    color: var(--color-ink-on-dark);
-  }
-  .myth-text {
-    font-size: 14.5px;
-    line-height: 1.5;
-    color: var(--color-text);
-    font-weight: 500;
-  }
-  .myth-row.myth .myth-text {
-    text-decoration: line-through;
-    text-decoration-color: var(--color-accent);
-    text-decoration-thickness: 1px;
-    color: var(--color-text-soft);
-  }
-  .action-box {
-    background: var(--color-text);
-    color: var(--color-ink-on-dark);
-    border-radius: 16px;
-    padding: 28px 24px;
-    margin: 22px 0 0;
-    position: relative;
-    overflow: hidden;
-  }
-  .action-box::before {
-    content: "";
-    position: absolute;
-    top: -40px;
-    right: -40px;
-    width: 140px;
-    height: 140px;
-    background: radial-gradient(circle, rgba(226, 90, 69, 0.3) 0%, transparent 70%);
-    pointer-events: none;
-  }
+  .twocol-card li { font-size: 14px; padding: 5px 0; line-height: 1.4; display: flex; gap: 8px; }
+  .spreads li::before { content: "✕"; color: var(--color-accent); font-weight: 700; }
+  .no-spread li::before { content: "✓"; color: var(--color-emerald); font-weight: 700; }
+  .myth-list { display: flex; flex-direction: column; gap: 12px; margin-top: 16px; }
+  .myth-card { background: var(--color-surface); border: 1px solid var(--color-line); border-radius: 12px; overflow: hidden; }
+  .myth-row { padding: 12px 16px; display: flex; gap: 12px; align-items: flex-start; }
+  .myth-row.myth { background: rgba(183, 62, 45, 0.04); border-bottom: 1px solid var(--color-line); }
+  .myth-tag { font-size: 9.5px; font-weight: 700; letter-spacing: 0.15em; padding: 3px 7px; border-radius: 4px; flex-shrink: 0; line-height: 1.4; margin-top: 2px; }
+  .myth-row.myth .myth-tag { background: var(--color-accent); color: var(--color-ink-on-dark); }
+  .myth-row.fact .myth-tag { background: var(--color-emerald); color: var(--color-ink-on-dark); }
+  .myth-text { font-size: 14px; line-height: 1.5; font-weight: 500; }
+  .myth-row.myth .myth-text { text-decoration: line-through; text-decoration-color: var(--color-accent); color: var(--color-text-soft); }
+  .action-box { background: var(--color-text); color: var(--color-ink-on-dark); border-radius: 14px; padding: 24px 22px; margin: 18px 0 0; position: relative; overflow: hidden; }
+  .action-box::before { content: ""; position: absolute; top: -40px; right: -40px; width: 120px; height: 120px; background: radial-gradient(circle, rgba(226, 90, 69, 0.3) 0%, transparent 70%); pointer-events: none; }
   .action-box .section-label { color: var(--color-accent-bright); position: relative; }
-  .action-box .section-number { background: var(--color-accent); color: white; }
   .action-box .section-title { color: var(--color-ink-on-dark); position: relative; }
-  .action-box ul { list-style: none; margin-top: 14px; position: relative; }
-  .action-box li {
-    padding: 12px 0;
-    font-size: 15px;
-    border-bottom: 1px solid rgba(255,255,255,0.08);
-    line-height: 1.5;
-    display: flex;
-    gap: 12px;
-    align-items: flex-start;
-  }
+  .action-box ul { list-style: none; margin-top: 12px; position: relative; }
+  .action-box li { padding: 11px 0; font-size: 14px; border-bottom: 1px solid rgba(255,255,255,0.08); line-height: 1.5; display: flex; gap: 10px; }
   .action-box li:last-child { border-bottom: none; }
-  .action-box li::before {
-    content: "→";
-    color: var(--color-accent-bright);
-    font-weight: 700;
-    flex-shrink: 0;
-  }
-  .prevention-list { list-style: none; margin-top: 16px; }
-  .prevention-list li {
-    padding: 14px 0;
-    border-bottom: 1px solid var(--color-line);
-    display: flex;
-    gap: 14px;
-    align-items: flex-start;
-  }
+  .action-box li::before { content: "→"; color: var(--color-accent-bright); font-weight: 700; flex-shrink: 0; }
+  .prevention-list { list-style: none; margin-top: 14px; }
+  .prevention-list li { padding: 12px 0; border-bottom: 1px solid var(--color-line); display: flex; gap: 12px; align-items: flex-start; }
   .prevention-list li:last-child { border-bottom: none; }
-  .prevention-icon {
-    width: 36px;
-    height: 36px;
-    border-radius: 8px;
-    background: var(--color-emerald-soft);
-    color: var(--color-emerald);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    font-weight: 700;
-    font-size: 16px;
-  }
-  .prevention-content { flex: 1; }
-  .prevention-name {
-    font-weight: 600;
-    font-size: 15px;
-    color: var(--color-text);
-    margin-bottom: 2px;
-  }
-  .prevention-detail {
-    font-size: 13.5px;
-    color: var(--color-text-soft);
-    line-height: 1.4;
-  }
-  .help-list { display: flex; flex-direction: column; gap: 10px; margin-top: 18px; }
-  .help-item {
-    background: var(--color-surface);
-    border: 1px solid var(--color-line);
-    border-radius: 12px;
-    padding: 16px 18px;
-    display: flex;
-    gap: 14px;
-    align-items: center;
-    text-decoration: none;
-    color: inherit;
-    transition: all 0.2s;
-  }
-  .help-item:hover {
-    border-color: var(--color-accent);
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(183, 62, 45, 0.08);
-  }
-  .help-icon {
-    width: 42px;
-    height: 42px;
-    border-radius: 10px;
-    background: var(--color-accent-soft);
-    color: var(--color-accent-deep);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    font-size: 20px;
-  }
-  .help-content { flex: 1; }
-  .help-title {
-    font-weight: 600;
-    font-size: 15.5px;
-    margin-bottom: 2px;
-    color: var(--color-text);
-  }
-  .help-detail {
-    font-size: 13px;
-    color: var(--color-text-soft);
-  }
-  footer {
-    padding: 28px 24px 40px;
-    text-align: center;
-    font-size: 12px;
-    color: var(--color-text-soft);
-    line-height: 1.6;
-  }
-  footer .brand {
-    font-family: var(--font-display);
-    font-size: 15px;
-    font-weight: 600;
-    color: var(--color-text);
-    margin-bottom: 8px;
-    letter-spacing: -0.01em;
-  }
-  footer .footnote {
-    margin-top: 14px;
-    padding-top: 14px;
-    border-top: 1px solid var(--color-line);
-    font-size: 11px;
-    color: var(--color-text-mute);
-  }
-  @media print {
-    .lang-bar { display: none; }
-    body { background: white; }
-    section { break-inside: avoid; }
-    .action-box { background: white; color: var(--color-text); border: 2px solid var(--color-text); }
-    .action-box .section-title { color: var(--color-text); }
-    .action-box li { border-color: rgba(0,0,0,0.1); color: var(--color-text); }
-  }
-  @media (min-width: 481px) {
-    .page {
-      border-left: 1px solid var(--color-line);
-      border-right: 1px solid var(--color-line);
-      box-shadow: 0 0 60px rgba(0,0,0,0.04);
-    }
+  .prevention-icon { width: 34px; height: 34px; border-radius: 8px; background: var(--color-emerald-soft); color: var(--color-emerald); display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-weight: 700; font-size: 14px; }
+  .prevention-name { font-weight: 600; font-size: 14.5px; margin-bottom: 2px; }
+  .prevention-detail { font-size: 13px; color: var(--color-text-soft); line-height: 1.4; }
+  .help-list { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
+  .help-item { background: var(--color-surface); border: 1px solid var(--color-line); border-radius: 12px; padding: 14px 16px; display: flex; gap: 12px; align-items: center; text-decoration: none; color: inherit; transition: all 0.2s; }
+  .help-item:hover { border-color: var(--color-accent); transform: translateY(-1px); box-shadow: 0 4px 12px rgba(183, 62, 45, 0.08); }
+  .help-icon { width: 38px; height: 38px; border-radius: 9px; background: var(--color-accent-soft); color: var(--color-accent-deep); display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 18px; }
+  .help-title { font-weight: 600; font-size: 14.5px; margin-bottom: 1px; }
+  .help-detail { font-size: 12.5px; color: var(--color-text-soft); }
+  footer { padding: 26px 22px 36px; text-align: center; font-size: 12px; color: var(--color-text-soft); line-height: 1.6; }
+  footer .brand-foot { font-family: var(--font-display); font-size: 14px; font-weight: 600; color: var(--color-text); margin-bottom: 6px; letter-spacing: -0.01em; }
+  footer .footnote { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--color-line); font-size: 10.5px; color: var(--color-text-mute); }
+  @media (min-width: 481px) { .page { border-left: 1px solid var(--color-line); border-right: 1px solid var(--color-line); box-shadow: 0 0 60px rgba(0,0,0,0.04); } }
+  @media (max-width: 380px) {
+    .hero { padding: 28px 18px 26px; }
+    .disease-title { font-size: 48px; }
+    .disease-lede { font-size: 15px; }
+    section { padding: 26px 18px; }
+    .section-title { font-size: 23px; }
   }
 </style>
 </head>
 <body>
 <div class="page">
   <div class="lang-bar">
-    <span class="brand">Community Health · SA</span>
+    <span class="brand" data-i18n="brand">Community Health · SA</span>
     <div class="lang-buttons">
       <button class="lang-btn active" data-lang="en">EN</button>
       <button class="lang-btn" data-lang="af">AF</button>
@@ -519,192 +115,319 @@
       <button class="lang-btn" data-lang="xh">XH</button>
     </div>
   </div>
-
   <header class="hero">
     <svg class="ribbon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M8 3L12 12L8 21L12 24L16 21L12 12L16 3L12 6L8 3Z" fill="currentColor" opacity="0.15"/>
-      <path d="M8 3L16 21"/>
-      <path d="M16 3L8 21"/>
+      <path d="M8 3L16 21"/><path d="M16 3L8 21"/>
     </svg>
-    <div class="disease-tag">Disease No. 01 of 24</div>
+    <div class="disease-tag" data-i18n="diseaseTag">Disease No. 01 of 24</div>
     <h1 class="disease-title">HIV</h1>
-    <p class="disease-subtitle">What you need to know.</p>
-    <p class="disease-lede">HIV is a virus that weakens your body's defence system. With treatment, you can live a long, healthy life — and you cannot pass it on.</p>
+    <p class="disease-subtitle" data-i18n="subtitle">What you need to know.</p>
+    <p class="disease-lede" data-i18n="lede">HIV is a virus that weakens your body's defence system. With treatment, you can live a long, healthy life — and you cannot pass it on.</p>
   </header>
-
   <section>
-    <div class="section-label"><span class="section-number">1</span> Three things to know</div>
-    <h2 class="section-title">Start here.</h2>
-    <div class="key-facts">
-      <ul>
-        <li>HIV is treatable. Treatment is free at every public clinic in South Africa.</li>
-        <li>If treatment makes your viral load undetectable, you cannot pass HIV to anyone — even without a condom. (U=U)</li>
-        <li>Anyone can have HIV. Testing is the only way to know. There is no shame in testing.</li>
-      </ul>
-    </div>
+    <div class="section-label"><span class="section-number">1</span> <span data-i18n="s1Label">Three things to know</span></div>
+    <h2 class="section-title" data-i18n="s1Title">Start here.</h2>
+    <div class="key-facts"><ul>
+      <li data-i18n="s1Fact1">HIV is treatable. Treatment is free at every public clinic in South Africa.</li>
+      <li data-i18n="s1Fact2">If treatment makes your viral load undetectable, you cannot pass HIV to anyone — even without a condom. (U=U)</li>
+      <li data-i18n="s1Fact3">Anyone can have HIV. Testing is the only way to know. There is no shame in testing.</li>
+    </ul></div>
   </section>
-
   <section>
-    <div class="section-label"><span class="section-number">2</span> Signs to look for</div>
-    <h2 class="section-title">Early signs.</h2>
-    <p class="section-intro">Many people have no symptoms for years. Early signs — within weeks of infection — can include:</p>
+    <div class="section-label"><span class="section-number">2</span> <span data-i18n="s2Label">Signs to look for</span></div>
+    <h2 class="section-title" data-i18n="s2Title">Early signs.</h2>
+    <p class="section-intro" data-i18n="s2Intro">Many people have no symptoms for years. Early signs — within weeks of infection — can include:</p>
     <div class="symptom-grid">
-      <div class="symptom-card"><span class="symptom-icon">🌡️</span><div class="symptom-name">Fever</div></div>
-      <div class="symptom-card"><span class="symptom-icon">😴</span><div class="symptom-name">Tiredness</div></div>
-      <div class="symptom-card"><span class="symptom-icon">💪</span><div class="symptom-name">Body aches</div></div>
-      <div class="symptom-card"><span class="symptom-icon">🗣️</span><div class="symptom-name">Sore throat</div></div>
-      <div class="symptom-card"><span class="symptom-icon">🔴</span><div class="symptom-name">Skin rash</div></div>
-      <div class="symptom-card"><span class="symptom-icon">👤</span><div class="symptom-name">Swollen glands</div></div>
+      <div class="symptom-card"><span class="symptom-icon">🌡️</span><div class="symptom-name" data-i18n="sym1">Fever</div></div>
+      <div class="symptom-card"><span class="symptom-icon">😴</span><div class="symptom-name" data-i18n="sym2">Tiredness</div></div>
+      <div class="symptom-card"><span class="symptom-icon">💪</span><div class="symptom-name" data-i18n="sym3">Body aches</div></div>
+      <div class="symptom-card"><span class="symptom-icon">🗣️</span><div class="symptom-name" data-i18n="sym4">Sore throat</div></div>
+      <div class="symptom-card"><span class="symptom-icon">🔴</span><div class="symptom-name" data-i18n="sym5">Skin rash</div></div>
+      <div class="symptom-card"><span class="symptom-icon">👤</span><div class="symptom-name" data-i18n="sym6">Swollen glands</div></div>
     </div>
-    <p class="note">These signs can also come from other illnesses. Only a test can confirm HIV.</p>
+    <p class="note" data-i18n="s2Note">These signs can also come from other illnesses. Only a test can confirm HIV.</p>
   </section>
-
   <section>
-    <div class="section-label"><span class="section-number">3</span> How it spreads</div>
-    <h2 class="section-title">Know the facts.</h2>
+    <div class="section-label"><span class="section-number">3</span> <span data-i18n="s3Label">How it spreads</span></div>
+    <h2 class="section-title" data-i18n="s3Title">Know the facts.</h2>
     <div class="twocol">
       <div class="twocol-card spreads">
-        <div class="twocol-heading">HIV IS passed through</div>
+        <div class="twocol-heading" data-i18n="s3SpreadHead">HIV IS passed through</div>
         <ul>
-          <li>Unprotected sex (vaginal, anal, or oral)</li>
-          <li>Sharing needles or syringes</li>
-          <li>Mother to baby (preventable with treatment)</li>
+          <li data-i18n="s3Spread1">Unprotected sex (vaginal, anal, or oral)</li>
+          <li data-i18n="s3Spread2">Sharing needles or syringes</li>
+          <li data-i18n="s3Spread3">Mother to baby (preventable with treatment)</li>
         </ul>
       </div>
       <div class="twocol-card no-spread">
-        <div class="twocol-heading">HIV is NOT passed through</div>
+        <div class="twocol-heading" data-i18n="s3NoSpreadHead">HIV is NOT passed through</div>
         <ul>
-          <li>Hugging, kissing, sharing food or drinks</li>
-          <li>Toilet seats or swimming pools</li>
-          <li>Mosquito or insect bites</li>
+          <li data-i18n="s3NoSpread1">Hugging, kissing, sharing food or drinks</li>
+          <li data-i18n="s3NoSpread2">Toilet seats or swimming pools</li>
+          <li data-i18n="s3NoSpread3">Mosquito or insect bites</li>
         </ul>
       </div>
     </div>
   </section>
-
   <section>
-    <div class="section-label"><span class="section-number">4</span> Myths vs Facts</div>
-    <h2 class="section-title">Don't believe the lies.</h2>
+    <div class="section-label"><span class="section-number">4</span> <span data-i18n="s4Label">Myths vs Facts</span></div>
+    <h2 class="section-title" data-i18n="s4Title">Don't believe the lies.</h2>
     <div class="myth-list">
       <div class="myth-card">
-        <div class="myth-row myth">
-          <span class="myth-tag">MYTH</span>
-          <div class="myth-text">HIV is a death sentence.</div>
-        </div>
-        <div class="myth-row fact">
-          <span class="myth-tag">FACT</span>
-          <div class="myth-text">With treatment, people with HIV live a normal lifespan. Treatment is free.</div>
-        </div>
+        <div class="myth-row myth"><span class="myth-tag" data-i18n="mythTag">MYTH</span><div class="myth-text" data-i18n="s4Myth1">HIV is a death sentence.</div></div>
+        <div class="myth-row fact"><span class="myth-tag" data-i18n="factTag">FACT</span><div class="myth-text" data-i18n="s4Fact1">With treatment, people with HIV live a normal lifespan. Treatment is free.</div></div>
       </div>
       <div class="myth-card">
-        <div class="myth-row myth">
-          <span class="myth-tag">MYTH</span>
-          <div class="myth-text">You can tell who has HIV by looking at them.</div>
-        </div>
-        <div class="myth-row fact">
-          <span class="myth-tag">FACT</span>
-          <div class="myth-text">You cannot. Most people with HIV look completely healthy. Only a test reveals HIV.</div>
-        </div>
+        <div class="myth-row myth"><span class="myth-tag" data-i18n="mythTag">MYTH</span><div class="myth-text" data-i18n="s4Myth2">You can tell who has HIV by looking at them.</div></div>
+        <div class="myth-row fact"><span class="myth-tag" data-i18n="factTag">FACT</span><div class="myth-text" data-i18n="s4Fact2">You cannot. Most people with HIV look completely healthy. Only a test reveals HIV.</div></div>
       </div>
     </div>
   </section>
-
   <section>
     <div class="action-box">
-      <div class="section-label"><span class="section-number">5</span> Take action</div>
-      <h2 class="section-title">Get tested.</h2>
+      <div class="section-label"><span class="section-number">5</span> <span data-i18n="s5Label">Take action</span></div>
+      <h2 class="section-title" data-i18n="s5Title">Get tested.</h2>
       <ul>
-        <li>Free testing at any public clinic — walk in any day.</li>
-        <li>Home test kits are at most pharmacies.</li>
-        <li>Test as often as you want. No appointment, no judgement.</li>
-        <li>If positive, treatment starts the same day at any clinic.</li>
+        <li data-i18n="s5Action1">Free testing at any public clinic — walk in any day.</li>
+        <li data-i18n="s5Action2">Home test kits are at most pharmacies.</li>
+        <li data-i18n="s5Action3">Test as often as you want. No appointment, no judgement.</li>
+        <li data-i18n="s5Action4">If positive, treatment starts the same day at any clinic.</li>
       </ul>
     </div>
   </section>
-
   <section>
-    <div class="section-label"><span class="section-number">6</span> Prevention</div>
-    <h2 class="section-title">Stay HIV-free.</h2>
+    <div class="section-label"><span class="section-number">6</span> <span data-i18n="s6Label">Prevention</span></div>
+    <h2 class="section-title" data-i18n="s6Title">Stay HIV-free.</h2>
     <ul class="prevention-list">
-      <li>
-        <div class="prevention-icon">C</div>
-        <div class="prevention-content">
-          <div class="prevention-name">Condoms</div>
-          <div class="prevention-detail">Free at every public clinic. Carry them.</div>
-        </div>
-      </li>
-      <li>
-        <div class="prevention-icon">P</div>
-        <div class="prevention-content">
-          <div class="prevention-name">PrEP</div>
-          <div class="prevention-detail">A daily pill that prevents HIV. Free at clinics.</div>
-        </div>
-      </li>
-      <li>
-        <div class="prevention-icon">E</div>
-        <div class="prevention-content">
-          <div class="prevention-name">PEP</div>
-          <div class="prevention-detail">Emergency pills within 72 hours of possible exposure.</div>
-        </div>
-      </li>
-      <li>
-        <div class="prevention-icon">S</div>
-        <div class="prevention-content">
-          <div class="prevention-name">Treat other STIs</div>
-          <div class="prevention-detail">They make HIV easier to catch and pass on.</div>
-        </div>
-      </li>
+      <li><div class="prevention-icon">C</div><div><div class="prevention-name" data-i18n="s6Name1">Condoms</div><div class="prevention-detail" data-i18n="s6Detail1">Free at every public clinic. Carry them.</div></div></li>
+      <li><div class="prevention-icon">P</div><div><div class="prevention-name" data-i18n="s6Name2">PrEP</div><div class="prevention-detail" data-i18n="s6Detail2">A daily pill that prevents HIV. Free at clinics.</div></div></li>
+      <li><div class="prevention-icon">E</div><div><div class="prevention-name" data-i18n="s6Name3">PEP</div><div class="prevention-detail" data-i18n="s6Detail3">Emergency pills within 72 hours of possible exposure.</div></div></li>
+      <li><div class="prevention-icon">S</div><div><div class="prevention-name" data-i18n="s6Name4">Treat other STIs</div><div class="prevention-detail" data-i18n="s6Detail4">They make HIV easier to catch and pass on.</div></div></li>
     </ul>
   </section>
-
   <section>
-    <div class="section-label"><span class="section-number">7</span> Where to get help</div>
-    <h2 class="section-title">You are not alone.</h2>
+    <div class="section-label"><span class="section-number">7</span> <span data-i18n="s7Label">Where to get help</span></div>
+    <h2 class="section-title" data-i18n="s7Title">You are not alone.</h2>
     <div class="help-list">
-      <a class="help-item" href="tel:0800012322">
-        <div class="help-icon">☎</div>
-        <div class="help-content">
-          <div class="help-title">AIDS Helpline</div>
-          <div class="help-detail">0800 012 322 · free · 24 hours</div>
-        </div>
-      </a>
-      <a class="help-item" href="https://www.lovelife.org.za" target="_blank" rel="noopener">
-        <div class="help-icon">♥</div>
-        <div class="help-content">
-          <div class="help-title">loveLife</div>
-          <div class="help-detail">Information &amp; support for young people</div>
-        </div>
-      </a>
-      <a class="help-item" href="https://www.bwisehealth.com" target="_blank" rel="noopener">
-        <div class="help-icon">i</div>
-        <div class="help-content">
-          <div class="help-title">B-Wise</div>
-          <div class="help-detail">Confidential health info for youth</div>
-        </div>
-      </a>
-      <div class="help-item">
-        <div class="help-icon">+</div>
-        <div class="help-content">
-          <div class="help-title">Your nearest clinic</div>
-          <div class="help-detail">Walk in any day. Testing is free.</div>
-        </div>
-      </div>
+      <a class="help-item" href="tel:0800012322"><div class="help-icon">☎</div><div><div class="help-title" data-i18n="help1Title">AIDS Helpline</div><div class="help-detail" data-i18n="help1Detail">0800 012 322 · free · 24 hours</div></div></a>
+      <a class="help-item" href="https://www.lovelife.org.za" target="_blank" rel="noopener"><div class="help-icon">♥</div><div><div class="help-title">loveLife</div><div class="help-detail" data-i18n="help2Detail">Information &amp; support for young people</div></div></a>
+      <a class="help-item" href="https://www.bwisehealth.com" target="_blank" rel="noopener"><div class="help-icon">i</div><div><div class="help-title">B-Wise</div><div class="help-detail" data-i18n="help3Detail">Confidential health info for youth</div></div></a>
+      <div class="help-item"><div class="help-icon">+</div><div><div class="help-title" data-i18n="help4Title">Your nearest clinic</div><div class="help-detail" data-i18n="help4Detail">Walk in any day. Testing is free.</div></div></div>
     </div>
   </section>
-
   <footer>
-    <div class="brand">Community Health · South Africa</div>
-    <div>General information only. For personal medical advice, speak to a healthcare worker.</div>
-    <div class="footnote">Last reviewed: May 2026 · Sources: SA National Department of Health, WHO, UNAIDS</div>
+    <div class="brand-foot" data-i18n="footerBrand">Community Health · South Africa</div>
+    <div data-i18n="footerDisclaimer">General information only. For personal medical advice, speak to a healthcare worker.</div>
+    <div class="footnote" data-i18n="footerSources">Last reviewed: May 2026 · Sources: SA National Department of Health, WHO, UNAIDS</div>
   </footer>
 </div>
 <script>
-  document.querySelectorAll('.lang-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-    });
+const i18n = {
+  en: {
+    brand:"Community Health · SA", diseaseTag:"Disease No. 01 of 24",
+    subtitle:"What you need to know.",
+    lede:"HIV is a virus that weakens your body's defence system. With treatment, you can live a long, healthy life — and you cannot pass it on.",
+    s1Label:"Three things to know", s1Title:"Start here.",
+    s1Fact1:"HIV is treatable. Treatment is free at every public clinic in South Africa.",
+    s1Fact2:"If treatment makes your viral load undetectable, you cannot pass HIV to anyone — even without a condom. (U=U)",
+    s1Fact3:"Anyone can have HIV. Testing is the only way to know. There is no shame in testing.",
+    s2Label:"Signs to look for", s2Title:"Early signs.",
+    s2Intro:"Many people have no symptoms for years. Early signs — within weeks of infection — can include:",
+    sym1:"Fever", sym2:"Tiredness", sym3:"Body aches", sym4:"Sore throat", sym5:"Skin rash", sym6:"Swollen glands",
+    s2Note:"These signs can also come from other illnesses. Only a test can confirm HIV.",
+    s3Label:"How it spreads", s3Title:"Know the facts.",
+    s3SpreadHead:"HIV IS passed through",
+    s3Spread1:"Unprotected sex (vaginal, anal, or oral)",
+    s3Spread2:"Sharing needles or syringes",
+    s3Spread3:"Mother to baby (preventable with treatment)",
+    s3NoSpreadHead:"HIV is NOT passed through",
+    s3NoSpread1:"Hugging, kissing, sharing food or drinks",
+    s3NoSpread2:"Toilet seats or swimming pools",
+    s3NoSpread3:"Mosquito or insect bites",
+    s4Label:"Myths vs Facts", s4Title:"Don't believe the lies.",
+    mythTag:"MYTH", factTag:"FACT",
+    s4Myth1:"HIV is a death sentence.",
+    s4Fact1:"With treatment, people with HIV live a normal lifespan. Treatment is free.",
+    s4Myth2:"You can tell who has HIV by looking at them.",
+    s4Fact2:"You cannot. Most people with HIV look completely healthy. Only a test reveals HIV.",
+    s5Label:"Take action", s5Title:"Get tested.",
+    s5Action1:"Free testing at any public clinic — walk in any day.",
+    s5Action2:"Home test kits are at most pharmacies.",
+    s5Action3:"Test as often as you want. No appointment, no judgement.",
+    s5Action4:"If positive, treatment starts the same day at any clinic.",
+    s6Label:"Prevention", s6Title:"Stay HIV-free.",
+    s6Name1:"Condoms", s6Detail1:"Free at every public clinic. Carry them.",
+    s6Name2:"PrEP", s6Detail2:"A daily pill that prevents HIV. Free at clinics.",
+    s6Name3:"PEP", s6Detail3:"Emergency pills within 72 hours of possible exposure.",
+    s6Name4:"Treat other STIs", s6Detail4:"They make HIV easier to catch and pass on.",
+    s7Label:"Where to get help", s7Title:"You are not alone.",
+    help1Title:"AIDS Helpline", help1Detail:"0800 012 322 · free · 24 hours",
+    help2Detail:"Information & support for young people",
+    help3Detail:"Confidential health info for youth",
+    help4Title:"Your nearest clinic", help4Detail:"Walk in any day. Testing is free.",
+    footerBrand:"Community Health · South Africa",
+    footerDisclaimer:"General information only. For personal medical advice, speak to a healthcare worker.",
+    footerSources:"Last reviewed: May 2026 · Sources: SA National Department of Health, WHO, UNAIDS"
+  },
+  af: {
+    brand:"Gemeenskapsgesondheid · SA", diseaseTag:"Siekte Nr. 01 van 24",
+    subtitle:"Wat jy moet weet.",
+    lede:"MIV is 'n virus wat jou liggaam se afweerstelsel verswak. Met behandeling kan jy 'n lang, gesonde lewe lei — en jy kan dit nie oordra nie.",
+    s1Label:"Drie dinge om te weet", s1Title:"Begin hier.",
+    s1Fact1:"MIV is behandelbaar. Behandeling is gratis by elke openbare kliniek in Suid-Afrika.",
+    s1Fact2:"As behandeling jou virale lading onopspoorbaar maak, kan jy MIV nie aan iemand oordra nie — selfs sonder 'n kondoom. (U=U)",
+    s1Fact3:"Enigeen kan MIV hê. Toetsing is die enigste manier om te weet. Daar is geen skande in toetsing nie.",
+    s2Label:"Tekens om voor uit te kyk", s2Title:"Vroeë tekens.",
+    s2Intro:"Baie mense het jare lank geen simptome nie. Vroeë tekens — binne weke na infeksie — kan insluit:",
+    sym1:"Koors", sym2:"Moegheid", sym3:"Lyfpyne", sym4:"Seer keel", sym5:"Veluitslag", sym6:"Geswelde kliere",
+    s2Note:"Hierdie tekens kan ook van ander siektes kom. Slegs 'n toets kan MIV bevestig.",
+    s3Label:"Hoe dit versprei", s3Title:"Ken die feite.",
+    s3SpreadHead:"MIV word OORGEDRA deur",
+    s3Spread1:"Onbeskermde seks (vaginaal, anaal, of oraal)",
+    s3Spread2:"Naalde of spuite te deel",
+    s3Spread3:"Van moeder na baba (voorkombaar met behandeling)",
+    s3NoSpreadHead:"MIV word NIE oorgedra deur",
+    s3NoSpread1:"Drukkies, soene, kos of drank te deel",
+    s3NoSpread2:"Toiletsittings of swembaddens",
+    s3NoSpread3:"Muskiet- of insekbyte",
+    s4Label:"Mites vs Feite", s4Title:"Glo nie die leuens nie.",
+    mythTag:"MITE", factTag:"FEIT",
+    s4Myth1:"MIV is 'n doodsvonnis.",
+    s4Fact1:"Met behandeling leef mense met MIV 'n normale leeftyd. Behandeling is gratis.",
+    s4Myth2:"Jy kan sien wie MIV het deur na hulle te kyk.",
+    s4Fact2:"Jy kan nie. Die meeste mense met MIV lyk heeltemal gesond. Slegs 'n toets onthul MIV.",
+    s5Label:"Neem aksie", s5Title:"Laat jou toets.",
+    s5Action1:"Gratis toetsing by enige openbare kliniek — loop in op enige dag.",
+    s5Action2:"Tuistoetstoestelle is by die meeste apteke beskikbaar.",
+    s5Action3:"Toets so dikwels as wat jy wil. Geen afspraak, geen oordeel.",
+    s5Action4:"As positief, begin behandeling dieselfde dag by enige kliniek.",
+    s6Label:"Voorkoming", s6Title:"Bly MIV-vry.",
+    s6Name1:"Kondome", s6Detail1:"Gratis by elke openbare kliniek. Dra hulle saam.",
+    s6Name2:"PrEP", s6Detail2:"'n Daaglikse pil wat MIV voorkom. Gratis by klinieke.",
+    s6Name3:"PEP", s6Detail3:"Noodpille binne 72 uur na moontlike blootstelling.",
+    s6Name4:"Behandel ander SOI's", s6Detail4:"Hulle maak MIV makliker om op te tel en oor te dra.",
+    s7Label:"Waar om hulp te kry", s7Title:"Jy is nie alleen nie.",
+    help1Title:"VIGS Hulplyn", help1Detail:"0800 012 322 · gratis · 24 uur",
+    help2Detail:"Inligting en ondersteuning vir jong mense",
+    help3Detail:"Vertroulike gesondheidsinligting vir jeug",
+    help4Title:"Jou naaste kliniek", help4Detail:"Loop in op enige dag. Toetsing is gratis.",
+    footerBrand:"Gemeenskapsgesondheid · Suid-Afrika",
+    footerDisclaimer:"Algemene inligting slegs. Praat met 'n gesondheidswerker vir persoonlike mediese advies.",
+    footerSources:"Laas hersien: Mei 2026 · Bronne: SA Nasionale Departement van Gesondheid, WGO, UNAIDS"
+  },
+  zu: {
+    brand:"Impilo Yomphakathi · SA", diseaseTag:"Isifo No. 01 ku-24",
+    subtitle:"Lokho okudingeka ukwazi.",
+    lede:"I-HIV iyigciwane elenza buthakathaka uhlelo lokuvikela komzimba wakho. Ngokwelashwa, ungaphila impilo ende, enempilo — futhi awukwazi ukuyidlulisela kwabanye.",
+    s1Label:"Izinto ezintathu okumele uzazi", s1Title:"Qala lapha.",
+    s1Fact1:"I-HIV iyelapheka. Ukwelashwa kumahhala kuyo yonke imitholampilo kahulumeni eNingizimu Afrika.",
+    s1Fact2:"Uma ukwelashwa kwenza umthwalo wakho wegciwane ungatholakali, awukwazi ukudlulisela i-HIV kunoma ngubani — ngisho ngaphandle kwekhondomu. (U=U)",
+    s1Fact3:"Noma ubani angaba ne-HIV. Ukuhlolwa kuwukuphela kwendlela yokwazi. Ayikho ihlazo ekuhlolweni.",
+    s2Label:"Izimpawu ozibhekayo", s2Title:"Izimpawu zokuqala.",
+    s2Intro:"Abantu abaningi abanazo izimpawu iminyaka eminingi. Izimpawu zokuqala — phakathi kwamasonto okutheleleka — zingaba:",
+    sym1:"Imfiva", sym2:"Ukukhathala", sym3:"Ubuhlungu emzimbeni", sym4:"Umphimbo obuhlungu", sym5:"Uqweqwe lwesikhumba", sym6:"Amadlala avuvukile",
+    s2Note:"Lezi zimpawu nazo zingavela kwezinye izifo. Ukuhlolwa kuphela okungaqinisekisa i-HIV.",
+    s3Label:"Indlela esabalala ngayo", s3Title:"Yazi amaqiniso.",
+    s3SpreadHead:"I-HIV IDLULISWA nge",
+    s3Spread1:"Ucansi olungavikelekile (vaginal, anal, noma omlomo)",
+    s3Spread2:"Ukwabelana ngezinaliti noma izinjekteshini",
+    s3Spread3:"Kusuka kumama kuya enganeni (kungavinjelwa ngokwelashwa)",
+    s3NoSpreadHead:"I-HIV AYIDLULISWA nge",
+    s3NoSpread1:"Ukugona, ukuqabula, ukwabelana ngokudla noma okuphuzwayo",
+    s3NoSpread2:"Izihlalo zendlu yangasese noma amachibi okubhukuda",
+    s3NoSpread3:"Ukulunywa umiyane noma izinambuzane",
+    s4Label:"Amanga vs Amaqiniso", s4Title:"Ungakholelwa amanga.",
+    mythTag:"AMANGA", factTag:"IQINISO",
+    s4Myth1:"I-HIV iyisigwebo sokufa.",
+    s4Fact1:"Ngokwelashwa, abantu abane-HIV baphila impilo ejwayelekile. Ukwelashwa kumahhala.",
+    s4Myth2:"Ungatshela ukuthi ubani one-HIV ngokumbuka.",
+    s4Fact2:"Awukwazi. Abantu abaningi abane-HIV babonakala bephilile. Ukuhlolwa kuphela okuveza i-HIV.",
+    s5Label:"Thatha isinyathelo", s5Title:"Hlolwa.",
+    s5Action1:"Ukuhlolwa kumahhala kunoma yimuphi umtholampilo wezempilo — ngena nganoma yiluphi usuku.",
+    s5Action2:"Amakhithi okuhlolwa asekhaya akuwo amakhemisi amaningi.",
+    s5Action3:"Hlola kaningi ngokuthanda kwakho. Akudingeki ukubhuka, akukho ukwahlulela.",
+    s5Action4:"Uma uphazimo, ukwelashwa kuqala ngalo lonke usuku kunoma yimuphi umtholampilo.",
+    s6Label:"Ukuvimbela", s6Title:"Hlala ungenayo i-HIV.",
+    s6Name1:"Amakhondomu", s6Detail1:"Mahhala kuyo yonke imitholampilo. Phatha wona.",
+    s6Name2:"PrEP", s6Detail2:"Iphilisi lansuku zonke elivimbela i-HIV. Mahhala emitholampilo.",
+    s6Name3:"PEP", s6Detail3:"Amaphilisi ophuthumayo phakathi kwamahora angu-72 ngemuva kokuthelekwa.",
+    s6Name4:"Phatha ezinye izifo zocansi", s6Detail4:"Zenza i-HIV ibe lula ukubamba nokudlulisela.",
+    s7Label:"Lapho ungathola usizo", s7Title:"Awuwedwa.",
+    help1Title:"Ucingo Lwe-AIDS", help1Detail:"0800 012 322 · mahhala · amahora angu-24",
+    help2Detail:"Ulwazi nokwesekwa kwabasha",
+    help3Detail:"Ulwazi lwempilo oluyimfihlo lwabasha",
+    help4Title:"Umtholampilo oseduze nawe", help4Detail:"Ngena ngalo lonke usuku. Ukuhlolwa kumahhala.",
+    footerBrand:"Impilo Yomphakathi · iNingizimu Afrika",
+    footerDisclaimer:"Ulwazi olujwayelekile kuphela. Khuluma nomuntu wezempilo ngeseluleko somuntu siqu.",
+    footerSources:"Kubuyekezwe okokugcina: NgoMeyi 2026 · Imithombo: UMnyango Wezempilo Kazwelonke, WHO, UNAIDS"
+  },
+  xh: {
+    brand:"Impilo Yoluntu · SA", diseaseTag:"Isifo Nombolo 01 ku-24",
+    subtitle:"Oko kufuneka ukwazi.",
+    lede:"I-HIV yintsholongwane eyenza umzimba wakho ubuthathaka. Ngonyango, ungaphila ubomi obude, obunempilo — kwaye awukwazi ukuyidlulisela kwabanye.",
+    s1Label:"Izinto ezintathu omawuzazi", s1Title:"Qala apha.",
+    s1Fact1:"I-HIV iyanyangeka. Unyango lusimahla kuzo zonke iikliniki zoluntu eMzantsi Afrika.",
+    s1Fact2:"Ukuba unyango lwenza umthwalo wakho wentsholongwane ungabonakali, awukwazi ukudlulisela i-HIV kuye nabani na — ngisho nangaphandle kwekhondom. (U=U)",
+    s1Fact3:"Nabani na angaba ne-HIV. Uvavanyo lulodwa olungayazi. Akukho hlazo ekuvavanyweni.",
+    s2Label:"Iimpawu omazibheke", s2Title:"Iimpawu zokuqala.",
+    s2Intro:"Abantu abaninzi abanazo iimpawu kangangeminyaka. Iimpawu zokuqala — kwiiveki ezithile emva kosulelo — zinokuquka:",
+    sym1:"Umkhuhlane", sym2:"Ukudinwa", sym3:"Ubuhlungu bomzimba", sym4:"Umqala obuhlungu", sym5:"Isikhumba esiphuncukileyo", sym6:"Amasele avuvukileyo",
+    s2Note:"Ezi mpawu zinokuvela kwezinye izifo. Uvavanyo lulodwa olunokuqinisekisa i-HIV.",
+    s3Label:"Indlela esasazeka ngayo", s3Title:"Yazi inyaniso.",
+    s3SpreadHead:"I-HIV IDLULISELWA ngo",
+    s3Spread1:"Isondo elingakhuselekanga (vaginal, anal, okanye omlomo)",
+    s3Spread2:"Ukwabelana ngeenaliti okanye iisirinji",
+    s3Spread3:"Ukusuka kumama uye emntwaneni (kunokuvinjelwa ngonyango)",
+    s3NoSpreadHead:"I-HIV AYIDLULISELWA ngo",
+    s3NoSpread1:"Ukuwola, ukuncamisa, ukwabelana ngokutya okanye iziselo",
+    s3NoSpread2:"Izihlalo zendlu yangasese okanye amaqhwa okudada",
+    s3NoSpread3:"Ukulunywa zingcongconi okanye izinambuzane",
+    s4Label:"Iintsomi vs Inyaniso", s4Title:"Sukukholelwa kubuxoki.",
+    mythTag:"INTSOMI", factTag:"INYANISO",
+    s4Myth1:"I-HIV sisigwebo sokufa.",
+    s4Fact1:"Ngonyango, abantu abane-HIV baphila ubomi obuqhelekileyo. Unyango lusimahla.",
+    s4Myth2:"Ungazi ukuba ngubani one-HIV ngokumbuka.",
+    s4Fact2:"Awukwazi. Abantu abaninzi abane-HIV babonakala besempilweni. Uvavanyo lulodwa oluthelisa i-HIV.",
+    s5Label:"Thatha amanyathelo", s5Title:"Vavanya.",
+    s5Action1:"Uvavanyo lusimahla kuyo nayiphi na ikliniki yoluntu — ngena nakuluphi na usuku.",
+    s5Action2:"Iikhithi zovavanyo zikhaya zikwiifamasi ezininzi.",
+    s5Action3:"Vavanya rhoqo njengokuba ufuna. Akukho dinwa, akukho gwebo.",
+    s5Action4:"Ukuba uphazimo, unyango luqalisa ngolwasuku olufanayo kuyo nayiphi ikliniki.",
+    s6Label:"Ukukhusela", s6Title:"Hlala ungenayo i-HIV.",
+    s6Name1:"Iikhondom", s6Detail1:"Simahla kuzo zonke iikliniki zoluntu. Zithwale.",
+    s6Name2:"PrEP", s6Detail2:"Ipilisi yemihla ngemihla evimba i-HIV. Simahla eeklinikini.",
+    s6Name3:"PEP", s6Detail3:"Iipilisi zikaxakeka kwiiyure ezingama-72 emva kokuchaphazeleka okunokwenzeka.",
+    s6Name4:"Nyanga ezinye izifo zesondo", s6Detail4:"Zenza i-HIV ibe lula ukufunyanwa nokudluliselwa.",
+    s7Label:"Apho ungafumana uncedo", s7Title:"Awulodwa.",
+    help1Title:"Umnxeba weAIDS", help1Detail:"0800 012 322 · simahla · iiyure ezingama-24",
+    help2Detail:"Ulwazi nenkxaso kubantu abatsha",
+    help3Detail:"Ulwazi lwempilo oluyimfihlo lolutsha",
+    help4Title:"Ikliniki ekufutshane nawe", help4Detail:"Ngena nakuluphi na usuku. Uvavanyo lusimahla.",
+    footerBrand:"Impilo Yoluntu · uMzantsi Afrika",
+    footerDisclaimer:"Inkcukacha jikelele kuphela. Thetha nomsebenzi wezempilo ngecebiso lakho lonyango.",
+    footerSources:"Igqityiwe ngokutsha okokugqibela: ngoMeyi 2026 · Imithombo: ISebe Lezempilo Likazwelonke, WHO, UNAIDS"
+  }
+};
+function setLanguage(lang) {
+  if (!i18n[lang]) lang = 'en';
+  const dict = i18n[lang];
+  document.documentElement.lang = lang;
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.dataset.i18n;
+    if (dict[key] !== undefined) el.textContent = dict[key];
   });
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
+  try { localStorage.setItem('hivLang', lang); } catch (e) {}
+}
+document.querySelectorAll('.lang-btn').forEach(btn => {
+  btn.addEventListener('click', () => setLanguage(btn.dataset.lang));
+});
+let saved = 'en';
+try { saved = localStorage.getItem('hivLang') || 'en'; } catch (e) {}
+setLanguage(saved);
 </script>
 </body>
 </html>
