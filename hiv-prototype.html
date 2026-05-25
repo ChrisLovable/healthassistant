@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#B73E2D">
+<title>HIV — Community Health · South Africa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #FBF7F2;
+    --color-surface: #FFFFFF;
+    --color-text: #1F1B1A;
+    --color-text-soft: #5A4F4C;
+    --color-text-mute: #8B7E78;
+    --color-accent: #B73E2D;
+    --color-accent-soft: #F4DED9;
+    --color-accent-deep: #8C2D1F;
+    --color-accent-bright: #E25A45;
+    --color-emerald: #2E7D5B;
+    --color-emerald-soft: #DDEEE4;
+    --color-line: #E8DED4;
+    --color-line-strong: #D4C5B5;
+    --color-ink-on-dark: #FBF7F2;
+    --font-display: 'Fraunces', Georgia, serif;
+    --font-body: 'DM Sans', system-ui, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--font-body);
+    background: var(--color-bg);
+    color: var(--color-text);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+  .page {
+    max-width: 480px;
+    margin: 0 auto;
+    background: var(--color-bg);
+    min-height: 100vh;
+    position: relative;
+  }
+  .lang-bar {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(251, 247, 242, 0.92);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--color-line);
+    padding: 10px 20px;
+    display: flex;
+    gap: 4px;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .lang-bar .brand {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--color-text-soft);
+    letter-spacing: -0.01em;
+  }
+  .lang-buttons { display: flex; gap: 4px; }
+  .lang-btn {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 6px 10px;
+    border: 1px solid transparent;
+    background: transparent;
+    color: var(--color-text-soft);
+    border-radius: 6px;
+    cursor: pointer;
+    letter-spacing: 0.06em;
+    transition: all 0.2s;
+  }
+  .lang-btn.active {
+    background: var(--color-accent);
+    color: var(--color-ink-on-dark);
+  }
+  .lang-btn:not(.active):hover {
+    background: var(--color-accent-soft);
+    color: var(--color-accent-deep);
+  }
+  .hero {
+    padding: 36px 24px 32px;
+    border-bottom: 1px solid var(--color-line);
+    position: relative;
+    background: linear-gradient(180deg, rgba(244, 222, 217, 0.4) 0%, transparent 100%);
+  }
+  .ribbon-icon {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 18px;
+    color: var(--color-accent);
+  }
+  .disease-tag {
+    font-family: var(--font-body);
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .disease-tag::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--color-accent);
+    opacity: 0.3;
+  }
+  .disease-title {
+    font-family: var(--font-display);
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    color: var(--color-text);
+    margin-bottom: 14px;
+    font-variation-settings: "opsz" 120;
+  }
+  .disease-subtitle {
+    font-family: var(--font-display);
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+    color: var(--color-accent-deep);
+    margin-bottom: 22px;
+    font-variation-settings: "opsz" 14";
+  }
+  .disease-lede {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--color-text);
+    font-weight: 400;
+  }
+  section {
+    padding: 36px 24px;
+    border-bottom: 1px solid var(--color-line);
+  }
+  .section-label {
+    font-family: var(--font-body);
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-number {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: var(--color-accent);
+    color: var(--color-ink-on-dark);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+  .section-title {
+    font-family: var(--font-display);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.05;
+    margin-bottom: 16px;
+    letter-spacing: -0.02em;
+    color: var(--color-text);
+    font-variation-settings: "opsz" 36;
+  }
+  .section-intro {
+    font-size: 16px;
+    color: var(--color-text);
+    margin-bottom: 4px;
+    line-height: 1.6;
+  }
+  .key-facts {
+    background: var(--color-accent-soft);
+    border-radius: 14px;
+    padding: 22px;
+    margin-top: 18px;
+    border: 1px solid rgba(140, 45, 31, 0.08);
+  }
+  .key-facts ul { list-style: none; }
+  .key-facts li {
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(140, 45, 31, 0.12);
+    color: var(--color-accent-deep);
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    font-weight: 500;
+  }
+  .key-facts li:last-child { border-bottom: none; }
+  .key-facts li::before {
+    content: "";
+    flex-shrink: 0;
+    width: 6px;
+    height: 6px;
+    background: var(--color-accent);
+    border-radius: 50%;
+    margin-top: 9px;
+  }
+  .symptom-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 18px;
+  }
+  .symptom-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    padding: 14px 12px;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  .symptom-card:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-1px);
+  }
+  .symptom-icon {
+    font-size: 22px;
+    margin-bottom: 4px;
+    display: block;
+  }
+  .symptom-name {
+    font-size: 13.5px;
+    font-weight: 500;
+    color: var(--color-text);
+  }
+  .note {
+    font-size: 14px;
+    color: var(--color-text-soft);
+    font-style: italic;
+    margin-top: 18px;
+    padding: 14px 16px;
+    background: rgba(0,0,0,0.025);
+    border-radius: 10px;
+    border-left: 3px solid var(--color-line-strong);
+  }
+  .twocol {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin-top: 18px;
+  }
+  .twocol-card {
+    border-radius: 12px;
+    padding: 20px;
+    position: relative;
+  }
+  .twocol-card.spreads {
+    background: rgba(183, 62, 45, 0.06);
+    border: 1px solid rgba(183, 62, 45, 0.25);
+  }
+  .twocol-card.no-spread {
+    background: rgba(46, 125, 91, 0.06);
+    border: 1px solid rgba(46, 125, 91, 0.25);
+  }
+  .twocol-heading {
+    font-family: var(--font-body);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .spreads .twocol-heading { color: var(--color-accent); }
+  .no-spread .twocol-heading { color: var(--color-emerald); }
+  .twocol-card ul { list-style: none; }
+  .twocol-card li {
+    font-size: 14.5px;
+    padding: 6px 0;
+    color: var(--color-text);
+    line-height: 1.45;
+    display: flex;
+    gap: 8px;
+  }
+  .spreads li::before {
+    content: "✕";
+    color: var(--color-accent);
+    font-weight: 700;
+  }
+  .no-spread li::before {
+    content: "✓";
+    color: var(--color-emerald);
+    font-weight: 700;
+  }
+  .myth-list { display: flex; flex-direction: column; gap: 14px; margin-top: 18px; }
+  .myth-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .myth-row {
+    padding: 14px 18px;
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .myth-row.myth {
+    background: rgba(183, 62, 45, 0.04);
+    border-bottom: 1px solid var(--color-line);
+  }
+  .myth-tag {
+    font-family: var(--font-body);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    padding: 3px 8px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    line-height: 1.4;
+    margin-top: 2px;
+  }
+  .myth-row.myth .myth-tag {
+    background: var(--color-accent);
+    color: var(--color-ink-on-dark);
+  }
+  .myth-row.fact .myth-tag {
+    background: var(--color-emerald);
+    color: var(--color-ink-on-dark);
+  }
+  .myth-text {
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--color-text);
+    font-weight: 500;
+  }
+  .myth-row.myth .myth-text {
+    text-decoration: line-through;
+    text-decoration-color: var(--color-accent);
+    text-decoration-thickness: 1px;
+    color: var(--color-text-soft);
+  }
+  .action-box {
+    background: var(--color-text);
+    color: var(--color-ink-on-dark);
+    border-radius: 16px;
+    padding: 28px 24px;
+    margin: 22px 0 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .action-box::before {
+    content: "";
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    width: 140px;
+    height: 140px;
+    background: radial-gradient(circle, rgba(226, 90, 69, 0.3) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .action-box .section-label { color: var(--color-accent-bright); position: relative; }
+  .action-box .section-number { background: var(--color-accent); color: white; }
+  .action-box .section-title { color: var(--color-ink-on-dark); position: relative; }
+  .action-box ul { list-style: none; margin-top: 14px; position: relative; }
+  .action-box li {
+    padding: 12px 0;
+    font-size: 15px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    line-height: 1.5;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+  .action-box li:last-child { border-bottom: none; }
+  .action-box li::before {
+    content: "→";
+    color: var(--color-accent-bright);
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .prevention-list { list-style: none; margin-top: 16px; }
+  .prevention-list li {
+    padding: 14px 0;
+    border-bottom: 1px solid var(--color-line);
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .prevention-list li:last-child { border-bottom: none; }
+  .prevention-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    background: var(--color-emerald-soft);
+    color: var(--color-emerald);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-weight: 700;
+    font-size: 16px;
+  }
+  .prevention-content { flex: 1; }
+  .prevention-name {
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--color-text);
+    margin-bottom: 2px;
+  }
+  .prevention-detail {
+    font-size: 13.5px;
+    color: var(--color-text-soft);
+    line-height: 1.4;
+  }
+  .help-list { display: flex; flex-direction: column; gap: 10px; margin-top: 18px; }
+  .help-item {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 12px;
+    padding: 16px 18px;
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s;
+  }
+  .help-item:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(183, 62, 45, 0.08);
+  }
+  .help-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 10px;
+    background: var(--color-accent-soft);
+    color: var(--color-accent-deep);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 20px;
+  }
+  .help-content { flex: 1; }
+  .help-title {
+    font-weight: 600;
+    font-size: 15.5px;
+    margin-bottom: 2px;
+    color: var(--color-text);
+  }
+  .help-detail {
+    font-size: 13px;
+    color: var(--color-text-soft);
+  }
+  footer {
+    padding: 28px 24px 40px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--color-text-soft);
+    line-height: 1.6;
+  }
+  footer .brand {
+    font-family: var(--font-display);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 8px;
+    letter-spacing: -0.01em;
+  }
+  footer .footnote {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--color-line);
+    font-size: 11px;
+    color: var(--color-text-mute);
+  }
+  @media print {
+    .lang-bar { display: none; }
+    body { background: white; }
+    section { break-inside: avoid; }
+    .action-box { background: white; color: var(--color-text); border: 2px solid var(--color-text); }
+    .action-box .section-title { color: var(--color-text); }
+    .action-box li { border-color: rgba(0,0,0,0.1); color: var(--color-text); }
+  }
+  @media (min-width: 481px) {
+    .page {
+      border-left: 1px solid var(--color-line);
+      border-right: 1px solid var(--color-line);
+      box-shadow: 0 0 60px rgba(0,0,0,0.04);
+    }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="lang-bar">
+    <span class="brand">Community Health · SA</span>
+    <div class="lang-buttons">
+      <button class="lang-btn active" data-lang="en">EN</button>
+      <button class="lang-btn" data-lang="af">AF</button>
+      <button class="lang-btn" data-lang="zu">ZU</button>
+      <button class="lang-btn" data-lang="xh">XH</button>
+    </div>
+  </div>
+
+  <header class="hero">
+    <svg class="ribbon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 3L12 12L8 21L12 24L16 21L12 12L16 3L12 6L8 3Z" fill="currentColor" opacity="0.15"/>
+      <path d="M8 3L16 21"/>
+      <path d="M16 3L8 21"/>
+    </svg>
+    <div class="disease-tag">Disease No. 01 of 24</div>
+    <h1 class="disease-title">HIV</h1>
+    <p class="disease-subtitle">What you need to know.</p>
+    <p class="disease-lede">HIV is a virus that weakens your body's defence system. With treatment, you can live a long, healthy life — and you cannot pass it on.</p>
+  </header>
+
+  <section>
+    <div class="section-label"><span class="section-number">1</span> Three things to know</div>
+    <h2 class="section-title">Start here.</h2>
+    <div class="key-facts">
+      <ul>
+        <li>HIV is treatable. Treatment is free at every public clinic in South Africa.</li>
+        <li>If treatment makes your viral load undetectable, you cannot pass HIV to anyone — even without a condom. (U=U)</li>
+        <li>Anyone can have HIV. Testing is the only way to know. There is no shame in testing.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label"><span class="section-number">2</span> Signs to look for</div>
+    <h2 class="section-title">Early signs.</h2>
+    <p class="section-intro">Many people have no symptoms for years. Early signs — within weeks of infection — can include:</p>
+    <div class="symptom-grid">
+      <div class="symptom-card"><span class="symptom-icon">🌡️</span><div class="symptom-name">Fever</div></div>
+      <div class="symptom-card"><span class="symptom-icon">😴</span><div class="symptom-name">Tiredness</div></div>
+      <div class="symptom-card"><span class="symptom-icon">💪</span><div class="symptom-name">Body aches</div></div>
+      <div class="symptom-card"><span class="symptom-icon">🗣️</span><div class="symptom-name">Sore throat</div></div>
+      <div class="symptom-card"><span class="symptom-icon">🔴</span><div class="symptom-name">Skin rash</div></div>
+      <div class="symptom-card"><span class="symptom-icon">👤</span><div class="symptom-name">Swollen glands</div></div>
+    </div>
+    <p class="note">These signs can also come from other illnesses. Only a test can confirm HIV.</p>
+  </section>
+
+  <section>
+    <div class="section-label"><span class="section-number">3</span> How it spreads</div>
+    <h2 class="section-title">Know the facts.</h2>
+    <div class="twocol">
+      <div class="twocol-card spreads">
+        <div class="twocol-heading">HIV IS passed through</div>
+        <ul>
+          <li>Unprotected sex (vaginal, anal, or oral)</li>
+          <li>Sharing needles or syringes</li>
+          <li>Mother to baby (preventable with treatment)</li>
+        </ul>
+      </div>
+      <div class="twocol-card no-spread">
+        <div class="twocol-heading">HIV is NOT passed through</div>
+        <ul>
+          <li>Hugging, kissing, sharing food or drinks</li>
+          <li>Toilet seats or swimming pools</li>
+          <li>Mosquito or insect bites</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label"><span class="section-number">4</span> Myths vs Facts</div>
+    <h2 class="section-title">Don't believe the lies.</h2>
+    <div class="myth-list">
+      <div class="myth-card">
+        <div class="myth-row myth">
+          <span class="myth-tag">MYTH</span>
+          <div class="myth-text">HIV is a death sentence.</div>
+        </div>
+        <div class="myth-row fact">
+          <span class="myth-tag">FACT</span>
+          <div class="myth-text">With treatment, people with HIV live a normal lifespan. Treatment is free.</div>
+        </div>
+      </div>
+      <div class="myth-card">
+        <div class="myth-row myth">
+          <span class="myth-tag">MYTH</span>
+          <div class="myth-text">You can tell who has HIV by looking at them.</div>
+        </div>
+        <div class="myth-row fact">
+          <span class="myth-tag">FACT</span>
+          <div class="myth-text">You cannot. Most people with HIV look completely healthy. Only a test reveals HIV.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="action-box">
+      <div class="section-label"><span class="section-number">5</span> Take action</div>
+      <h2 class="section-title">Get tested.</h2>
+      <ul>
+        <li>Free testing at any public clinic — walk in any day.</li>
+        <li>Home test kits are at most pharmacies.</li>
+        <li>Test as often as you want. No appointment, no judgement.</li>
+        <li>If positive, treatment starts the same day at any clinic.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label"><span class="section-number">6</span> Prevention</div>
+    <h2 class="section-title">Stay HIV-free.</h2>
+    <ul class="prevention-list">
+      <li>
+        <div class="prevention-icon">C</div>
+        <div class="prevention-content">
+          <div class="prevention-name">Condoms</div>
+          <div class="prevention-detail">Free at every public clinic. Carry them.</div>
+        </div>
+      </li>
+      <li>
+        <div class="prevention-icon">P</div>
+        <div class="prevention-content">
+          <div class="prevention-name">PrEP</div>
+          <div class="prevention-detail">A daily pill that prevents HIV. Free at clinics.</div>
+        </div>
+      </li>
+      <li>
+        <div class="prevention-icon">E</div>
+        <div class="prevention-content">
+          <div class="prevention-name">PEP</div>
+          <div class="prevention-detail">Emergency pills within 72 hours of possible exposure.</div>
+        </div>
+      </li>
+      <li>
+        <div class="prevention-icon">S</div>
+        <div class="prevention-content">
+          <div class="prevention-name">Treat other STIs</div>
+          <div class="prevention-detail">They make HIV easier to catch and pass on.</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-label"><span class="section-number">7</span> Where to get help</div>
+    <h2 class="section-title">You are not alone.</h2>
+    <div class="help-list">
+      <a class="help-item" href="tel:0800012322">
+        <div class="help-icon">☎</div>
+        <div class="help-content">
+          <div class="help-title">AIDS Helpline</div>
+          <div class="help-detail">0800 012 322 · free · 24 hours</div>
+        </div>
+      </a>
+      <a class="help-item" href="https://www.lovelife.org.za" target="_blank" rel="noopener">
+        <div class="help-icon">♥</div>
+        <div class="help-content">
+          <div class="help-title">loveLife</div>
+          <div class="help-detail">Information &amp; support for young people</div>
+        </div>
+      </a>
+      <a class="help-item" href="https://www.bwisehealth.com" target="_blank" rel="noopener">
+        <div class="help-icon">i</div>
+        <div class="help-content">
+          <div class="help-title">B-Wise</div>
+          <div class="help-detail">Confidential health info for youth</div>
+        </div>
+      </a>
+      <div class="help-item">
+        <div class="help-icon">+</div>
+        <div class="help-content">
+          <div class="help-title">Your nearest clinic</div>
+          <div class="help-detail">Walk in any day. Testing is free.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="brand">Community Health · South Africa</div>
+    <div>General information only. For personal medical advice, speak to a healthcare worker.</div>
+    <div class="footnote">Last reviewed: May 2026 · Sources: SA National Department of Health, WHO, UNAIDS</div>
+  </footer>
+</div>
+<script>
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    });
+  });
+</script>
+</body>
+</html>
