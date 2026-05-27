@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#B73E2D">
+<title>Disease Selection · Community Health</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #FBF7F2;
+    --color-bg-deep: #F4ECE0;
+    --color-surface: #FFFFFF;
+    --color-text: #1F1B1A;
+    --color-text-soft: #5A4F4C;
+    --color-text-mute: #8B7E78;
+    --color-accent: #B73E2D;
+    --color-accent-soft: #F4DED9;
+    --color-accent-deep: #8C2D1F;
+    --color-accent-bright: #E25A45;
+    --color-emerald: #2E7D5B;
+    --color-emerald-soft: #DDEEE4;
+    --color-gold: #D4AF37;
+    --color-gold-soft: #F4E9C8;
+    --color-line: #E8DED4;
+    --color-ink-on-dark: #FBF7F2;
+    --color-ink-dark: #14110F;
+    --font-display: 'Fraunces', Georgia, serif;
+    --font-body: 'DM Sans', system-ui, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { overflow-x: hidden; max-width: 100%; }
+  body {
+    font-family: var(--font-body);
+    background: var(--color-bg);
+    color: var(--color-text);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+  .doc { max-width: 720px; margin: 0 auto; background: var(--color-bg); padding-bottom: 100px; overflow-x: hidden; }
+  @media (min-width: 721px) {
+    .doc {
+      border-left: 1px solid var(--color-line);
+      border-right: 1px solid var(--color-line);
+      box-shadow: 0 0 80px rgba(0,0,0,0.05);
+    }
+  }
+
+  /* MASTHEAD */
+  .masthead {
+    padding: 14px 18px 10px;
+    border-bottom: 2px solid var(--color-ink-dark);
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 10px; font-weight: 600; letter-spacing: 0.15em;
+    text-transform: uppercase; color: var(--color-text-soft);
+  }
+  .masthead .brand {
+    font-family: var(--font-display); font-style: italic; font-size: 13px;
+    letter-spacing: -0.01em; text-transform: none; color: var(--color-text);
+  }
+
+  /* HERO */
+  .hero { padding: 32px 18px 28px; border-bottom: 1px solid var(--color-line); position: relative; overflow: hidden; }
+  .hero::before {
+    content: ""; position: absolute; top: -80px; right: -80px;
+    width: 240px; height: 240px;
+    background: radial-gradient(circle, var(--color-accent-soft) 0%, transparent 70%);
+    opacity: 0.5; pointer-events: none;
+  }
+  .hero-kicker {
+    font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase;
+    color: var(--color-accent); margin-bottom: 16px;
+    display: flex; align-items: center; gap: 10px; position: relative;
+  }
+  .hero-kicker::after { content: ""; width: 40px; height: 1px; background: var(--color-accent); }
+  .hero h1 {
+    font-family: var(--font-display); font-size: 32px; line-height: 0.95;
+    letter-spacing: -0.025em; font-weight: 700; margin-bottom: 14px; position: relative;
+  }
+  .hero h1 em { font-style: italic; font-weight: 500; color: var(--color-accent); }
+  .hero p {
+    font-family: var(--font-display); font-size: 16px; line-height: 1.4;
+    color: var(--color-text-soft); font-weight: 500; max-width: 500px; position: relative;
+  }
+  @media (min-width: 600px) {
+    .hero { padding: 48px 28px 36px; }
+    .hero h1 { font-size: 44px; }
+    .hero p { font-size: 18px; }
+  }
+
+  /* COUNTER BAR */
+  .counter-bar {
+    position: sticky; top: 0; z-index: 50;
+    background: var(--color-ink-dark); color: var(--color-ink-on-dark);
+    padding: 12px 18px;
+    display: flex; justify-content: space-between; align-items: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  .counter-label {
+    font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--color-accent-bright);
+  }
+  .counter-value {
+    font-family: var(--font-display); font-size: 22px; font-weight: 600;
+    color: var(--color-ink-on-dark);
+  }
+  .counter-value em { color: var(--color-accent-bright); font-style: normal; }
+  .counter-action {
+    font-family: var(--font-body); font-size: 11px; font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    background: var(--color-accent); color: var(--color-ink-on-dark);
+    border: none; padding: 8px 14px; border-radius: 6px;
+    cursor: pointer; transition: all 0.15s;
+  }
+  .counter-action:hover { background: var(--color-accent-bright); }
+  .counter-action:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  /* INSTRUCTIONS */
+  .instructions {
+    background: var(--color-gold-soft);
+    border-left: 3px solid var(--color-gold);
+    padding: 18px;
+    margin: 24px 18px;
+    border-radius: 0 10px 10px 0;
+  }
+  .instructions h3 {
+    font-family: var(--font-display); font-size: 16px; font-weight: 600;
+    margin-bottom: 6px; color: var(--color-text);
+  }
+  .instructions p {
+    font-size: 13.5px; line-height: 1.55; color: var(--color-text);
+  }
+
+  /* SECTIONS */
+  section { padding: 24px 18px; }
+  @media (min-width: 600px) { section { padding: 32px 28px; } }
+
+  .section-h {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 600; line-height: 1.1;
+    letter-spacing: -0.02em; margin-bottom: 6px;
+  }
+  @media (min-width: 600px) { .section-h { font-size: 28px; } }
+
+  .section-sub {
+    font-size: 13px; color: var(--color-text-soft); margin-bottom: 18px;
+  }
+
+  .tier {
+    margin-bottom: 28px;
+  }
+  .tier-label {
+    font-size: 10px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase;
+    margin-bottom: 12px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .tier-label::after { content: ""; flex: 1; height: 1px; opacity: 0.3; }
+  .tier-1 .tier-label { color: var(--color-accent); }
+  .tier-1 .tier-label::after { background: var(--color-accent); }
+  .tier-2 .tier-label { color: var(--color-emerald); }
+  .tier-2 .tier-label::after { background: var(--color-emerald); }
+  .tier-3 .tier-label { color: var(--color-gold); }
+  .tier-3 .tier-label::after { background: var(--color-gold); opacity: 0.6; }
+  .tier-4 .tier-label { color: var(--color-text-soft); }
+  .tier-4 .tier-label::after { background: var(--color-text-soft); }
+  .tier-v2 .tier-label { color: var(--color-text-mute); }
+  .tier-v2 .tier-label::after { background: var(--color-text-mute); }
+
+  /* DISEASE ITEM */
+  .item {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+    display: flex; gap: 14px; align-items: flex-start;
+    position: relative;
+  }
+  .item:hover { border-color: var(--color-accent); }
+  .item:active { transform: scale(0.99); }
+  .item.selected {
+    background: var(--color-accent-soft);
+    border-color: var(--color-accent);
+  }
+
+  .checkbox {
+    width: 22px; height: 22px; border-radius: 6px;
+    border: 2px solid var(--color-line);
+    background: var(--color-surface);
+    flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s;
+    margin-top: 1px;
+  }
+  .item.selected .checkbox {
+    background: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+  .checkbox svg { width: 14px; height: 14px; color: white; opacity: 0; transition: opacity 0.15s; }
+  .item.selected .checkbox svg { opacity: 1; }
+
+  .item-content { flex: 1; min-width: 0; }
+  .item-head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 3px; flex-wrap: wrap; }
+  .item-num {
+    font-family: var(--font-display); font-size: 11px; font-weight: 600;
+    color: var(--color-text-mute); letter-spacing: 0.05em;
+  }
+  .item-name {
+    font-family: var(--font-display); font-size: 16px; font-weight: 600;
+    line-height: 1.2; letter-spacing: -0.01em; color: var(--color-text);
+  }
+  .item-desc {
+    font-size: 13px; line-height: 1.5; color: var(--color-text-soft);
+  }
+  @media (min-width: 600px) {
+    .item-name { font-size: 17px; }
+    .item-desc { font-size: 13.5px; }
+  }
+
+  /* V2 SECTION (alternates) */
+  .v2-section {
+    background: var(--color-bg-deep);
+    margin: 8px -18px 0;
+    padding: 28px 18px;
+    border-top: 1px solid var(--color-line);
+    border-bottom: 1px solid var(--color-line);
+  }
+  @media (min-width: 600px) { .v2-section { margin: 8px -28px 0; padding: 32px 28px; } }
+
+  /* CUSTOM ADD */
+  .custom-add {
+    background: var(--color-surface);
+    border: 1px dashed var(--color-line-strong, #D4C5B5);
+    border-radius: 10px;
+    padding: 16px;
+    margin-top: 20px;
+  }
+  .custom-add label {
+    font-size: 11px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase;
+    color: var(--color-text-soft); margin-bottom: 8px; display: block;
+  }
+  .custom-add textarea {
+    width: 100%; border: 1px solid var(--color-line); border-radius: 8px;
+    padding: 10px 12px; font-family: var(--font-body); font-size: 14px;
+    resize: vertical; min-height: 70px;
+    background: var(--color-bg);
+    color: var(--color-text);
+  }
+  .custom-add textarea:focus { outline: 2px solid var(--color-accent); outline-offset: -1px; }
+
+  /* SUBMIT AREA */
+  .submit-area {
+    background: var(--color-ink-dark); color: var(--color-ink-on-dark);
+    padding: 32px 18px; margin: 24px -18px 0;
+    border-radius: 0;
+    position: relative; overflow: hidden;
+  }
+  @media (min-width: 600px) { .submit-area { padding: 36px 28px; margin: 32px -28px 0; } }
+  .submit-area::before {
+    content: ""; position: absolute; bottom: -80px; left: -60px;
+    width: 280px; height: 280px;
+    background: radial-gradient(circle, var(--color-accent) 0%, transparent 60%);
+    opacity: 0.15; pointer-events: none;
+  }
+  .submit-area h3 {
+    font-family: var(--font-display); font-size: 22px; font-weight: 600;
+    margin-bottom: 8px; color: var(--color-ink-on-dark); position: relative;
+    letter-spacing: -0.02em;
+  }
+  @media (min-width: 600px) { .submit-area h3 { font-size: 26px; } }
+  .submit-area p {
+    color: rgba(251, 247, 242, 0.78); font-size: 14px; line-height: 1.55;
+    position: relative; margin-bottom: 22px;
+  }
+  .actions {
+    display: flex; gap: 10px; position: relative; flex-wrap: wrap;
+  }
+  .btn {
+    font-family: var(--font-body); font-size: 13px; font-weight: 600;
+    letter-spacing: 0.05em; padding: 14px 20px; border-radius: 10px;
+    border: none; cursor: pointer; transition: all 0.15s;
+    display: inline-flex; align-items: center; gap: 8px;
+  }
+  .btn-primary {
+    background: var(--color-accent); color: var(--color-ink-on-dark);
+    flex: 1; justify-content: center; min-width: 0;
+  }
+  .btn-primary:hover { background: var(--color-accent-bright); }
+  .btn-primary:disabled { background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.4); cursor: not-allowed; }
+  .btn-secondary {
+    background: transparent; color: var(--color-ink-on-dark);
+    border: 1px solid rgba(255,255,255,0.25);
+  }
+  .btn-secondary:hover { background: rgba(255,255,255,0.05); }
+
+  /* FOOTER */
+  footer.doc-footer {
+    padding: 24px 18px; text-align: center; font-size: 11px;
+    color: var(--color-text-mute); line-height: 1.6; letter-spacing: 0.05em;
+    background: var(--color-bg);
+  }
+  footer.doc-footer .brand {
+    font-family: var(--font-display); font-style: italic; font-size: 13px;
+    font-weight: 500; color: var(--color-text); margin-bottom: 6px;
+    text-transform: none; letter-spacing: -0.01em;
+  }
+
+  /* SELECTED SUMMARY (shown on submit) */
+  .summary-modal {
+    position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.6); display: none; align-items: center; justify-content: center;
+    z-index: 100; padding: 20px;
+  }
+  .summary-modal.open { display: flex; }
+  .summary-box {
+    background: var(--color-bg); border-radius: 14px; max-width: 480px; width: 100%;
+    max-height: 80vh; overflow-y: auto; padding: 24px;
+  }
+  .summary-box h2 {
+    font-family: var(--font-display); font-size: 22px; font-weight: 600;
+    margin-bottom: 6px; letter-spacing: -0.02em;
+  }
+  .summary-box .sub {
+    font-size: 13px; color: var(--color-text-soft); margin-bottom: 18px;
+  }
+  .summary-box ul { list-style: none; margin-bottom: 18px; }
+  .summary-box li {
+    padding: 8px 0; border-bottom: 1px solid var(--color-line);
+    font-size: 14px; display: flex; gap: 10px;
+  }
+  .summary-box li:last-child { border-bottom: none; }
+  .summary-box li .num {
+    font-family: var(--font-display); font-size: 11px; color: var(--color-text-mute);
+    min-width: 24px;
+  }
+  .summary-actions { display: flex; gap: 10px; margin-top: 12px; }
+  .summary-actions button { flex: 1; }
+  .summary-actions .btn-primary { background: var(--color-accent); color: white; }
+  .summary-actions .btn-secondary { background: transparent; border: 1px solid var(--color-line); color: var(--color-text); }
+</style>
+</head>
+<body>
+
+<div class="doc">
+
+  <header class="masthead">
+    <span class="brand">myAIpartner</span>
+    <span>Selection · May 2026</span>
+  </header>
+
+  <div class="hero">
+    <div class="hero-kicker">For your decision</div>
+    <h1>Which diseases should we <em>include?</em></h1>
+    <p>Twenty-four are recommended. Ten more are on the bench. Tap to select the ones you want in the launch set, add anything custom at the bottom, and send your selection.</p>
+  </div>
+
+  <div class="counter-bar">
+    <div>
+      <div class="counter-label">Selected</div>
+      <div class="counter-value"><em id="count">0</em> of <span id="total">34</span></div>
+    </div>
+    <button class="counter-action" id="send-top" disabled>Send selection</button>
+  </div>
+
+  <div class="instructions">
+    <h3>How to use this</h3>
+    <p>Tap any disease to select or deselect it. The counter at the top tracks your choices. When you're happy, tap <strong>Send selection</strong> at the bottom — it will open your email with your choices ready to send to Chris.</p>
+  </div>
+
+  <section>
+    <h2 class="section-h">Recommended core — the 24</h2>
+    <p class="section-sub">Curated to balance public-health priorities, mental health, screening, children's health, and everyday pharmacy concerns.</p>
+
+    <div class="tier tier-1">
+      <div class="tier-label">Tier 1 · Big public-health priorities</div>
+      <div class="item" data-num="01" data-name="HIV &amp; AIDS"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">01</span><span class="item-name">HIV &amp; AIDS</span></div><div class="item-desc">How to test, how treatment works, U=U messaging, free clinic access.</div></div></div>
+      <div class="item" data-num="02" data-name="Tuberculosis"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">02</span><span class="item-name">Tuberculosis</span></div><div class="item-desc">Symptoms, drug-resistant TB, free testing and treatment access.</div></div></div>
+      <div class="item" data-num="03" data-name="High Blood Pressure"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">03</span><span class="item-name">High Blood Pressure</span></div><div class="item-desc">Silent killer; when to check; lifestyle vs medication; reading the numbers.</div></div></div>
+      <div class="item" data-num="04" data-name="Diabetes (Type 2)"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">04</span><span class="item-name">Diabetes (Type 2)</span></div><div class="item-desc">Warning signs, when to test, sugar disease basics, managing daily.</div></div></div>
+      <div class="item" data-num="05" data-name="Stroke"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">05</span><span class="item-name">Stroke</span></div><div class="item-desc">FAST emergency signs; time-critical; what to do in the first minutes.</div></div></div>
+      <div class="item" data-num="06" data-name="Heart Attack"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">06</span><span class="item-name">Heart Attack</span></div><div class="item-desc">Chest pain vs other causes; when to call an ambulance; warning signs.</div></div></div>
+      <div class="item" data-num="07" data-name="Asthma"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">07</span><span class="item-name">Asthma</span></div><div class="item-desc">Triggers, inhaler use, daily management, when it's an emergency.</div></div></div>
+      <div class="item" data-num="08" data-name="Pneumonia"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">08</span><span class="item-name">Pneumonia</span></div><div class="item-desc">Symptoms in adults vs children; when to seek help; vaccines available.</div></div></div>
+    </div>
+
+    <div class="tier tier-2">
+      <div class="tier-label">Tier 2 · Mental health &amp; cancer screening</div>
+      <div class="item" data-num="09" data-name="Depression"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">09</span><span class="item-name">Depression</span></div><div class="item-desc">Signs vs sadness; getting help; treatment options; reducing stigma.</div></div></div>
+      <div class="item" data-num="10" data-name="Anxiety"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">10</span><span class="item-name">Anxiety</span></div><div class="item-desc">Common forms; when it's a disorder; what helps; when to seek support.</div></div></div>
+      <div class="item" data-num="11" data-name="Cervical Cancer &amp; HPV"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">11</span><span class="item-name">Cervical Cancer &amp; HPV</span></div><div class="item-desc">HPV vaccine info, screening schedule, prevention basics.</div></div></div>
+      <div class="item" data-num="12" data-name="Breast Cancer"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">12</span><span class="item-name">Breast Cancer</span></div><div class="item-desc">Self-exam, when to screen, family history, what to watch for.</div></div></div>
+      <div class="item" data-num="13" data-name="STIs"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">13</span><span class="item-name">STIs</span></div><div class="item-desc">Common types; symptoms; free testing and treatment at clinics.</div></div></div>
+    </div>
+
+    <div class="tier tier-3">
+      <div class="tier-label">Tier 3 · Children &amp; families</div>
+      <div class="item" data-num="14" data-name="Childhood Diarrhoea"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">14</span><span class="item-name">Childhood Diarrhoea</span></div><div class="item-desc">ORS recipe, dehydration signs, when to rush to clinic, prevention.</div></div></div>
+      <div class="item" data-num="15" data-name="Childhood Vaccinations"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">15</span><span class="item-name">Childhood Vaccinations</span></div><div class="item-desc">Full SA EPI schedule, what each vaccine prevents, where to get them.</div></div></div>
+    </div>
+
+    <div class="tier tier-4">
+      <div class="tier-label">Tier 4 · Everyday pharmacy concerns</div>
+      <div class="item" data-num="16" data-name="Acne"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">16</span><span class="item-name">Acne</span></div><div class="item-desc">Real causes (not dirt or chocolate); what works; when to see a doctor.</div></div></div>
+      <div class="item" data-num="17" data-name="Eczema &amp; Skin"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">17</span><span class="item-name">Eczema &amp; Skin</span></div><div class="item-desc">Triggers, daily care, when prescription cream is needed, fungal vs eczema.</div></div></div>
+      <div class="item" data-num="18" data-name="Headaches &amp; Migraines"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">18</span><span class="item-name">Headaches &amp; Migraines</span></div><div class="item-desc">Tension vs migraine; red flags; when over-the-counter isn't enough.</div></div></div>
+      <div class="item" data-num="19" data-name="Cold &amp; Flu"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">19</span><span class="item-name">Cold &amp; Flu</span></div><div class="item-desc">Knowing the difference; home care; why antibiotics aren't the answer.</div></div></div>
+      <div class="item" data-num="20" data-name="Allergies &amp; Hay Fever"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">20</span><span class="item-name">Allergies &amp; Hay Fever</span></div><div class="item-desc">Common triggers, OTC options, prescription alternatives, daily relief.</div></div></div>
+      <div class="item" data-num="21" data-name="Heartburn &amp; Reflux"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">21</span><span class="item-name">Heartburn &amp; Reflux</span></div><div class="item-desc">Causes, lifestyle changes, when it becomes a serious problem.</div></div></div>
+      <div class="item" data-num="22" data-name="Back Pain"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">22</span><span class="item-name">Back Pain</span></div><div class="item-desc">Posture, when to worry, exercises that help, when to see a doctor.</div></div></div>
+      <div class="item" data-num="23" data-name="UTIs"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">23</span><span class="item-name">UTIs</span></div><div class="item-desc">Symptoms, prevention, when antibiotics are needed, recurring UTIs.</div></div></div>
+      <div class="item" data-num="24" data-name="Sleep Problems"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">24</span><span class="item-name">Sleep Problems</span></div><div class="item-desc">Sleep hygiene basics, when it's a disorder, what actually helps.</div></div></div>
+    </div>
+  </section>
+
+  <div class="v2-section">
+    <section style="padding: 0;">
+      <h2 class="section-h">On the bench — 10 alternates</h2>
+      <p class="section-sub">Strong contenders you could swap into the launch set. Tap any to add them to your selection.</p>
+
+      <div class="tier tier-v2">
+        <div class="tier-label">Reserve list · consider swapping in</div>
+        <div class="item" data-num="25" data-name="Erectile Dysfunction &amp; Sexual Health"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">25</span><span class="item-name">Erectile Dysfunction</span></div><div class="item-desc">Very common, very taboo. QR codes are perfect for private inquiry.</div></div></div>
+        <div class="item" data-num="26" data-name="Menopause"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">26</span><span class="item-name">Menopause</span></div><div class="item-desc">Symptoms, what's normal, HRT options, daily management.</div></div></div>
+        <div class="item" data-num="27" data-name="Alcohol &amp; Substance Abuse"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">27</span><span class="item-name">Alcohol &amp; Substance Abuse</span></div><div class="item-desc">When use becomes a problem; help available; SA-specific resources.</div></div></div>
+        <div class="item" data-num="28" data-name="Prostate Health"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">28</span><span class="item-name">Prostate Health</span></div><div class="item-desc">Screening, BPH vs cancer, what men over 50 need to know.</div></div></div>
+        <div class="item" data-num="29" data-name="Contraception &amp; Family Planning"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">29</span><span class="item-name">Contraception</span></div><div class="item-desc">Options compared, pros and cons, where to get them free.</div></div></div>
+        <div class="item" data-num="30" data-name="Smoking &amp; Lung Health"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">30</span><span class="item-name">Smoking &amp; Lung Health</span></div><div class="item-desc">Quitting strategies, free programmes, COPD risk.</div></div></div>
+        <div class="item" data-num="31" data-name="Pregnancy &amp; Antenatal Care"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">31</span><span class="item-name">Pregnancy &amp; Antenatal Care</span></div><div class="item-desc">Antenatal visit schedule, warning signs, free SA clinic services.</div></div></div>
+        <div class="item" data-num="32" data-name="Hepatitis B"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">32</span><span class="item-name">Hepatitis B</span></div><div class="item-desc">Vaccine, transmission, testing, treatment access.</div></div></div>
+        <div class="item" data-num="33" data-name="Burns &amp; First Aid"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">33</span><span class="item-name">Burns &amp; First Aid</span></div><div class="item-desc">Cool water rule, when to go to ER, household burn basics.</div></div></div>
+        <div class="item" data-num="34" data-name="Snake &amp; Spider Bites"><div class="checkbox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg></div><div class="item-content"><div class="item-head"><span class="item-num">34</span><span class="item-name">Snake &amp; Spider Bites</span></div><div class="item-desc">SA-specific dangers, immediate action, antivenom info.</div></div></div>
+      </div>
+    </section>
+  </div>
+
+  <section>
+    <h2 class="section-h">Anything else?</h2>
+    <p class="section-sub">If there's a condition not on either list that's relevant to your customers, tell us here.</p>
+    <div class="custom-add">
+      <label for="custom">Custom additions</label>
+      <textarea id="custom" placeholder="e.g. Childhood asthma, dental health, malaria for our Limpopo branches…"></textarea>
+    </div>
+  </section>
+
+  <div class="submit-area">
+    <h3>Ready to send your selection?</h3>
+    <p>Tapping below will open your email app with your selection ready. Review and send when you're happy.</p>
+    <div class="actions">
+      <button class="btn btn-primary" id="send-bottom" disabled>Send selection to Chris</button>
+      <button class="btn btn-secondary" id="reset">Reset</button>
+    </div>
+  </div>
+
+  <footer class="doc-footer">
+    <div class="brand">A myAIpartner initiative</div>
+    Community Health · South Africa<br>
+    Selection form · May 2026
+  </footer>
+
+</div>
+
+<div class="summary-modal" id="modal">
+  <div class="summary-box">
+    <h2>Your selection</h2>
+    <div class="sub" id="summary-sub"></div>
+    <ul id="summary-list"></ul>
+    <div class="summary-actions">
+      <button class="btn btn-secondary" onclick="document.getElementById('modal').classList.remove('open')">Back</button>
+      <button class="btn btn-primary" id="confirm-send">Open email</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const items = document.querySelectorAll('.item');
+  const countEl = document.getElementById('count');
+  const totalEl = document.getElementById('total');
+  const sendTopBtn = document.getElementById('send-top');
+  const sendBottomBtn = document.getElementById('send-bottom');
+  const resetBtn = document.getElementById('reset');
+  const modal = document.getElementById('modal');
+  const summaryList = document.getElementById('summary-list');
+  const summarySub = document.getElementById('summary-sub');
+  const confirmSendBtn = document.getElementById('confirm-send');
+  const customEl = document.getElementById('custom');
+
+  totalEl.textContent = items.length;
+
+  function updateCount() {
+    const selected = document.querySelectorAll('.item.selected').length;
+    countEl.textContent = selected;
+    const disabled = selected === 0;
+    sendTopBtn.disabled = disabled;
+    sendBottomBtn.disabled = disabled;
+  }
+
+  items.forEach(item => {
+    item.addEventListener('click', () => {
+      item.classList.toggle('selected');
+      updateCount();
+    });
+  });
+
+  function buildSelection() {
+    const selected = Array.from(document.querySelectorAll('.item.selected'));
+    return selected.map(el => ({
+      num: el.dataset.num,
+      name: el.dataset.name.replace('&amp;', '&')
+    }));
+  }
+
+  function openModal() {
+    const sel = buildSelection();
+    summarySub.textContent = `${sel.length} disease${sel.length === 1 ? '' : 's'} selected for the launch set.`;
+    summaryList.innerHTML = sel.map(s =>
+      `<li><span class="num">${s.num}</span><span>${s.name}</span></li>`
+    ).join('');
+    const custom = customEl.value.trim();
+    if (custom) {
+      summaryList.innerHTML += `<li style="border-top:1px solid var(--color-line);margin-top:8px;padding-top:12px;"><span class="num" style="color:var(--color-accent);">+</span><span><strong>Custom additions:</strong><br>${custom.replace(/\n/g, '<br>')}</span></li>`;
+    }
+    modal.classList.add('open');
+  }
+
+  function sendEmail() {
+    const sel = buildSelection();
+    const subject = encodeURIComponent('Community Health — my disease selection');
+    let body = `Hi Chris,\n\nHere is my selection for the Community Health pitch — ${sel.length} disease${sel.length === 1 ? '' : 's'}:\n\n`;
+    sel.forEach(s => { body += `  ${s.num}. ${s.name}\n`; });
+    const custom = customEl.value.trim();
+    if (custom) {
+      body += `\nAdditional conditions to consider:\n${custom}\n`;
+    }
+    body += `\nLet's talk through next steps.\n\nThanks,`;
+    window.location.href = `mailto:chris@myaipartner.co.za?subject=${subject}&body=${encodeURIComponent(body)}`;
+  }
+
+  sendTopBtn.addEventListener('click', openModal);
+  sendBottomBtn.addEventListener('click', openModal);
+  confirmSendBtn.addEventListener('click', () => { modal.classList.remove('open'); sendEmail(); });
+  resetBtn.addEventListener('click', () => {
+    if (confirm('Clear all selections?')) {
+      items.forEach(i => i.classList.remove('selected'));
+      customEl.value = '';
+      updateCount();
+    }
+  });
+
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) modal.classList.remove('open');
+  });
+</script>
+</body>
+</html>

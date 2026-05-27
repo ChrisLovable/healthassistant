@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#B73E2D">
+<title>Community Health · A Mobile-First Initiative for South Africa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700;9..144,800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #FBF7F2;
+    --color-bg-deep: #F4ECE0;
+    --color-surface: #FFFFFF;
+    --color-text: #1F1B1A;
+    --color-text-soft: #5A4F4C;
+    --color-text-mute: #8B7E78;
+    --color-accent: #B73E2D;
+    --color-accent-soft: #F4DED9;
+    --color-accent-deep: #8C2D1F;
+    --color-accent-bright: #E25A45;
+    --color-emerald: #2E7D5B;
+    --color-emerald-soft: #DDEEE4;
+    --color-gold: #D4AF37;
+    --color-gold-soft: #F4E9C8;
+    --color-line: #E8DED4;
+    --color-line-strong: #D4C5B5;
+    --color-ink-on-dark: #FBF7F2;
+    --color-ink-dark: #14110F;
+    --font-display: 'Fraunces', Georgia, serif;
+    --font-body: 'DM Sans', system-ui, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: var(--font-body);
+    background: var(--color-bg);
+    color: var(--color-text);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+  .doc {
+    max-width: 720px;
+    margin: 0 auto;
+    background: var(--color-bg);
+  }
+  @media (min-width: 721px) {
+    .doc {
+      border-left: 1px solid var(--color-line);
+      border-right: 1px solid var(--color-line);
+      box-shadow: 0 0 80px rgba(0,0,0,0.05);
+    }
+  }
+
+  /* === MASTHEAD === */
+  .masthead {
+    padding: 20px 24px 14px;
+    border-bottom: 2px solid var(--color-ink-dark);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--color-text-soft);
+  }
+  .masthead .brand {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 14px;
+    letter-spacing: -0.01em;
+    text-transform: none;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+  .masthead .date {
+    font-feature-settings: "tnum" 1;
+  }
+
+  /* === HERO === */
+  .hero {
+    padding: 56px 24px 64px;
+    border-bottom: 1px solid var(--color-line);
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: "";
+    position: absolute;
+    top: -100px;
+    right: -100px;
+    width: 360px;
+    height: 360px;
+    background: radial-gradient(circle, var(--color-accent-soft) 0%, transparent 70%);
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  .hero-kicker {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .hero-kicker::after {
+    content: "";
+    width: 60px;
+    height: 1px;
+    background: var(--color-accent);
+  }
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(44px, 9vw, 72px);
+    line-height: 0.92;
+    letter-spacing: -0.035em;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-bottom: 24px;
+    font-variation-settings: "opsz" 144;
+    position: relative;
+  }
+  .hero h1 em {
+    font-style: italic;
+    font-weight: 500;
+    color: var(--color-accent);
+  }
+  .hero-lede {
+    font-family: var(--font-display);
+    font-size: clamp(19px, 3vw, 22px);
+    line-height: 1.4;
+    color: var(--color-text-soft);
+    font-weight: 500;
+    margin-bottom: 32px;
+    max-width: 520px;
+    position: relative;
+  }
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    padding-top: 28px;
+    border-top: 1px solid var(--color-line);
+    position: relative;
+  }
+  .hero-stat-num {
+    font-family: var(--font-display);
+    font-size: clamp(32px, 7vw, 44px);
+    font-weight: 700;
+    line-height: 1;
+    color: var(--color-text);
+    margin-bottom: 6px;
+    font-variation-settings: "opsz" 96;
+    letter-spacing: -0.02em;
+  }
+  .hero-stat-num em {
+    font-style: italic;
+    color: var(--color-accent);
+    font-weight: 500;
+  }
+  .hero-stat-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-text-soft);
+    line-height: 1.3;
+  }
+
+  /* === SECTIONS === */
+  section {
+    padding: 56px 24px;
+    border-bottom: 1px solid var(--color-line);
+  }
+  .section-num {
+    font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-accent);
+    letter-spacing: 0.05em;
+    margin-bottom: 8px;
+    font-variation-settings: "opsz" 14;
+  }
+  .section-kicker {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 14px;
+  }
+  .section-h {
+    font-family: var(--font-display);
+    font-size: clamp(34px, 6.5vw, 48px);
+    line-height: 1;
+    letter-spacing: -0.025em;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 24px;
+    font-variation-settings: "opsz" 96;
+  }
+  .section-h em {
+    font-style: italic;
+    color: var(--color-accent);
+    font-weight: 500;
+  }
+  .section-intro {
+    font-size: 17px;
+    line-height: 1.6;
+    color: var(--color-text);
+    max-width: 580px;
+    margin-bottom: 20px;
+  }
+  .section-intro.large {
+    font-family: var(--font-display);
+    font-size: 22px;
+    line-height: 1.45;
+    color: var(--color-text);
+    font-weight: 500;
+    font-variation-settings: "opsz" 28;
+  }
+  p { margin-bottom: 16px; }
+  p:last-child { margin-bottom: 0; }
+
+  /* === THE PROBLEM === */
+  .problem-quote {
+    font-family: var(--font-display);
+    font-size: clamp(28px, 5vw, 36px);
+    line-height: 1.15;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--color-text);
+    padding: 32px 0;
+    border-top: 1px solid var(--color-text);
+    border-bottom: 1px solid var(--color-text);
+    margin: 32px 0;
+    position: relative;
+    font-variation-settings: "opsz" 72;
+  }
+  .problem-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-top: 20px;
+  }
+  @media (max-width: 480px) {
+    .problem-grid { grid-template-columns: 1fr; }
+  }
+  .problem-stat {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 12px;
+    padding: 22px;
+  }
+  .problem-stat-num {
+    font-family: var(--font-display);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--color-accent);
+    margin-bottom: 8px;
+    font-variation-settings: "opsz" 60;
+    letter-spacing: -0.02em;
+  }
+  .problem-stat-desc {
+    font-size: 13.5px;
+    line-height: 1.45;
+    color: var(--color-text-soft);
+  }
+
+  /* === THE SOLUTION === */
+  .solution-steps {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-top: 28px;
+  }
+  .solution-step {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 16px;
+    padding: 24px;
+    position: relative;
+    display: flex;
+    gap: 18px;
+    align-items: flex-start;
+  }
+  .solution-step-num {
+    font-family: var(--font-display);
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 0.85;
+    color: var(--color-accent);
+    flex-shrink: 0;
+    width: 60px;
+    font-variation-settings: "opsz" 96;
+    letter-spacing: -0.03em;
+  }
+  .solution-step-content { flex: 1; }
+  .solution-step h3 {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.15;
+    margin-bottom: 6px;
+    color: var(--color-text);
+    font-variation-settings: "opsz" 28;
+  }
+  .solution-step p {
+    font-size: 14.5px;
+    color: var(--color-text-soft);
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+
+  /* === DISEASE GRID === */
+  .disease-tier {
+    margin-top: 32px;
+  }
+  .tier-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--color-text-soft);
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .tier-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--color-line);
+  }
+  .tier-1 .tier-label { color: var(--color-accent); }
+  .tier-1 .tier-label::after { background: var(--color-accent); opacity: 0.3; }
+  .tier-2 .tier-label { color: var(--color-emerald); }
+  .tier-2 .tier-label::after { background: var(--color-emerald); opacity: 0.3; }
+  .tier-3 .tier-label { color: var(--color-gold); }
+  .tier-3 .tier-label::after { background: var(--color-gold); opacity: 0.5; }
+  .tier-4 .tier-label { color: var(--color-text-soft); }
+
+  .disease-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  @media (min-width: 540px) {
+    .disease-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (min-width: 720px) {
+    .disease-grid { grid-template-columns: repeat(4, 1fr); }
+  }
+  .disease-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    padding: 14px 12px;
+    position: relative;
+    transition: all 0.2s;
+  }
+  .tier-1 .disease-card { border-color: rgba(183, 62, 45, 0.2); }
+  .tier-2 .disease-card { border-color: rgba(46, 125, 91, 0.2); }
+  .tier-3 .disease-card { border-color: rgba(212, 175, 55, 0.3); }
+  .disease-card-num {
+    font-family: var(--font-display);
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--color-text-mute);
+    margin-bottom: 4px;
+  }
+  .disease-card-name {
+    font-family: var(--font-display);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.15;
+    color: var(--color-text);
+    letter-spacing: -0.01em;
+    font-variation-settings: "opsz" 20;
+  }
+
+  /* === PHONE MOCKUP === */
+  .demo-wrapper {
+    background: linear-gradient(180deg, var(--color-bg-deep) 0%, var(--color-bg) 100%);
+    padding: 48px 24px;
+    margin: 32px -24px -56px;
+    border-top: 1px solid var(--color-line);
+    border-bottom: 1px solid var(--color-line);
+  }
+  .demo-title {
+    font-family: var(--font-display);
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 8px;
+    color: var(--color-text);
+  }
+  .demo-subtitle {
+    font-size: 13px;
+    color: var(--color-text-soft);
+    text-align: center;
+    margin-bottom: 32px;
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .phone-frame {
+    max-width: 320px;
+    margin: 0 auto;
+    background: var(--color-ink-dark);
+    border-radius: 36px;
+    padding: 10px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.18), 0 8px 20px rgba(0,0,0,0.08);
+    position: relative;
+  }
+  .phone-notch {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 110px;
+    height: 24px;
+    background: var(--color-ink-dark);
+    border-radius: 0 0 16px 16px;
+    z-index: 10;
+  }
+  .phone-screen {
+    background: var(--color-bg);
+    border-radius: 28px;
+    overflow: hidden;
+    height: 600px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    position: relative;
+  }
+  .phone-screen::-webkit-scrollbar { width: 0; }
+  .phone-screen { scrollbar-width: none; }
+
+  /* === Scoped HIV preview styles === */
+  .hiv-preview {
+    font-family: var(--font-body);
+    color: var(--color-text);
+    line-height: 1.55;
+  }
+  .hiv-preview .hp-lang {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: rgba(251, 247, 242, 0.92);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--color-line);
+    padding: 32px 16px 10px;
+    display: flex;
+    gap: 4px;
+    justify-content: flex-end;
+  }
+  .hiv-preview .hp-lang-btn {
+    font-family: var(--font-body);
+    font-size: 10px;
+    font-weight: 700;
+    padding: 4px 8px;
+    border: none;
+    background: transparent;
+    color: var(--color-text-soft);
+    border-radius: 4px;
+    letter-spacing: 0.06em;
+  }
+  .hiv-preview .hp-lang-btn.active {
+    background: var(--color-accent);
+    color: white;
+  }
+  .hiv-preview .hp-hero {
+    padding: 24px 18px;
+    border-bottom: 1px solid var(--color-line);
+    background: linear-gradient(180deg, var(--color-accent-soft) 0%, transparent 100%);
+  }
+  .hiv-preview .hp-ribbon {
+    width: 28px;
+    height: 28px;
+    color: var(--color-accent);
+    margin-bottom: 10px;
+  }
+  .hiv-preview .hp-tag {
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: var(--color-accent);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .hiv-preview .hp-title {
+    font-family: var(--font-display);
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 0.9;
+    letter-spacing: -0.03em;
+    margin-bottom: 8px;
+    font-variation-settings: "opsz" 96;
+  }
+  .hiv-preview .hp-sub {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 14px;
+    color: var(--color-accent-deep);
+    margin-bottom: 14px;
+  }
+  .hiv-preview .hp-lede {
+    font-size: 13.5px;
+    line-height: 1.5;
+  }
+  .hiv-preview .hp-sect {
+    padding: 22px 18px;
+    border-bottom: 1px solid var(--color-line);
+  }
+  .hiv-preview .hp-sect-label {
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: var(--color-accent);
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .hiv-preview .hp-num {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--color-accent);
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 9px;
+    letter-spacing: 0;
+  }
+  .hiv-preview .hp-sect-title {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin-bottom: 10px;
+  }
+  .hiv-preview .hp-facts {
+    background: var(--color-accent-soft);
+    border-radius: 10px;
+    padding: 14px;
+    margin-top: 10px;
+  }
+  .hiv-preview .hp-facts li {
+    font-size: 12px;
+    line-height: 1.45;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(140, 45, 31, 0.12);
+    color: var(--color-accent-deep);
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    font-weight: 500;
+  }
+  .hiv-preview .hp-facts li:last-child { border-bottom: none; }
+  .hiv-preview .hp-facts li::before {
+    content: "";
+    flex-shrink: 0;
+    width: 5px;
+    height: 5px;
+    background: var(--color-accent);
+    border-radius: 50%;
+    margin-top: 7px;
+  }
+  .hiv-preview .hp-symptoms {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    margin-top: 10px;
+  }
+  .hiv-preview .hp-sym-card {
+    background: white;
+    border: 1px solid var(--color-line);
+    border-radius: 8px;
+    padding: 10px 8px;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 500;
+  }
+  .hiv-preview .hp-sym-icon { font-size: 16px; display: block; margin-bottom: 2px; }
+  .hiv-preview .hp-intro { font-size: 12.5px; line-height: 1.45; margin-bottom: 4px; }
+  .hiv-preview .hp-note {
+    font-size: 11px;
+    color: var(--color-text-soft);
+    font-style: italic;
+    margin-top: 12px;
+    padding: 10px;
+    background: rgba(0,0,0,0.03);
+    border-radius: 6px;
+    border-left: 2px solid var(--color-line-strong);
+  }
+  .hiv-preview .hp-action {
+    background: var(--color-text);
+    color: var(--color-bg);
+    border-radius: 12px;
+    padding: 20px 16px;
+    margin: 16px 0 0;
+  }
+  .hiv-preview .hp-action .hp-sect-label { color: var(--color-accent-bright); }
+  .hiv-preview .hp-action .hp-sect-title { color: var(--color-bg); }
+  .hiv-preview .hp-action .hp-num { background: var(--color-accent); }
+  .hiv-preview .hp-action ul { list-style: none; margin-top: 8px; }
+  .hiv-preview .hp-action li {
+    padding: 8px 0;
+    font-size: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    display: flex; gap: 8px;
+    line-height: 1.4;
+  }
+  .hiv-preview .hp-action li:last-child { border-bottom: none; }
+  .hiv-preview .hp-action li::before { content: "→"; color: var(--color-accent-bright); font-weight: 700; }
+  .hiv-preview .hp-help {
+    background: white;
+    border: 1px solid var(--color-line);
+    border-radius: 10px;
+    padding: 12px;
+    margin-top: 8px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .hiv-preview .hp-help-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    background: var(--color-accent-soft);
+    color: var(--color-accent-deep);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+  .hiv-preview .hp-help-title { font-weight: 600; font-size: 12.5px; margin-bottom: 1px; }
+  .hiv-preview .hp-help-detail { font-size: 11px; color: var(--color-text-soft); }
+  .hiv-preview .hp-foot {
+    padding: 20px 18px 28px;
+    text-align: center;
+    font-size: 10px;
+    color: var(--color-text-soft);
+    line-height: 1.5;
+  }
+
+  /* === STAKEHOLDERS === */
+  .stakeholder-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin-top: 28px;
+  }
+  @media (min-width: 540px) {
+    .stakeholder-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  .stakeholder {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    padding: 22px;
+    position: relative;
+  }
+  .stakeholder-icon {
+    width: 44px;
+    height: 44px;
+    background: var(--color-accent-soft);
+    color: var(--color-accent-deep);
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    margin-bottom: 14px;
+  }
+  .stakeholder h4 {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    color: var(--color-text);
+    font-variation-settings: "opsz" 24;
+  }
+  .stakeholder p {
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--color-text-soft);
+    margin-bottom: 0;
+  }
+
+  /* === REVENUE STREAMS === */
+  .revenue-intro {
+    background: var(--color-ink-dark);
+    color: var(--color-ink-on-dark);
+    padding: 36px 28px;
+    border-radius: 18px;
+    margin-bottom: 32px;
+    position: relative;
+    overflow: hidden;
+  }
+  .revenue-intro::before {
+    content: "";
+    position: absolute;
+    top: -60px;
+    right: -60px;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, var(--color-accent) 0%, transparent 70%);
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  .revenue-intro .label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-accent-bright);
+    margin-bottom: 12px;
+    position: relative;
+  }
+  .revenue-intro h3 {
+    font-family: var(--font-display);
+    font-size: clamp(26px, 5vw, 32px);
+    line-height: 1.1;
+    font-weight: 600;
+    margin-bottom: 14px;
+    color: var(--color-ink-on-dark);
+    position: relative;
+    letter-spacing: -0.02em;
+  }
+  .revenue-intro p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: rgba(251, 247, 242, 0.78);
+    position: relative;
+    margin-bottom: 0;
+  }
+  .stream-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .stream {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 14px;
+    padding: 24px;
+    position: relative;
+    transition: all 0.2s;
+  }
+  .stream:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-1px);
+    box-shadow: 0 8px 24px rgba(183, 62, 45, 0.08);
+  }
+  .stream-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 10px;
+  }
+  .stream-num {
+    font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--color-accent);
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+    font-variation-settings: "opsz" 14;
+  }
+  .stream h4 {
+    font-family: var(--font-display);
+    font-size: clamp(20px, 3.5vw, 24px);
+    font-weight: 600;
+    line-height: 1.15;
+    color: var(--color-text);
+    margin-bottom: 8px;
+    letter-spacing: -0.015em;
+    font-variation-settings: "opsz" 28;
+  }
+  .stream-rand {
+    background: var(--color-emerald-soft);
+    color: var(--color-emerald);
+    font-family: var(--font-body);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 6px 12px;
+    border-radius: 100px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-top: 4px;
+  }
+  .stream p {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--color-text);
+    margin-bottom: 12px;
+  }
+  .stream ul {
+    list-style: none;
+    margin: 12px 0 0;
+    padding-top: 12px;
+    border-top: 1px solid var(--color-line);
+  }
+  .stream li {
+    font-size: 13.5px;
+    color: var(--color-text-soft);
+    padding: 4px 0;
+    line-height: 1.5;
+    padding-left: 18px;
+    position: relative;
+  }
+  .stream li::before {
+    content: "·";
+    position: absolute;
+    left: 6px;
+    color: var(--color-accent);
+    font-weight: 700;
+  }
+  .stream-target {
+    margin-top: 14px;
+    padding: 12px 14px;
+    background: var(--color-gold-soft);
+    border-radius: 8px;
+    font-size: 13px;
+    color: var(--color-text);
+    border-left: 3px solid var(--color-gold);
+  }
+  .stream-target strong {
+    color: var(--color-text);
+    font-weight: 700;
+  }
+
+  /* === BIG NUMBER === */
+  .revenue-summary {
+    background: var(--color-bg-deep);
+    border-radius: 18px;
+    padding: 36px 28px;
+    margin-top: 28px;
+    text-align: center;
+    border: 1px solid var(--color-line);
+  }
+  .revenue-summary .label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: 14px;
+  }
+  .revenue-summary .number {
+    font-family: var(--font-display);
+    font-size: clamp(48px, 11vw, 72px);
+    font-weight: 700;
+    line-height: 1;
+    color: var(--color-text);
+    letter-spacing: -0.03em;
+    margin-bottom: 10px;
+    font-variation-settings: "opsz" 144;
+  }
+  .revenue-summary .number em {
+    font-style: italic;
+    color: var(--color-accent);
+    font-weight: 500;
+  }
+  .revenue-summary .desc {
+    font-size: 14px;
+    color: var(--color-text-soft);
+    line-height: 1.55;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  /* === WHY NOW === */
+  .why-now-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-top: 28px;
+  }
+  @media (min-width: 540px) {
+    .why-now-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  .why-card {
+    border-left: 3px solid var(--color-accent);
+    padding: 6px 0 6px 20px;
+  }
+  .why-card h4 {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--color-text);
+    margin-bottom: 6px;
+    font-variation-settings: "opsz" 24;
+  }
+  .why-card p {
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--color-text-soft);
+    margin-bottom: 0;
+  }
+
+  /* === NEXT STEPS === */
+  .next-steps {
+    background: var(--color-ink-dark);
+    color: var(--color-ink-on-dark);
+    padding: 48px 28px;
+    border-radius: 0;
+    margin: 0 -24px -56px;
+    position: relative;
+    overflow: hidden;
+  }
+  .next-steps::before {
+    content: "";
+    position: absolute;
+    bottom: -150px;
+    left: -100px;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, var(--color-accent) 0%, transparent 60%);
+    opacity: 0.15;
+    pointer-events: none;
+  }
+  .next-steps .section-kicker { color: var(--color-accent-bright); position: relative; }
+  .next-steps .section-h { color: var(--color-ink-on-dark); position: relative; }
+  .next-steps .section-h em { color: var(--color-accent-bright); }
+  .next-steps p {
+    color: rgba(251, 247, 242, 0.78);
+    font-size: 16px;
+    line-height: 1.6;
+    position: relative;
+  }
+  .next-steps-list {
+    list-style: none;
+    margin: 28px 0 32px;
+    position: relative;
+  }
+  .next-steps-list li {
+    padding: 14px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--color-ink-on-dark);
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .next-steps-list li:last-child { border-bottom: none; }
+  .next-steps-list li::before {
+    content: "→";
+    color: var(--color-accent-bright);
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .contact-card {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 14px;
+    padding: 22px;
+    margin-top: 24px;
+    position: relative;
+  }
+  .contact-card .label {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--color-accent-bright);
+    margin-bottom: 8px;
+  }
+  .contact-name {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: var(--color-ink-on-dark);
+    letter-spacing: -0.015em;
+  }
+  .contact-role {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 14px;
+    color: rgba(251, 247, 242, 0.65);
+    margin-bottom: 16px;
+  }
+  .contact-links {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .contact-link {
+    color: var(--color-ink-on-dark);
+    text-decoration: none;
+    font-size: 14px;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .contact-link:last-child { border-bottom: none; }
+  .contact-link span {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--color-accent-bright);
+    text-transform: uppercase;
+    min-width: 60px;
+  }
+
+  footer.doc-footer {
+    padding: 28px 24px;
+    text-align: center;
+    font-size: 11px;
+    color: var(--color-text-mute);
+    line-height: 1.6;
+    letter-spacing: 0.05em;
+    background: var(--color-bg);
+  }
+  footer.doc-footer .brand {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-text);
+    margin-bottom: 6px;
+    text-transform: none;
+    letter-spacing: -0.01em;
+  }
+
+  /* === MOBILE-FIRST SAFETY === */
+  html, body { overflow-x: hidden; max-width: 100%; }
+  .doc { overflow-x: hidden; }
+  h1, h2, h3, h4, p, li, div { overflow-wrap: break-word; word-wrap: break-word; }
+
+  /* === MOBILE OVERRIDES (small phones) === */
+  @media (max-width: 480px) {
+    .masthead { padding: 14px 18px 10px; font-size: 10px; }
+    .masthead .brand { font-size: 13px; }
+
+    .hero { padding: 36px 20px 44px; }
+    .hero-kicker { font-size: 10px; margin-bottom: 18px; }
+    .hero h1 { font-size: 36px; line-height: 0.95; letter-spacing: -0.025em; }
+    .hero-lede { font-size: 16px; line-height: 1.45; margin-bottom: 26px; }
+    .hero-stats { gap: 10px; padding-top: 22px; }
+    .hero-stat-num { font-size: 26px; }
+    .hero-stat-label { font-size: 9.5px; letter-spacing: 0.1em; }
+
+    section { padding: 40px 20px; }
+    .section-kicker { font-size: 10px; margin-bottom: 12px; }
+    .section-h { font-size: 28px; line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 18px; }
+    .section-intro { font-size: 15px; line-height: 1.55; }
+    .section-intro.large { font-size: 18px; line-height: 1.4; }
+
+    .problem-quote { font-size: 22px; padding: 22px 0; margin: 22px 0; line-height: 1.2; }
+    .problem-stat { padding: 16px; border-radius: 10px; }
+    .problem-stat-num { font-size: 28px; }
+    .problem-stat-desc { font-size: 12.5px; }
+
+    .solution-step { padding: 18px; gap: 14px; border-radius: 12px; }
+    .solution-step-num { font-size: 42px; width: 46px; }
+    .solution-step h3 { font-size: 18px; }
+    .solution-step p { font-size: 13.5px; }
+
+    .tier-label { font-size: 10px; margin-bottom: 12px; }
+    .disease-grid { gap: 8px; }
+    .disease-card { padding: 12px 10px; border-radius: 8px; }
+    .disease-card-num { font-size: 10px; }
+    .disease-card-name { font-size: 14px; line-height: 1.1; }
+
+    .demo-wrapper { padding: 32px 16px; margin: 28px -20px -40px; }
+    .demo-title { font-size: 20px; }
+    .demo-subtitle { font-size: 12px; margin-bottom: 24px; }
+    .phone-frame { max-width: 280px; padding: 8px; border-radius: 32px; }
+    .phone-screen { height: 520px; border-radius: 24px; }
+    .phone-notch { width: 96px; height: 20px; }
+
+    .stakeholder { padding: 18px; border-radius: 12px; }
+    .stakeholder-icon { width: 40px; height: 40px; font-size: 20px; margin-bottom: 12px; }
+    .stakeholder h4 { font-size: 17px; }
+    .stakeholder p { font-size: 13px; line-height: 1.5; }
+
+    .revenue-intro { padding: 28px 20px; border-radius: 14px; margin-bottom: 24px; }
+    .revenue-intro .label { font-size: 10px; }
+    .revenue-intro h3 { font-size: 22px; line-height: 1.15; }
+    .revenue-intro p { font-size: 14px; line-height: 1.55; }
+
+    .stream { padding: 20px; border-radius: 12px; }
+    .stream-header { gap: 12px; }
+    .stream-num { font-size: 11px; }
+    .stream h4 { font-size: 19px; line-height: 1.15; }
+    .stream-rand { font-size: 10px; padding: 5px 10px; }
+    .stream p { font-size: 13.5px; line-height: 1.55; }
+    .stream li { font-size: 12.5px; }
+    .stream-target { font-size: 12.5px; padding: 10px 12px; }
+
+    .revenue-summary { padding: 28px 20px; border-radius: 14px; }
+    .revenue-summary .label { font-size: 10px; }
+    .revenue-summary .number { font-size: 44px; }
+    .revenue-summary .desc { font-size: 13px; }
+
+    .why-card { padding: 4px 0 4px 16px; }
+    .why-card h4 { font-size: 17px; }
+    .why-card p { font-size: 13px; line-height: 1.5; }
+
+    .next-steps { padding: 36px 20px; margin: 0 -20px -40px; }
+    .next-steps p { font-size: 14.5px; }
+    .next-steps-list li { font-size: 14px; padding: 12px 0; gap: 12px; }
+
+    .contact-card { padding: 18px; border-radius: 12px; }
+    .contact-name { font-size: 19px; }
+    .contact-role { font-size: 13px; margin-bottom: 14px; }
+    .contact-link { font-size: 13px; }
+    .contact-link span { font-size: 9px; min-width: 50px; }
+
+    footer.doc-footer { padding: 22px 20px; font-size: 10px; }
+  }
+
+  /* === VERY NARROW (Samsung Galaxy ~360px, older Android) === */
+  @media (max-width: 380px) {
+    .hero { padding: 32px 18px 40px; }
+    .hero h1 { font-size: 32px; }
+    .hero-lede { font-size: 15.5px; }
+    .hero-stats { gap: 8px; }
+    .hero-stat-num { font-size: 23px; }
+    .hero-stat-label { font-size: 9px; letter-spacing: 0.08em; }
+
+    section { padding: 36px 18px; }
+    .section-h { font-size: 25px; }
+    .section-intro.large { font-size: 17px; }
+
+    .problem-quote { font-size: 20px; }
+    .problem-stat-num { font-size: 26px; }
+
+    .demo-wrapper { padding: 28px 12px; margin: 24px -18px -36px; }
+    .phone-frame { max-width: 260px; }
+    .phone-screen { height: 480px; }
+
+    .revenue-intro h3 { font-size: 20px; }
+    .stream h4 { font-size: 18px; }
+    .revenue-summary .number { font-size: 40px; }
+
+    .next-steps { padding: 32px 18px; margin: 0 -18px -36px; }
+
+    .disease-grid { gap: 6px; }
+    .disease-card { padding: 10px 8px; }
+    .disease-card-name { font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+<div class="doc">
+
+  <header class="masthead">
+    <span class="brand">myAIpartner</span>
+    <span class="date">May 2026 · v1</span>
+  </header>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-kicker">A Proposal — Community Health</div>
+    <h1>Twenty-four diseases. Four languages. <em>One scan.</em></h1>
+    <p class="hero-lede">A poster-and-QR system that turns any pharmacy wall, clinic, or waiting room into a clinic-grade, multilingual health education hub — at zero cost to the person who scans it.</p>
+    <div class="hero-stats">
+      <div>
+        <div class="hero-stat-num">24</div>
+        <div class="hero-stat-label">Diseases<br>covered</div>
+      </div>
+      <div>
+        <div class="hero-stat-num">4</div>
+        <div class="hero-stat-label">Official SA<br>languages</div>
+      </div>
+      <div>
+        <div class="hero-stat-num"><em>1</em></div>
+        <div class="hero-stat-label">QR scan to<br>any answer</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- THE OPPORTUNITY -->
+  <section>
+    <div class="section-kicker">01 · The opportunity</div>
+    <h2 class="section-h">Information exists. <em>Access doesn't.</em></h2>
+    <p class="section-intro large">South Africa spends millions every year on health education that never reaches the people who need it most. Pamphlets pile up in clinic foyers. WhatsApp groups spread misinformation faster than truth. And the pharmacy — the most trusted, most accessible touchpoint in the system — is still handing out leaflets from 2015.</p>
+
+    <blockquote class="problem-quote">"Health information should travel at the speed of a smartphone — and arrive in the language someone actually speaks."</blockquote>
+
+    <div class="problem-grid">
+      <div class="problem-stat">
+        <div class="problem-stat-num">7.9M</div>
+        <div class="problem-stat-desc">South Africans living with HIV — the world's largest HIV programme</div>
+      </div>
+      <div class="problem-stat">
+        <div class="problem-stat-num">270k</div>
+        <div class="problem-stat-desc">New TB cases each year, with growing drug-resistance burden</div>
+      </div>
+      <div class="problem-stat">
+        <div class="problem-stat-num">1 in 3</div>
+        <div class="problem-stat-desc">SA adults living with high blood pressure — most undiagnosed</div>
+      </div>
+      <div class="problem-stat">
+        <div class="problem-stat-num">95%</div>
+        <div class="problem-stat-desc">Smartphone penetration in urban SA — the delivery channel is already there</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- THE PRODUCT -->
+  <section>
+    <div class="section-kicker">02 · The product</div>
+    <h2 class="section-h">A poster. A scan. <em>A page in your pocket.</em></h2>
+    <p class="section-intro">One A1 poster in every pharmacy, clinic, and waiting room. Twenty-four QR codes — one per disease. Scan it, and an instant mobile page loads in your chosen language. No app, no signup, no cost to the user. Ever.</p>
+
+    <div class="solution-steps">
+      <div class="solution-step">
+        <div class="solution-step-num">01</div>
+        <div class="solution-step-content">
+          <h3>The Poster</h3>
+          <p>A1 print, designed for the pharmacy main wall. 24 disease cards in a clean grid, each with an icon, name in four languages, and a high-contrast QR code that scans cleanly from two metres.</p>
+        </div>
+      </div>
+      <div class="solution-step">
+        <div class="solution-step-num">02</div>
+        <div class="solution-step-content">
+          <h3>The Scan</h3>
+          <p>Any modern phone scans the QR in seconds — no app required. The page loads in under one second on a 3G connection. Designed mobile-first from the ground up.</p>
+        </div>
+      </div>
+      <div class="solution-step">
+        <div class="solution-step-num">03</div>
+        <div class="solution-step-content">
+          <h3>The Page</h3>
+          <p>Plain-language disease information in English, Afrikaans, isiZulu, and isiXhosa. Symptoms, when to seek help, prevention, and tappable links to local clinics and helplines. Print-friendly. Share-friendly. Trustworthy.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- THE 24 DISEASES -->
+  <section>
+    <div class="section-kicker">03 · The 24</div>
+    <h2 class="section-h">A complete community <em>health library.</em></h2>
+    <p class="section-intro">Twelve big public-health priorities. Twelve everyday concerns. Together, they cover what South Africans actually need to know — from stroke warning signs to acne, depression to UTIs.</p>
+
+    <div class="disease-tier tier-1">
+      <div class="tier-label">Tier 1 · Public-health priorities</div>
+      <div class="disease-grid">
+        <div class="disease-card"><div class="disease-card-num">01</div><div class="disease-card-name">HIV &amp; AIDS</div></div>
+        <div class="disease-card"><div class="disease-card-num">02</div><div class="disease-card-name">Tuberculosis</div></div>
+        <div class="disease-card"><div class="disease-card-num">03</div><div class="disease-card-name">High Blood Pressure</div></div>
+        <div class="disease-card"><div class="disease-card-num">04</div><div class="disease-card-name">Diabetes</div></div>
+        <div class="disease-card"><div class="disease-card-num">05</div><div class="disease-card-name">Stroke</div></div>
+        <div class="disease-card"><div class="disease-card-num">06</div><div class="disease-card-name">Heart Attack</div></div>
+        <div class="disease-card"><div class="disease-card-num">07</div><div class="disease-card-name">Asthma</div></div>
+        <div class="disease-card"><div class="disease-card-num">08</div><div class="disease-card-name">Pneumonia</div></div>
+      </div>
+    </div>
+
+    <div class="disease-tier tier-2">
+      <div class="tier-label">Tier 2 · Mental health &amp; cancer screening</div>
+      <div class="disease-grid">
+        <div class="disease-card"><div class="disease-card-num">09</div><div class="disease-card-name">Depression</div></div>
+        <div class="disease-card"><div class="disease-card-num">10</div><div class="disease-card-name">Anxiety</div></div>
+        <div class="disease-card"><div class="disease-card-num">11</div><div class="disease-card-name">Cervical Cancer &amp; HPV</div></div>
+        <div class="disease-card"><div class="disease-card-num">12</div><div class="disease-card-name">Breast Cancer</div></div>
+        <div class="disease-card"><div class="disease-card-num">13</div><div class="disease-card-name">STIs</div></div>
+      </div>
+    </div>
+
+    <div class="disease-tier tier-3">
+      <div class="tier-label">Tier 3 · Children &amp; families</div>
+      <div class="disease-grid">
+        <div class="disease-card"><div class="disease-card-num">14</div><div class="disease-card-name">Childhood Diarrhoea</div></div>
+        <div class="disease-card"><div class="disease-card-num">15</div><div class="disease-card-name">Childhood Vaccinations</div></div>
+      </div>
+    </div>
+
+    <div class="disease-tier tier-4">
+      <div class="tier-label">Tier 4 · Everyday concerns</div>
+      <div class="disease-grid">
+        <div class="disease-card"><div class="disease-card-num">16</div><div class="disease-card-name">Acne</div></div>
+        <div class="disease-card"><div class="disease-card-num">17</div><div class="disease-card-name">Eczema &amp; Skin</div></div>
+        <div class="disease-card"><div class="disease-card-num">18</div><div class="disease-card-name">Headaches &amp; Migraines</div></div>
+        <div class="disease-card"><div class="disease-card-num">19</div><div class="disease-card-name">Cold &amp; Flu</div></div>
+        <div class="disease-card"><div class="disease-card-num">20</div><div class="disease-card-name">Allergies &amp; Hay Fever</div></div>
+        <div class="disease-card"><div class="disease-card-num">21</div><div class="disease-card-name">Heartburn &amp; Reflux</div></div>
+        <div class="disease-card"><div class="disease-card-num">22</div><div class="disease-card-name">Back Pain</div></div>
+        <div class="disease-card"><div class="disease-card-num">23</div><div class="disease-card-name">UTIs</div></div>
+        <div class="disease-card"><div class="disease-card-num">24</div><div class="disease-card-name">Sleep Problems</div></div>
+      </div>
+    </div>
+
+    <div class="demo-wrapper">
+      <div class="demo-title">See it in action</div>
+      <div class="demo-subtitle">An example: scanning the HIV QR code on the poster. Scroll inside the phone to explore.</div>
+      <div class="phone-frame">
+        <div class="phone-notch"></div>
+        <div class="phone-screen">
+          <div class="hiv-preview">
+            <div class="hp-lang">
+              <button class="hp-lang-btn active">EN</button>
+              <button class="hp-lang-btn">AF</button>
+              <button class="hp-lang-btn">ZU</button>
+              <button class="hp-lang-btn">XH</button>
+            </div>
+            <div class="hp-hero">
+              <svg class="hp-ribbon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M8 3L12 12L8 21L12 24L16 21L12 12L16 3L12 6L8 3Z" fill="currentColor" opacity="0.15"/>
+                <path d="M8 3L16 21"/><path d="M16 3L8 21"/>
+              </svg>
+              <div class="hp-tag">Disease No. 01 of 24</div>
+              <h1 class="hp-title">HIV</h1>
+              <p class="hp-sub">What you need to know.</p>
+              <p class="hp-lede">HIV is a virus that weakens your body's defence system. With treatment, you can live a long, healthy life — and you cannot pass it on.</p>
+            </div>
+            <div class="hp-sect">
+              <div class="hp-sect-label"><span class="hp-num">1</span> Three things to know</div>
+              <h2 class="hp-sect-title">Start here.</h2>
+              <div class="hp-facts">
+                <ul style="list-style:none;margin:0;padding:0;">
+                  <li>HIV is treatable. Treatment is free at every public clinic.</li>
+                  <li>If your viral load is undetectable, you cannot pass HIV to anyone. (U=U)</li>
+                  <li>Anyone can have HIV. Testing is the only way to know.</li>
+                </ul>
+              </div>
+            </div>
+            <div class="hp-sect">
+              <div class="hp-sect-label"><span class="hp-num">2</span> Signs to look for</div>
+              <h2 class="hp-sect-title">Early signs.</h2>
+              <p class="hp-intro">Many people have no symptoms for years. Early signs can include:</p>
+              <div class="hp-symptoms">
+                <div class="hp-sym-card"><span class="hp-sym-icon">🌡️</span>Fever</div>
+                <div class="hp-sym-card"><span class="hp-sym-icon">😴</span>Tiredness</div>
+                <div class="hp-sym-card"><span class="hp-sym-icon">💪</span>Body aches</div>
+                <div class="hp-sym-card"><span class="hp-sym-icon">🗣️</span>Sore throat</div>
+                <div class="hp-sym-card"><span class="hp-sym-icon">🔴</span>Skin rash</div>
+                <div class="hp-sym-card"><span class="hp-sym-icon">👤</span>Swollen glands</div>
+              </div>
+              <p class="hp-note">These signs can also come from other illnesses. Only a test can confirm HIV.</p>
+            </div>
+            <div class="hp-sect" style="background:transparent;">
+              <div class="hp-action">
+                <div class="hp-sect-label"><span class="hp-num">5</span> Take action</div>
+                <h2 class="hp-sect-title">Get tested.</h2>
+                <ul>
+                  <li>Free testing at any public clinic — walk in any day.</li>
+                  <li>Home test kits at most pharmacies.</li>
+                  <li>If positive, treatment starts the same day.</li>
+                </ul>
+              </div>
+            </div>
+            <div class="hp-sect">
+              <div class="hp-sect-label"><span class="hp-num">7</span> Where to get help</div>
+              <h2 class="hp-sect-title">You are not alone.</h2>
+              <div class="hp-help">
+                <div class="hp-help-icon">☎</div>
+                <div>
+                  <div class="hp-help-title">AIDS Helpline</div>
+                  <div class="hp-help-detail">0800 012 322 · free · 24 hours</div>
+                </div>
+              </div>
+              <div class="hp-help">
+                <div class="hp-help-icon">♥</div>
+                <div>
+                  <div class="hp-help-title">loveLife</div>
+                  <div class="hp-help-detail">Info &amp; support for young people</div>
+                </div>
+              </div>
+            </div>
+            <div class="hp-foot">
+              <em style="font-family:'Fraunces',serif;font-weight:600;color:var(--color-text);font-size:12px;">Community Health · South Africa</em><br>
+              General information only. Last reviewed: May 2026.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHO USES IT -->
+  <section>
+    <div class="section-kicker">04 · Who uses it</div>
+    <h2 class="section-h">Built for <em>everyone</em> in the room.</h2>
+    <p class="section-intro">From the customer who walked in for a paracetamol, to the pharmacist who needs a tool to engage, to the GP whose waiting room has been silent for fifteen minutes. Every stakeholder gets something.</p>
+
+    <div class="stakeholder-grid">
+      <div class="stakeholder">
+        <div class="stakeholder-icon">👤</div>
+        <h4>The community member</h4>
+        <p>Walks in to buy something else. Sees the poster. Scans for what they're curious about. Leaves with answers in their language — and knows where to go next.</p>
+      </div>
+      <div class="stakeholder">
+        <div class="stakeholder-icon">💊</div>
+        <h4>The pharmacist</h4>
+        <p>Has a credible tool to recommend. Reduces time spent answering basic questions. Drives meaningful consultations. Customers see the pharmacy as a health partner, not just a till point.</p>
+      </div>
+      <div class="stakeholder">
+        <div class="stakeholder-icon">🏥</div>
+        <h4>The clinic &amp; GP practice</h4>
+        <p>Waiting room becomes useful. Patients arrive better informed. Less time spent on basic education means more time on actual care. Practice branding can be added.</p>
+      </div>
+      <div class="stakeholder">
+        <div class="stakeholder-icon">🏢</div>
+        <h4>The corporate &amp; community</h4>
+        <p>Mines, factories, schools, taxi ranks, churches — anywhere foot traffic and health questions overlap. A low-friction wellness intervention with measurable engagement.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVENUE STREAMS -->
+  <section>
+    <div class="section-kicker">05 · The business model</div>
+    <h2 class="section-h">Ten ways to <em>make money</em> — without charging the user.</h2>
+    <p class="section-intro">The user never pays. They scan, they read, they act. The revenue comes from the stakeholders who benefit when that happens.</p>
+
+    <div class="revenue-intro">
+      <div class="label">The principle</div>
+      <h3>Health education people actually use is a media asset.</h3>
+      <p>If you can put accurate, multilingual disease information in front of a measurable audience — pharmacy customers, clinic patients, employees — that audience has value to pharma companies, pharmacy chains, medical aids, the state, and donors. The trick is keeping the user's experience clean, evidence-based, and free of pressure. Below: ten paths to revenue, in rough order of contract size.</p>
+    </div>
+
+    <div class="stream-list">
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 01</div>
+            <h4>Public-sector tender (Department of Health)</h4>
+          </div>
+          <div class="stream-rand">R5M – R20M</div>
+        </div>
+        <p>National or Provincial Department of Health rollout to public clinics. South Africa has roughly 3,500 public clinics — at even partial coverage this is a multi-million Rand multi-year contract. Aligns with NDoH priorities on HIV, TB, hypertension, diabetes, and cervical cancer.</p>
+        <ul>
+          <li>Sells to: NDoH, provincial health departments, district health offices</li>
+          <li>Contract type: tender (multi-year)</li>
+          <li>Differentiator: built-in multilingual support; mobile-first; measurable QR scan analytics</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 1 provincial pilot (e.g. Western Cape or Gauteng) at ~R3M</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 02</div>
+            <h4>Pharmacy chain partnership</h4>
+          </div>
+          <div class="stream-rand">R200k – R500k per chain p.a.</div>
+        </div>
+        <p>Dischem, Clicks, Mediwell, Alpha Pharm, Local Choice. Co-branded posters ("Powered by Dischem"). Custom branded landing pages. Real-time engagement data from QR scans — which conditions, which stores, which times. For a pharmacy chain, this is both customer engagement and market intelligence.</p>
+        <ul>
+          <li>Sells to: Group marketing &amp; CSR teams of large chains</li>
+          <li>Pricing model: annual licence with exclusive category territory</li>
+          <li>Bonus revenue: branded analytics dashboard upsell</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 2 anchor chains = R600k–R1M</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 03</div>
+            <h4>Pharmaceutical company module sponsorship</h4>
+          </div>
+          <div class="stream-rand">R30k – R100k per module p.a.</div>
+        </div>
+        <p>Each disease module can be sponsored by a relevant pharma company. Sanofi (diabetes), GSK (HIV, asthma), Aspen (cardiology), Cipla (respiratory), Adcock Ingram (general). A small, tasteful "Information module supported by …" line in the footer. Content remains independent and evidence-based — sponsors do not edit copy.</p>
+        <ul>
+          <li>Sells to: Brand managers in pharma SA arms — patient education and CSR budgets</li>
+          <li>Pricing model: per-disease annual sponsorship</li>
+          <li>Compliance: SAHPRA-aligned; non-promotional content only</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 8 of 24 modules sponsored at R50k avg = R400k</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 04</div>
+            <h4>Independent pharmacy subscription</h4>
+          </div>
+          <div class="stream-rand">R500 – R1,500 / month</div>
+        </div>
+        <p>Roughly 3,500 community pharmacies in SA outside the major chains. They want professional patient-engagement tools but can't afford bespoke design. Monthly subscription gets them a printed A1 poster (replaced quarterly), custom local clinic listings on the disease pages, and their pharmacy's contact info in the footer of every disease page.</p>
+        <ul>
+          <li>Sells to: Independent owner-pharmacists, group practices</li>
+          <li>Pricing model: SaaS-style monthly with annual discount</li>
+          <li>Recurring revenue: high — predictable monthly cash flow</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 500 pharmacies at R1,000 avg = R500k/month (R6M ARR)</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 05</div>
+            <h4>Doctor &amp; GP practice subscription</h4>
+          </div>
+          <div class="stream-rand">R300 – R800 / month</div>
+        </div>
+        <p>Patient education in the waiting room. Custom branded version with the practice's logo, custom helpline (e.g. after-hours number), and a smaller in-room poster (A3) sized for medical rooms. Saves the GP repeating basic education and positions the practice as patient-friendly.</p>
+        <ul>
+          <li>Sells to: GPs, group practices, specialist rooms, dentists, optometrists</li>
+          <li>Variants: A3 waiting-room poster; A4 consulting-room poster</li>
+          <li>Cross-sell: branded handout sheets per condition</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 200 practices at R500 = R100k/month (R1.2M ARR)</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 06</div>
+            <h4>Medical aid &amp; insurer partnership</h4>
+          </div>
+          <div class="stream-rand">R1M – R3M per scheme p.a.</div>
+        </div>
+        <p>Discovery, Momentum, Bonitas, Bestmed, Medshield. Member education reduces downstream claims — every undiagnosed hypertension or untreated UTI becomes an expensive admission later. Medical schemes co-sponsor or fully subsidise distribution to their preferred network providers; the scheme's logo appears on partner pharmacy posters.</p>
+        <ul>
+          <li>Sells to: Wellness &amp; member-engagement teams at medical schemes</li>
+          <li>Value prop: reduces avoidable claims; satisfies CMS member-education obligations</li>
+          <li>Pricing model: annual partnership with measurable engagement KPIs</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 1 scheme partnership at R1.5M</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 07</div>
+            <h4>Corporate wellness programmes</h4>
+          </div>
+          <div class="stream-rand">R10k – R50k per company p.a.</div>
+        </div>
+        <p>Mines (Anglo American, Sibanye, Harmony), manufacturing, retail, BPO call centres, financial services. Posters in staff canteens, change rooms, training centres. HIV and TB are still mining-industry priorities; mental health is now everyone's. Comes with employee-engagement analytics — which conditions get the most scans, where, when.</p>
+        <ul>
+          <li>Sells to: HR / wellness leads at large employers, mine occupational-health units</li>
+          <li>Pricing model: annual licence based on headcount</li>
+          <li>Bundle: site visits, on-site activations, branded mini-posters per department</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 20 companies at R20k avg = R400k</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 08</div>
+            <h4>Donor &amp; NGO grants</h4>
+          </div>
+          <div class="stream-rand">R500k – R5M per grant</div>
+        </div>
+        <p>Bill &amp; Melinda Gates Foundation, USAID/PEPFAR, Global Fund (HIV/TB), ELMA Foundation, RAITH Foundation. Earmarked grants for specific disease modules — HIV, TB, child health, mental health. Donors fund development, translation, and distribution at scale; the project gains independence and credibility.</p>
+        <ul>
+          <li>Sells to: Programme officers at major health funders</li>
+          <li>Pricing model: project-based grants (typically 12–36 months)</li>
+          <li>Required: clear M&amp;E framework, scan analytics, impact reporting</li>
+        </ul>
+        <div class="stream-target"><strong>Year 1 target:</strong> 1 grant at R1M</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 09</div>
+            <h4>Anonymised engagement data</h4>
+          </div>
+          <div class="stream-rand">R200k – R1M per partnership</div>
+        </div>
+        <p>Once the network reaches scale, the aggregate of which diseases get scanned — by region, hour, season — becomes a real-time public-health intelligence feed. Anonymised, never personal. Of interest to pharma market research, government health planning, academic epidemiology, and journalists. Sold by subscription or per-report.</p>
+        <ul>
+          <li>Sells to: Pharma market-research teams, NDoH, university health systems research</li>
+          <li>Critical: POPIA-compliant, fully anonymised, transparent methodology</li>
+          <li>Timing: requires 12+ months of scale before commercially valuable</li>
+        </ul>
+        <div class="stream-target"><strong>Year 2+:</strong> Revenue unlocks once network reaches ~500 active locations</div>
+      </div>
+
+      <div class="stream">
+        <div class="stream-header">
+          <div>
+            <div class="stream-num">Stream 10</div>
+            <h4>Consumer premium app (long-term)</h4>
+          </div>
+          <div class="stream-rand">R29 / month per user</div>
+        </div>
+        <p>Out of the 24 disease pages eventually emerges a personal health-tracker app: screening reminders, vaccination schedules, medication compliance, "ask a pharmacist" feature. The free disease pages are the top of funnel; the premium app is the conversion. Long-term play, but the audience is already there.</p>
+        <ul>
+          <li>Sells to: Engaged users of the disease pages</li>
+          <li>Pricing model: freemium with R29/month premium tier</li>
+          <li>Timing: build after Year 2 once core network is established</li>
+        </ul>
+        <div class="stream-target"><strong>Year 3+:</strong> 10,000 paying users = R290k/month (R3.5M ARR)</div>
+      </div>
+
+    </div>
+
+    <div class="revenue-summary">
+      <div class="label">Realistic Year 1 blended target</div>
+      <div class="number">R<em>5M</em> – R12M</div>
+      <div class="desc">Across 3–4 active streams in the first 12 months. Year 2 unlocks: data, donor grants, medical aid partnerships. Year 3+: scaled to R20M+ ARR with consumer app layer.</div>
+    </div>
+  </section>
+
+  <!-- WHY NOW -->
+  <section>
+    <div class="section-kicker">06 · Why now</div>
+    <h2 class="section-h">The conditions <em>are right.</em></h2>
+
+    <div class="why-now-grid">
+      <div class="why-card">
+        <h4>QR codes are mainstream</h4>
+        <p>Five years ago, scanning a QR code required an app. Post-COVID, every smartphone camera does it natively. The friction is gone.</p>
+      </div>
+      <div class="why-card">
+        <h4>Smartphones reach further than the state</h4>
+        <p>95% of urban SA has a smartphone. Public clinics serve 71% of the population — but only 30% have functional patient-education programmes.</p>
+      </div>
+      <div class="why-card">
+        <h4>WhatsApp is the OS of South Africa</h4>
+        <p>Disease pages are share-link-friendly. A daughter scans it in a Cape Town pharmacy and sends it to her mom in Limpopo within 30 seconds.</p>
+      </div>
+      <div class="why-card">
+        <h4>The misinformation problem is now mainstream</h4>
+        <p>Vaccine hesitancy, HIV stigma, mental health myths. Trusted, accurate, plain-language sources have never been more valuable.</p>
+      </div>
+      <div class="why-card">
+        <h4>Multi-language is non-negotiable</h4>
+        <p>Existing health-information sites are nearly all English-only. A four-language launch is an immediate differentiator and a moat.</p>
+      </div>
+      <div class="why-card">
+        <h4>Pharma is under pressure to show value</h4>
+        <p>Patient-education investment is increasingly required by regulators and reputation-watchers. Disease-module sponsorship is the cleanest fit.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEXT STEPS -->
+  <section style="border-bottom: none; padding-bottom: 0;">
+    <div class="next-steps">
+      <div class="section-kicker">07 · The ask</div>
+      <h2 class="section-h">Let's <em>run a pilot.</em></h2>
+      <p>The strongest proof is a 90-day pilot in 20–50 locations. Real foot traffic, real scan analytics, real engagement data. That is the conversation we want to have first.</p>
+
+      <ul class="next-steps-list">
+        <li><strong style="color:var(--color-ink-on-dark);">Month 1:</strong> Design refinement, content lock for 24 diseases in 4 languages, print run, location partnerships signed.</li>
+        <li><strong style="color:var(--color-ink-on-dark);">Month 2:</strong> Live deployment, daily analytics, weekly stakeholder review. Real-time iteration.</li>
+        <li><strong style="color:var(--color-ink-on-dark);">Month 3:</strong> Impact report — scans by disease, by location, by time. Hand-off to scale or pivot.</li>
+      </ul>
+
+      <div class="contact-card">
+        <div class="label">Initiative lead</div>
+        <div class="contact-name">Chris de Vries</div>
+        <div class="contact-role">Founder, myAIpartner · Cape Town</div>
+        <div class="contact-links">
+          <a class="contact-link" href="https://www.myaipartner.co.za" target="_blank" rel="noopener"><span>WEB</span>myaipartner.co.za</a>
+          <a class="contact-link" href="mailto:chris@myaipartner.co.za"><span>EMAIL</span>chris@myaipartner.co.za</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="doc-footer">
+    <div class="brand">A myAIpartner initiative</div>
+    Community Health · South Africa<br>
+    Document version 1 · May 2026 · All figures illustrative
+  </footer>
+
+</div>
+</body>
+</html>
