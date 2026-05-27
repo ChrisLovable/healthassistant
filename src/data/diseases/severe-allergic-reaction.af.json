@@ -1,0 +1,91 @@
+{
+  "slug": "severe-allergic-reaction",
+  "group_slug": "emergency",
+  "name": "Erge allergiese reaksie",
+  "tagline": "Anafilakse. EpiPen as jy een het. Bel 10177.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["Allergy Foundation South Africa", "WHO", "World Allergy Organization"],
+
+  "urgent": {
+    "heading": "Anafilakse — bel 10177 nou",
+    "primary_message": "Anafilakse is 'n lewensgevaarlike allergiese reaksie. Dit kan binne minute lugweë toemaak. Gee adrenalien (EpiPen) as jy een het — en bel die ambulans selfs as die simptome verbeter.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Moeilike asemhaling, fluitende of hees klink",
+      "Swelling van die gesig, lippe, tong of keel",
+      "Gevoel dat die keel toetrek of jou stem verander",
+      "Stewige uitslag of bultige rooi vlek wat vinnig versprei",
+      "Skielike erge buikpyn, braking of diarree na blootstelling",
+      "Skielike duiseligheid, flou voel, of bloed druk val",
+      "Bekommernis van naderende ondergang of verwarring"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Anafilakse in eenvoudige terme",
+    "lede": "Anafilakse is wat gebeur wanneer die liggaam 'n erge oorreaksie het op iets — gewoonlik 'n bystinger, kos (grondbone, neute, skulpvis), medisyne (penisillien is algemeen), of latex. Die liggaam stort histamien uit wat lugweë vernou en bloed druk laat val.",
+    "paragraphs": [
+      "Sonder behandeling kan anafilakse binne minute fataal wees. Met behandeling — adrenalien (EpiPen) ingespuit in die bobeen, gevolg deur hospitaalsorg — herstel die meeste mense ten volle.",
+      "As jy weet jy is sterk allergies, dra altyd 'n EpiPen by jou. Maak seker familie en vriende weet hoe om dit te gebruik. As iemand een keer anafilakse gekry het, kan dit weer gebeur — gewoonlik erger."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "Adrenalien red",   "body": "EpiPen (adrenalien-outo-inspuitfier) in die bobeen — dis die enigste behandeling wat anafilakse betyds keer. Antihistamiene werk nie vinnig genoeg nie." },
+      { "color": "purple", "icon": "clock",         "headline": "Minute, nie ure", "body": "Anafilakse ontwikkel gewoonlik binne 5–30 minute na blootstelling. Vinnige reaksie maak die verskil tussen lewe en dood." },
+      { "color": "gold",   "icon": "shield",        "headline": "Twee-fase",        "body": "Simptome kan 4–12 uur ná die eerste reaksie weer terugkom — selfs as die eerste een verbeter het. Hospitaalwaarneming is altyd nodig." },
+      { "color": "green",  "icon": "check-circle", "headline": "Bestuurbaar",      "body": "Met 'n aksieplan, EpiPen, en vermyding van bekende veroorsakers kan mense met sterk allergieë veilige normale lewens lei." }
+    ],
+    "pull_quote": {
+      "text": "Twyfel nooit oor 'n EpiPen nie. As die persoon nie anafilakse het nie, sal die adrenalien nie skade doen nie. As hulle dit wel het en jy wag — kan dit te laat wees.",
+      "source": "Allergy Foundation South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Tekens om in te kyk",
+    "lede": "Anafilakse word gekenmerk deur snelle tekens in twee of meer stelsels van die liggaam — vel, asemhaling, sirkulasie, of spysvertering.",
+    "items": [
+      { "color": "coral",  "icon": "wind",         "title": "Asemhaling",   "description": "Fluitende of hees asem, moeilikheid om te praat, gevoel dat die keel toetrek, swelling van die tong of lippe. Hierdie is die mees lewensgevaarlike tekens." },
+      { "color": "orange", "icon": "alert-circle",  "title": "Vel",          "description": "Bultige rooi uitslag (urtikaria, of 'hives'), juk, blosing, of swelling — veral van die gesig en oë. Versprei dikwels vinnig oor die liggaam." },
+      { "color": "purple", "icon": "heart-pulse",   "title": "Sirkulasie",   "description": "Vinnige pols, lae bloeddruk, duiseligheid, flou voel, koud en klam vel, verwarring. Die liggaam gaan in 'n vorm van skok in." }
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "As die uitslag weg is, is die anafilakse verby.",                                  "fact": "Anafilakse kan twee-fase wees — simptome kom 4–12 uur later weer terug, soms erger. Altyd hospitaal toe vir waarneming, selfs ná EpiPen werk." },
+      { "myth": "Antihistamiene en stoomketels kan anafilakse stop.",                                "fact": "Antihistamiene werk vir lig juk en uitslag — nie vir anafilakse nie. Enigste lewensreddende behandeling is adrenalien. Antihistamiene is na die feit." },
+      { "myth": "As jy 'n bietjie iets allergies geëet het en niks gebeur het nie, is jy oor dit.","fact": "Allergieë kan ergerend raak met elke blootstelling. 'n Klein gevoeligheid kan oorgaan na ernstige anafilakse die volgende keer. Toets met allergoloog." },
+      { "myth": "EpiPens is gevaarlik om sonder rede te gebruik.",                                  "fact": "As jy onseker is, gee dit. Adrenalien is veilig in die kort termyn. Geen dood deur EpiPen-misgebruik nie. Wel deur gewag-en-gehoop." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Gee die EpiPen onmiddellik",                  "description": "Buite van die bobeen, mid-dy. Reguit deur die klere — hoef nie te ontklee nie. Hou vir 3 sekondes. Vryf nie. Dit is die enigste behandeling wat anafilakse stop." },
+      { "title": "Bel 10177",                                    "description": "Selfs as die EpiPen werk en die persoon beter voel. Twee-fase reaksies kan ure later kom. Hospitaalwaarneming is nie opsioneel nie." },
+      { "title": "Laat die persoon plat lê met bene opgelig",    "description": "Help bloed na die hart toe. Moenie hulle laat opstaan of loop nie — kan plotselinge val van bloeddruk veroorsaak. As hulle wel asem sukkel, laat hulle sit." },
+      { "title": "Gee 'n tweede EpiPen ná 5–15 minute as nodig",  "description": "As simptome nie verbeter nie, of weer terugkom, gee 'n tweede dosis. Hou altyd twee EpiPens by sterk allergieë." },
+      { "title": "Identifiseer en vermy die veroorsaker",         "description": "Ná die kritieke fase: identifiseer wat dit veroorsaak het. Allergoloog kan toets en aksieplan opstel. Dra 'n medies-allergie-armband." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Anafilakse is 'n hospitaal-noodgeval. Gaan reguit na 'n hospitaal met 'n noodafdeling — selfs ná EpiPen suksesvol gewerk het.",
+    "helplines": [
+      { "name": "Noodambulans",         "description": "Regerings-nooddiens",                                    "meta": "Gratis · 24 uur · sê 'verdagte anafilakse'", "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Noodlyn (selfoon)",     "description": "Bereik enige nooddiens vanaf 'n selfoon",                "meta": "Gratis vanaf enige selfoon · 24 uur",         "phone": "112",        "phone_display": "112",           "primary": true },
+      { "name": "Allergy Foundation SA",  "description": "Inligting, allergoloog-verwysing, EpiPen-leiding",        "meta": "Ma–Vr 08:30–16:30",                          "phone": "0214474360", "phone_display": "021 447 4360",   "primary": false }
+    ]
+  }
+}

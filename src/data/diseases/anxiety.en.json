@@ -1,0 +1,75 @@
+{
+  "slug": "anxiety",
+  "group_slug": "mental-health",
+  "name": "Anxiety",
+  "tagline": "More than worry. There are tools that help.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["SADAG", "WHO", "South African Society of Psychiatrists", "National Department of Health Mental Health Directorate"],
+
+  "what_is_it": {
+    "heading": "Anxiety in plain terms",
+    "lede": "Anxiety is what you feel when your body's alarm system is firing too often, too loudly, or with no real danger present. Everyone feels anxious sometimes. An anxiety disorder is when it gets in the way of normal life.",
+    "paragraphs": [
+      "There are many kinds: generalised anxiety (constant worry), panic attacks (sudden waves of intense fear), social anxiety (fear of being judged), specific phobias, PTSD after trauma. They overlap and they share treatment principles.",
+      "Anxiety has a strong physical component — racing heart, sweating, shortness of breath, dizziness, nausea, trembling. The body feels like it is in danger even when the mind knows it is not. This is real, not 'all in your head'. It is treatable."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "Most common",       "body": "Anxiety disorders are the most common group of mental health conditions in the world. About 1 in 5 South Africans experience one at some point." },
+      { "color": "green",  "icon": "check-circle", "headline": "Treatable",         "body": "Cognitive Behavioural Therapy (CBT), medication, and lifestyle changes work very well for most people. You don't have to live with it." },
+      { "color": "coral",  "icon": "heart-pulse",  "headline": "Physical too",      "body": "Anxiety is felt in the body — heart racing, breathlessness, dizziness. People often think they are having a heart attack. Recognising it for what it is helps." },
+      { "color": "gold",   "icon": "phone",         "headline": "Free help",         "body": "SADAG and LifeLine offer free anxiety counselling. Clinics provide free assessment and treatment. Help is closer than you think." }
+    ],
+    "pull_quote": {
+      "text": "Anxiety is not a sign of weakness. It is a sign that your alarm system is working overtime. The good news: alarm systems can be retrained.",
+      "source": "SADAG"
+    }
+  },
+
+  "signs": {
+    "heading": "What anxiety looks like",
+    "lede": "Anxiety shows up in three main ways — in the body, in the mind, and in behaviour. You probably notice some of each.",
+    "items": [
+      { "color": "coral",  "icon": "heart-pulse", "title": "In the body", "description": "Racing heart, fast breathing or feeling unable to catch your breath, sweating, trembling, nausea or stomach upset, dizziness, tight chest, tingling, hot or cold flushes." },
+      { "color": "orange", "icon": "cloud",        "title": "In the mind","description": "Constant worry — even about small things, sense of dread, mind racing, expecting the worst, can't concentrate, intrusive 'what if' thoughts, difficulty sleeping." },
+      { "color": "purple", "icon": "user-x",       "title": "In behaviour","description": "Avoiding situations that make you anxious, needing reassurance constantly, checking and rechecking, irritability, withdrawing from people, using alcohol or substances to calm down." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Anxiety is just worrying too much. Stop overthinking.",                       "fact": "Anxiety disorders involve real changes in brain and body — not just thought patterns. Telling someone 'just stop worrying' is like telling a diabetic 'just regulate your sugar'. Doesn't work." },
+      { "myth": "Medication for anxiety is addictive and turns you into a zombie.",            "fact": "Modern anti-anxiety medication (SSRIs especially) is not addictive. It quiets the alarm system enough that therapy and coping skills can work. It doesn't change who you are." },
+      { "myth": "If you can't see it, it isn't real.",                                          "fact": "Anxiety is a medical condition with measurable changes in brain chemistry, heart rate, and hormone levels. The fact that others can't see it doesn't mean it isn't happening." },
+      { "myth": "Once you have anxiety, you have it for life.",                                  "fact": "Most people who get appropriate treatment for anxiety see significant improvement and many recover fully. Even severe anxiety responds to therapy and medication when given a chance." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Learn the breathing reset",        "description": "When anxiety spikes: breathe in for 4 counts, hold for 4, out for 6. The longer out-breath calms the nervous system. Use it during panic — it works within a minute." },
+      { "title": "Name it when you feel it",          "description": "Saying 'this is anxiety, not a heart attack' helps separate the body's alarm from real danger. Reduces the panic-about-panic spiral." },
+      { "title": "Cut caffeine if you can",           "description": "Caffeine directly mimics anxiety symptoms — racing heart, jitteriness. Many people see big improvements in 2–3 weeks of cutting back or stopping." },
+      { "title": "Go to a clinic for assessment",     "description": "Government clinics offer free mental health assessment. Talk to the mental health nurse. CBT-based help and medication if needed are free." },
+      { "title": "If it's panic attacks specifically","description": "Read up on panic attack management — knowing the pattern (peak in 10 min, never harmful, always passes) takes most of the fear out of them." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call",
+    "lede": "Anxiety responds very well to treatment. The hardest part is reaching out the first time. SADAG and LifeLine make that easier — free, confidential, no judgement.",
+    "helplines": [
+      { "name": "SADAG Mental Health Line",   "description": "Free, confidential counselling for anxiety, panic, and stress","meta": "Free · 24 hours · trained counsellors", "phone": "0800567567", "phone_display": "0800 567 567",   "primary": true },
+      { "name": "LifeLine Southern Africa",    "description": "Free counselling, emotional support, trauma",                    "meta": "24 hours · free from any phone",       "phone": "0861322322", "phone_display": "0861 322 322",   "primary": true },
+      { "name": "Find your nearest clinic",   "description": "Free mental health assessment and treatment if needed",           "meta": "No appointment · no medical aid required","phone": null,         "phone_display": "Find a clinic",  "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "meningitis",
+  "group_slug": "emergency-signs",
+  "name": "Meningitis",
+  "tagline": "Stiff neck, severe headache, purple rash.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["NICD (National Institute for Communicable Diseases)", "WHO", "National Department of Health", "Meningitis Research Foundation"],
+
+  "urgent": {
+    "heading": "Urgent — go to hospital now",
+    "primary_message": "Bacterial meningitis can kill within hours. Do not wait for all symptoms — get to hospital immediately.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "A purple-red rash that does NOT fade when pressed under a glass",
+      "Stiff neck — cannot touch chin to chest",
+      "Severe headache with fever and vomiting",
+      "Sensitivity to light, sounds, or touch",
+      "Confusion, drowsiness, or difficulty waking",
+      "Seizures or a high-pitched cry in a baby",
+      "Bulging soft spot on a baby's head, with fever and refusal to feed"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Meningitis in plain terms",
+    "lede": "Meningitis is an infection of the meninges — the protective layers around the brain and spinal cord. Bacterial meningitis is one of the fastest-killing infections known.",
+    "paragraphs": [
+      "Most meningitis is caused by either a virus or a bacteria. Viral meningitis is usually milder and gets better on its own. Bacterial meningitis is a true emergency — it can kill a healthy person within hours and needs antibiotics fast.",
+      "From the outside, you cannot reliably tell the two apart. That is why every suspected case must be treated as bacterial until proven otherwise. South Africa runs vaccination programmes against the most dangerous strains."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "clock",          "headline": "Kills in hours",   "body": "Bacterial meningitis can go from first symptom to death in under 24 hours. Speed of treatment is everything." },
+      { "color": "purple", "icon": "shield",         "headline": "Vaccine-preventable","body": "Free SA childhood vaccines (Hib, Pneumococcal, Meningococcal) prevent the most dangerous strains. Get them on time." },
+      { "color": "gold",   "icon": "users",          "headline": "Close contact risk","body": "Spreads through coughing, sneezing, kissing, or sharing drinks. Close contacts may be given antibiotics as a precaution." },
+      { "color": "orange", "icon": "alert-triangle", "headline": "Tumbler test",     "body": "Press a clear glass against the rash. If the spots do not fade under pressure — go straight to hospital." }
+    ],
+    "pull_quote": {
+      "text": "Trust your instinct. If something feels seriously wrong — especially in a child — do not wait for the full set of symptoms. Go to hospital. Meningitis can kill before all signs appear.",
+      "source": "Meningitis Research Foundation"
+    }
+  },
+
+  "signs": {
+    "heading": "What to watch for",
+    "lede": "Symptoms can start like flu, then worsen fast. The classic signs may not appear in the same order — or at all in babies and young children.",
+    "items": [
+      { "color": "coral",  "icon": "thermometer",    "title": "Adults & older children","description": "High fever, severe headache, stiff neck (cannot touch chin to chest), light sensitivity, nausea or vomiting, confusion or drowsiness." },
+      { "color": "orange", "icon": "alert-circle",  "title": "The purple rash",        "description": "Small reddish-purple spots or blotches that look like bruises. Spreads rapidly. Does not fade when pressed with a glass — this is an emergency." },
+      { "color": "purple", "icon": "baby",          "title": "Babies and toddlers",    "description": "High-pitched moaning cry, refusing feeds, very floppy or very stiff, bulging soft spot, blotchy or pale skin, fever with cold hands and feet." },
+      { "color": "gold",   "icon": "activity",      "title": "Cold extremities first", "description": "Hands and feet going cold while the body is hot, severe leg pain, and unusually pale skin can be earlier signs than the rash or stiff neck." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How meningitis spreads",
+    "yes": [
+      "Coughing and sneezing from someone carrying the bacteria",
+      "Kissing or close prolonged contact",
+      "Sharing cups, water bottles, cigarettes, or cutlery",
+      "Living in close quarters — university residences, military barracks, prisons"
+    ],
+    "no": [
+      "Casual contact like handshakes or being in the same room",
+      "Toilet seats, swimming pools, or door handles",
+      "Mosquitoes or insect bites",
+      "Pets and animals"
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself and your family",
+    "lede": "Vaccines protect against the most dangerous types of bacterial meningitis. They are free at every SA government clinic for children, and recommended for higher-risk adults.",
+    "items": [
+      { "color": "green",  "icon": "syringe",       "title": "Free childhood vaccines","description": "Hib at 6, 10, 14 weeks. Pneumococcal at 6 weeks, 14 weeks, 9 months. Meningococcal where indicated. Follow the SA schedule." },
+      { "color": "purple", "icon": "users",         "title": "Higher-risk groups",      "description": "University students in residences, military recruits, travellers to the African meningitis belt or Hajj — ask your doctor about Meningococcal ACWY vaccine." },
+      { "color": "gold",   "icon": "shield-check", "title": "If a close contact is sick","description": "Household members and close contacts of a bacterial meningitis case are usually offered preventive antibiotics by Public Health. Take them — they work." },
+      { "color": "orange", "icon": "alert-circle", "title": "Recognise early — act fast","description": "Knowing the symptoms saves lives. Trust your instinct. If something is seriously wrong, get to hospital." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do — the moment you suspect meningitis",
+    "items": [
+      { "title": "Do the tumbler test",                          "description": "Press the side of a clear glass firmly against the rash. If the spots stay visible through the glass — go to hospital now." },
+      { "title": "Call 10177 or go straight to the emergency room","description": "Say 'suspected meningitis' at triage so you are seen immediately. Do not wait for a GP appointment." },
+      { "title": "Note when symptoms started",                  "description": "Time matters. Tell the hospital team when the fever, headache, rash, or behaviour change began." },
+      { "title": "Do not wait for all symptoms",                "description": "The classic triad of fever, stiff neck, and headache may never all appear together. Each one alone is a reason to be checked." },
+      { "title": "Tell close contacts",                          "description": "Anyone who has shared a household, cup, or kiss in the last week must contact Public Health for advice. Antibiotic prophylaxis may be offered." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call right now",
+    "lede": "Suspected bacterial meningitis is one of the few illnesses where 'go to hospital now' is the right answer — even at 3am, even if you are not sure.",
+    "helplines": [
+      { "name": "Emergency ambulance",  "description": "Government emergency medical service",                       "meta": "Free · 24 hours · say 'suspected meningitis'", "phone": "10177",      "phone_display": "10177",        "primary": true },
+      { "name": "Emergency (mobile)",    "description": "Reaches any emergency service from a cellphone",             "meta": "Free from any mobile · 24 hours",              "phone": "112",        "phone_display": "112",          "primary": true },
+      { "name": "NICD Hotline",          "description": "Communicable disease information and outbreak reporting",     "meta": "Mon–Fri 08:00–16:00",                          "phone": "0800029999", "phone_display": "0800 029 999", "primary": false }
+    ]
+  }
+}

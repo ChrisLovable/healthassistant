@@ -1,0 +1,108 @@
+{
+  "slug": "pneumonia",
+  "group_slug": "infectious",
+  "name": "Pneumonia",
+  "tagline": "Top killer of under-5s and over-65s.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["NICD", "WHO", "National Department of Health", "American Thoracic Society"],
+
+  "urgent": {
+    "heading": "Urgent — see a clinic now",
+    "primary_message": "Pneumonia in young children and the elderly can become deadly within hours. Difficulty breathing, blue lips, severe weakness — go to hospital.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Difficulty breathing or breathing very fast",
+      "Bluish lips, fingertips, or face",
+      "Cannot keep fluids down — vomiting everything",
+      "Chest pain that worsens with breathing",
+      "Confusion or unusual drowsiness, especially in elderly",
+      "In a child under 5: chest sucking in between ribs, refusal to feed, listlessness",
+      "Cough producing rust-coloured, green, or blood-streaked mucus"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Pneumonia in plain terms",
+    "lede": "Pneumonia is an infection of the air sacs (alveoli) in one or both lungs. The sacs fill with fluid or pus, making it hard to breathe and starving the body of oxygen.",
+    "paragraphs": [
+      "Most pneumonia is caused by bacteria — Streptococcus pneumoniae is the most common. Viruses and fungi can also cause it. The infection often follows a cold or flu, when the immune system is weakened.",
+      "Healthy adults usually recover well with antibiotics or supportive care. The danger is concentrated in three groups: children under 5, adults over 65, and people with chronic conditions or HIV. In these groups, pneumonia is one of South Africa's top killers."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "users",        "headline": "Top killer",      "body": "Pneumonia is among the leading causes of death in SA children under 5 and adults over 65." },
+      { "color": "purple", "icon": "shield",       "headline": "Vaccine-preventable","body": "Pneumococcal vaccine — free for children, recommended for over-65s and chronic illness. Cuts the most common type significantly." },
+      { "color": "gold",   "icon": "pill",         "headline": "Curable",          "body": "Bacterial pneumonia responds to antibiotics within days. Treatment must be completed in full — never stop early." },
+      { "color": "green",  "icon": "alert-circle", "headline": "Often follows flu","body": "Many pneumonias start as a viral chest infection that becomes bacterial. This is why a flu that gets worse after 5–7 days needs medical assessment." }
+    ],
+    "pull_quote": {
+      "text": "Pneumonia in a small child can go from a cough to critical in 24 hours. If a child is breathing fast, refusing to feed, or has chest indrawing — do not wait for morning. Go now.",
+      "source": "WHO"
+    }
+  },
+
+  "signs": {
+    "heading": "What pneumonia looks like",
+    "lede": "Pneumonia symptoms range from mild walking-pneumonia to severe and life-threatening. Children and elderly often show atypical signs.",
+    "items": [
+      { "color": "orange", "icon": "wind",        "title": "Classic symptoms",       "description": "Cough (often with thick green, yellow, or rust-coloured mucus), fever and chills, difficulty breathing, chest pain that worsens with breathing." },
+      { "color": "coral",  "icon": "thermometer", "title": "Elderly may not have fever","description": "Older adults often present with confusion, weakness, falls, or worsening of underlying conditions — without obvious fever or cough." },
+      { "color": "purple", "icon": "baby",        "title": "Children",                "description": "Fast breathing, chest indrawing (skin pulling in between or below ribs with each breath), refusing to feed, grunting, blue lips — these need immediate attention." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How pneumonia spreads",
+    "yes": [
+      "Coughs and sneezes spreading bacteria or viruses from infected people",
+      "Close contact in households, day care, or care homes",
+      "Aspiration of food, drink, or stomach contents into the lungs (in older or weakened adults)",
+      "Following another respiratory infection like flu or COVID"
+    ],
+    "no": [
+      "Casual contact like handshakes (uncommon)",
+      "Mosquitoes or insects",
+      "Food and water (other than aspiration)",
+      "Toilet seats or surfaces (negligible)"
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to lower the risk",
+    "lede": "Most pneumonia in young children, the elderly, and chronically ill people is preventable with vaccines, hand washing, and treating respiratory infections early.",
+    "items": [
+      { "color": "green",  "icon": "syringe",      "title": "Pneumococcal vaccine","description": "Free for children at 6 weeks, 14 weeks, and 9 months. Recommended for adults over 65 and chronic illness — ask at clinic." },
+      { "color": "purple", "icon": "syringe",      "title": "Annual flu vaccine",  "description": "Flu often leads to pneumonia. Preventing flu prevents many secondary pneumonias. Free for high-risk groups." },
+      { "color": "orange", "icon": "x-circle",     "title": "Don't smoke",          "description": "Smoking damages the lungs' defences and is a major risk factor for pneumonia. Quitting reduces risk within months." },
+      { "color": "gold",   "icon": "droplet",      "title": "Hand hygiene",        "description": "Wash hands often, especially around small children, elderly relatives, or anyone with chronic illness." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "See a clinic for any persistent chest infection",       "description": "A cough that does not improve after 7 days, especially with fever, chest pain, or breathing difficulty, needs medical assessment." },
+      { "title": "If diagnosed — take the full antibiotic course",        "description": "Most bacterial pneumonia is treated with 5–7 days of antibiotics. Take every dose even if you feel better — stopping early can let infection rebound." },
+      { "title": "Rest fully until recovered",                            "description": "Pneumonia exhausts the body. Plan for at least a week off work or school. Pushing through delays recovery and risks complications." },
+      { "title": "Watch for danger signs",                                "description": "Fast or laboured breathing, blue lips, confusion, chest pain, inability to keep fluids down — go to hospital immediately." },
+      { "title": "Get vaccines after recovery",                           "description": "Once recovered, ask your clinic about pneumococcal and flu vaccines if you have not had them. Prevents the next episode." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Mild pneumonia can be treated at home with antibiotics from a clinic. Severe pneumonia is a hospital emergency.",
+    "helplines": [
+      { "name": "Emergency ambulance",        "description": "Government emergency medical service",                        "meta": "Free · 24 hours · for severe breathing difficulty", "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Emergency (mobile)",          "description": "Reaches any emergency service from a cellphone",              "meta": "Free from any mobile · 24 hours",                  "phone": "112",        "phone_display": "112",           "primary": true },
+      { "name": "Find your nearest clinic",   "description": "Free pneumococcal vaccines, antibiotics, and assessment",       "meta": "No appointment · no medical aid required",         "phone": null,         "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

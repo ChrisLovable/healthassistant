@@ -1,0 +1,101 @@
+{
+  "slug": "high-blood-pressure",
+  "group_slug": "chronic",
+  "name": "Hoë bloeddruk",
+  "tagline": "Stille moordenaar. Behandelbaar. Toets gereeld.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["Heart and Stroke Foundation SA", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Bel 10177 of gaan reguit hospitaal toe as",
+    "primary_message": "'n Hipertensiewe krisis (BP bo 180/120 saam met simptome) is 'n noodgeval. Moenie wag nie — dit kan beroerte of hartaanval veroorsaak.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "BP-lesing bo 180/120 saam met simptome",
+      "Erge hoofpyn saam met visieprobleme of duiseligheid",
+      "Borspyn of kortasem",
+      "Skielike swakheid, gevoelloosheid, of verwarring (mag beroerte wees)",
+      "Naarheid, braking of erge angs saam met hoë BP",
+      "Neusbloeding wat nie stop nie saam met hoë BP-lesing",
+      "Bloed in urine of skielike verlies van blaasbeheer"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Hoë bloeddruk in eenvoudige terme",
+    "lede": "Bloeddruk is die druk wat bloed teen die wande van jou bloedvate uitoefen. As dit hoog bly oor jare, beskadig dit die bloedvate, hart, brein en niere — gewoonlik sonder dat jy iets voel.",
+    "paragraphs": [
+      "Hoë bloeddruk word 'die stille moordenaar' genoem omdat dit gewoonlik geen simptome het — tot iets ernstig gebeur soos 'n beroerte, hartaanval, of niermisluk. Tot 1 uit 3 Suid-Afrikaners het dit, en die meeste weet nie eers nie.",
+      "Die goeie nuus: dit is maklik om te toets (gratis by enige kliniek), maklik om te behandel (goedkoop pille plus lewenstyl), en jou hartrisiko daal drasties as jy dit beheer. Toets gereeld. Behandel dit ernstig. Dit red lewens."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "users",         "headline": "1 uit 3",          "body": "Suid-Afrikaners het hoë bloeddruk. Die meeste weet nie eers nie. Toets is gratis by enige kliniek." },
+      { "color": "purple", "icon": "alert-circle", "headline": "Stil",              "body": "Hoë BP veroorsaak gewoonlik geen simptome tot iets ernstig gebeur. Die enigste manier om te weet, is om te toets." },
+      { "color": "gold",   "icon": "shield",        "headline": "Top oorsaak",      "body": "Hoë BP is die enkele grootste oorsaak van beroertes en 'n top oorsaak van hartaanvalle en nierversaking in SA." },
+      { "color": "green",  "icon": "check-circle", "headline": "Beheerbaar",       "body": "Met die regte pille en lewenstyl-veranderinge kan die meeste mense hul BP volledig onder beheer kry — en jare van risiko vermy." }
+    ],
+    "pull_quote": {
+      "text": "Die belangrikste enkele ding wat 'n Suid-Afrikaner vir hul hart kan doen, is om hul bloeddruk te ken — en dit onder 140/90 te hou. Dit verminder beroerterisiko met die helfte.",
+      "source": "Heart and Stroke Foundation South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Wat hoë BP voel soos",
+    "lede": "Meestal: niks. Dit is hoekom dit so gevaarlik is. Soms — gewoonlik wanneer dit baie hoog is — kan jy hierdie simptome sien.",
+    "items": [
+      { "color": "green",  "icon": "check-circle", "title": "Meeste van die tyd — geen simptome", "description": "Mense met hoë BP voel gewoonlik soos altyd. Die skade gaan stil aan. Die enigste manier om te weet is om te toets." },
+      { "color": "orange", "icon": "alert-circle",  "title": "Soms — vae tekens",                   "description": "Sporadiese hoofpyne, ligkop voel, soms 'n bloedneus, of vermoeidheid uit niks. Hierdie tekens beteken nie altyd hoë BP nie — maar lê reg vir 'n toets." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Krisisvlakke — kry hulp",            "description": "BP bo 180/120 saam met erge hoofpyn, visieprobleme, borspyn, kortasem, of verwarring. Dit is 'n hospitaalsaak — moenie wag nie." }
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "Hoë bloeddruk maak jou hoofpyn — as ek nie hoofpyn het nie, is BP normaal.",     "fact": "Die meeste mense met hoë BP voel niks. Dit is hoekom dit 'stil' genoem word. Toets is die enigste manier om te weet." },
+      { "myth": "Sodra ek begin pille drink vir BP, moet ek dit vir die res van my lewe drink.", "fact": "Sommige mense kry hul BP onder beheer en kan met die dokter se hulp medisyne afskakel. Vir die meeste is dit lewenslank — maar dit beteken net 'n daaglikse pil, nie 'n gevangenisstraf nie." },
+      { "myth": "Sout-vermindering doen niks vir BP nie.",                                          "fact": "Sout-vermindering kan BP merkbaar verlaag — gemiddeld 4–5 punte. Saam met ander veranderinge kan dit medikasie verminder. SA-koste het ekstra hoë soutpeile in baie kos." },
+      { "myth": "Dit raak net ouer mense.",                                                          "fact": "Hoë BP raak mense in hul 20's en 30's ook — veral in SA. Vroeë opsporing en behandeling voorkom dekades se skade." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om jou BP onder beheer te hou",
+    "lede": "Lewenstyl maak 'n groot verskil. Vir baie mense maak dit pille onnodig. Vir ander beteken dit minder pille.",
+    "items": [
+      { "color": "green",  "icon": "salt",       "title": "Sny terug op sout",            "description": "Verminder verwerkte kos, beskuit, smaakmiddels en sout aan tafel. Probeer 5g of minder per dag — die helfte van wat baie van ons inkry." },
+      { "color": "purple", "icon": "activity",   "title": "Beweeg gereeld",                "description": "30 minute matige aktiwiteit (stap, fietsry, dans) op die meeste dae verminder BP met 5–8 punte. Konsekwent is beter as intens." },
+      { "color": "orange", "icon": "scale",      "title": "Hou 'n gesonde gewig",         "description": "Elke 5kg gewigsverlies (as oorgewig) kan BP met ongeveer 5 punte verminder. Veral middel-omtrek tel." },
+      { "color": "gold",   "icon": "x-circle",   "title": "Beperk alkohol en stop rook",   "description": "Swaar drinkers se BP styg vinniger. Rook beskadig bloedvate direk. Stop maak meer verskil aan jou hart as enige pil." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Toets jou BP — selfs as jy goed voel",            "description": "Gratis by enige kliniek. Of by apteke. Of by werk se gesondheidsdag. Een minuut. Geen naald. Een keer per jaar minstens." },
+      { "title": "As BP hoog is — moenie net 'n keer toets nie",     "description": "Een hoë lesing is nie 'n diagnose nie. Stres en kafeïen kan dit tydelik styg. Toets oor 'n week of twee weer voor enige behandelingsbesluit." },
+      { "title": "As gediagnoseer — neem pille elke dag",            "description": "Selfs as jy goed voel. BP-medisyne werk net solank jy dit drink. Stop maak nie BP terug normaal nie — dit laat dit weer styg." },
+      { "title": "Hou 'n BP-boekie",                                  "description": "Indien moontlik, koop 'n tuis-bloeddrukmeter (van R400–800). Hou meting in 'n boekie. Bring na klinieke. Patrone help die dokter beter behandel." },
+      { "title": "By krisisvlakke — gaan hospitaal toe",              "description": "BP bo 180/120 saam met simptome (hoofpyn, visieprobleme, borspyn, swakheid) is 'n noodgeval. Bel 10177." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Hoë bloeddruk is een van die maklikste dinge om in SA te beheer. Toetse en pille is gratis by elke kliniek. Begin daar.",
+    "helplines": [
+      { "name": "Noodambulans",            "description": "By hipertensiewe krisis",                                "meta": "Gratis · 24 uur",                          "phone": "10177", "phone_display": "10177", "primary": true },
+      { "name": "Vind jou naaste kliniek",  "description": "Gratis BP-toets, evaluering en pille",                    "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,    "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" }
+    ]
+  }
+}

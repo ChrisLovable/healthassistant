@@ -1,0 +1,103 @@
+{
+  "slug": "hiv",
+  "group_slug": "infectious",
+  "name": "HIV",
+  "tagline": "Test, treat, undetectable. Live a full life.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Department of Health", "South African National AIDS Council", "UNAIDS", "WHO", "NICD"],
+
+  "what_is_it": {
+    "heading": "HIV in plain terms",
+    "lede": "HIV stands for Human Immunodeficiency Virus. It attacks the body's defence system — specifically a kind of white blood cell called the CD4 cell.",
+    "paragraphs": [
+      "Without treatment, HIV can weaken the immune system over years until the body cannot fight infections. That advanced stage is called AIDS. With treatment, HIV stays controlled, the immune system stays strong, and people live full, normal lives.",
+      "HIV is not a death sentence anymore. In South Africa, treatment is free at every government clinic, and most people on treatment can expect to live as long as anyone else."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "7.8 million",      "body": "South Africans living with HIV — more than any country in the world." },
+      { "color": "gold",   "icon": "shield-check", "headline": "Free",             "body": "Treatment is free at every government clinic. No medical aid needed." },
+      { "color": "green",  "icon": "check",        "headline": "U = U",            "body": "Undetectable equals untransmittable. On effective treatment you cannot pass HIV on." },
+      { "color": "coral",  "icon": "baby",         "headline": "HIV-free babies",  "body": "Pregnant women on treatment can have HIV-negative babies. PMTCT works." }
+    ],
+    "pull_quote": {
+      "text": "Testing is the only way to know your status. Symptoms cannot tell you. Many people with HIV feel completely well for years.",
+      "source": "South African National AIDS Council"
+    }
+  },
+
+  "signs": {
+    "heading": "What you might notice",
+    "lede": "HIV often has no symptoms at all for years. This is what makes it dangerous — and why testing matters more than waiting to feel sick.",
+    "items": [
+      { "color": "orange", "icon": "thermometer",    "title": "Early signs (2–4 weeks after exposure)", "description": "Fever, sore throat, swollen glands in neck or armpits, fatigue, rash, body aches. Often feels like flu and goes away on its own." },
+      { "color": "coral",  "icon": "trending-down",  "title": "Later signs (without treatment)",       "description": "Frequent infections, unexplained weight loss, persistent diarrhoea, night sweats, white patches in the mouth, skin rashes that won't heal." },
+      { "color": "purple", "icon": "info",           "title": "The honest truth",                      "description": "You cannot tell if you have HIV from how you feel. Get tested. It is fast, free, and confidential." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "What spreads HIV — and what doesn't",
+    "yes": [
+      "Unprotected sex (vaginal, anal, or oral)",
+      "Sharing needles or syringes",
+      "Mother to baby during birth or breastfeeding (preventable with treatment)",
+      "Blood-to-blood contact through an open wound"
+    ],
+    "no": [
+      "Hugging, kissing, or holding hands",
+      "Sharing food, drinks, plates, or cutlery",
+      "Mosquito or insect bites",
+      "Toilets, swimming pools, or showers",
+      "Coughing, sneezing, or sweat"
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "If you have HIV, you can't have a normal life.",                "fact": "On treatment, people with HIV live as long as anyone else, work, raise families, and travel freely." },
+      { "myth": "You can catch HIV by sharing a glass or kissing.",              "fact": "HIV is not spread by saliva, sweat, or casual contact. Only specific body fluids carry the virus." },
+      { "myth": "Condoms don't really work against HIV.",                       "fact": "When used correctly every time, condoms are highly effective at preventing HIV." },
+      { "myth": "HIV-positive parents cannot have HIV-negative children.",       "fact": "With the PMTCT programme, almost every baby can be born HIV-free, even if one or both parents have HIV." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself",
+    "lede": "South Africa has some of the strongest HIV prevention programmes in the world. Most are free. Here is what works.",
+    "items": [
+      { "color": "green",  "icon": "shield",       "title": "Condoms",                "description": "Use one every time. Available free at clinics, pharmacies, and even some petrol stations. Female condoms are also free." },
+      { "color": "purple", "icon": "pill",         "title": "PrEP",                   "description": "A daily pill that prevents HIV. Highly effective. Available free at clinics for people at higher risk." },
+      { "color": "orange", "icon": "clock",        "title": "PEP (within 72 hours)",  "description": "If you think you have just been exposed — get to a clinic within 72 hours. Emergency pills can stop HIV from taking hold." },
+      { "color": "gold",   "icon": "check-circle", "title": "Know your status",       "description": "Test every 6–12 months if you are sexually active. Couples can test together. Results in 15 minutes." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "If you think you've just been exposed",          "description": "Go to a clinic or emergency room within 72 hours and ask for PEP. The sooner the better — within 24 hours is best." },
+      { "title": "If you have not been tested in the last year",   "description": "Get tested. It is free, fast, and confidential. No appointment needed at most clinics. Take a partner if you can." },
+      { "title": "If you test positive",                           "description": "Start treatment immediately. It is free. Treatment works best when started early — there is no benefit to waiting." },
+      { "title": "If you are on treatment",                        "description": "Take your medication every day, at the same time. Never skip. If side effects bother you, speak to your clinic." },
+      { "title": "If you are pregnant",                            "description": "Get tested as early as possible. If positive, the PMTCT programme almost always prevents transmission to the baby." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call, where to go",
+    "lede": "You don't have to figure this out alone. These services are free, confidential, and available now.",
+    "helplines": [
+      { "name": "National AIDS Helpline", "description": "Free, confidential, 24 hours a day", "meta": "Counselling · testing referrals · treatment support", "phone": "0800012322", "phone_display": "0800 012 322", "primary": true },
+      { "name": "loveLife youth line",     "description": "For young people · free, friendly, anonymous", "meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00", "phone": "0800121900", "phone_display": "0800 121 900", "primary": true },
+      { "name": "Find your nearest clinic", "description": "Every government clinic offers free HIV testing and treatment", "meta": "No appointment · no medical aid required · ID helpful", "phone": null, "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

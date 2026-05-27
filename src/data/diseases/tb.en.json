@@ -1,0 +1,109 @@
+{
+  "slug": "tb",
+  "group_slug": "infectious",
+  "name": "TB (Tuberculosis)",
+  "tagline": "Coughing for 2+ weeks? Test today — treatment is free.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Institute for Communicable Diseases (NICD)", "TB Free SA", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Urgent — see a clinic this week",
+    "primary_message": "Coughing for more than 2 weeks, coughing up blood, severe night sweats, or rapid weight loss — get to a clinic. Testing is free.",
+    "phone": "0800012322",
+    "phone_display": "Call 0800 012 322",
+    "red_flags": [
+      "Cough lasting more than 2 weeks — productive or dry",
+      "Coughing up blood, even small amounts",
+      "Drenching night sweats for more than a week",
+      "Unexplained weight loss",
+      "Chest pain that worsens with breathing",
+      "Persistent low-grade fever for weeks",
+      "Children with persistent cough and failure to thrive"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "TB in plain terms",
+    "lede": "Tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis. It usually attacks the lungs but can affect any part of the body — bones, brain, kidneys, lymph nodes.",
+    "paragraphs": [
+      "TB spreads through the air when an infected person coughs or sneezes. Most people exposed do not get sick straight away — the bacteria can stay dormant for years (latent TB) before becoming active. About 1 in 10 latent infections become active disease in a lifetime.",
+      "TB is curable. The standard treatment is 6 months of daily tablets — completely free at every South African clinic. The biggest danger is stopping treatment early when you feel better. Partial treatment breeds drug-resistant TB, which is far harder and longer to treat."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "users",      "headline": "300,000+",      "body": "New TB cases in South Africa every year. One of the highest rates in the world." },
+      { "color": "purple", "icon": "shield",     "headline": "100% free",     "body": "Every test, every tablet, every visit. Drug-resistant TB treatment is also free. No medical aid needed." },
+      { "color": "gold",   "icon": "refresh-cw", "headline": "Curable",       "body": "6 months of daily medication cures standard TB completely. Drug-resistant TB takes longer but is also curable." },
+      { "color": "green",  "icon": "alert-circle","headline": "HIV doubles risk","body": "TB is the leading cause of death in people living with HIV. If you are HIV positive, get screened for TB at every visit." }
+    ],
+    "pull_quote": {
+      "text": "Stopping TB tablets when you feel better is the most dangerous thing you can do — to yourself and to everyone around you. Drug-resistant TB starts the day someone stops their treatment.",
+      "source": "TB Free SA"
+    }
+  },
+
+  "signs": {
+    "heading": "What to watch for",
+    "lede": "TB usually develops slowly. The classic sign is a cough that just will not go away. Any cough lasting more than 2 weeks deserves a test.",
+    "items": [
+      { "color": "orange", "icon": "wind",          "title": "Persistent cough",     "description": "A cough lasting more than 2 weeks, often productive, sometimes with blood. May be worse at night." },
+      { "color": "coral",  "icon": "droplet",       "title": "Night sweats and fever","description": "Drenching night sweats that soak the sheets. Low-grade fever, especially in the afternoon and evening." },
+      { "color": "purple", "icon": "trending-down", "title": "Weight loss and fatigue","description": "Unintentional weight loss over weeks or months. Loss of appetite. Tiredness out of proportion to activity." },
+      { "color": "gold",   "icon": "baby",          "title": "In children",          "description": "Failure to thrive, poor weight gain, persistent cough, swollen glands in the neck. TB in children is often missed — ask if a close relative has TB." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How TB spreads — and how it doesn't",
+    "yes": [
+      "Breathing in droplets from someone with active lung TB who is coughing or sneezing",
+      "Prolonged close contact in enclosed, poorly ventilated spaces",
+      "Living or working in crowded conditions — homes, hostels, mines, prisons",
+      "Drinking unpasteurised milk from infected cattle (rare in SA)"
+    ],
+    "no": [
+      "Casual contact like shaking hands or being in the same outdoor space",
+      "Sharing food, drinks, plates, or cutlery",
+      "Toilet seats, doorknobs, or bedding (once aired)",
+      "Kissing, hugging, or sexual contact"
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself and your family",
+    "lede": "TB thrives in poorly ventilated, crowded spaces. Most prevention is about air, early detection, and completing treatment — yours or a household contact's.",
+    "items": [
+      { "color": "green",  "icon": "syringe",      "title": "BCG vaccine at birth",      "description": "Every SA baby gets a BCG injection at birth. It does not prevent all TB but reduces severe forms in children, especially meningitis." },
+      { "color": "purple", "icon": "wind",         "title": "Open windows",              "description": "TB bacteria die quickly in fresh air and sunlight. Open windows, especially in bedrooms shared with someone being treated for TB." },
+      { "color": "orange", "icon": "users",        "title": "Test household contacts",   "description": "If someone in your home is diagnosed, everyone in the house should be tested — even if they feel well. Children especially need protection." },
+      { "color": "gold",   "icon": "shield-check", "title": "TB preventive therapy",     "description": "People living with HIV, household contacts, and other at-risk groups can be given a course of TB tablets to prevent active disease. Ask at your clinic." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "If you have had a cough for 2 weeks — get tested",   "description": "Walk into any clinic. Ask for a TB test. You will be asked to cough up sputum into a small cup. Results within a few days." },
+      { "title": "If positive — start treatment immediately",          "description": "The clinic will give you the tablets that same day. Treatment is daily, supervised in the early phase, and free." },
+      { "title": "Take every dose, every day, for the full 6 months",  "description": "Never skip. Never stop early — even when you feel completely better after a few weeks. Skipping breeds drug-resistant TB." },
+      { "title": "Tell your household and close contacts",             "description": "They should all be tested. Children under 5 and pregnant women especially need to be seen quickly. The clinic helps with contact tracing." },
+      { "title": "If on HIV treatment — keep both going",              "description": "TB and HIV treatments work alongside each other. Tell the clinic about all your medications. Never stop one to make the other easier." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "TB care is one of the most established systems in South African public health. Walk into any clinic — no appointment, no medical aid, no ID required.",
+    "helplines": [
+      { "name": "National TB Hotline",       "description": "Free, confidential information and referrals",          "meta": "24 hours · free from any phone",            "phone": "0800012322", "phone_display": "0800 012 322",  "primary": true },
+      { "name": "Find your nearest clinic",  "description": "Every government clinic offers free TB testing and treatment", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "TB Free SA",                "description": "Information, advocacy, and support for people on TB treatment", "meta": "Mon–Fri 08:00–16:30",                       "phone": "0214473007", "phone_display": "021 447 3007",  "primary": false }
+    ]
+  }
+}

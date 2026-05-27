@@ -1,0 +1,91 @@
+{
+  "slug": "depression",
+  "group_slug": "mental-health",
+  "name": "Depression",
+  "tagline": "Real. Common. Treatable. You are not alone.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["SADAG (South African Depression and Anxiety Group)", "WHO", "National Department of Health Mental Health Directorate", "South African Society of Psychiatrists"],
+
+  "urgent": {
+    "heading": "Talk to someone now",
+    "primary_message": "If you are thinking about ending your life, or hurting yourself — please reach out. Free, confidential support is available right now. You don't have to be in crisis to call.",
+    "phone": "0800567567",
+    "phone_display": "SADAG 0800 567 567",
+    "red_flags": [
+      "Thoughts of ending your life or that others would be better off without you",
+      "Feeling completely numb, hollow, or disconnected from yourself",
+      "Giving away meaningful possessions or saying goodbye",
+      "Severe withdrawal from everyone and everything",
+      "Hearing voices, seeing things others don't, or feeling deeply unreal",
+      "Inability to look after yourself — not eating, washing, getting out of bed for days",
+      "Sudden calm after a long depression — this can be a warning, not a recovery"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Depression in plain terms",
+    "lede": "Depression is a real medical condition — not weakness, not bad attitude, not 'just sadness'. It changes how the brain works, how the body feels, and how everything looks. And it is treatable.",
+    "paragraphs": [
+      "Everyone feels sad sometimes. Depression is different. It is a lasting heaviness — persistent low mood, loss of interest in things you used to enjoy, exhaustion that sleep doesn't fix, feelings of worthlessness or hopelessness. It lasts weeks or months, not hours or days.",
+      "Depression affects about 1 in 6 South Africans in their lifetime. It runs in families. It can be triggered by stress, illness, loss, hormonal changes, or nothing in particular. With treatment — therapy, medication, or both — most people get significantly better. Many recover completely."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "1 in 6",        "body": "South Africans will experience depression in their lifetime. It is one of the most common medical conditions there is." },
+      { "color": "green",  "icon": "check-circle", "headline": "Treatable",     "body": "Roughly 80% of people with depression get significantly better with treatment. Many recover completely. Help works." },
+      { "color": "coral",  "icon": "phone",        "headline": "SADAG is free", "body": "0800 567 567 is the free South African suicide crisis line — counsellors trained to listen, in many languages, 24 hours." },
+      { "color": "gold",   "icon": "shield-check", "headline": "Not weakness",  "body": "Depression is a medical condition involving changes in brain chemistry. Telling someone to 'snap out of it' is like telling a diabetic to make insulin harder. It doesn't work." }
+    ],
+    "pull_quote": {
+      "text": "Reaching out for help is not weakness. It is one of the bravest, hardest things a depressed person can do. If you are thinking about it — make the call. The person on the other end is ready.",
+      "source": "SADAG"
+    }
+  },
+
+  "signs": {
+    "heading": "What depression looks like",
+    "lede": "Depression looks different in different people. Some signs are emotional, some physical, some social. Two weeks of these symptoms most of the day is the threshold to take seriously.",
+    "items": [
+      { "color": "purple", "icon": "cloud",         "title": "Emotional",            "description": "Persistent sadness or emptiness, hopelessness, feeling worthless or guilty, irritability or anger (often missed in men), loss of interest in things you used to enjoy." },
+      { "color": "orange", "icon": "battery-low",   "title": "Physical",             "description": "Exhaustion that sleep doesn't fix, changes in appetite (often eating less or more than usual), aches and pains, slowed movement or speech, sleep disturbance — either too much or unable to sleep." },
+      { "color": "coral",  "icon": "user-x",        "title": "Social and cognitive", "description": "Withdrawing from friends and family, struggling to make decisions or concentrate, persistent thoughts of self-harm or death. These thoughts are common in depression — and a reason to reach out for help, not isolate further." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Depression is just weakness — you should be able to pull yourself together.",  "fact": "Depression is a real medical condition involving changes in brain chemistry. Telling someone with depression to 'snap out of it' is like telling someone with diabetes to make insulin harder. It doesn't work and it shames them." },
+      { "myth": "Antidepressants are addictive and change who you are.",                         "fact": "Modern antidepressants are not addictive — though they should be tapered slowly when stopping. They don't change your personality. They lift the fog so you can be yourself again." },
+      { "myth": "Depression in Africa is just a Western diagnosis.",                              "fact": "Depression occurs everywhere on Earth, in every culture, at similar rates. The way it shows itself can differ (more body symptoms in some cultures), but the underlying condition is universal — and just as treatable." },
+      { "myth": "Talking about suicide makes it more likely to happen.",                          "fact": "The opposite is true. Asking 'are you having thoughts of suicide' shows care and creates space to get help. Silence and avoidance are what make things worse." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "If you are in crisis — call SADAG now",         "description": "0800 567 567 is free from any phone, 24 hours. Counsellors are trained to listen. You don't have to be 'in crisis enough' — just pick up." },
+      { "title": "If you can — tell one person",                  "description": "A friend, family member, faith leader, manager. Saying it out loud once breaks the worst of the isolation. You don't have to explain it perfectly." },
+      { "title": "Go to a clinic for assessment",                  "description": "Government clinics offer free mental health assessment and treatment. Ask for the 'mental health nurse' or doctor. Antidepressant medication is free at clinics if needed." },
+      { "title": "If you can manage daily things",                "description": "Get sunlight in the morning, walk if you can, eat regular small meals even without appetite, sleep on a routine. None of these cure depression — but they help treatment work better." },
+      { "title": "If someone you love has depression",              "description": "Listen without trying to fix. Don't say 'cheer up' or 'others have it worse'. Do say 'I'm here, I see you, what would help'. Encourage them to call SADAG together." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call right now",
+    "lede": "South Africa has free, confidential mental health support available 24 hours a day. You don't need a medical aid, an ID, or a referral. Just a phone.",
+    "helplines": [
+      { "name": "SADAG Suicide Crisis Line",   "description": "Free, confidential crisis counselling in multiple SA languages","meta": "Free · 24 hours · trained counsellors", "phone": "0800567567", "phone_display": "0800 567 567",   "primary": true },
+      { "name": "LifeLine Southern Africa",     "description": "Free counselling, trauma, abuse, and emotional support",         "meta": "24 hours · free from any phone",       "phone": "0861322322", "phone_display": "0861 322 322",   "primary": true },
+      { "name": "Find your nearest clinic",    "description": "Free mental health assessment and medication if needed",          "meta": "No appointment · no medical aid required","phone": null,         "phone_display": "Find a clinic",  "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "asthma-children",
+  "group_slug": "child-baby",
+  "name": "Asthma in children",
+  "tagline": "Triggers, inhalers, school plans.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["South African Paediatric Association", "National Asthma Education Programme SA", "Global Initiative for Asthma (GINA)", "WHO"],
+
+  "urgent": {
+    "heading": "Urgent — call now",
+    "primary_message": "Use the blue reliever inhaler with spacer. If no improvement in 10 minutes — call 10177.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Too breathless to speak in full sentences, or to cry",
+      "Lips, fingernails, or face turning blue or grey",
+      "Skin sucking in between or below the ribs with each breath",
+      "Reliever inhaler not helping at all",
+      "Drowsy, confused, or exhausted from breathing effort",
+      "Cough so severe the child cannot stop or sleep",
+      "Silent chest — the wheeze stops because airflow is too low"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Childhood asthma in plain terms",
+    "lede": "Asthma is when the airways in the lungs become sensitive and inflamed — they tighten and produce mucus in response to triggers, making it hard for a child to breathe.",
+    "paragraphs": [
+      "Childhood asthma is one of the most common chronic conditions in South African kids — about 1 in 10 children. Symptoms can come and go. With proper treatment, most children with asthma can live, play sport, and sleep normally.",
+      "Children with asthma usually need two kinds of medicine: a reliever inhaler (usually blue) for during an attack, and a preventer inhaler (usually brown) used every day to keep airways calm. The preventer is what keeps a child out of hospital — even when they feel fine."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "1 in 10",         "body": "South African children have asthma — many undiagnosed, especially those with persistent night-time cough." },
+      { "color": "gold",   "icon": "pill",         "headline": "Two inhalers",    "body": "Blue reliever for attacks, brown preventer every day. The preventer is what actually controls the disease." },
+      { "color": "green",  "icon": "shield",       "headline": "Always spacer",   "body": "Children must always use a spacer with their inhaler. Doubles the amount of medicine that reaches the lungs." },
+      { "color": "coral",  "icon": "alert-circle","headline": "Triggers vary",   "body": "Common triggers: viral colds, dust, smoke, pet dander, cold air, exercise. Knowing your child's triggers helps prevent attacks." }
+    ],
+    "pull_quote": {
+      "text": "Most childhood asthma attacks bad enough for hospital could have been prevented with daily preventer inhaler use. Don't stop it because the child feels fine — that is what it is meant to do.",
+      "source": "Global Initiative for Asthma"
+    }
+  },
+
+  "signs": {
+    "heading": "Common signs of childhood asthma",
+    "lede": "Asthma doesn't always look like wheezing. In children especially, a long-running dry cough — particularly at night or with exercise — is often the only sign for months before diagnosis.",
+    "items": [
+      { "color": "orange", "icon": "wind",          "title": "Cough that won't go away",       "description": "Especially at night, early morning, or with running and playing. The most common symptom in children — often missed for months as 'just a cold that keeps coming back'." },
+      { "color": "coral",  "icon": "activity",       "title": "Wheezing or noisy breathing",   "description": "Whistling sound, especially when breathing out. Sometimes only during colds, sometimes with any exertion." },
+      { "color": "purple", "icon": "alert-circle",   "title": "Shortness of breath, tight chest","description": "Child sits out at PE, can't keep up with peers, complains chest feels tight or 'sore'. Worth investigating." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Children always grow out of asthma.",                                       "fact": "Many do — but many don't. Even when symptoms settle, airway sensitivity can return at any age. Keep the preventer going as prescribed, even when fine." },
+      { "myth": "Steroid inhalers stunt growth.",                                            "fact": "The dose in inhaled preventers is very low and acts locally in the lungs. Any small effect on growth is much less harmful than poorly controlled asthma. Oral steroids during attacks have more effect — which is why prevention matters." },
+      { "myth": "Asthma means no sport.",                                                    "fact": "Well-controlled asthma should not limit sport. Many Olympic athletes have asthma. If your child can't keep up with peers, the asthma isn't controlled — talk to the clinic." },
+      { "myth": "We only need the inhaler when they're sick.",                                "fact": "The blue reliever is for sick days. The brown preventer must be used every day — even when fine. Skipping it lets inflammation build, leading to attacks." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Get an asthma action plan from the clinic",         "description": "A written plan tells you exactly what to do at each stage — green (fine), yellow (worsening), red (emergency). Free, signed by your doctor or nurse." },
+      { "title": "Always use a spacer with the inhaler",              "description": "Spacers double the amount of medicine reaching the lungs. Free at clinics. Don't let a child use an inhaler without one." },
+      { "title": "Give preventer every day, every season",            "description": "Brown preventer (or combination inhaler) twice a day, every day. Even when the child feels fine. Even in summer. Skipping is the most common cause of attacks." },
+      { "title": "Know your child's triggers",                        "description": "Keep notes on what brings on symptoms. Common ones: cold viruses, dust, smoke (including braai), cats, dogs, cold air, exercise. Reduce what you can." },
+      { "title": "Tell the school and after-care",                    "description": "Give them a copy of the action plan and a spare reliever inhaler with spacer. Most schools accept these once paperwork is signed." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Childhood asthma is fully treatable in the South African public system. Inhalers, spacers, and action plans are all free at clinics.",
+    "helplines": [
+      { "name": "Emergency ambulance",        "description": "Government emergency medical service",                       "meta": "Free · 24 hours · say 'severe asthma attack'", "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Find your nearest clinic",   "description": "Free inhalers, spacers, and asthma action plans",            "meta": "No appointment · no medical aid required",      "phone": null,         "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "Childline SA",                "description": "Free 24-hour child health and welfare line",                 "meta": "Free from any phone · 24 hours",                "phone": "116",        "phone_display": "116",           "primary": false }
+    ]
+  }
+}

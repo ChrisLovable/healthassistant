@@ -1,0 +1,105 @@
+{
+  "slug": "stis",
+  "group_slug": "infectious",
+  "name": "STIs",
+  "tagline": "Common, treatable — get tested.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Department of Health", "South African National AIDS Council", "WHO", "Marie Stopes SA"],
+
+  "what_is_it": {
+    "heading": "STIs in plain terms",
+    "lede": "Sexually transmitted infections are passed from one person to another during sex — vaginal, anal, or oral. They are very common, often have no symptoms, and most are easily treated when caught early.",
+    "paragraphs": [
+      "Bacterial STIs (chlamydia, gonorrhoea, syphilis, trichomoniasis) are curable with a course of antibiotics. Viral STIs (herpes, HPV, HIV, hepatitis B) are managed long-term but not cured by treatment. Either way, testing is what makes treatment possible.",
+      "Most STIs have no obvious symptoms — particularly in women. Left untreated, they can cause infertility, pregnancy complications, and increase the risk of getting or passing on HIV. They are not a sign of bad behaviour. They are a sign of a normal sex life and a worth-having test."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "eye-off",      "headline": "Often silent", "body": "Most STIs cause no symptoms at all — especially in women. Testing is the only reliable way to know." },
+      { "color": "purple", "icon": "shield",       "headline": "Free testing", "body": "Every government clinic offers free, confidential STI testing and treatment. No appointment, no medical aid." },
+      { "color": "gold",   "icon": "check-circle", "headline": "Most are curable","body": "Chlamydia, gonorrhoea, syphilis, and trichomoniasis are all cured with a short course of antibiotics or one injection." },
+      { "color": "green",  "icon": "users",        "headline": "Treat together","body": "If you have an STI, recent partners need treatment too — even if they feel fine. Otherwise you will pass it back and forth." }
+    ],
+    "pull_quote": {
+      "text": "An STI test is one of the most caring things you can do — for yourself, for the person you sleep with, and for any future partners. It is free and takes minutes.",
+      "source": "National Department of Health"
+    }
+  },
+
+  "signs": {
+    "heading": "What you might notice — and what you usually won't",
+    "lede": "Most STIs are silent. When symptoms appear, they vary depending on which infection you have. The same signs can mean different things — only a test can tell.",
+    "items": [
+      { "color": "orange", "icon": "droplet",       "title": "Unusual discharge",     "description": "From the vagina, penis, or anus. May be cloudy, yellow, green, smelly, or just different from usual. Common in chlamydia, gonorrhoea, trichomoniasis." },
+      { "color": "coral",  "icon": "alert-circle",  "title": "Pain or burning",       "description": "When urinating, during sex, or in the lower abdomen. Sometimes mistaken for a urinary tract infection." },
+      { "color": "purple", "icon": "user",          "title": "Sores, bumps, or rash", "description": "On the genitals, anus, mouth, or hands. May or may not be painful. Common in herpes, syphilis, HPV." },
+      { "color": "gold",   "icon": "thermometer",   "title": "Less obvious signs",    "description": "Sore throat (oral gonorrhoea), swollen glands, flu-like illness (acute HIV), unusual bleeding between periods (cervical infection)." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How STIs spread — and how they don't",
+    "yes": [
+      "Vaginal, anal, or oral sex without a condom",
+      "Sharing sex toys without cleaning or covering them",
+      "Skin-to-skin genital contact (HPV, herpes — even with a condom)",
+      "Mother to baby during pregnancy, birth, or breastfeeding (some STIs)",
+      "Blood-to-blood contact (sharing needles, unscreened transfusions)"
+    ],
+    "no": [
+      "Hugging, holding hands, or kissing (for most STIs)",
+      "Sharing food, drinks, plates, or cutlery",
+      "Toilets, swimming pools, baths, or showers",
+      "Mosquito bites or insect contact",
+      "Casual contact at work, school, or in public"
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "If they look healthy, they don't have an STI.",            "fact": "Most STIs cause no visible signs. You cannot tell by looking at someone — including yourself. Testing is the only reliable way." },
+      { "myth": "You can't get an STI from oral sex.",                       "fact": "Many STIs spread through oral sex — gonorrhoea, chlamydia, syphilis, herpes, HPV. Condoms and dental dams reduce the risk." },
+      { "myth": "Condoms protect against every STI 100% of the time.",      "fact": "Condoms are highly effective against most STIs when used correctly every time. Skin-to-skin STIs like HPV and herpes can still spread from areas not covered." },
+      { "myth": "If I was cured once, I am immune.",                         "fact": "You can get the same bacterial STI again after treatment. Re-testing 3 months after treatment is recommended for chlamydia and gonorrhoea." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself",
+    "lede": "Most STIs are preventable with a few simple habits. None of them require giving up sex — just having it with more awareness.",
+    "items": [
+      { "color": "green",  "icon": "shield",       "title": "Condoms every time",        "description": "Male or female condoms, used correctly from start to finish. Free at every clinic, many pharmacies, even some petrol stations." },
+      { "color": "purple", "icon": "syringe",      "title": "HPV vaccine",                "description": "Free in SA for girls in Grade 5 and now boys in many provinces. Protects against cervical cancer, genital warts, and other cancers." },
+      { "color": "orange", "icon": "check-circle", "title": "Test before new partners",   "description": "Test before sex with a new partner, ideally together. Free, fast, confidential. Most clinics give results in 15 minutes for HIV." },
+      { "color": "gold",   "icon": "pill",         "title": "PrEP for HIV",               "description": "A daily pill that prevents HIV. Free at clinics. Useful for people at higher risk — frequent new partners, partner with HIV, sex workers." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "Get tested",                            "description": "Walk into any government clinic. Ask for a full STI screen — HIV, syphilis, gonorrhoea, chlamydia. Most results within minutes to days." },
+      { "title": "If positive — start treatment same day","description": "Bacterial STIs are usually cured with a short course of antibiotics or a single injection. Take everything as prescribed." },
+      { "title": "Tell your recent partners",             "description": "Anyone you have had sex with in the last 6 months needs to be tested. The clinic can help you tell them anonymously if needed." },
+      { "title": "No sex while being treated",            "description": "Wait until the clinic says you are clear. Otherwise you will pass it back to the partner you just treated." },
+      { "title": "Re-test in 3 months",                   "description": "Bacterial STIs can come back if a partner was not treated. A follow-up test confirms the infection is gone." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "STI testing is free, fast, and confidential at every government clinic. No medical aid, no judgement, no questions you don't want to answer.",
+    "helplines": [
+      { "name": "National AIDS Helpline",   "description": "Confidential STI and HIV counselling and referrals",                  "meta": "Free · 24 hours",                          "phone": "0800012322", "phone_display": "0800 012 322",  "primary": true },
+      { "name": "loveLife youth line",      "description": "For young people · friendly, anonymous, free",                       "meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00",   "phone": "0800121900", "phone_display": "0800 121 900",  "primary": true },
+      { "name": "Find your nearest clinic", "description": "Every government clinic offers free STI testing and treatment",        "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

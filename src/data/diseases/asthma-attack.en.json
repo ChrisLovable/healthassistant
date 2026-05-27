@@ -1,0 +1,91 @@
+{
+  "slug": "asthma-attack",
+  "group_slug": "emergency-signs",
+  "name": "Asthma attack",
+  "tagline": "Wheezing that won't ease — act fast.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Asthma Education Programme SA", "Global Initiative for Asthma (GINA)", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Urgent — call now",
+    "primary_message": "Use the blue reliever inhaler. If no improvement in 10 minutes — call 10177.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Too breathless to speak in full sentences",
+      "Lips, fingernails, or face turning blue or grey",
+      "Chest sucks in between the ribs with each breath",
+      "Reliever inhaler not helping or wearing off in under 4 hours",
+      "Drowsiness, confusion, or exhaustion from breathing effort",
+      "Silent chest — wheeze stops because airflow is too low to make a sound"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Asthma attack in plain terms",
+    "lede": "An asthma attack is when the airways in the lungs suddenly tighten, swell, and fill with mucus — making it hard to move air in and out.",
+    "paragraphs": [
+      "Most asthma attacks have a trigger — a virus, smoke, pollen, dust, cold air, exercise, or emotional stress. The airway muscles spasm, the lining swells, and mucus clogs what's left of the airway.",
+      "A reliever inhaler (usually blue) relaxes the airway muscles within minutes. If it does not work, or if attacks are coming more often, the person needs urgent help — severe attacks can kill."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",         "headline": "1 in 10",          "body": "Roughly 1 in 10 South African children have asthma. Many adults have it without realising." },
+      { "color": "coral",  "icon": "alert-triangle","headline": "Still kills",       "body": "Hundreds of South Africans die of asthma every year — most deaths are preventable with proper treatment." },
+      { "color": "gold",   "icon": "pill",          "headline": "Two inhalers",     "body": "A blue reliever (used during attacks) and a brown preventer (used daily) — the preventer is what keeps you out of trouble." },
+      { "color": "green",  "icon": "activity",      "headline": "Live fully",       "body": "Well-controlled asthma should not stop you from sport, school, work, or sleep. If it is — your treatment needs adjusting." }
+    ],
+    "pull_quote": {
+      "text": "If you are reaching for your reliever inhaler more than twice a week, your asthma is not well controlled. See a doctor — do not just keep topping up the blue one.",
+      "source": "Global Initiative for Asthma"
+    }
+  },
+
+  "signs": {
+    "heading": "What an attack looks like",
+    "lede": "Asthma attacks usually build over hours, sometimes over days. The earlier you treat, the easier it is to stop.",
+    "items": [
+      { "color": "orange", "icon": "wind",          "title": "Wheezing",            "description": "A whistling sound when breathing out, sometimes in. A silent chest in a severe attack means airflow has dropped dangerously low." },
+      { "color": "coral",  "icon": "alert-circle",  "title": "Shortness of breath","description": "Struggling to get a full breath. Cannot finish a sentence without pausing. Chest feels tight." },
+      { "color": "purple", "icon": "activity",      "title": "Cough that won't stop","description": "Dry, persistent cough, often worse at night or in the early morning. Sometimes the only symptom in children." },
+      { "color": "gold",   "icon": "user",          "title": "Body language",       "description": "Hunched forward, shoulders raised, ribs pulling in with each breath, fast breathing, exhaustion." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Children grow out of asthma.",                                           "fact": "Some do, many do not. Even when symptoms settle, the airway sensitivity can return at any age. Keep the preventer inhaler going as prescribed." },
+      { "myth": "Steroid inhalers are dangerous.",                                       "fact": "Inhaled steroids in the brown preventer are very low dose and act locally in the lungs. They are far safer than the oral steroids needed when attacks get bad." },
+      { "myth": "If you can speak, the attack is not serious.",                          "fact": "Speech limited to short phrases — or single words — is a danger sign. A silent chest is worse, not better." },
+      { "myth": "Asthma medication is only needed when you feel symptoms.",              "fact": "The preventer (brown) inhaler must be used every day, even when you feel fine. It controls the underlying inflammation that causes attacks." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do during an attack",
+    "items": [
+      { "title": "Sit upright. Loosen tight clothing",            "description": "Do not lie down. Sitting up with arms supported makes breathing easier. Stay calm — panic worsens breathing." },
+      { "title": "Use the blue reliever inhaler — 1 puff",         "description": "Use a spacer if you have one. Wait 30 to 60 seconds. Repeat up to 10 puffs total in the first 10 minutes." },
+      { "title": "If no improvement in 10 minutes — call 10177",   "description": "Say 'severe asthma attack'. Continue using the reliever every few minutes until paramedics arrive." },
+      { "title": "If they collapse or go blue — call immediately","description": "Do not wait the 10 minutes. Severe attacks can become life-threatening fast." },
+      { "title": "After the attack — see a doctor",                "description": "Every attack that needed more than the usual reliever dose is a sign your asthma plan needs adjustment. Do not skip the follow-up." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call",
+    "lede": "If the blue inhaler is not working or attacks are getting more frequent, get help. Asthma is treatable.",
+    "helplines": [
+      { "name": "Emergency ambulance",   "description": "Government emergency medical service",                     "meta": "Free · 24 hours · say 'asthma attack'", "phone": "10177", "phone_display": "10177", "primary": true },
+      { "name": "Emergency (mobile)",     "description": "Reaches any emergency service from a cellphone",           "meta": "Free from any mobile · 24 hours",       "phone": "112",   "phone_display": "112",   "primary": true },
+      { "name": "Find your nearest clinic","description": "Every government clinic provides asthma assessment and inhalers", "meta": "No appointment · no medical aid required", "phone": null, "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

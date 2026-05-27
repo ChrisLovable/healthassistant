@@ -1,0 +1,102 @@
+{
+  "slug": "breast-cancer",
+  "group_slug": "womens-health",
+  "name": "Breast cancer & lumps",
+  "tagline": "Self-check, screening, and what to do if you find a lump.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["CANSA (Cancer Association of South Africa)", "Pink Drive", "National Department of Health", "WHO"],
+
+  "urgent": {
+    "heading": "See a clinic this week if",
+    "primary_message": "A new breast lump, nipple discharge, skin dimpling, or shape changes — do not wait. Get it checked. Most are not cancer, but the ones that are need fast action.",
+    "phone": "0800226622",
+    "phone_display": "Call 0800 22 66 22",
+    "red_flags": [
+      "A new lump or thickening in the breast or armpit",
+      "Change in size, shape, or symmetry of one breast",
+      "Skin dimpling, puckering, or orange-peel texture",
+      "Nipple turning inward, or new discharge (especially bloody)",
+      "Persistent skin redness, scaling, or rash on the nipple",
+      "Persistent pain in one specific spot",
+      "Swollen lymph nodes in the armpit or above the collarbone"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Breast cancer in plain terms",
+    "lede": "Breast cancer is cancer that starts in the cells of the breast — usually in the milk ducts or the milk-producing glands. Most breast lumps are not cancer, but every new lump needs to be checked.",
+    "paragraphs": [
+      "Breast cancer is the most common cancer in South African women. About 1 in 27 will develop it in their lifetime. Men can get breast cancer too, though it is much rarer — about 1 in 1,000.",
+      "When caught early — before it spreads — breast cancer is highly treatable. Five-year survival for early stage breast cancer in SA is over 80%. The challenge in South Africa is late detection: many women only see a doctor once the cancer is advanced, when treatment is harder and outcomes are worse."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "users",        "headline": "1 in 27",            "body": "South African women will develop breast cancer in their lifetime. The risk rises sharply after age 50." },
+      { "color": "purple", "icon": "check-circle", "headline": "Most lumps benign", "body": "Around 8 out of 10 breast lumps are not cancer — cysts, fibroadenomas, or normal breast changes. But every new lump still needs assessment." },
+      { "color": "gold",   "icon": "clock",        "headline": "Early = survival",  "body": "Five-year survival is over 80% when caught early, dropping sharply if found late. Early detection is the single biggest factor in outcome." },
+      { "color": "green",  "icon": "shield",       "headline": "Free screening",    "body": "Free clinical breast exams at every clinic. Mammograms free at state hospitals for women over 40 with risk factors. CANSA mobile screening too." }
+    ],
+    "pull_quote": {
+      "text": "Most breast lumps are not cancer. But you cannot tell by feel alone. Every new lump that does not go away in one menstrual cycle deserves a clinic visit. Do not 'wait and see' for months.",
+      "source": "Pink Drive South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "What to look for",
+    "lede": "Get to know what your breasts normally look and feel like. Changes from your normal are what matter — not how your breasts compare to someone else's.",
+    "items": [
+      { "color": "orange", "icon": "alert-circle", "title": "Lumps and thickening",     "description": "A new lump in the breast or armpit. An area that feels different — firmer, denser, or thicker than the surrounding tissue. Most are not cancer but all need to be checked." },
+      { "color": "coral",  "icon": "eye",           "title": "Changes in shape or skin","description": "One breast looking different from before — size, shape, or position changing. Dimpling, puckering, or orange-peel skin. Persistent redness or rash." },
+      { "color": "purple", "icon": "droplet",       "title": "Nipple changes",          "description": "Nipple turning inward (newly), discharge that is not breast milk (especially bloody or clear from one side), or a scaly rash on the nipple." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Breast cancer only happens to older women.",                          "fact": "Risk rises sharply after 50, but breast cancer happens at any age. Younger women's cancer tends to be more aggressive — every age group needs to know the signs." },
+      { "myth": "If no one in my family has had breast cancer, I am safe.",            "fact": "Only about 1 in 10 breast cancers are clearly linked to inherited genes. Most happen to women with no family history. Everyone needs to know the signs." },
+      { "myth": "Wearing a bra or using deodorant causes breast cancer.",              "fact": "Neither has been shown to cause breast cancer in any reliable study. These are myths that distract from the things that actually matter — early detection and known risk factors." },
+      { "myth": "A small lump is nothing to worry about.",                             "fact": "Size does not tell you whether a lump is cancer. Some aggressive cancers are tiny when found; most large lumps are not cancer. Get any new lump checked — regardless of size." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to lower the risk and catch it early",
+    "lede": "Some risk factors you cannot change (age, genes, sex). Many you can. Early detection is the strongest predictor of survival.",
+    "items": [
+      { "color": "green",  "icon": "search",       "title": "Know your normal",       "description": "Look at and feel your breasts once a month, ideally after your period. Changes from your normal are what matter — get familiar with what 'normal' is for you." },
+      { "color": "purple", "icon": "check-circle", "title": "Clinical exam at clinic","description": "Free clinical breast exam at any government clinic — annually from age 30. Health workers find things you might miss." },
+      { "color": "orange", "icon": "scan",          "title": "Mammogram from 40",      "description": "Mammograms are recommended every 2 years from age 40, yearly if higher risk. State hospitals offer free mammograms for women at risk." },
+      { "color": "gold",   "icon": "leaf",          "title": "Lifestyle factors",      "description": "Maintain a healthy weight, limit alcohol (under 1 drink a day), be physically active, breastfeed if you can. These reduce risk modestly but meaningfully." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "If you find a new lump",                              "description": "Note when you found it. See a clinic within the next two weeks. If you are nearing or past menopause, do not wait through any 'cycle' — see someone sooner." },
+      { "title": "Do a monthly self-check",                             "description": "Once a month, after your period. Look in the mirror with arms raised. Feel each breast and armpit in circular motions. Standing and lying down. Five minutes." },
+      { "title": "Annual clinical exam from 30",                         "description": "Walk into any clinic. Ask for a clinical breast exam. Free, takes minutes, and finds things you cannot feel yourself." },
+      { "title": "Mammogram from age 40",                                "description": "Every 2 years from 40, yearly if at higher risk (family history, dense breasts, BRCA gene). Discomforting but quick — and life-saving." },
+      { "title": "If diagnosed — get to a cancer centre",                "description": "Treatment is most effective at major hospital cancer centres. Ask about referral. CANSA can help navigate the system." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Breast cancer care in South Africa is well-organised at the major centres. The earlier in the system you enter, the better the outcomes.",
+    "helplines": [
+      { "name": "CANSA Helpline",            "description": "Cancer information, support, mobile screening referrals",         "meta": "Mon–Fri 08:00–16:30 · free from any phone", "phone": "0800226622", "phone_display": "0800 22 66 22", "primary": true },
+      { "name": "Pink Drive",                 "description": "Free mobile breast screening and clinical exams across SA",      "meta": "Mon–Fri 08:00–16:30",                       "phone": "0867466374", "phone_display": "086 PINKDRIVE", "primary": true },
+      { "name": "Find your nearest clinic",  "description": "Free clinical breast exams and referral for mammograms",            "meta": "No appointment · no medical aid required",  "phone": null,         "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+    ]
+  }
+}

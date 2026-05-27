@@ -1,0 +1,85 @@
+{
+  "slug": "acne",
+  "group_slug": "skin",
+  "name": "Acne",
+  "tagline": "Treatable. Don't pick. See a doctor for severe.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["Dermatological Society of South Africa", "American Academy of Dermatology", "WHO", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "Acne in plain terms",
+    "lede": "Acne is what happens when oil and dead skin cells block pores. Sometimes the blocked pore becomes inflamed by normal skin bacteria — that's when you get the red, sore spots. It is not caused by being dirty.",
+    "paragraphs": [
+      "Acne is most common in teenagers because hormonal changes increase oil production. But adults get it too — especially women in their 20s and 30s, often along the jawline. About 85% of South Africans will have acne at some point.",
+      "Mild acne usually responds to over-the-counter treatments and good skin habits. Moderate to severe acne — especially with cysts, scarring, or pain — needs a doctor. Effective prescription treatments exist. Untreated severe acne can leave permanent scars and affect self-esteem for years."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "85%",            "body": "Of South Africans get acne at some point. It is one of the most common skin conditions in the world." },
+      { "color": "green",  "icon": "check-circle", "headline": "Treatable",       "body": "Even severe acne responds to modern treatment. The earlier you start, the less scarring you'll have to live with." },
+      { "color": "coral",  "icon": "alert-circle", "headline": "Don't pick",      "body": "Picking, squeezing, and harsh scrubbing make acne worse and cause permanent scars. Hardest habit to break — and the most important." },
+      { "color": "gold",   "icon": "shield",       "headline": "Not your fault",  "body": "Acne is not caused by being dirty, eating chocolate, or anything you did. It is mostly hormones and genetics." }
+    ],
+    "pull_quote": {
+      "text": "The single most powerful step in treating acne is starting early — before the scarring sets in. If over-the-counter treatments aren't working after 8 weeks, see a doctor.",
+      "source": "Dermatological Society of South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Types of acne — and how serious",
+    "lede": "Acne ranges from a few spots to deep, painful cysts. The type matters because it changes the treatment.",
+    "items": [
+      { "color": "green",  "icon": "circle",       "title": "Mild — blackheads and whiteheads", "description": "Small bumps without much inflammation. Usually responds to good skincare and over-the-counter products. Try benzoyl peroxide or salicylic acid first." },
+      { "color": "orange", "icon": "alert-circle", "title": "Moderate — red, inflamed spots",   "description": "Red papules and pustules across face, chest, back. Try over-the-counter treatment for 8 weeks. If no improvement — see a doctor. Prescription options work better." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Severe — cysts and scarring",     "description": "Deep, painful lumps that linger for weeks. Leaves scars. See a doctor as soon as possible. Isotretinoin (Roaccutane) is highly effective for this." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Chocolate, oily food, and sugar cause acne.",                          "fact": "The evidence is weak and varies between people. High-sugar/high-dairy diets may worsen acne in some, but they don't cause it. Hormones and genetics matter much more." },
+      { "myth": "Wash your face more — that'll clear it up.",                            "fact": "Over-washing dries and irritates skin, making acne worse. Gentle cleanser twice a day is enough. Harsh scrubs inflame the skin and worsen redness." },
+      { "myth": "Toothpaste, lemon juice, and bicarb work as home treatments.",          "fact": "All can irritate or burn the skin and worsen scarring. Use proper acne products — benzoyl peroxide, salicylic acid, retinoids — designed to work safely." },
+      { "myth": "Tanning clears up acne.",                                                "fact": "Tanning can dry out skin temporarily, making spots less visible. Long term, sun damage worsens scarring and ages your skin. Treat the acne — protect your skin." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Daily habits that help",
+    "lede": "You can't fully prevent acne — but you can reduce flare-ups, support treatment, and prevent scars.",
+    "items": [
+      { "color": "green",  "icon": "droplet", "title": "Gentle cleanser twice a day",  "description": "Morning and evening — water-based, fragrance-free. Don't scrub. Don't use bar soap or harsh scrubs on acne-prone skin." },
+      { "color": "purple", "icon": "sun",      "title": "Non-comedogenic SPF every day","description": "Sun protection matters even with acne. Look for 'non-comedogenic' (won't block pores) on the label. Most major brands have these." },
+      { "color": "orange", "icon": "x-circle", "title": "Don't pick — don't squeeze",   "description": "Picking pushes infection deeper and turns spots into scars. The mark from a picked spot can last 6 months. The mark from a left-alone spot — maybe 2 weeks." },
+      { "color": "gold",   "icon": "watch",    "title": "Give treatments 8 weeks",      "description": "Acne treatments take 6–12 weeks to show full effect. Don't switch every few days. Stick with one approach and judge by the 8-week mark." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Start with over-the-counter for mild acne",  "description": "Benzoyl peroxide 2.5% gel or salicylic acid wash. Use once a day for a week, then twice if tolerated. Available at any pharmacy without prescription." },
+      { "title": "If no improvement after 8 weeks — see a doctor","description": "Free at any government clinic. Prescription topical retinoids and antibiotics work much better than OTC for moderate acne." },
+      { "title": "If severe or scarring — see soon",            "description": "Severe cystic acne can leave permanent scars. Treatments like isotretinoin (Roaccutane) are highly effective. Government clinics can refer to a dermatologist." },
+      { "title": "Treat the whole area, not just the spots",     "description": "Apply treatments thinly across the affected area — not just on individual spots. Prevents the next breakout instead of catching up." },
+      { "title": "Protect your skin from the sun",                "description": "Acne treatments make skin sun-sensitive. Use non-comedogenic SPF 30+ daily. Sun also worsens dark marks left by past spots." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Most acne can be treated at home or at a primary care clinic. Severe acne benefits from dermatology referral — available through the public system.",
+    "helplines": [
+      { "name": "Find your nearest clinic", "description": "Free acne assessment and prescription treatment",                "meta": "No appointment · no medical aid required", "phone": null, "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
+      { "name": "Any local pharmacy",        "description": "Over-the-counter benzoyl peroxide, salicylic acid, retinoid creams","meta": "No prescription needed for OTC products",   "phone": null, "phone_display": "Visit a pharmacy", "primary": false }
+    ]
+  }
+}

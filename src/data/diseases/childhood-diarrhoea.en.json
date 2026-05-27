@@ -1,0 +1,111 @@
+{
+  "slug": "childhood-diarrhoea",
+  "group_slug": "child-baby",
+  "name": "Childhood diarrhoea",
+  "tagline": "ORS saves lives. Know the signs of dehydration.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Department of Health", "WHO Child Health", "NICD", "UNICEF South Africa"],
+
+  "urgent": {
+    "heading": "Urgent — get to a clinic or hospital",
+    "primary_message": "Dehydration in a small child can become fatal within hours. If you see any of these signs, don't wait. Go.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Child very thirsty but unable to drink",
+      "Sunken eyes, dry mouth, no tears when crying",
+      "Sunken soft spot on the top of a baby's head",
+      "Very little or no urine in 6+ hours",
+      "Lethargy — child is drowsy, hard to wake, or unresponsive",
+      "Blood in the diarrhoea",
+      "High fever (over 39°C) with diarrhoea",
+      "Vomiting that prevents keeping any fluid down",
+      "Diarrhoea lasting more than 7 days"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Childhood diarrhoea in plain terms",
+    "lede": "Diarrhoea is loose, watery stools — three or more in 24 hours. In small children, the danger is not the diarrhoea itself. It is the dehydration that follows.",
+    "paragraphs": [
+      "Children's bodies are small and they dehydrate fast. A child who has lost too much water becomes weak, then drowsy, then critical — sometimes within hours. Diarrhoea remains one of the leading causes of death in South African children under 5.",
+      "Most childhood diarrhoea is viral and resolves in 3–5 days. The main treatment is replacing lost fluids — Oral Rehydration Solution (ORS) is the gold standard. Free at every clinic. Has saved millions of children worldwide."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "Top killer",       "body": "Diarrhoeal disease remains one of the leading killers of SA children under 5 — almost always from dehydration." },
+      { "color": "purple", "icon": "droplet",       "headline": "ORS saves lives", "body": "Oral Rehydration Solution prevents and treats most dehydration. Free at every clinic. Cheap, simple, effective." },
+      { "color": "gold",   "icon": "syringe",       "headline": "Rotavirus vaccine","body": "Free SA childhood vaccine prevents the most common cause of severe diarrhoea. Given at 6 weeks and 14 weeks. Don't skip." },
+      { "color": "green",  "icon": "x-circle",      "headline": "No antibiotics",  "body": "Most diarrhoea is viral. Antibiotics don't help — and can make some kinds worse. Don't ask for them; ask for ORS." }
+    ],
+    "pull_quote": {
+      "text": "A child can have hundreds of millilitres of diarrhoea in a day. Every 250ml of stool lost needs to be replaced with 250ml of ORS — or more. Keep the cup ready.",
+      "source": "WHO Child Health"
+    }
+  },
+
+  "signs": {
+    "heading": "How to spot dehydration",
+    "lede": "Dehydration develops in stages. Catching it at the 'thirsty' stage keeps the child out of hospital.",
+    "items": [
+      { "color": "green",  "icon": "smile",          "title": "Mild — treatable at home",  "description": "Child is thirsty, drinks eagerly, slightly less playful, urine slightly darker but still wet nappies. Give ORS, breastmilk, or clean water." },
+      { "color": "orange", "icon": "alert-circle",   "title": "Moderate — go to clinic",   "description": "Child very thirsty, dry mouth, fewer wet nappies, restless or irritable, sunken eyes, skin slow to bounce back when pinched. Clinic — not hospital yet." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Severe — hospital now",     "description": "Child too weak to drink, drowsy or unresponsive, no tears, no wet nappy for 6+ hours, sunken soft spot in a baby. This is an emergency." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How childhood diarrhoea spreads",
+    "yes": [
+      "Faecal-oral route — tiny amounts of stool getting onto food, hands, or water",
+      "Contaminated water in areas without safe supply",
+      "Unwashed hands after toilet or nappy changes",
+      "Sharing toys, dummies, or bottles in childcare settings",
+      "Food that has gone off or wasn't cooked thoroughly"
+    ],
+    "no": [
+      "Teething — despite the persistent myth",
+      "Cutting new teeth",
+      "Breastfeeding — breastmilk actually protects against diarrhoea",
+      "Eating slightly spicy food (in older children)"
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect your child",
+    "lede": "Most childhood diarrhoea is preventable with vaccines, clean water, and good handwashing. Worth the small daily effort.",
+    "items": [
+      { "color": "green",  "icon": "syringe", "title": "Rotavirus vaccine",     "description": "Free SA childhood vaccine at 6 weeks and 14 weeks. Prevents the most common cause of severe childhood diarrhoea. Never skip it." },
+      { "color": "purple", "icon": "droplet", "title": "Clean hands, clean water","description": "Wash hands with soap before food, after toilet, after nappy changes. Use safe water for drinking and cooking. Boil if unsure." },
+      { "color": "orange", "icon": "heart",   "title": "Breastfeed if you can",  "description": "Breastmilk contains antibodies that protect against diarrhoea. Exclusive breastfeeding for 6 months is one of the strongest protections." },
+      { "color": "gold",   "icon": "shield",  "title": "Food safety",            "description": "Cook meat fully, refrigerate leftovers promptly, wash fruit and vegetables. Don't give very young children unpasteurised milk or undercooked eggs." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Start ORS at the first loose stool",      "description": "Mix one sachet in 1 litre of clean water (or as packet says). Give frequent small sips after every loose stool — 50–100ml for under-2s, 100–200ml for older children." },
+      { "title": "Keep breastfeeding or formula going",     "description": "Don't stop breastfeeding during diarrhoea — breastmilk is protective. Keep formula going. Babies need normal feeds plus extra ORS." },
+      { "title": "Give zinc supplements",                    "description": "Free at clinics together with ORS. Zinc shortens diarrhoea by 25% and reduces severity. Give for 10–14 days as advised." },
+      { "title": "Watch for dehydration signs",             "description": "Check wet nappies, tears when crying, alertness. Pinch the skin on the tummy gently — it should bounce back fast. If anything seems off, go to clinic." },
+      { "title": "Go to clinic or hospital if it worsens",  "description": "Moderate dehydration — clinic. Severe dehydration — hospital. Don't second-guess. The treatment (IV fluids) is fast and life-saving." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Childhood diarrhoea care is one of South Africa's strongest public health systems. Free ORS, free vaccines, free hospital care if needed. Use it early.",
+    "helplines": [
+      { "name": "Emergency ambulance",       "description": "For severe dehydration in a child",                     "meta": "Free · 24 hours",                          "phone": "10177", "phone_display": "10177",         "primary": true },
+      { "name": "Find your nearest clinic",  "description": "Free ORS, zinc, and assessment for sick children",      "meta": "No appointment · no medical aid required", "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "Childline SA",              "description": "Free 24-hour child health and welfare line",            "meta": "Free from any phone · 24 hours",           "phone": "116",   "phone_display": "116",           "primary": false }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "tb",
+  "group_slug": "infectious",
+  "name": "TB (Tuberkulose)",
+  "tagline": "Hoes langer as 2 weke? Toets vir TB. Gratis. Geneesbaar.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["NICD", "WHO", "National Department of Health", "TB HIV Care"],
+
+  "urgent": {
+    "heading": "Gaan kliniek of hospitaal toe dadelik as",
+    "primary_message": "Hierdie tekens beteken TB is gevorderd of ander erge longinfeksies. Moenie wag nie.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Hoes bloed op of bloederige spoeg",
+      "Erge kortasem in rus",
+      "Hoë koors met nagswete saam met hoes",
+      "Erge gewigsverlies oor weke met hoes",
+      "Erge borspyn saam met hoes",
+      "Verwarring of slaperigheid by iemand met TB",
+      "Swelling van pampoentjie- of nek-kliere wat vinnig groei"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "TB in eenvoudige terme",
+    "lede": "TB is 'n bakteriese infeksie wat gewoonlik die longe aanval. Dit versprei in die lug deur hoes en nies. Onbehandeld is dit fataal. Met behandeling — gratis en effektief — is dit geneesbaar.",
+    "paragraphs": [
+      "Suid-Afrika het een van die hoogste TB-koerse ter wêreld. Hoes wat langer as 2 weke duur, snags sweet, gewigsverlies en moegheid is die tekens. As enige van hierdie pas, doen 'n gratis TB-toets by enige kliniek.",
+      "Behandeling is 6 maande van daaglikse pille. Vroeë diagnose en die volledige behandelingskursus is alles — vroeg afdraai veroorsaak dat die bakterieë weerstandig word. Die kliniek bring die pille soms tuis as jy nie kan kom nie."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "users",         "headline": "SA in top 10",      "body": "Suid-Afrika is een van die top 10 lande in die wêreld vir TB-infeksie. Een uit honderd nuwe gevalle elke jaar." },
+      { "color": "purple", "icon": "wind",          "headline": "Versprei in lug",   "body": "TB versprei deur hoes, nies, of selfs hard praat. Naby kontak met 'n onbehandelde TB-pasiënt vir lang ure verhoog risiko." },
+      { "color": "gold",   "icon": "check-circle", "headline": "Geneesbaar",        "body": "Met 6 maande van daaglikse pille kan die meeste TB-pasiënte volkome genees. Pille is gratis by elke kliniek." },
+      { "color": "green",  "icon": "shield",        "headline": "HIV + TB",          "body": "HIV maak mense baie meer kwesbaar vir TB. Alle TB-pasiënte word vir HIV getoets — en omgekeerd. Beide is gratis behandelbaar." }
+    ],
+    "pull_quote": {
+      "text": "Die enkele grootste oorsaak van TB-sterftes in SA is mense wat hul behandeling vroeg afdraai. Voltooi die volle ses maande — selfs as jy beter voel ná die eerste paar weke.",
+      "source": "TB HIV Care"
+    }
+  },
+
+  "signs": {
+    "heading": "Tekens van TB",
+    "lede": "TB ontwikkel stadig. Die klassieke tekens kom oor weke. As jy enige van hierdie het langer as 2 weke — toets.",
+    "items": [
+      { "color": "orange", "icon": "wind",          "title": "Hoes 2+ weke",       "description": "Aanhoudende hoes, dikwels met spoeg, soms met bloed. Die kenmerkende teken — moenie aanvaar 'dis net 'n koue' as dit 2 weke duur nie." },
+      { "color": "purple", "icon": "thermometer",   "title": "Sistemiese tekens",   "description": "Nagswete (deurnatgesweet), onverklaarde gewigsverlies, verlies van eetlus, vermoeidheid wat nie weggaan nie, koors (dikwels effe in die middag of aand)." },
+      { "color": "coral",  "icon": "alert-circle",  "title": "Buite die longe",     "description": "TB kan ook in liggame ander as longe groei: nekkliere wat opswel, rugpyn (rugmurg-TB), buikpyn, of by kinders 'n styf nek (TB-meningitis)." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "Hoe TB versprei",
+    "yes": [
+      "Hoes, nies, of selfs hard praat van iemand met aktiewe TB",
+      "Naby kontak vir lang periodes (uur of meer in 'n geslote ruimte)",
+      "Sluitende, swak-geventileerde plekke — taxi's, gevangenisse, koshuise, kerke",
+      "Tussen huisgenote en familie wat gereeld kontak het",
+      "Van moeder na ongebore baba (selde, maar moontlik)"
+    ],
+    "no": [
+      "Eet- of drinkgereedskap deel",
+      "Hand skud",
+      "Soene of seks (TB is nie 'n SOI nie)",
+      "Tuis-oppervlakke aanraak",
+      "Iemand wat behandeling neem en nie meer aansteeklik is nie (gewoonlik ná 2 weke pille)"
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "TB is 'n armmensesiekte.",                                                "fact": "TB raak alle inkomsteklasse. Hoë SA-vlakke kom van swak ventilasie, oorbevolking, en HIV-koppeling — maar enigeen wat in 'n geslote ruimte met aktiewe TB tyd deurbring is bloot." },
+      { "myth": "Sodra ek beter voel, kan ek pille stop.",                                  "fact": "Vroeg afdraai is hoekom geneesmiddelbestande TB ontstaan. Jy moet die volle 6 maande voltooi — selfs as jy nie meer hoes nie en gewig terug aansit." },
+      { "myth": "TB-pille beskadig die lewer en hart — beter natuurlike middels.",         "fact": "TB-pille kan in skaarse gevalle lewer-newe-effekte hê — wat gemonitor word. Maar onbehandelde TB dood gewaarborg. Natuurlike middels het nooit TB-bakterieë gestop nie." },
+      { "myth": "As jy goed eet en sterk is, kan jy TB self afweer.",                       "fact": "Goeie voeding help die immuunstelsel, maar geen dieet alleen kan aktiewe TB stop nie. Antibiotika is die enigste effektiewe behandeling. Eet goed plus drink pille." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om TB te voorkom",
+    "lede": "Voorkoming gaan oor versmoor van die siekte se verspreiding én van jou eie risiko.",
+    "items": [
+      { "color": "green",  "icon": "syringe",       "title": "BCG-inenting by geboorte",        "description": "Word aan alle SA-babas gegee. Beskerm veral teen erge TB-vorms by kinders. Deel van die EPI-syklus." },
+      { "color": "purple", "icon": "wind",           "title": "Goeie ventilasie",                 "description": "Maak vensters oop in huise, taxi's, kerke, klaskamers. TB hou nie van vars lug en sonlig nie. Een van die eenvoudigste maar mees-effektiewe maatreëls." },
+      { "color": "orange", "icon": "users",          "title": "Toets kontak na 'n nuwe geval",   "description": "As iemand in jou huis of werk TB kry — gaan jy ook toets. Kontakopsporing en voorbehoeding stop versprei." },
+      { "color": "gold",   "icon": "shield",         "title": "Vroeë HIV-toets",                  "description": "HIV verhoog TB-risiko enorm. Vroeg toets en ART begin verminder TB-risiko aansienlik. Beide gratis by kliniek." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Hoes langer as 2 weke? Toets",                  "description": "Gratis by elke kliniek. Gee spoeg — een vroeë oggend en een tweede. Resultate binne 'n paar dae. Soms reeds dieselfde dag (GeneXpert)." },
+      { "title": "As positief — begin behandeling dadelik",        "description": "Die kliniek gee jou die pille gratis. Vier soorte pille saam in die eerste 2 maande, dan twee soorte vir 4 maande. Voltooi alles." },
+      { "title": "Vertel die mense in jou huis",                    "description": "Hulle moet getoets word. As hulle gesond is — voorbehoedende pille word soms aanbeveel (TPT). As hulle ook hoes — hulle moet ook 'n TB-toets doen." },
+      { "title": "Hou kliniek-afsprake en pille-tye stip",         "description": "DOT-vennote (Direct Observed Therapy) help jou pille tyds neem. As jy moet werk of reis — vertel die kliniek. Hulle reël aflewering of plaaslike kliniek." },
+      { "title": "Eet goed en hou liggaamlik aktief",               "description": "TB en die behandeling tap energie. Goeie voeding versterk genesing. Beweeg as jy kan — selfs ligte stap help." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "TB-behandeling in SA is een van die meer-gevorderde dele van die openbare stelsel. Alles is gratis. Vroeg-vang, vroeg-behandel.",
+    "helplines": [
+      { "name": "Vind jou naaste kliniek",  "description": "Gratis TB-toetse, pille en monitering",        "meta": "Geen afspraak · geen mediese fonds nodig",      "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true,  "link": "/clinic-finder" },
+      { "name": "Nasionale TB-/HIV-lyn",     "description": "Inligting, advies, ondersteuning",                "meta": "Gratis · Ma–Vr 07:30–20:00 · Sa 09:00–17:00",   "phone": "0800012322", "phone_display": "0800 012 322",   "primary": true },
+      { "name": "NICD-lyn",                  "description": "Vir openbare gesondheidsvrae en uitbreidings",   "meta": "Ma–Vr 08:00–16:00",                            "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+    ]
+  }
+}

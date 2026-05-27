@@ -1,0 +1,165 @@
+{
+  "version": "2.0",
+  "platform": "MyMedic",
+  "mvp_count": 32,
+  "languages": ["en", "af", "zu", "xh"],
+  "core_sections": [
+    "what-is-it",
+    "know-this",
+    "signs",
+    "what-to-do",
+    "get-help",
+    "footer"
+  ],
+  "modules_available": ["urgent", "spreads", "myths", "prevention"],
+  "groups": [
+    {
+      "id": 1,
+      "slug": "emergency-signs",
+      "name": "Emergency warning signs",
+      "tagline": "Know what to do in the first minutes.",
+      "color": "#C0392B",
+      "icon": "alert-triangle",
+      "tier_default": "emergency",
+      "poster_priority": 1
+    },
+    {
+      "id": 2,
+      "slug": "chronic-lifestyle",
+      "name": "Chronic lifestyle diseases",
+      "tagline": "Long-term conditions you can manage.",
+      "color": "#2980B9",
+      "icon": "activity",
+      "tier_default": "chronic",
+      "poster_priority": 2
+    },
+    {
+      "id": 3,
+      "slug": "infectious",
+      "name": "Infectious diseases",
+      "tagline": "What spreads, how to protect yourself.",
+      "color": "#8E44AD",
+      "icon": "shield",
+      "tier_default": "infectious",
+      "poster_priority": 3
+    },
+    {
+      "id": 4,
+      "slug": "womens-health",
+      "name": "Women's health",
+      "tagline": "Care across every life stage.",
+      "color": "#D63384",
+      "icon": "heart",
+      "tier_default": "specialty",
+      "poster_priority": 4
+    },
+    {
+      "id": 5,
+      "slug": "mens-health",
+      "name": "Men's health",
+      "tagline": "What men too often don't ask about.",
+      "color": "#0E7C7B",
+      "icon": "user",
+      "tier_default": "specialty",
+      "poster_priority": 5
+    },
+    {
+      "id": 6,
+      "slug": "child-baby",
+      "name": "Child and baby health",
+      "tagline": "When to worry, when to wait.",
+      "color": "#F39C12",
+      "icon": "baby",
+      "tier_default": "paediatric",
+      "poster_priority": 6
+    },
+    {
+      "id": 7,
+      "slug": "mental-health",
+      "name": "Mental health",
+      "tagline": "You are not alone. Help exists.",
+      "color": "#16A085",
+      "icon": "brain",
+      "tier_default": "mental-health",
+      "poster_priority": 7
+    },
+    {
+      "id": 8,
+      "slug": "skin-allergy",
+      "name": "Skin and allergy",
+      "tagline": "Common, treatable, often misunderstood.",
+      "color": "#E67E22",
+      "icon": "droplet",
+      "tier_default": "everyday",
+      "poster_priority": 8
+    },
+    {
+      "id": 9,
+      "slug": "pain-everyday",
+      "name": "Pain and everyday problems",
+      "tagline": "The complaints that bring you to the pharmacy.",
+      "color": "#7F8C8D",
+      "icon": "thermometer",
+      "tier_default": "everyday",
+      "poster_priority": 9
+    },
+    {
+      "id": 10,
+      "slug": "prevention-screening",
+      "name": "Prevention and screening",
+      "tagline": "Catch it early. Stay ahead.",
+      "color": "#27AE60",
+      "icon": "check-circle",
+      "tier_default": "prevention",
+      "poster_priority": 10
+    }
+  ],
+  "diseases": [
+    { "id": 1,  "slug": "stroke",                    "group_slug": "emergency-signs",   "name": "Stroke",                                "tagline": "FAST signs. Every minute counts.",                                  "tier": "emergency",     "modules": ["urgent", "myths"],                "in_mvp": true },
+    { "id": 2,  "slug": "heart-attack",              "group_slug": "emergency-signs",   "name": "Heart attack",                          "tagline": "Chest pain that doesn't pass â€” call now.",                          "tier": "emergency",     "modules": ["urgent", "myths"],                "in_mvp": true },
+    { "id": 3,  "slug": "severe-allergic-reaction",  "group_slug": "emergency-signs",   "name": "Severe allergic reaction (anaphylaxis)","tagline": "Swelling, breathing trouble â€” emergency.",                          "tier": "emergency",     "modules": ["urgent", "spreads"],              "in_mvp": true },
+    { "id": 4,  "slug": "asthma-attack",             "group_slug": "emergency-signs",   "name": "Asthma attack",                         "tagline": "Wheezing that won't ease â€” act fast.",                              "tier": "emergency",     "modules": ["urgent", "myths"],                "in_mvp": true },
+    { "id": 5,  "slug": "meningitis",                "group_slug": "emergency-signs",   "name": "Meningitis",                            "tagline": "Stiff neck, severe headache, purple rash.",                         "tier": "emergency",     "modules": ["urgent", "spreads", "prevention"],"in_mvp": true },
+
+    { "id": 6,  "slug": "high-blood-pressure",       "group_slug": "chronic-lifestyle", "name": "High blood pressure",                   "tagline": "The silent killer â€” 1 in 3 SA adults.",                             "tier": "chronic",       "modules": ["myths", "prevention"],            "in_mvp": true },
+    { "id": 7,  "slug": "diabetes",                  "group_slug": "chronic-lifestyle", "name": "Diabetes",                              "tagline": "Fastest-growing chronic disease in SA.",                            "tier": "chronic",       "modules": ["myths", "prevention"],            "in_mvp": true },
+    { "id": 8,  "slug": "high-cholesterol",          "group_slug": "chronic-lifestyle", "name": "High cholesterol",                      "tagline": "What the numbers mean for your heart.",                             "tier": "chronic",       "modules": ["myths", "prevention"],            "in_mvp": true },
+
+    { "id": 9,  "slug": "hiv",                       "group_slug": "infectious",        "name": "HIV",                                   "tagline": "Test, treat, undetectable. Live a full life.",                      "tier": "infectious",    "modules": ["spreads", "myths", "prevention"], "in_mvp": true },
+    { "id": 10, "slug": "tb",                        "group_slug": "infectious",        "name": "TB (Tuberculosis)",                     "tagline": "Coughing for 2+ weeks? Test today â€” treatment is free.",            "tier": "infectious",    "modules": ["urgent", "spreads", "prevention"],"in_mvp": true },
+    { "id": 11, "slug": "stis",                      "group_slug": "infectious",        "name": "STIs",                                  "tagline": "Common, treatable â€” get tested.",                                   "tier": "infectious",    "modules": ["spreads", "myths", "prevention"], "in_mvp": true },
+    { "id": 12, "slug": "flu",                       "group_slug": "infectious",        "name": "Flu (influenza)",                       "tagline": "When to rest. When to call your doctor.",                           "tier": "infectious",    "modules": ["spreads", "prevention"],          "in_mvp": true },
+    { "id": 13, "slug": "covid-19",                  "group_slug": "infectious",        "name": "COVID-19",                              "tagline": "What to do today. Long COVID. Vaccines.",                           "tier": "infectious",    "modules": ["spreads", "myths", "prevention"], "in_mvp": true },
+    { "id": 14, "slug": "pneumonia",                 "group_slug": "infectious",        "name": "Pneumonia",                             "tagline": "Top killer of under-5s and over-65s.",                              "tier": "infectious",    "modules": ["urgent", "spreads", "prevention"],"in_mvp": true },
+
+    { "id": 15, "slug": "cervical-cancer-hpv",       "group_slug": "womens-health",     "name": "Cervical cancer & HPV",                 "tagline": "Preventable with vaccine and screening.",                           "tier": "specialty",     "modules": ["myths", "prevention"],            "in_mvp": true },
+    { "id": 16, "slug": "breast-cancer",             "group_slug": "womens-health",     "name": "Breast cancer & lumps",                 "tagline": "Self-check, screening, and what to do if you find a lump.",         "tier": "specialty",     "modules": ["urgent", "myths", "prevention"],  "in_mvp": true },
+    { "id": 17, "slug": "pregnancy-danger-signs",    "group_slug": "womens-health",     "name": "Pregnancy danger signs",                "tagline": "Bleeding, severe pain, no movement â€” when to go in.",               "tier": "specialty",     "modules": ["urgent"],                         "in_mvp": true },
+    { "id": 18, "slug": "contraception",             "group_slug": "womens-health",     "name": "Contraception",                         "tagline": "Your options. What's free. What suits your life.",                  "tier": "specialty",     "modules": ["myths"],                          "in_mvp": true },
+
+    { "id": 19, "slug": "prostate-problems",         "group_slug": "mens-health",       "name": "Prostate problems",                     "tagline": "Common after 50. Most are treatable.",                              "tier": "specialty",     "modules": ["myths", "prevention"],            "in_mvp": true },
+
+    { "id": 20, "slug": "childhood-diarrhoea",       "group_slug": "child-baby",        "name": "Childhood diarrhoea",                   "tagline": "ORS saves lives. Know the signs of dehydration.",                   "tier": "paediatric",    "modules": ["urgent", "spreads", "prevention"],"in_mvp": true },
+    { "id": 21, "slug": "child-fever",               "group_slug": "child-baby",        "name": "Child fever",                           "tagline": "When it is normal. When it is not.",                                "tier": "paediatric",    "modules": ["urgent"],                         "in_mvp": true },
+    { "id": 22, "slug": "vaccinations",              "group_slug": "child-baby",        "name": "Childhood vaccinations",                "tagline": "The free SA schedule. Every shot matters.",                         "tier": "paediatric",    "modules": ["myths", "prevention"],            "in_mvp": true },
+    { "id": 23, "slug": "asthma-children",           "group_slug": "child-baby",        "name": "Asthma in children",                    "tagline": "Triggers, inhalers, school plans.",                                 "tier": "paediatric",    "modules": ["urgent", "myths"],                "in_mvp": true },
+
+    { "id": 24, "slug": "depression",                "group_slug": "mental-health",     "name": "Depression",                            "tagline": "Real. Common. Treatable. You are not alone.",                       "tier": "mental-health", "modules": ["urgent", "myths"],                "in_mvp": true },
+    { "id": 25, "slug": "anxiety",                   "group_slug": "mental-health",     "name": "Anxiety",                               "tagline": "More than worry. There are tools that help.",                       "tier": "mental-health", "modules": ["myths"],                          "in_mvp": true },
+    { "id": 26, "slug": "substance-use",             "group_slug": "mental-health",     "name": "Substance use & addiction",             "tagline": "Alcohol, drugs â€” how to recognise it, where to get help.",          "tier": "mental-health", "modules": ["urgent", "myths"],                "in_mvp": true },
+
+    { "id": 27, "slug": "acne",                      "group_slug": "skin-allergy",      "name": "Acne",                                  "tagline": "What works. What makes it worse.",                                  "tier": "everyday",      "modules": ["myths"],                          "in_mvp": true },
+    { "id": 28, "slug": "eczema",                    "group_slug": "skin-allergy",      "name": "Eczema",                                "tagline": "Triggers and how to break the itch cycle.",                         "tier": "everyday",      "modules": ["myths"],                          "in_mvp": true },
+    { "id": 29, "slug": "fungal-skin",               "group_slug": "skin-allergy",      "name": "Fungal skin infections",                "tagline": "Ringworm, athlete's foot, thrush â€” easy to treat.",                 "tier": "everyday",      "modules": ["spreads", "myths"],               "in_mvp": true },
+
+    { "id": 30, "slug": "headache-migraine",         "group_slug": "pain-everyday",     "name": "Headache & migraine",                   "tagline": "When it is tension. When it is a red flag.",                        "tier": "everyday",      "modules": ["urgent"],                         "in_mvp": true },
+    { "id": 31, "slug": "heartburn-reflux",          "group_slug": "pain-everyday",     "name": "Heartburn & reflux",                    "tagline": "Common â€” but sometimes a warning sign.",                            "tier": "everyday",      "modules": ["urgent", "myths"],                "in_mvp": true },
+    { "id": 32, "slug": "uti",                       "group_slug": "pain-everyday",     "name": "Urinary tract infection (UTI)",         "tagline": "Burning, urgency, treat early.",                                    "tier": "everyday",      "modules": ["myths", "prevention"],            "in_mvp": true }
+  ],
+  "notes": {
+    "groups_in_mvp": ["emergency-signs", "chronic-lifestyle", "infectious", "womens-health", "mens-health", "child-baby", "mental-health", "skin-allergy", "pain-everyday"],
+    "group_10_status": "Prevention & screening exists as a navigation category; specific screening content lives inside each disease page under the 'prevention' optional module for MVP. Dedicated screening pages added in V2.",
+    "mvp_languages_phase_1": ["en", "af"],
+    "mvp_languages_phase_2": ["zu", "xh"]
+  }
+}

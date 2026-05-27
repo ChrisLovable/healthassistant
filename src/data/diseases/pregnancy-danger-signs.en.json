@@ -1,0 +1,82 @@
+{
+  "slug": "pregnancy-danger-signs",
+  "group_slug": "womens-health",
+  "name": "Pregnancy danger signs",
+  "tagline": "Bleeding, severe pain, no movement — when to go in.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Department of Health", "Saving Mothers Report", "WHO", "South African Society of Obstetricians and Gynaecologists"],
+
+  "urgent": {
+    "heading": "Go to hospital now if",
+    "primary_message": "Pregnancy danger signs can mean the difference between life and death — for mother or baby. Don't wait. Don't second-guess. Go.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Heavy bleeding from the vagina — more than a normal period",
+      "Severe abdominal or back pain that won't ease",
+      "Severe headache with blurred vision or seeing spots",
+      "Sudden severe swelling of face, hands, or feet",
+      "Baby not moving as usual (after 28 weeks)",
+      "Water breaking before 37 weeks",
+      "Fever above 38°C",
+      "Vomiting that won't stop"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Why this matters",
+    "lede": "Pregnancy is generally safe in South Africa, but maternal deaths are still too common — and most are preventable. Knowing the danger signs and acting fast saves lives.",
+    "paragraphs": [
+      "South Africa records over 1,000 maternal deaths every year. The Saving Mothers report shows that most happen from preventable causes — bleeding, high blood pressure, infection, complications of pre-existing conditions. Many deaths happen because warning signs were dismissed or care was delayed.",
+      "You don't need to know what's wrong. You just need to recognise that something is wrong, and get to a hospital. Free obstetric care is available at every government hospital. Trust your instinct — if something feels wrong, it probably is."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "1,000+",         "body": "South African women die in pregnancy or childbirth every year. The vast majority of these deaths are preventable." },
+      { "color": "purple", "icon": "message-circle","headline": "MomConnect",     "body": "Free WhatsApp pregnancy support from NDoH in all SA languages. Send 'Hi' to 079 631 2456 to register." },
+      { "color": "gold",   "icon": "shield",        "headline": "Free care",      "body": "All antenatal visits, birth, and emergency obstetric care are free at every government hospital and clinic." },
+      { "color": "green",  "icon": "check-circle",  "headline": "Trust yourself", "body": "If something feels wrong, go in. Healthcare workers would rather see you for nothing than miss something serious." }
+    ],
+    "pull_quote": {
+      "text": "Every maternal death has a story behind it of warning signs missed or dismissed. If you are pregnant and worried, the right answer is always to be checked. Always.",
+      "source": "Saving Mothers Report, South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Warning signs by stage of pregnancy",
+    "lede": "Some signs matter at any stage. Others matter more at certain times. When in doubt — get checked.",
+    "items": [
+      { "color": "coral",  "icon": "droplet",      "title": "First 12 weeks",                 "description": "Heavy bleeding, severe one-sided pain (could be ectopic pregnancy — life-threatening), severe vomiting that prevents keeping fluids down, fever above 38°C." },
+      { "color": "orange", "icon": "alert-circle", "title": "After 12 weeks",                  "description": "Heavy bleeding, severe headache with vision changes (possible pre-eclampsia), severe swelling, baby movements slowing or stopping (after 28 weeks)." },
+      { "color": "purple", "icon": "clock",        "title": "Near or at term (after 37 weeks)","description": "Regular contractions, water breaking, bleeding, reduced fetal movement, severe headache or stomach pain. Don't try to time things at home — go in." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "If a danger sign appears — go to hospital",       "description": "Don't drive yourself if you can avoid it. Call an ambulance or have someone drive you. Take your antenatal card or clinic book." },
+      { "title": "Don't try to time symptoms at home",             "description": "Severe pain, bleeding, or vision changes don't need timing. Go in. Pre-eclampsia and ectopic pregnancy can kill within hours." },
+      { "title": "Go to your booked hospital or the nearest one",  "description": "Government hospitals must accept pregnant emergencies regardless of where you booked. Take your records if you have them." },
+      { "title": "If unsure — message MomConnect",                  "description": "Free WhatsApp support — send 'Hi' to 079 631 2456. Your clinic can also advise whether to come in. When unsure, choose hospital." },
+      { "title": "Attend every antenatal visit",                    "description": "Most danger signs are caught early at routine antenatal visits. Free at every clinic. The schedule prevents emergencies." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Pregnancy emergencies need hospital, not clinic. Go to a government hospital with obstetric services — Tygerberg, Charlotte Maxeke, Steve Biko, King Edward, and others around the country.",
+    "helplines": [
+      { "name": "Emergency ambulance", "description": "Government emergency medical service",                "meta": "Free · 24 hours · say 'pregnancy emergency'", "phone": "10177",       "phone_display": "10177",          "primary": true },
+      { "name": "Emergency (mobile)",   "description": "Reaches any emergency service from a cellphone",     "meta": "Free from any mobile · 24 hours",            "phone": "112",         "phone_display": "112",            "primary": true },
+      { "name": "MomConnect",            "description": "Free pregnancy support and advice via WhatsApp",    "meta": "All SA languages · NDoH",                    "phone": "0796312456",  "phone_display": "WhatsApp 079 631 2456", "primary": false }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "stroke",
+  "group_slug": "emergency",
+  "name": "Beroerte",
+  "tagline": "Skielik? Bel 10177. Tyd is brein.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["Heart and Stroke Foundation SA", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Bel 10177 nou as jy enige van hierdie sien",
+    "primary_message": "'n Beroerte is 'n breinnoodgeval. Elke minuut sonder bloedtoevoer dood breinselle af. Bel die ambulans dadelik — moenie wag om te kyk of dit verbeter nie.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Skewe gesig of mond — kan nie 'n eweredige glimlag wys nie",
+      "Eensydige swakheid in arm of been — 'n arm val uit wanneer beide opgelig word",
+      "Slordige of onverstaanbare spraak, of moeilikheid om te praat",
+      "Skielike erge hoofpyn — die ergste ooit, sonder oorsaak",
+      "Skielike verwarring of moeilikheid om eenvoudige opdragte te volg",
+      "Skielike verlies van balans, koördinasie of duiseligheid",
+      "Skielike visieprobleme in een of beide oë"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Beroerte in eenvoudige terme",
+    "lede": "'n Beroerte gebeur wanneer die bloedtoevoer na 'n deel van die brein afgesny word — óf deur 'n verstopte bloedvat (iskemiese beroerte) óf deur 'n geskeurde bloedvat (bloedingsberoerte). Sonder bloed sterf breinselle binne minute.",
+    "paragraphs": [
+      "Beroerte is een van die top oorsake van dood en blywende gestremdheid in Suid-Afrika. Die meeste beroertes is voorkombaar — hoë bloeddruk is die grootste enkele oorsaak, en is behandelbaar.",
+      "Tyd is alles. Behandelings wat 'n verstopte bloedvat oopmaak (trombolise) of die stolsel verwyder (trombektomie) werk net binne die eerste paar uur. Die vinniger by die hospitaal, hoe meer brein word gered."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "clock",         "headline": "Tyd is brein",     "body": "Vir elke minuut van beroerte sonder behandeling sterf miljoene breinselle. Vinnig hospitaal toe — moenie eers by die kliniek aandoen nie." },
+      { "color": "purple", "icon": "heart-pulse",  "headline": "Hoë bloeddruk",     "body": "Die enkele grootste oorsaak van beroerte in SA. Beheer dit en jy verminder beroerterisiko met die helfte." },
+      { "color": "gold",   "icon": "shield",        "headline": "Voorkombaar",      "body": "Tot 80% van beroertes is voorkombaar — beheer bloeddruk, moenie rook nie, beweeg, en behandel diabetes." },
+      { "color": "green",  "icon": "check-circle", "headline": "Behandelbaar",    "body": "Vinnige hospitaalbehandeling kan 'n beroerte stop in sy spore. Hoe vinniger jy daar is, hoe beter die uitkoms." }
+    ],
+    "pull_quote": {
+      "text": "Die beste behandeling vir 'n beroerte is dieselfde as 60 jaar gelede: kom vinnig hospitaal toe. Wat verander het, is hoe goed ons jou daar kan help — as jy betyds is.",
+      "source": "Heart and Stroke Foundation South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Hoe om 'n beroerte te herken",
+    "lede": "Die tekens kom skielik. Onthou GAST — Gesig, Arm, Spraak, Tyd. Een teken alleen is genoeg om die ambulans te bel.",
+    "items": [
+      { "color": "coral",  "icon": "smile",   "title": "Gesig",  "description": "Vra die persoon om te glimlag. Hang een kant van die mond af? Lyk die gesig skeef? Dit is 'n beroerteteken." },
+      { "color": "orange", "icon": "arrow-down","title": "Arm",  "description": "Vra die persoon om beide arms op te lig en daar te hou vir 10 sekondes. Val een arm uit, of kan hulle nie albei optel nie? Beroerteteken." },
+      { "color": "purple", "icon": "message-circle","title": "Spraak","description": "Vra hulle om 'n eenvoudige sin te herhaal. Klink dit slordig, verward, of onverstaanbaar? Beroerteteken." },
+      { "color": "gold",   "icon": "clock",   "title": "Tyd",    "description": "As jy enige van hierdie sien — bel 10177 dadelik. Skryf op hoe laat die simptome begin het. Daardie tyd bepaal watter behandelings beskikbaar is." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Bel 10177 dadelik",                              "description": "Vra spesifiek vir 'n ambulans en sê 'verdagte beroerte'. Moenie self ry of by die kliniek aandoen nie — gaan reguit hospitaal toe waar daar 'n CT-skandeerder is." },
+      { "title": "Skryf op hoe laat die simptome begin het",       "description": "Of laaste tyd toe die persoon normaal was. Hierdie tyd bepaal of trombolise (klontoplossende medisyne) gegee kan word — slegs effektief binne die eerste paar uur." },
+      { "title": "Hou die persoon stil — moenie laat slaap nie",    "description": "Laat hulle plat lê, kop effe opgelig. Moenie kos of drink gee nie — slukspiere kan deur beroerte aangetas wees." },
+      { "title": "Wees gereed om CPR te doen",                      "description": "As hulle ophou asemhaal of bewussseloos raak, begin CPR as jy weet hoe. Die 10177-operateur kan jou deur die stappe lei oor die foon." },
+      { "title": "Maak nie haastige kosbehandeling tuis nie",       "description": "Asetilsalisielsuur (aspirien) help by sommige beroertes en verswak ander. Moenie self enige medisyne gee nie — laat die hospitaal besluit." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Beroerte is 'n hospitaal-noodgeval, nie 'n kliniek-een nie. Gaan reguit na 'n hospitaal met 'n noodafdeling — Tygerberg, Groote Schuur, Steve Biko, en groot regionale hospitale almal hanteer beroertes.",
+    "helplines": [
+      { "name": "Noodambulans",            "description": "Regerings-nooddiens",                                             "meta": "Gratis · 24 uur · sê 'verdagte beroerte'", "phone": "10177", "phone_display": "10177", "primary": true },
+      { "name": "Noodlyn (selfoon)",        "description": "Bereik enige nooddiens vanaf 'n selfoon",                         "meta": "Gratis vanaf enige selfoon · 24 uur",       "phone": "112",   "phone_display": "112",   "primary": true }
+    ]
+  }
+}

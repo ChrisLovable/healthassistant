@@ -1,0 +1,103 @@
+{
+  "slug": "covid-19",
+  "group_slug": "infectious",
+  "name": "COVID-19",
+  "tagline": "Nog steeds hier. Vaksien-voorkombaar. Lang-COVID is werklik.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["NICD", "WHO", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "COVID-19 in eenvoudige terme",
+    "lede": "COVID-19 is 'n lugweg-virusinfeksie veroorsaak deur die SARS-CoV-2-virus. Dit is steeds in omloop in Suid-Afrika — net stiller as in 2020–2022. Nuwe variante kom voort en is gewoonlik meer aansteeklik maar minder erg vir gevaksineerde mense.",
+    "paragraphs": [
+      "Vir die meeste mense met opdaterende vaksiene voel COVID-19 nou soos 'n erge koue of effe griep — 'n week se ellendigheid en herstel. Vir hoë-risiko mense (bejaardes, immuun-onderdruk, swanger, ongevaksineerd) bly dit gevaarlik en kan tot hospitalisering lei.",
+      "Lang-COVID — simptome wat maande aanhou ná die akute infeksie — affekteer 'n aansienlike deel van pasiënte. Vermoeidheid, breinmis, hartkloppings, kortasem op inspanning. Dit is werklik, gedokumenteer, en steeds in studie."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "purple", "icon": "users",         "headline": "Nog steeds hier", "body": "COVID-19 is nie weg nie — net minder dood as voorheen weens vaksiene en immuniteit. Dit muteer voortdurend." },
+      { "color": "gold",   "icon": "syringe",       "headline": "Vaksiene werk",   "body": "Opdaterende vaksiene verlaag hospitalisering- en doodsrisiko aansienlik. Veral belangrik vir hoë-risikogroepe." },
+      { "color": "coral",  "icon": "alert-circle",  "headline": "Lang-COVID",       "body": "Tot 1 uit 10 COVID-pasiënte ontwikkel lang-COVID — simptome wat weke tot maande hou. Werklik, gedokumenteer, behandelbaar." },
+      { "color": "green",  "icon": "shield",        "headline": "Voorkombaar",     "body": "Vaksien, ventilasie, en handhigiëne werk steeds. Maskers in hospitale en ander hoë-risiko ruimtes maak 'n verskil." }
+    ],
+    "pull_quote": {
+      "text": "Die COVID-pandemie het oorgegaan na 'n endemiese fase, maar dit beteken nie dat COVID-19 onskadelik geword het nie. Vir bejaardes en immuun-gekompromiteerde mense bly dit een van die mees gevaarlike enkele infeksies wat hulle kan kry.",
+      "source": "NICD"
+    }
+  },
+
+  "signs": {
+    "heading": "Tekens om voor te kyk",
+    "lede": "COVID-tekens oorvleuel sterk met griep en koue. Slegs 'n toets kan onderskei. Hier is wat om voor te kyk.",
+    "items": [
+      { "color": "purple", "icon": "wind",          "title": "Tipiese tekens",       "description": "Koors, droë hoes, keelseer, neusverkoue, hoofpyn, spierpyn, vermoeidheid. Sommige verloor reuk of smaak (minder algemeen by nuwer variante)." },
+      { "color": "orange", "icon": "alert-circle",  "title": "Tekens van bekommernis","description": "Kortasem op effe-inspanning, aanhoudende borspyn, lae suurstof (op 'n vingerlees-toestel), erge moegheid wat nie verbeter nie." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Krisis-tekens",        "description": "Erge kortasem in rus, blou lippe of vingers, verwarring, onvermoë om wakker te bly, swak gevoeligheid. Hospitaal toe dadelik." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "Hoe COVID-19 versprei",
+    "yes": [
+      "Lugdruppels en aerosols van hoes, nies, of selfs praat in geslote ruimtes",
+      "Naby kontak met 'n geïnfekteerde persoon — veral vir lang periodes",
+      "Sluitende, swak-geventileerde ruimtes — taxi's, kantore, klaskamers",
+      "Aanraking van besmette oppervlaktes en dan gesig aanraak (minder algemeen)",
+      "Mense kan versprei vir 1–2 dae voor simptome verskyn"
+    ],
+    "no": [
+      "Voedsel of pakkies",
+      "Diere as primêre bron (huistroeteldiere is veilig)",
+      "Buite-aktiwiteite met goeie ventilasie en afstand",
+      "Vaksiene (vaksiene veroorsaak nie COVID nie)"
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "COVID-19 is verby — dit is net 'n koue nou.",                                "fact": "Vir baie mense voel dit soos 'n koue, maar dit kan steeds erge siekte veroorsaak — veral by die ongevaksineerde, bejaardes, en immuun-onderdrukte mense." },
+      { "myth": "Vaksiene het 'n DNA-veranderingseffek of plant 'n mikroskyfie in.",            "fact": "mRNA-vaksiene leer die immuunstelsel die spike-proteïen aan; hulle bereik nie die DNA nie. Geen mikroskyfies, geen magnetisme. Onmoontlik volgens basiese biologie." },
+      { "myth": "Lang-COVID is verbeel of bedrog.",                                              "fact": "Lang-COVID is wel-gedokumenteer in groot studies. Daar is biologiese merkers, herstel-paaie, en groei van klinieke daarvoor. Dit is werklik en behandelbaar." },
+      { "myth": "Ek het COVID gehad, so ek het nie 'n vaksien nodig nie.",                       "fact": "Natuurlike immuniteit verbleek met tyd, en wek nie altyd genoeg beskerming teen nuwe variante nie. Vaksiene boost beskerming aansienlik selfs ná infeksie." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om COVID-19 te vermy",
+    "lede": "Dieselfde lae-koste maatreëls werk nog steeds — net minder streng as in pandemiese piek-tye.",
+    "items": [
+      { "color": "green",  "icon": "syringe",   "title": "Hou vaksien op datum",         "description": "Veral as hoë-risiko. Gratis by klinieke. Booster-skote elke 6–12 maande aanbeveel vir hoë-risikogroepe." },
+      { "color": "purple", "icon": "wind",       "title": "Ventilasie eerste",             "description": "Maak vensters oop, vermy lang tyd in geslote ruimtes met baie mense. Hoë-risiko ruimtes: openbare vervoer, klaskamers, kerk-byeenkomste." },
+      { "color": "orange", "icon": "shield",     "title": "Masker by hoë-risiko",          "description": "By hospitale, klinieke, in noulug-ruimtes met baie mense, of as iemand in jou huis siek is. N95-tipe maskers werk die beste." },
+      { "color": "gold",   "icon": "user-x",     "title": "Bly tuis as siek",              "description": "Selfs vir simptome wat soos 'n koue lyk. Toets jouself as moontlik. Beskerm hoë-risiko mense in jou omgewing." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "By simptome — toets jouself",                "description": "Sneltoetse beskikbaar by apteke (R50–100). Of by 'n kliniek vir 'n PCR. As positief, isoleer 5 dae en dra 'n masker vir nog 5 dae daarná." },
+      { "title": "Rus, drink baie, en pyn-stillers",            "description": "Paracetamol vir koors en spierpyn. Drink baie vloeistowwe. Slaap is hoe die immuunstelsel die virus uitvee." },
+      { "title": "Hoë-risiko? Vra dokter oor antivirale",       "description": "Paxlovid (nirmatrelvir/ritonavir) help binne 5 dae van eerste simptome om hospitalisering te voorkom. Vir hoë-risiko pasiënte. Gratis by kliniek vir kwalifiserende gevalle." },
+      { "title": "Monitor suurstof as moontlik",                "description": "'n Vinger-suurstofmeter (oximeter) kos R200–400. As suurstof onder 94% val, gaan hospitaal toe. Lae suurstof gebeur dikwels sonder dat jy dit voel." },
+      { "title": "By krisis-tekens — hospitaal toe",            "description": "Erge kortasem, borspyn, blou lippe, verwarring. Bel 10177. Moenie wag tot dit erger word nie." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "COVID-19 toetse en behandeling is gratis by staatsklinieke. Vir die meeste mense — tuis-herstel is genoeg. Vir hoë-risikogroepe is vroeë mediese aandag belangrik.",
+    "helplines": [
+      { "name": "Noodambulans",            "description": "Vir erge COVID-komplikasies",                  "meta": "Gratis · 24 uur",                          "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Vind jou naaste kliniek",  "description": "Gratis COVID-toets, vaksiene en behandeling",   "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
+      { "name": "NICD-lyn",                 "description": "COVID-inligting, advies en uitbreidings",        "meta": "Ma–Vr 08:00–16:00",                        "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+    ]
+  }
+}

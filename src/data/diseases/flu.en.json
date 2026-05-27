@@ -1,0 +1,91 @@
+{
+  "slug": "flu",
+  "group_slug": "infectious",
+  "name": "Flu (influenza)",
+  "tagline": "When to rest. When to call your doctor.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["National Institute for Communicable Diseases (NICD)", "WHO", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "Flu in plain terms",
+    "lede": "Influenza is a viral infection of the nose, throat, and lungs. It is far more aggressive than a common cold — fever, body aches, and exhaustion come on within hours.",
+    "paragraphs": [
+      "Most healthy people recover within a week to ten days. The danger lies in complications — pneumonia, worsening of asthma or heart disease, dehydration in the elderly and young children. Roughly 11,000 South Africans die from flu-related complications every year.",
+      "Flu is not just a bad cold. Colds come on slowly. Flu hits within hours — high fever, dry cough, muscle aches, headaches, and the kind of exhaustion that puts you in bed."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "calendar",      "headline": "Seasonal",       "body": "South African flu season runs roughly May to September. Get vaccinated in March or April." },
+      { "color": "coral",  "icon": "alert-triangle","headline": "Still kills",     "body": "Around 11,000 SA deaths a year — mostly from complications like pneumonia, mostly in the elderly and chronically ill." },
+      { "color": "gold",   "icon": "syringe",       "headline": "Free vaccine",   "body": "High-risk groups get free flu vaccines at clinics — over 65, pregnant women, chronic illness, healthcare workers." },
+      { "color": "green",  "icon": "home",          "headline": "Rest, not antibiotics","body": "Healthy adults usually need rest, fluids, and time — not antibiotics. Antibiotics do not work against viruses." }
+    ],
+    "pull_quote": {
+      "text": "The flu vaccine cannot give you flu — that is one of the most persistent and harmful myths. The vaccine contains no live virus.",
+      "source": "NICD"
+    }
+  },
+
+  "signs": {
+    "heading": "Flu versus cold — how to tell",
+    "lede": "Flu and colds are different illnesses. Knowing which you have changes what you do next.",
+    "items": [
+      { "color": "coral",  "icon": "thermometer", "title": "Flu hits fast and hard","description": "High fever (over 38°C) coming on within hours, severe body aches, dry cough, exhaustion. You feel knocked over." },
+      { "color": "orange", "icon": "wind",        "title": "Cold builds slowly",   "description": "Runny nose, sore throat, mild fatigue. You feel rough but functional. No high fever, no body aches." },
+      { "color": "purple", "icon": "alert-circle","title": "Warning signs",        "description": "Difficulty breathing, chest pain, blue lips, severe vomiting, confusion, symptoms that improve then suddenly get worse — see a clinic." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How flu spreads",
+    "yes": [
+      "Coughs and sneezes from infected people — droplets travel about a metre",
+      "Touching surfaces an infected person has coughed on, then touching your face",
+      "Close contact in poorly ventilated spaces — classrooms, taxis, offices",
+      "From an infected person starting a day before they feel sick"
+    ],
+    "no": [
+      "Mosquito bites or other insects",
+      "Food, water, or sharing drinks (uncommon)",
+      "Getting cold or wet — the cold does not cause flu, the virus does",
+      "The flu vaccine — it contains no live virus"
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself and your family",
+    "lede": "The annual flu vaccine is the single most effective thing. Even if you still get flu after vaccination, it is usually much milder.",
+    "items": [
+      { "color": "green",  "icon": "syringe", "title": "Annual flu vaccine",  "description": "Get vaccinated every year before flu season. Free at clinics for high-risk groups, around R100 at most pharmacies for everyone else." },
+      { "color": "purple", "icon": "droplet", "title": "Wash hands often",     "description": "Soap and water for 20 seconds, or alcohol sanitiser. Especially after public transport, shopping, or school pickup." },
+      { "color": "orange", "icon": "wind",    "title": "Ventilation",          "description": "Open windows in homes, classrooms, and offices. Flu spreads far less in well-ventilated spaces." },
+      { "color": "gold",   "icon": "home",    "title": "Stay home if sick",   "description": "If you have flu, stay home for 24 hours after your fever breaks. You are most infectious in the first 3–4 days." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Rest, fluids, paracetamol",         "description": "Sleep as much as you can. Drink water, juice, soup. Paracetamol or ibuprofen for fever and aches." },
+      { "title": "Do not ask for antibiotics",        "description": "Flu is viral. Antibiotics do nothing for viruses. They only help if a bacterial complication like pneumonia develops." },
+      { "title": "If high-risk — see a clinic early", "description": "Pregnant, over 65, chronic illness (asthma, heart disease, diabetes, HIV)? See a clinic within 48 hours — antivirals work best early." },
+      { "title": "Watch for warning signs",            "description": "Difficulty breathing, chest pain, confusion, severe vomiting, sudden worsening — get medical attention." },
+      { "title": "Protect others",                     "description": "Stay home until fever-free for 24 hours. Cover coughs with your elbow. Do not visit elderly relatives while sick." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Most flu can be managed at home. Clinics and pharmacies help with severe symptoms and high-risk groups.",
+    "helplines": [
+      { "name": "Find your nearest clinic", "description": "Every government clinic offers free flu vaccines for high-risk groups", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic",  "primary": true, "link": "/clinic-finder" },
+      { "name": "NICD Hotline",             "description": "Information on flu surveillance and vaccination",                       "meta": "Mon–Fri 08:00–16:00",                       "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+    ]
+  }
+}

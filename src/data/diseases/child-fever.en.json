@@ -1,0 +1,83 @@
+{
+  "slug": "child-fever",
+  "group_slug": "child-baby",
+  "name": "Child fever",
+  "tagline": "When it is normal. When it is not.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["Red Cross War Memorial Children's Hospital", "WHO Child Health", "National Department of Health", "South African Paediatric Association"],
+
+  "urgent": {
+    "heading": "See a clinic or hospital urgently if",
+    "primary_message": "Most childhood fevers are not dangerous. But these signs change things — get to a clinic or hospital.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Baby under 3 months with any fever (38°C or higher)",
+      "Fever over 40°C in a child of any age",
+      "Fever lasting more than 3 days",
+      "Difficulty breathing or fast breathing",
+      "Rash that doesn't fade when pressed under a glass",
+      "Stiff neck, severe headache, or sensitivity to light",
+      "Drowsy, hard to wake, or unusually quiet",
+      "Persistent vomiting or no urine for 8+ hours",
+      "Seizures — even brief ones need assessment"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Fever in plain terms",
+    "lede": "Fever is a body temperature over 38°C. It is not a disease — it is the body's way of fighting infection. Most childhood fevers are useful and not dangerous in themselves.",
+    "paragraphs": [
+      "Fever helps the immune system work harder against viruses and bacteria. The temperature itself rarely causes harm in a child — even a high temperature is not 'frying' the brain (this is a common worry but not how fever damages bodies). What matters is what's causing it and how the child looks.",
+      "A child with a normal-feeling 39°C can be much less worrying than a child with 38°C who is floppy, refusing to feed, or unusual in any way. Trust how the child looks more than the thermometer. When in doubt, get them checked."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "green",  "icon": "shield",        "headline": "Mostly OK",         "body": "Most childhood fevers are viral, last 2–3 days, and resolve without treatment. The fever itself is rarely the problem." },
+      { "color": "coral",  "icon": "alert-triangle","headline": "Under 3 months",    "body": "Babies under 3 months with any fever need urgent medical assessment. Their immune systems are immature and infections can be serious." },
+      { "color": "purple", "icon": "user",          "headline": "Watch the child",   "body": "How the child looks and acts matters more than the number on the thermometer. A bright child with a high fever is less worrying than a floppy one with a mild fever." },
+      { "color": "gold",   "icon": "x-circle",      "headline": "No antibiotics",   "body": "Antibiotics don't treat viruses. Most childhood fevers are viral — antibiotics won't help and can cause side effects." }
+    ],
+    "pull_quote": {
+      "text": "Don't chase the thermometer. Look at your child. A child who is interactive, drinking, and producing wet nappies is doing well — even with a high fever. A floppy, glassy-eyed child needs help — even with a mild fever.",
+      "source": "Red Cross War Memorial Children's Hospital"
+    }
+  },
+
+  "signs": {
+    "heading": "How to tell if it's serious",
+    "lede": "Fever in itself isn't the danger. Look at the whole picture — your child's behaviour, breathing, fluids, and any other symptoms.",
+    "items": [
+      { "color": "green",  "icon": "smile",          "title": "Probably OK",     "description": "Child is interactive (playing, smiling, watching), drinking fluids, producing wet nappies, no rash, no breathing difficulty. Fever can be high but the child looks like themselves." },
+      { "color": "orange", "icon": "alert-circle",   "title": "Watch closely",   "description": "Child unusually quiet, less playful than normal, slightly off feeds, fever lasting 24–48 hours, mild rash. Not emergency but worth a clinic visit if it persists or worsens." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Get help now",    "description": "Floppy or unresponsive, breathing fast or with effort, rash that doesn't fade under glass, stiff neck, refusing all fluids, no urine for 8+ hours, seizures, or any baby under 3 months with any fever." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Dress lightly — keep the room comfortable",         "description": "Light clothing, light blanket if shivering. Don't bundle in heavy blankets or wrap up — this raises body temperature further." },
+      { "title": "Offer fluids often",                                "description": "Breastmilk, formula, water, ORS. Small amounts, often. Watch for wet nappies — a sign of good hydration." },
+      { "title": "Paracetamol or ibuprofen only for comfort",         "description": "Not because of the number on the thermometer — only if the child seems uncomfortable. Follow weight-based dosing on the bottle. Don't combine paracetamol and ibuprofen without medical advice." },
+      { "title": "Don't sponge with cold water or alcohol",            "description": "This is uncomfortable and can cause shivering, which raises temperature. Lukewarm water is fine if the child wants it." },
+      { "title": "Trust your instinct",                                "description": "If something feels wrong — even if you can't say what — go to a clinic. Parents pick up on subtle changes that matter. Healthcare workers prefer you bring a child for nothing than miss something." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Most childhood fevers can be managed at home. Knowing when to escalate is the key skill — and clinics are happy to see worried parents.",
+    "helplines": [
+      { "name": "Emergency ambulance",        "description": "For severely unwell children",                              "meta": "Free · 24 hours",                            "phone": "10177", "phone_display": "10177",         "primary": true },
+      { "name": "Find your nearest clinic",   "description": "Free assessment for sick children, no appointment needed",   "meta": "No appointment · no medical aid required",   "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "Childline SA",                "description": "Free 24-hour child health and welfare line",                "meta": "Free from any phone · 24 hours",            "phone": "116",   "phone_display": "116",           "primary": false }
+    ]
+  }
+}

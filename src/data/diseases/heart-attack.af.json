@@ -1,0 +1,80 @@
+{
+  "slug": "heart-attack",
+  "group_slug": "emergency",
+  "name": "Hartaanval",
+  "tagline": "Borspyn met sweet, kortasem? Bel 10177.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["Heart and Stroke Foundation SA", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Bel 10177 dadelik as jy enige van hierdie het",
+    "primary_message": "'n Hartaanval is 'n noodgeval. Elke minuut sonder bloedtoevoer beskadig hartspier permanent. Bel die ambulans nou — moenie self ry nie.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Borspyn of -druk — voel soos 'n swaar gewig op die bors",
+      "Pyn wat versprei na die arm (gewoonlik links), kaak, nek, rug, of maag",
+      "Skielike kortasem — selfs sonder borspyn",
+      "Koue sweet, naarheid, of swymeling",
+      "Vermoeidheid uit niks — veral by vroue, ouer mense, en diabete",
+      "Pyn wat nie weggaan met rus nie en langer as 10 minute hou",
+      "Skielike duiseligheid of flou voel saam met borspyn"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Hartaanval in eenvoudige terme",
+    "lede": "'n Hartaanval gebeur wanneer 'n bloedvat wat die hartspier voed verstop raak — gewoonlik deur 'n bloedstolsel op 'n cholesterolophoping. Sonder bloed begin daardie deel van die hartspier binne minute sterf.",
+    "paragraphs": [
+      "Hartsiekte is een van die top oorsake van dood in Suid-Afrika, en die syfers styg. Die meeste hartaanvalle is voorkombaar — beheer bloeddruk en cholesterol, moenie rook nie, beweeg, eet gesonde voedsel.",
+      "Die behandeling is om die verstopte bloedvat so vinnig moontlik weer oop te maak — óf met klontoplossende medisyne óf met 'n hartkatetisasie. Beide werk beter hoe gouer hulle gegee word. 'Tyd is hartspier.'"
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "clock",        "headline": "Tyd is spier",       "body": "Elke minuut sonder behandeling sterf hartspier permanent af. Vinnige hospitaalbehandeling red die spier en jou lewe." },
+      { "color": "purple", "icon": "users",        "headline": "Vroue lyk anders",   "body": "Vroue, ouer mense en diabete kry dikwels nie die klassieke 'olifant-op-die-bors' nie. Vermoeidheid, naarheid, kortasem alleen kan tekens wees." },
+      { "color": "gold",   "icon": "shield",       "headline": "Voorkombaar",         "body": "Hoë bloeddruk, hoë cholesterol, rook, swaar drink, oorgewig, geen oefening, diabetes — al hierdie verhoog die risiko. Almal is behandelbaar." },
+      { "color": "green",  "icon": "check-circle", "headline": "Oorleefbaar",        "body": "Met vinnige hospitaalsorg oorleef die meeste mense hul eerste hartaanval. Hoe vinniger jy daar is, hoe beter." }
+    ],
+    "pull_quote": {
+      "text": "Die mees kritieke ding wat jy kan doen as jy dink jy het 'n hartaanval is om nie te dink dit gaan beter raak nie. Die helfte van hartaanvalsterftes gebeur voor die persoon by die hospitaal kom — meestal omdat hulle gewag het.",
+      "source": "Heart and Stroke Foundation South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Wat 'n hartaanval voel soos",
+    "lede": "Die klassieke borspyn is nie altyd daar nie. Wees veral versigtig as die simptome onverklaarbaar opduik en nie weggaan nie.",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","title": "Klassieke tekens",       "description": "Druk of swaar gevoel midde-bors. Pyn versprei na linkerarm, kaak, nek of rug. Koue sweet, naarheid, kortasem, gevoel van naderende ondergang." },
+      { "color": "orange", "icon": "alert-circle",  "title": "Minder voor die hand",   "description": "By vroue en diabete: skielike ekstreme vermoeidheid, indigestion-tipe pyn boontoe, naarheid en braking, kortasem sonder borspyn, ligkop." },
+      { "color": "purple", "icon": "info",          "title": "Verwarring met indigestion","description": "Maagsuur en hartaanval kan dieselfde voel. As die simptome volg na oefening, emosie, of swaar maaltyd, en duur langer as 10 minute — neem dit as 'n hart-noodgeval." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Bel 10177 dadelik",                              "description": "Sê 'verdagte hartaanval'. Ambulansse het toerusting om die hartritme te monitor en behandeling onderweg te begin. Moenie self ry nie." },
+      { "title": "Kou een aspirien (300mg) — as jy nie allergies is",      "description": "Asetilsalisielsuur dun die bloed en help die klontvorming stop. Een gewone 300mg-tablet, gekou (nie gesluk nie) terwyl jy vir die ambulans wag." },
+      { "title": "Rus reguit — moenie loop of beweeg nie",         "description": "Sit of lê neer in die mees gemaklike posisie. Hoe minder beweging, hoe minder werk hoef die hart te doen." },
+      { "title": "Wees gereed om CPR te doen",                      "description": "As die persoon ineenstort of ophou asemhaal: begin borskompressies — hard, vinnig, midde-bors (100–120 per minuut). Die 10177-operateur kan jou lei." },
+      { "title": "Moenie wag om seker te wees nie",                  "description": "Die meeste mense wat sterf aan hartaanvalle het te lank gewag — getwyfel, gehoop dit is iets minder ernstig. Bel die ambulans en laat hulle besluit." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Hartaanval is 'n hospitaal-noodgeval, nie 'n kliniek-een nie. Gaan reguit na 'n hospitaal met 'n noodafdeling — Tygerberg, Groote Schuur, Steve Biko, en groot regionale hospitale almal kan hartaanvalle hanteer.",
+    "helplines": [
+      { "name": "Noodambulans",       "description": "Regerings-nooddiens",                            "meta": "Gratis · 24 uur · sê 'verdagte hartaanval'", "phone": "10177", "phone_display": "10177", "primary": true },
+      { "name": "Noodlyn (selfoon)",   "description": "Bereik enige nooddiens vanaf 'n selfoon",        "meta": "Gratis vanaf enige selfoon · 24 uur",         "phone": "112",   "phone_display": "112",   "primary": true }
+    ]
+  }
+}

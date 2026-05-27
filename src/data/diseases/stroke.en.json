@@ -1,0 +1,91 @@
+{
+  "slug": "stroke",
+  "group_slug": "emergency-signs",
+  "name": "Stroke",
+  "tagline": "FAST signs. Every minute counts.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["Heart and Stroke Foundation SA", "WHO", "National Department of Health", "American Stroke Association"],
+
+  "urgent": {
+    "heading": "Urgent — call now",
+    "primary_message": "Call an ambulance immediately. Note the exact time symptoms started.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "One side of the face drooping — ask them to smile",
+      "Arm weakness on one side — ask them to raise both arms",
+      "Speech slurred or strange — ask them to repeat a sentence",
+      "Sudden severe headache with no known cause",
+      "Sudden vision loss in one or both eyes",
+      "Sudden confusion or trouble understanding"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Stroke in plain terms",
+    "lede": "A stroke happens when blood flow to part of the brain is suddenly cut off. Brain cells start dying within minutes.",
+    "paragraphs": [
+      "Most strokes happen when a clot blocks a blood vessel in the brain. A smaller number happen when a vessel bursts and blood leaks in. Both are emergencies and look the same from the outside — you cannot tell which is which without a hospital scan.",
+      "The faster a stroke is treated, the more of the brain can be saved. Clot-busting medicines work best within the first few hours. After that, the damage becomes permanent. This is why minutes matter."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "clock",          "headline": "Minutes matter",  "body": "Around 2 million brain cells die every minute during a stroke. The clock starts at the first symptom." },
+      { "color": "purple", "icon": "alert-triangle", "headline": "80,000+",          "body": "South Africans have a stroke every year. It is a leading cause of adult disability and death." },
+      { "color": "gold",   "icon": "shield",         "headline": "Preventable",      "body": "Most strokes are linked to high blood pressure, smoking, diabetes, and diet — all of which can be managed." },
+      { "color": "green",  "icon": "heart",          "headline": "Recovery is possible", "body": "Acting in the first hour gives the best chance of full recovery. Hospitals have time-sensitive treatments." }
+    ],
+    "pull_quote": {
+      "text": "If you suspect a stroke, do not wait to see how it goes. Call an ambulance. Even if symptoms pass on their own — that itself is a warning sign.",
+      "source": "Heart and Stroke Foundation SA"
+    }
+  },
+
+  "signs": {
+    "heading": "The FAST test",
+    "lede": "Stroke symptoms come on suddenly. The faster you recognise them, the more of the brain can be saved. Remember FAST.",
+    "items": [
+      { "color": "coral",  "icon": "smile",         "title": "F — Face drooping",      "description": "Ask them to smile. Does one side of the mouth or face droop, even subtly?" },
+      { "color": "orange", "icon": "trending-down","title": "A — Arm weakness",       "description": "Ask them to raise both arms. Does one drift downward or feel numb? Can they hold both up equally?" },
+      { "color": "purple", "icon": "message-circle","title": "S — Speech difficulty",  "description": "Ask them to repeat a simple sentence. Is their speech slurred, strange, or hard to understand?" },
+      { "color": "gold",   "icon": "phone",         "title": "T — Time to call",       "description": "If you see any of these signs, call 10177 right away. Note the exact time symptoms started." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Strokes only happen to older people.",                                        "fact": "Strokes can happen at any age. About 1 in 4 strokes happens in people under 65, and the number is rising in young adults." },
+      { "myth": "If the symptoms pass quickly, it wasn't a real stroke.",                     "fact": "A brief episode (a TIA or 'mini-stroke') is a serious warning. About 1 in 3 people who have a TIA will have a full stroke — many within 48 hours." },
+      { "myth": "I should drive them to hospital myself — faster than waiting for an ambulance.","fact": "Paramedics start treatment in the ambulance and route to the right stroke-capable hospital. Driving yourself wastes critical time and is dangerous." },
+      { "myth": "Aspirin will help during a stroke.",                                         "fact": "Do not give aspirin during a suspected stroke. If it is a bleeding stroke (about 1 in 5 cases), aspirin will make it worse. Call the ambulance and wait." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do — the moment you suspect a stroke",
+    "items": [
+      { "title": "Call 10177 or 112 immediately",            "description": "Say the word 'stroke' clearly. Paramedics will prioritise and route to a stroke-capable hospital." },
+      { "title": "Note the exact time symptoms started",     "description": "This determines which treatments are possible. Even an approximate time helps the hospital team." },
+      { "title": "Do not give food, water, or medication",  "description": "The person may have trouble swallowing. Do not give anything by mouth — including aspirin." },
+      { "title": "If unconscious, lay them on their side",  "description": "The recovery position keeps the airway clear. If conscious, keep them comfortable and reassured." },
+      { "title": "Stay with them until paramedics arrive",  "description": "Watch their breathing. Be ready to perform CPR if they stop breathing. Unlock the door so paramedics can enter." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call right now",
+    "lede": "A suspected stroke is an emergency. Call now. Do not drive yourself or wait for symptoms to pass on their own.",
+    "helplines": [
+      { "name": "Emergency ambulance",          "description": "Government emergency medical service",                            "meta": "Free · 24 hours · say 'stroke'",                "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Emergency (mobile)",            "description": "Reaches any emergency service from a cellphone",                  "meta": "Free from any mobile · 24 hours",              "phone": "112",        "phone_display": "112",           "primary": true },
+      { "name": "Heart and Stroke Foundation SA","description": "Information, support, and rehabilitation referrals after a stroke","meta": "Mon–Fri 08:00–16:30",                          "phone": "0860000254", "phone_display": "0860 000 254",  "primary": false }
+    ]
+  }
+}

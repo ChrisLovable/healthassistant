@@ -1,0 +1,119 @@
+{
+  "slug": "pneumonia",
+  "group_slug": "infectious",
+  "name": "Longontsteking",
+  "tagline": "Erge hoes met koors. Hospitaal toe by kortasem.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["NICD", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Bel 10177 of gaan reguit hospitaal toe as",
+    "primary_message": "Erge longontsteking kan binne ure dood maak. Hierdie tekens beteken die longe het ondersteuning nodig — moenie wag nie.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Erge kortasem of vinnige asemhaling, selfs in rus",
+      "Blou lippe, vingernaels of gesig",
+      "Erge borspyn, veral met asemhaling",
+      "Hoë koors (39°C+) met rillings en sweet",
+      "Verwarring of skielike slaperigheid — veral by ouer mense",
+      "Onvermoë om vloeistowwe te hou of wakker te bly",
+      "By kinders: bors suig in tussen ribbes, baie vinnige asemhaling, weier kos, slaperigheid"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Longontsteking in eenvoudige terme",
+    "lede": "Longontsteking is wanneer infeksie die lugsakke (alveoli) in die longe vol vloeistof of pus maak. Resultaat: minder ruimte vir asem te haal. Veroorsaak deur bakterieë (mees algemeen), virusse (insluitend COVID en griep), of selde swamme.",
+    "paragraphs": [
+      "Longontsteking is een van die top doodsoorsake by SA kinders onder 5 en by bejaardes. Met vinnige diagnose en die regte behandeling — antibiotika vir bakteriële, ondersteuning vir virale — oorleef die meeste.",
+      "Hoë-risikogroepe: kinders onder 2, mense oor 65, rokers, HIV-positief, diabete, chroniese long- of hartsiekte. Vir hulle is vinnige aandag selfs belangriker."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "Top kinder-killer", "body": "Longontsteking is een van die top doodsoorsake by SA kinders onder 5. Vroeë teken-erkenning en kliniek-besoek red lewens." },
+      { "color": "purple", "icon": "syringe",       "headline": "Vaksiene help",     "body": "Pneumokokke-inenting in die kindersyklus voorkom een van die mees algemene oorsake. Griep-inenting voorkom virale longontsteking." },
+      { "color": "gold",   "icon": "check-circle", "headline": "Behandelbaar",    "body": "Met antibiotika (vir bakteriële) en ondersteunende sorg herstel die meeste pasiënte volkome. Vroeg diagnose maak alles uit." },
+      { "color": "green",  "icon": "users",         "headline": "Wie dit kry",      "body": "Veral kinders, bejaardes, en mense met onderliggende siektes. Maar enige iemand kan longontsteking kry — moenie dink dit kan jou nie tref nie." }
+    ],
+    "pull_quote": {
+      "text": "Die enkele beste maatreël wat 'n ouer kan neem om hul kind van longontsteking-dood te beskerm, is om die pneumokokke-vaksien op die SA-skedule te volg. Eenvoudig, gratis, en lewensreddend.",
+      "source": "NICD"
+    }
+  },
+
+  "signs": {
+    "heading": "Tekens van longontsteking",
+    "lede": "Longontsteking begin dikwels soos 'n erger-as-normaal koue of griep. Hierdie tekens onderskei dit.",
+    "items": [
+      { "color": "orange", "icon": "wind",          "title": "Algemene tekens",    "description": "Aanhoudende hoes met spoeg (soms gekleurd of bloederig), koors, koue rillings, sweet, kortasem, borspyn met asemhaling of hoes." },
+      { "color": "purple", "icon": "user",          "title": "By kinders",          "description": "Vinnige asemhaling, bors suig in tussen of onder ribbes, lippe blou, vermoeidheid, weier kos of drank, koors. By babas — neussnufgeluide en slaperigheid." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Bejaardes",           "description": "Tekens kan minder voor die hand wees: skielike verwarring, val-risiko, swakheid, lae koors of geen koors. Behoort hospitaal toe selfs vir 'milde' simptome." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "Hoe longontsteking versprei",
+    "yes": [
+      "Druppels van hoes en nies van geïnfekteerde persone",
+      "Mond-en-keel-bakterieë wat ingeasem word (algemeen by bejaardes met sluk-probleme)",
+      "Naby kontak in geslote ruimtes",
+      "Bloed-stroom van infeksie elders in die liggaam (selde)",
+      "Sommige longontstekings (mikroplasma, bakterieë) versprei vinnig in koshuise, weermag-eenhede"
+    ],
+    "no": [
+      "Koue weer alleen (rondom-faktor — nie oorsaak)",
+      "Voedsel of water",
+      "Aanraking sonder skoonmaakaktiwiteit",
+      "Vaksiene veroorsaak nie longontsteking — dit voorkom dit"
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "Net ouer mense kry longontsteking.",                                       "fact": "Longontsteking kan op enige ouderdom slaan. Kinders, jongmense, atlete — almal kry dit. Vir die meeste is dit behandelbaar — maar dit moet behandel word." },
+      { "myth": "Hoes terapie en stoom is genoeg om longontsteking te genees.",             "fact": "Bakteriële longontsteking vereis antibiotika. Stoom en huismiddele kan simptome verlig maar nie die infeksie verwyder nie. Sien dokter." },
+      { "myth": "As ek beter voel ná 'n paar dae, kan ek my antibiotika stop.",            "fact": "Vroeg afdraai van antibiotika veroorsaak dat sommige bakterieë oorleef, weerstandig raak, en die infeksie terugkom — soms erger. Voltooi die volle kursus." },
+      { "myth": "Longontsteking is altyd dieselfde — 'n keer behandel, klaar.",             "fact": "Verskillende kieme veroorsaak verskillende longontstekings, en die regte antibiotika verskil. Dis hoekom 'n dokter — nie selfdoenry — die regte behandeling kies." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om longontsteking te vermy",
+    "lede": "Vaksiene, ventilasie, en hand-higiëne. Veral belangrik vir hoë-risikogroepe.",
+    "items": [
+      { "color": "green",  "icon": "syringe",     "title": "Pneumokokke-vaksien",         "description": "Gratis vir kinders op die SA-syklus. Aanbeveel vir bejaardes (65+) en hoë-risiko volwassenes. Vra by jou kliniek." },
+      { "color": "purple", "icon": "syringe",     "title": "Griep-inenting jaarliks",      "description": "Griep is een van die top oorsake van virale longontsteking. Jaarlikse inenting verlaag risiko aansienlik." },
+      { "color": "orange", "icon": "x-circle",    "title": "Stop rook",                    "description": "Rook beskadig die long-skoonmaak-stelsel en verhoog longontsteking-risiko dramaties. Een van die beste dinge wat jy vir jou longe kan doen." },
+      { "color": "gold",   "icon": "droplet",      "title": "Hand-higiëne en ventilasie",   "description": "Was hande gereeld. Maak vensters oop. Veral by huishoudings met klein kinders of bejaardes." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "By tipiese tekens — gaan kliniek toe",          "description": "Veral as kortasem, hoë koors, of erge hoes met spoeg. Kliniek kan stetoskoop-ondersoek doen en antibiotika voorskryf." },
+      { "title": "Voltooi die volle antibiotika-kursus",          "description": "Selfs as jy ná 'n paar dae beter voel. Dit voorkom dat bakterieë oorleef en weer-aanval." },
+      { "title": "Drink baie water, rus volledig",                "description": "Help die liggaam die infeksie uitveg. Sit regop wanneer wakker — help asemhaling. Slaap met meer kussings as gewoonlik." },
+      { "title": "Monitor vir versleg",                            "description": "Veral by kinders en bejaardes. As kortasem erger word, koors styg, of die persoon verwar raak — gaan hospitaal toe." },
+      { "title": "Hospitaal toe by krisis-tekens",                  "description": "Erge kortasem, blou lippe, verwarring, onvermoë om wakker te bly. Bel 10177 — moenie ry nie." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Longontsteking-behandeling in SA is gratis en effektief — as vroeg gegee. Vir tipiese gevalle, kliniek. Vir krisis-tekens, hospitaal direk.",
+    "helplines": [
+      { "name": "Noodambulans",            "description": "Vir erge longontsteking met krisis-tekens",     "meta": "Gratis · 24 uur",                          "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Vind jou naaste kliniek",  "description": "Gratis ondersoek, antibiotika, en pneumokokke-inentings","meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
+      { "name": "NICD-lyn",                 "description": "Vir openbare gesondheidsvrae",                   "meta": "Ma–Vr 08:00–16:00",                        "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+    ]
+  }
+}

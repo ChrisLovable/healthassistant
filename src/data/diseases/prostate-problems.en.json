@@ -1,0 +1,85 @@
+{
+  "slug": "prostate-problems",
+  "group_slug": "mens-health",
+  "name": "Prostate problems",
+  "tagline": "Common after 50. Most are treatable.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["CANSA (Cancer Association of South Africa)", "South African Urology Association", "WHO", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "Prostate problems in plain terms",
+    "lede": "The prostate is a small gland below the bladder, wrapped around the urine tube. It naturally grows with age. By 60, most men have some prostate enlargement. Most enlargement is benign — but worth checking.",
+    "paragraphs": [
+      "Three main things can go wrong with the prostate: it can enlarge (BPH — benign prostatic hyperplasia), it can become inflamed or infected (prostatitis), or it can develop cancer. All three cause similar urinary symptoms.",
+      "Prostate cancer is the most common cancer in South African men. When caught early, it is highly treatable. The challenge is that men don't talk about these symptoms and don't go for screening. Getting checked from 50 — or 40 if Black or with family history — is one of the most important things a man can do."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "users",        "headline": "Most common",   "body": "Prostate cancer is the most common cancer in SA men. About 1 in 8 will develop it in their lifetime." },
+      { "color": "purple", "icon": "calendar",     "headline": "Start at 50",   "body": "Annual screening from age 50 — or from 40 if you are Black or have family history of prostate cancer." },
+      { "color": "gold",   "icon": "check-circle", "headline": "Early = cured", "body": "Early prostate cancer has over 95% 5-year survival. Caught late, survival drops sharply. The difference is screening." },
+      { "color": "green",  "icon": "shield",       "headline": "Most not cancer","body": "Most urinary symptoms in older men are due to benign enlargement, not cancer. But you cannot tell without checking." }
+    ],
+    "pull_quote": {
+      "text": "Black South African men have nearly twice the lifetime prostate cancer risk of white men, and often present younger with more aggressive disease. Screening from 40 — not 50 — is the right call for Black men.",
+      "source": "South African Urology Association"
+    }
+  },
+
+  "signs": {
+    "heading": "What to look out for",
+    "lede": "Most prostate symptoms come from benign enlargement (BPH). The same symptoms can also point to cancer, infection, or other conditions. Get them checked.",
+    "items": [
+      { "color": "orange", "icon": "droplet",       "title": "Urinary changes",          "description": "Weaker stream, having to push, dribbling at the end, feeling the bladder isn't empty, getting up multiple times at night, sudden urgent need to go." },
+      { "color": "coral",  "icon": "alert-circle",  "title": "Pain or blood",            "description": "Burning when urinating (more likely infection), blood in urine or semen — needs urgent assessment. Could be infection, BPH, or cancer." },
+      { "color": "purple", "icon": "trending-down", "title": "Late warning signs",       "description": "Bone pain (especially back or hips), unexplained weight loss, fatigue, swelling of legs — may indicate advanced disease. See a doctor without delay." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "If I can pee, my prostate is fine.",                            "fact": "Many men with prostate cancer have completely normal urination — especially in early stages when treatment works best. Screening, not symptoms, catches it early." },
+      { "myth": "Prostate exams are humiliating and not worth it.",             "fact": "The exam takes 30 seconds and is uncomfortable, not painful. The PSA blood test is a needle stick. Both could add 15+ years to your life." },
+      { "myth": "Treatment will leave me impotent.",                            "fact": "Modern treatments are far better at preserving function than in the past. Side effects vary by stage and treatment choice. Talk to your urologist — not the internet." },
+      { "myth": "It is an old man's disease — I am too young to worry.",        "fact": "Prostate cancer can occur from age 40, especially in Black men or those with family history. The standard guideline for higher-risk groups is screening from 40." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to lower the risk and catch it early",
+    "lede": "Prostate cancer cannot be fully prevented, but you can reduce risk and catch it early. Lifestyle matters; screening matters more.",
+    "items": [
+      { "color": "green",  "icon": "check-circle", "title": "Annual screening from 50",    "description": "PSA blood test plus digital rectal exam. Free at any government clinic. Annual from 50 — or 40 if Black, family history, or known genetic risk." },
+      { "color": "purple", "icon": "leaf",         "title": "Mediterranean-style eating", "description": "Vegetables, cooked tomatoes (lycopene), fish, olive oil, legumes. Less red meat and dairy. Linked to lower prostate cancer risk in research." },
+      { "color": "orange", "icon": "activity",     "title": "Move regularly",              "description": "Active men have lower prostate cancer rates and better outcomes if diagnosed. 30 minutes of moderate activity most days. Walking counts." },
+      { "color": "gold",   "icon": "scale",        "title": "Healthy weight",              "description": "Obesity is linked to more aggressive prostate cancer and worse outcomes. Maintain a healthy weight, especially around the waist." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "If you are 50 or older (40+ for higher risk)",  "description": "Book a prostate check at any government clinic. PSA blood test plus exam. Free. Annual repeat. Take a friend if it helps you go." },
+      { "title": "If you have urinary symptoms — get them checked","description": "Don't 'wait it out'. Most causes are treatable, including cancer if caught early. A clinic visit gives you answers, not assumptions." },
+      { "title": "If PSA is raised",                              "description": "Don't panic — many causes are not cancer (infection, BPH, even recent cycling). Your doctor will arrange further tests if needed." },
+      { "title": "If diagnosed — get to a urology team",          "description": "Major hospital cancer centres have specialist urology teams. CANSA helps navigate. Many treatment options exist — including watchful waiting for slow-growing cancer." },
+      { "title": "Tell your sons and brothers",                   "description": "Prostate cancer has a genetic component. If you have it, male relatives should screen earlier — usually 10 years before your diagnosis age." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Prostate screening and treatment are free at government clinics and hospitals. The hardest part is starting the conversation. Once you do, the system takes care of the rest.",
+    "helplines": [
+      { "name": "Find your nearest clinic", "description": "Free PSA testing and prostate exams at every government clinic",  "meta": "No appointment · no medical aid required",  "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
+      { "name": "CANSA Helpline",            "description": "Cancer information, support groups, treatment navigation",        "meta": "Mon–Fri 08:00–16:30 · free from any phone", "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true }
+    ]
+  }
+}

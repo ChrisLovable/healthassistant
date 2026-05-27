@@ -1,0 +1,83 @@
+{
+  "slug": "child-fever",
+  "group_slug": "child-baby",
+  "name": "Kinder-koors",
+  "tagline": "Wanneer dit normaal is. Wanneer dit nie.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["Red Cross War Memorial Children's Hospital", "WHO Child Health", "National Department of Health", "South African Paediatric Association"],
+
+  "urgent": {
+    "heading": "Gaan dringend kliniek of hospitaal toe as",
+    "primary_message": "Meeste kinder-koorse is nie gevaarlik nie. Maar hierdie tekens verander die saak — kry by 'n kliniek of hospitaal uit.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Baba onder 3 maande met enige koors (38°C of hoër)",
+      "Koors oor 40°C by 'n kind van enige ouderdom",
+      "Koors langer as 3 dae",
+      "Moeilikheid met asemhaling of baie vinnige asemhaling",
+      "Uitslag wat nie verbleek wanneer onder 'n glas gedruk word nie",
+      "Styf nek, erge hoofpyn, of sensitiwiteit vir lig",
+      "Slaperig, moeilik om wakker te maak, of buitengewoon stil",
+      "Aanhoudende braking of geen urine vir 8+ uur",
+      "Stuiptrekkings — selfs kort ene benodig assessering"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Koors in eenvoudige terme",
+    "lede": "Koors is liggaamstemperatuur bo 38°C. Dit is nie 'n siekte nie — dit is die liggaam se manier om infeksie te beveg. Meeste kinder-koorse is nuttig en nie gevaarlik op hulself nie.",
+    "paragraphs": [
+      "Koors help die immuunstelsel harder werk teen virusse en bakterieë. Die temperatuur self veroorsaak selde skade by 'n kind — selfs hoë temperatuur 'braai' nie die brein nie (dis 'n algemene kommer maar nie hoe koors skade aanrig nie). Wat saak maak is wat dit veroorsaak en hoe die kind lyk.",
+      "'n Kind met 'n normaal-voelende 39°C kan baie minder kommerwekkend wees as 'n kind met 38°C wat slap is, kos weier, of op enige manier ongewoon is. Vertrou hoe die kind lyk meer as die termometer. By twyfel, laat hulle kyk."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "green",  "icon": "shield",        "headline": "Meestal OK",         "body": "Meeste kinder-koorse is viraal, duur 2–3 dae, en herstel sonder behandeling. Die koors self is selde die probleem." },
+      { "color": "coral",  "icon": "alert-triangle","headline": "Onder 3 maande",     "body": "Babas onder 3 maande met enige koors benodig dringende mediese assessering. Hul immuunstelsels is onvolwasse en infeksies kan ernstig wees." },
+      { "color": "purple", "icon": "user",          "headline": "Kyk na die kind",    "body": "Hoe die kind lyk en optree maak meer saak as die nommer op die termometer. 'n Helder kind met hoë koors is minder kommerwekkend as 'n slap een met lae koors." },
+      { "color": "gold",   "icon": "x-circle",      "headline": "Geen antibiotika",  "body": "Antibiotika behandel nie virusse nie. Meeste kinder-koorse is viraal — antibiotika sal nie help nie en kan newe-effekte hê." }
+    ],
+    "pull_quote": {
+      "text": "Moenie die termometer agterna jaag nie. Kyk na jou kind. 'n Kind wat speel, drink, en nat doeke maak, doen goed — selfs met hoë koors. 'n Slap, glas-oog kind het hulp nodig — selfs met lae koors.",
+      "source": "Red Cross War Memorial Children's Hospital"
+    }
+  },
+
+  "signs": {
+    "heading": "Hoe om te oordeel of dit ernstig is",
+    "lede": "Koors op sigself is nie die gevaar nie. Kyk na die hele prentjie — jou kind se gedrag, asemhaling, vloeistowwe, en enige ander simptome.",
+    "items": [
+      { "color": "green",  "icon": "smile",          "title": "Waarskynlik OK",  "description": "Kind is interaktief (speel, glimlag, kyk), drink vloeistowwe, maak nat doeke, geen uitslag, geen asemhalingsmoeilikheid. Koors kan hoog wees maar die kind lyk soos hulself." },
+      { "color": "orange", "icon": "alert-circle",   "title": "Hou fyn dop",     "description": "Kind buitengewoon stil, minder speels as gewoonlik, effe weg van voedings, koors wat 24–48 uur duur, ligte uitslag. Geen noodgeval, maar werd 'n kliniek-besoek as dit aanhou of vererger." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Kry hulp nou",    "description": "Slap of onverantwoordelik, vinnig of moeilik asemhaling, uitslag wat nie verbleek nie, styf nek, weier alle vloeistowwe, geen urine vir 8+ uur, stuiptrekkings, of enige baba onder 3 maande met enige koors." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Trek lig aan — hou kamer gemaklik",               "description": "Ligte klere, ligte kombers as rillerig. Moenie in swaar komberse toedraai of warm aanmaak nie — dit laat liggaamstemperatuur verder styg." },
+      { "title": "Bied vloeistowwe gereeld",                        "description": "Borsmelk, formule, water, ORS. Klein hoeveelhede, gereeld. Hou nat doeke dop — 'n teken van goeie hidrasie." },
+      { "title": "Parasetamol of ibuprofen slegs vir gemak",        "description": "Nie weens die nommer op die termometer nie — slegs as die kind ongemaklik lyk. Volg gewig-gebaseerde dosering op die bottel. Moenie parasetamol en ibuprofen kombineer sonder mediese advies nie." },
+      { "title": "Moenie met koue water of alkohol afspons nie",     "description": "Dit is ongemaklik en kan rillerigheid veroorsaak, wat temperatuur verhoog. Louwarm water is fyn as die kind dit wil hê." },
+      { "title": "Vertrou jou instink",                              "description": "As iets verkeerd voel — selfs as jy nie kan sê wat nie — gaan kliniek toe. Ouers tel subtiele veranderinge raak wat saak maak. Gesondheidswerkers verkies dat jy 'n kind vir niks bring as om iets te misluk." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Meeste kinder-koorse kan tuis bestuur word. Om te weet wanneer om hospitaal toe te eskaleer is die sleutel-vaardigheid — en klinieke is bly om bekommerde ouers te sien.",
+    "helplines": [
+      { "name": "Noodambulans",            "description": "Vir kinders wat erg siek is",                          "meta": "Gratis · 24 uur",                          "phone": "10177", "phone_display": "10177",         "primary": true },
+      { "name": "Vind jou naaste kliniek",  "description": "Gratis assessering vir siek kinders, geen afspraak",   "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,    "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
+      { "name": "Childline SA",             "description": "Gratis 24-uur kind-gesondheid-en-welsynslyn",          "meta": "Gratis vanaf enige foon · 24 uur",         "phone": "116",   "phone_display": "116",           "primary": false }
+    ]
+  }
+}

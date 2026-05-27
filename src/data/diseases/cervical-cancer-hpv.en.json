@@ -1,0 +1,86 @@
+{
+  "slug": "cervical-cancer-hpv",
+  "group_slug": "womens-health",
+  "name": "Cervical cancer & HPV",
+  "tagline": "Preventable with vaccine and screening.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["CANSA (Cancer Association of South Africa)", "National Department of Health", "WHO", "International Agency for Research on Cancer"],
+
+  "what_is_it": {
+    "heading": "Cervical cancer in plain terms",
+    "lede": "Cervical cancer is cancer of the cervix — the lower part of the womb. Almost all cases (over 99%) are caused by long-term infection with high-risk types of HPV (Human Papillomavirus).",
+    "paragraphs": [
+      "HPV is extremely common — most sexually active people catch it at some point. The body clears most HPV infections within a year or two. But if a high-risk type persists for 10–15 years, it can cause cells in the cervix to change slowly into pre-cancer, then cancer.",
+      "This long timeline is what makes cervical cancer one of the most preventable cancers in the world. Screening (Pap smear or HPV test) catches cell changes years before cancer develops — when treatment is simple. The HPV vaccine prevents the infections that cause it in the first place."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "Second most common","body": "Cervical cancer is the second most common cancer in SA women. The highest rates are in women aged 35 to 55." },
+      { "color": "purple", "icon": "shield-check",  "headline": "99% HPV",            "body": "Over 99% of cervical cancers are caused by long-term HPV infection. Stopping HPV stops the cancer." },
+      { "color": "gold",   "icon": "syringe",       "headline": "Free vaccine",      "body": "The HPV vaccine is free for Grade 5 girls (and now boys in many provinces) through the school programme. Best given before sexual debut." },
+      { "color": "green",  "icon": "check-circle",  "headline": "Pap smears save lives","body": "Free Pap smear every 10 years from age 30 at government clinics. Every 3 years if HIV positive. Catches changes before cancer." }
+    ],
+    "pull_quote": {
+      "text": "If every woman in South Africa got vaccinated as a girl and screened in adulthood, we could eliminate cervical cancer within a generation. The tools exist. They are free.",
+      "source": "WHO Cervical Cancer Elimination Initiative"
+    }
+  },
+
+  "signs": {
+    "heading": "What you might notice",
+    "lede": "Early cervical changes — including pre-cancer and early cancer — usually cause no symptoms. This is why screening matters. Symptoms appear when cancer is more advanced.",
+    "items": [
+      { "color": "purple", "icon": "eye-off",      "title": "Early — silent",         "description": "Pre-cancer and early cancer usually cause no symptoms. Only a Pap smear or HPV test catches changes this early." },
+      { "color": "orange", "icon": "droplet",      "title": "Later — bleeding",       "description": "Bleeding between periods, after sex, or after menopause. Heavier or longer periods than usual. Unusual vaginal discharge." },
+      { "color": "coral",  "icon": "alert-circle", "title": "Advanced — see a doctor","description": "Pelvic pain, lower back pain, pain during sex, leg swelling, blood in urine or stool. These need urgent assessment." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Only women who have many partners get HPV.",                           "fact": "HPV is extremely common — most sexually active people catch it. Even one partner can transmit it. Vaccination protects regardless of partner history." },
+      { "myth": "The HPV vaccine encourages young people to start sex earlier.",        "fact": "Years of research show no link between HPV vaccination and earlier sexual activity. The vaccine works best given before any sexual exposure." },
+      { "myth": "If I had the HPV vaccine, I do not need Pap smears.",                  "fact": "The vaccine prevents most but not all high-risk HPV types. Screening is still essential — vaccine plus screening together is the strongest protection." },
+      { "myth": "Cervical cancer runs in families — there is nothing I can do.",        "fact": "Family history is a small risk factor at most. HPV infection is the cause for almost all cervical cancer — and HPV is preventable and detectable." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself",
+    "lede": "Cervical cancer is one of the most preventable cancers because there is both a vaccine and effective screening. Every adult woman should know her plan.",
+    "items": [
+      { "color": "green",  "icon": "syringe",        "title": "HPV vaccine",        "description": "Free in SA for Grade 5 girls (and boys in many provinces). Best before sexual activity starts but works at any age — ask your clinic up to age 45." },
+      { "color": "purple", "icon": "check-circle",   "title": "Regular Pap smears","description": "Free at clinics from age 30, every 10 years if normal. Every 3 years if HIV positive. Start earlier and screen more often if you have a history of abnormal results." },
+      { "color": "orange", "icon": "shield",         "title": "Condoms",             "description": "Reduce HPV transmission but do not eliminate it — HPV can spread from skin not covered by a condom. Still useful, especially with new partners." },
+      { "color": "gold",   "icon": "x-circle",       "title": "Don't smoke",         "description": "Smoking weakens the cervix's ability to clear HPV infection and doubles cervical cancer risk in HPV-positive women." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "If you have a daughter in Grade 5",         "description": "Make sure she gets the HPV vaccine through the school programme. Two doses, free, given six months apart. This is the single most powerful cancer-prevention tool we have." },
+      { "title": "If you are aged 30 or older",                "description": "Book a Pap smear at any government clinic if you have not had one in the last 10 years. Free, takes five minutes, results in 2–4 weeks." },
+      { "title": "If you have HIV",                            "description": "Screening is every 3 years regardless of age, from diagnosis onwards. HPV behaves more aggressively with HIV — do not skip." },
+      { "title": "If you have abnormal bleeding",              "description": "Bleeding between periods, after sex, or after menopause — see a clinic. Most causes are not cancer, but cervical cancer is one cause that needs catching early." },
+      { "title": "If your Pap smear is abnormal",              "description": "Do not panic. Most abnormal results are pre-cancer that can be treated in a single visit. Follow up — the system works if you keep your appointments." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Cervical screening, treatment of pre-cancer, and the HPV vaccine are all free at South African public clinics. The cancer-prevention infrastructure is there — use it.",
+    "helplines": [
+      { "name": "Find your nearest clinic", "description": "Free HPV vaccines, Pap smears, and follow-up of abnormal results", "meta": "No appointment · no medical aid required",        "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
+      { "name": "CANSA Helpline",            "description": "Cancer information, support, and referrals",                         "meta": "Mon–Fri 08:00–16:30 · free from any phone",       "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true },
+      { "name": "loveLife youth line",       "description": "For young women — confidential information about HPV and screening","meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00",          "phone": "0800121900", "phone_display": "0800 121 900",   "primary": false }
+    ]
+  }
+}

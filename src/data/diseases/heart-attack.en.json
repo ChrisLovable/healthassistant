@@ -1,0 +1,91 @@
+{
+  "slug": "heart-attack",
+  "group_slug": "emergency-signs",
+  "name": "Heart attack",
+  "tagline": "Chest pain that doesn't pass — call now.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["Heart and Stroke Foundation SA", "South African Heart Association", "WHO", "American Heart Association"],
+
+  "urgent": {
+    "heading": "Urgent — call now",
+    "primary_message": "Call an ambulance immediately. Chew one aspirin if available. Do not drive yourself.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Chest pain, pressure, tightness, or squeezing — lasting more than a few minutes",
+      "Pain spreading to the arm (often left), jaw, neck, back, or stomach",
+      "Sudden shortness of breath, with or without chest pain",
+      "Cold sweat, nausea, or vomiting",
+      "Sudden severe weakness, dizziness, or fainting",
+      "In women: unusual fatigue, indigestion-like pain, or back pain"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Heart attack in plain terms",
+    "lede": "A heart attack happens when blood flow to part of the heart muscle is suddenly blocked. The muscle starts dying within minutes.",
+    "paragraphs": [
+      "Most heart attacks are caused by a clot forming on a fatty plaque inside a coronary artery. The blockage starves the heart muscle of oxygen. The longer the artery stays blocked, the more muscle dies.",
+      "Modern hospital treatment can open the blocked artery and save the rest of the heart — but only if you get there fast. Every minute of delay is more permanent damage."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "clock",          "headline": "Time = muscle",     "body": "Every minute of blocked artery is more heart muscle lost. Treatment in the first hours can save most of it." },
+      { "color": "purple", "icon": "heart-pulse",    "headline": "Leading killer",    "body": "Cardiovascular disease is the leading cause of non-communicable death in South Africa." },
+      { "color": "orange", "icon": "alert-triangle", "headline": "Atypical in women", "body": "Women often have less classic chest pain — instead, fatigue, jaw pain, nausea, or shortness of breath. These signs are easy to dismiss." },
+      { "color": "gold",   "icon": "shield",         "headline": "Largely preventable","body": "Smoking, high blood pressure, diabetes, high cholesterol, inactivity, and obesity drive most heart attacks. All are manageable." }
+    ],
+    "pull_quote": {
+      "text": "Most people who die of a heart attack die before they reach hospital — usually because they waited, hoping it would pass. If you are not sure, call.",
+      "source": "South African Heart Association"
+    }
+  },
+
+  "signs": {
+    "heading": "What you might feel",
+    "lede": "Heart attack symptoms are not always dramatic. Mild but persistent symptoms still need urgent attention.",
+    "items": [
+      { "color": "coral",  "icon": "heart-pulse",   "title": "Chest pain or pressure",     "description": "A heavy, squeezing, tight, or burning feeling in the centre of the chest. Lasts more than a few minutes, or comes and goes." },
+      { "color": "orange", "icon": "git-branch",    "title": "Pain spreading outwards",    "description": "Pain or numbness in the arm (often left), jaw, neck, back, or upper stomach. Can occur without chest pain." },
+      { "color": "purple", "icon": "wind",          "title": "Shortness of breath",        "description": "Sudden difficulty breathing, sometimes the only sign. More common in women, older adults, and people with diabetes." },
+      { "color": "gold",   "icon": "droplet",       "title": "Sweating, nausea, dizziness","description": "Cold clammy sweat, nausea or vomiting, sudden weakness or fainting. Often combined with the symptoms above." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "A heart attack always means dramatic chest pain.",                          "fact": "Many heart attacks start with mild discomfort and build slowly. Women, older adults, and people with diabetes often have atypical symptoms." },
+      { "myth": "If I'm young and fit, I can't have a heart attack.",                       "fact": "Heart attacks in young South Africans are increasing — driven by smoking, vaping, drug use, family history, and undiagnosed cholesterol problems." },
+      { "myth": "Indigestion that won't go away is just indigestion.",                       "fact": "Heartburn-like pain that lasts, returns, comes with sweating or shortness of breath, or feels different from normal — must be checked out." },
+      { "myth": "I'll wait an hour to see if it passes.",                                    "fact": "Waiting is the single biggest reason people die of heart attacks. If you are unsure for more than 10 minutes — call the ambulance." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do — the moment you suspect a heart attack",
+    "items": [
+      { "title": "Call 10177 or 112 immediately",                "description": "Say 'suspected heart attack'. Paramedics start treatment in the ambulance and route to a cardiac-capable hospital." },
+      { "title": "Chew one regular aspirin (300 mg) if available","description": "Chewing — not swallowing whole — gets aspirin into the blood faster. Skip if allergic, on blood thinners, or recently had bleeding." },
+      { "title": "Sit down and rest. Loosen tight clothing",     "description": "Sit comfortably. Do not lie flat if breathing is difficult. Stay calm — panic increases the strain on the heart." },
+      { "title": "Do not drive yourself",                        "description": "If you collapse at the wheel, you could die and harm others. Wait for the ambulance — paramedics carry life-saving equipment." },
+      { "title": "Unlock the door for paramedics",               "description": "Make sure they can reach you fast. If alone, get to a place where someone can find you." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call right now",
+    "lede": "Suspected heart attack is an emergency. Do not wait, do not drive, do not 'see how it goes'.",
+    "helplines": [
+      { "name": "Emergency ambulance",          "description": "Government emergency medical service",                          "meta": "Free · 24 hours · say 'heart attack'",      "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Emergency (mobile)",            "description": "Reaches any emergency service from a cellphone",                "meta": "Free from any mobile · 24 hours",          "phone": "112",        "phone_display": "112",           "primary": true },
+      { "name": "Heart and Stroke Foundation SA","description": "Information, prevention guidance, and survivor support",         "meta": "Mon–Fri 08:00–16:30",                       "phone": "0860000254", "phone_display": "0860 000 254",  "primary": false }
+    ]
+  }
+}

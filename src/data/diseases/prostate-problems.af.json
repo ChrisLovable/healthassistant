@@ -1,0 +1,85 @@
+{
+  "slug": "prostate-problems",
+  "group_slug": "mens-health",
+  "name": "Prostaat-probleme",
+  "tagline": "Algemeen ná 50. Meeste is behandelbaar.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["CANSA (Cancer Association of South Africa)", "South African Urology Association", "WHO", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "Prostaat-probleme in eenvoudige terme",
+    "lede": "Die prostaat is 'n klein klier onder die blaas, om die urinebuis gevou. Dit groei natuurlik met ouderdom. Teen 60 het die meeste mans 'n mate van prostaat-vergroting. Meeste vergroting is goedaardig — maar werd om te kyk.",
+    "paragraphs": [
+      "Drie hoof-dinge kan met die prostaat verkeerd loop: dit kan vergroot (BPH — goedaardige prostaat-vergroting), dit kan ontsteek of geïnfekteer raak (prostatitis), of dit kan kanker ontwikkel. Al drie veroorsaak soortgelyke urinêre simptome.",
+      "Prostaat-kanker is die mees algemene kanker by SA mans. As vroeg gevang, is dit hoogs behandelbaar. Die uitdaging is dat mans nie oor hierdie simptome praat nie en nie vir skerming gaan nie. Om vanaf 50 getoets te word — of vanaf 40 as swart of met familiegeskiedenis — is een van die belangrikste dinge wat 'n man kan doen."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "users",        "headline": "Mees algemeen", "body": "Prostaat-kanker is die mees algemene kanker by SA mans. Ongeveer 1 uit 8 sal dit in hul leeftyd ontwikkel." },
+      { "color": "purple", "icon": "calendar",     "headline": "Begin by 50",    "body": "Jaarlikse skerming vanaf 50 — of vanaf 40 as jy swart is of familiegeskiedenis van prostaatkanker het." },
+      { "color": "gold",   "icon": "check-circle", "headline": "Vroeg = genees", "body": "Vroeë prostaatkanker het oor 95% 5-jaar oorlewing. Laat gevang, val oorlewing skerp. Die verskil is skerming." },
+      { "color": "green",  "icon": "shield",       "headline": "Meeste nie kanker","body": "Meeste urinêre simptome by ouer mans is weens goedaardige vergroting, nie kanker nie. Maar jy kan nie sonder kyk weet nie." }
+    ],
+    "pull_quote": {
+      "text": "Swart Suid-Afrikaanse mans het byna twee keer die leeftyd-risiko van wit mans vir prostaat-kanker, en kry dit dikwels jonger met meer aggressiewe siekte. Skerming vanaf 40 — nie 50 — is die regte besluit vir swart mans.",
+      "source": "South African Urology Association"
+    }
+  },
+
+  "signs": {
+    "heading": "Waarop om te let",
+    "lede": "Meeste prostaat-simptome kom van goedaardige vergroting (BPH). Dieselfde simptome kan ook na kanker, infeksie, of ander toestande wys. Laat hulle kyk.",
+    "items": [
+      { "color": "orange", "icon": "droplet",       "title": "Urinêre veranderinge",    "description": "Swakker stroom, moet druk om te urineer, druppel aan die einde, gevoel dat die blaas nie leeg is nie, baie kere snags opstaan, skielike dringende behoefte om te gaan." },
+      { "color": "coral",  "icon": "alert-circle",  "title": "Pyn of bloed",             "description": "Brand by urinering (meer waarskynlik infeksie), bloed in urine of semen — benodig dringende assessering. Kan infeksie, BPH, of kanker wees." },
+      { "color": "purple", "icon": "trending-down", "title": "Laat-waarskuwingstekens", "description": "Beenpyn (veral rug of heupe), onverklaarde gewigsverlies, vermoeidheid, swelling van bene — kan gevorderde siekte aandui. Sien 'n dokter sonder versuim." }
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "As ek kan urineer, is my prostaat gesond.",                                       "fact": "Baie mans met prostaat-kanker het heeltemal normale urinering — veral in vroeë stadiums wanneer behandeling die beste werk. Skerming, nie simptome, vang dit vroeg." },
+      { "myth": "Prostaat-ondersoeke is vernederend en nie die moeite werd nie.",                  "fact": "Die ondersoek duur 30 sekondes en is ongemaklik, nie pynvol nie. Die PSA-bloedtoets is 'n naald-prik. Albei kan 15+ jare aan jou lewe byvoeg." },
+      { "myth": "Behandeling sal my impotent maak.",                                                "fact": "Moderne behandelings is baie beter daarmee om funksie te bewaar as in die verlede. Newe-effekte verskil per stadium en behandeling. Praat met jou uroloog — nie die internet nie." },
+      { "myth": "Dis 'n ou-man-siekte — ek is te jonk om te bekommer.",                              "fact": "Prostaat-kanker kan vanaf 40 voorkom, veral by swart mans of dié met familiegeskiedenis. Die standaard-riglyn vir hoë-risikogroepe is skerming vanaf 40." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om die risiko te verlaag en vroeg te vang",
+    "lede": "Prostaat-kanker kan nie heeltemal voorkom word nie, maar jy kan risiko verminder en dit vroeg vang. Lewenstyl tel; skerming tel meer.",
+    "items": [
+      { "color": "green",  "icon": "check-circle", "title": "Jaarlikse skerming vanaf 50", "description": "PSA-bloedtoets plus digitale rektale ondersoek. Gratis by enige staatskliniek. Jaarliks vanaf 50 — of 40 as swart, familiegeskiedenis, of bekende genetiese risiko." },
+      { "color": "purple", "icon": "leaf",         "title": "Mediterreense-styl eet",       "description": "Groente, gekookte tamaties (likopeen), vis, olyfolie, peulplante. Minder rooi vleis en suiwel. Gekoppel aan laer prostaat-kanker-risiko in navorsing." },
+      { "color": "orange", "icon": "activity",     "title": "Beweeg gereeld",                "description": "Aktiewe mans het laer prostaat-kanker-koerse en beter uitkomste indien gediagnoseer. 30 minute matige aktiwiteit op die meeste dae. Stap tel." },
+      { "color": "gold",   "icon": "scale",        "title": "Gesonde gewig",                "description": "Vetsug is gekoppel aan meer aggressiewe prostaat-kanker en swakker uitkomste. Hou 'n gesonde gewig, veral rondom die middel." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Jou volgende stappe",
+    "items": [
+      { "title": "As jy 50 of ouer is (40+ vir hoë risiko)",        "description": "Bespreek 'n prostaat-toets by enige staatskliniek. PSA-bloedtoets plus ondersoek. Gratis. Jaarlikse herhaling. Vat 'n vriend saam as dit help om te gaan." },
+      { "title": "By urinêre simptome — laat hulle kyk",             "description": "Moenie 'wag en kyk' nie. Meeste oorsake is behandelbaar, insluitend kanker indien vroeg gevang. 'n Kliniek-besoek gee jou antwoorde, nie aannames nie." },
+      { "title": "As PSA verhoog is",                                "description": "Moenie paniekerig word nie — baie oorsake is nie kanker (infeksie, BPH, selfs onlangse fietsry). Jou dokter sal verdere toetse reël as nodig." },
+      { "title": "As gediagnoseer — kry by 'n urologie-span",        "description": "Groot hospitaal-kanker-sentrums het spesialis-urologie-spanne. CANSA help om te navigeer. Baie behandelingsopsies bestaan — insluitend wag-en-kyk vir stadig-groeiende kanker." },
+      { "title": "Vertel jou seuns en broers",                       "description": "Prostaat-kanker het 'n genetiese komponent. As jy dit het, behoort manlike familielede vroeër te skerming — gewoonlik 10 jaar voor jou diagnose-ouderdom." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Prostaat-skerming en -behandeling is gratis by staatsklinieke en hospitale. Die moeilikste deel is om die gesprek te begin. Sodra jy dit doen, sorg die stelsel vir die res.",
+    "helplines": [
+      { "name": "Vind jou naaste kliniek", "description": "Gratis PSA-toetse en prostaat-ondersoeke by elke staatskliniek", "meta": "Geen afspraak · geen mediese fonds nodig",   "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
+      { "name": "CANSA-hulplyn",            "description": "Kanker-inligting, ondersteuningsgroepe, behandelingnavigasie",   "meta": "Ma–Vr 08:00–16:30 · gratis vanaf enige foon", "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true }
+    ]
+  }
+}

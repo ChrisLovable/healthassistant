@@ -1,0 +1,119 @@
+{
+  "slug": "meningitis",
+  "group_slug": "emergency",
+  "name": "Meningitis",
+  "tagline": "Koors, styf nek, uitslag wat nie verbleek nie. Hospitaal toe nou.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["NICD", "WHO", "National Department of Health", "Meningitis Research Foundation"],
+
+  "urgent": {
+    "heading": "Bel 10177 of gaan reguit hospitaal toe as",
+    "primary_message": "Meningitis kan binne ure dood maak. Moenie wag om te kyk of dit verbeter nie. Een teken alleen is genoeg om hospitaal toe te gaan.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Koors saam met erge hoofpyn en styf nek",
+      "Uitslag wat nie verbleek wanneer glas daarop gedruk word nie — pers of rooi kolletjies wat nie verdwyn nie",
+      "Sensitiwiteit vir helder lig",
+      "Verwarring, slaperigheid, of moeilikheid om wakker te word",
+      "Stuiptrekkings",
+      "By 'n baba: hoë koors, hoë skril gehuil, harde of sagter sagtekol (fontanel), styf liggaam of slap",
+      "Naarheid, braking, en koue hande en voete saam met koors"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Meningitis in eenvoudige terme",
+    "lede": "Meningitis is 'n ontsteking van die membrane (meninges) wat die brein en rugmurg omhul. Dit kan veroorsaak word deur virusse (gewoonlik minder erg) of bakterieë (lewensgevaarlik en moet vinnig behandel word).",
+    "paragraphs": [
+      "Bakteriese meningitis is die soort wat vinnig dood kan maak — soms binne 24 uur. Dit kan ook permanente skade veroorsaak: doofheid, blindheid, breinskade, of verlies van ledemate as die infeksie die bloed binnedring (septisemie).",
+      "Vroeë behandeling met deurspuit-antibiotika in die hospitaal red lewens en voorkom skade. Moenie probeer raai of dit virus of bakterieël is nie — gaan hospitaal toe en laat hulle toets. Beter te oorreageer as om te laat te wees."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "Vinnig dodelik",      "body": "Bakteriese meningitis kan binne ure dood maak. Sterftesyfer sonder behandeling kan 50% bereik. Met vinnige behandeling — meeste oorleef." },
+      { "color": "purple", "icon": "syringe",       "headline": "Inentings beskerm",   "body": "Die SA-kindersyklus inent teen die mees algemene bakterieë wat meningitis veroorsaak — Hib, pneumokokke. Moenie oorslaan nie." },
+      { "color": "gold",   "icon": "users",         "headline": "Versprei tussen mense","body": "Bakteriese meningitis kan oorgedra word tussen mense wat naby aan mekaar leef — gesinne, koshuise, weermag, kerkgroepe. Toetse vir kontak nodig." },
+      { "color": "green",  "icon": "shield",        "headline": "Glasagtige toets",   "body": "Druk 'n glas teen 'n meningitis-uitslag. As die kolletjies nie verbleek deur die glas nie, is dit bloeding onder die vel. Hospitaal toe dadelik." }
+    ],
+    "pull_quote": {
+      "text": "Die uitslag wat nie deur 'n glas verbleek nie, is 'n laat teken — die infeksie is reeds in die bloed. Wag nie vir die uitslag nie. As die simptome pas, gaan hospitaal toe.",
+      "source": "Meningitis Research Foundation"
+    }
+  },
+
+  "signs": {
+    "heading": "Tekens om in te kyk",
+    "lede": "Meningitis kan met simptome begin wat soos griep lyk. Wat dit anders maak, is hoe vinnig dit ergerend raak. Wees veral versigtig met kombinasies.",
+    "items": [
+      { "color": "coral",  "icon": "thermometer",    "title": "Klassieke drievoudig",   "description": "Hoë koors + styf nek + erge hoofpyn. Saam met sensitiwiteit vir lig en braking. Hierdie kombinasie is meningitis tot bewys van die teendeel." },
+      { "color": "purple", "icon": "alert-circle",   "title": "Septisemiese tekens",     "description": "Pers/rooi uitslag wat nie verbleek nie, koue hande en voete saam met koors, vinnige asemhaling, ekstreme pyn in been of arm, pers vlek op vel." },
+      { "color": "orange", "icon": "baby",            "title": "By babas en jong kinders","description": "Babas wys nie 'n styf nek nie. Let op: hoë skril gehuil, baba weier kos, baie slaperig of irriteerbaar, sagte kop opgeswel, slap of styf, koors." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "Hoe meningitis versprei",
+    "yes": [
+      "Via druppels van hoes en nies van iemand wat die bakterieë dra",
+      "Naby kontak vir lang periodes — dieselfde huishouding, koshuise, weermag",
+      "Soene of deel van eet-en drinkgereedskap",
+      "Sigarette of vapeers deel",
+      "Mond-tot-mond kontak"
+    ],
+    "no": [
+      "Vlugtige kontak in 'n bus, kerk, of klaskamer",
+      "Hand skud",
+      "In dieselfde kantoor te wees",
+      "Lug as 'n openbare plek"
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "Meningitis kry net babas en kinders.",                                          "fact": "Babas, tieners en jongmense het hoër risiko, maar dit kan op enige ouderdom slaan. Tieners en universiteitstudent-koshuise sien gereelde uitbreidings." },
+      { "myth": "As die uitslag nog verbleek as ek dit druk, is dit nie meningitis nie.",        "fact": "Vroeg in meningitis kan die uitslag wel verbleek. As ander simptome teenwoordig is — hoofpyn, koors, nekstywheid — gaan hospitaal toe ongeag." },
+      { "myth": "Vroeë antibiotika by die kliniek is genoeg.",                                    "fact": "Bakteriese meningitis benodig deurspuit-antibiotika in hospitaal, plus monitering. Tabletantibiotika alleen is nie genoeg nie." },
+      { "myth": "Inentings teen meningitis veroorsaak meningitis.",                                "fact": "Inentings beskerm teen die mees algemene bakteriese oorsake. Hulle veroorsaak nie die siekte nie. Die kindersyklus se inentings is veilig en lewensreddend." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om jouself en jou kinders te beskerm",
+    "lede": "Meningitis kan nie geheel voorkom word nie, maar veilige praktyke en inentings verminder die risiko aansienlik.",
+    "items": [
+      { "color": "green",  "icon": "syringe",        "title": "Hou die kindersyklus by",       "description": "Pentavalent (6, 10, 14 weke) en pneumokokke-inentings beskerm teen die mees algemene bakteriese oorsake. Gratis by enige kliniek." },
+      { "color": "purple", "icon": "users",          "title": "Goeie higiëne in groepkonteks",  "description": "Was hande gereeld in koshuise, kantore, kerke. Moenie eet-en drinkgereedskap deel nie. Bedek hoes en nies." },
+      { "color": "orange", "icon": "wind",            "title": "Hou ruimtes wel-geventileer",   "description": "Klein, sluiterige spasies versprei druppelinfeksies maklik. Maak vensters oop in slaapkamers, kerke, klaskamers, taxi's." },
+      { "color": "gold",   "icon": "shield",          "title": "Na kontakblootstelling",        "description": "As iemand naby aan jou bakteriese meningitis kry, kontak die kliniek of NICD. Voorbehoedende antibiotika is dikwels gegee aan huisgenote." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "By verdenking — gaan reguit hospitaal toe",         "description": "Nie kliniek nie. Hospitaal. Bel 10177 of laat iemand jou ry. Sê 'verdagte meningitis' by die noodafdeling — hulle sal jou prioritiseer." },
+      { "title": "Doen die glasagtige toets",                          "description": "Druk 'n duidelike glas teen 'n uitslag op die vel. As die kolletjies nie verbleek deur die glas nie, is dit 'n krisis-teken. Gaan dadelik hospitaal toe." },
+      { "title": "Vir babas — kyk vir slap of styf liggaam",          "description": "Baba weier kos, hoë skril huil, oop sagte kop, baie slaperig of bewussseloos, slap of styf liggaam, koue hande en voete saam met koors." },
+      { "title": "Bly by die persoon",                                  "description": "Meningitis kan vinnig versleg. Bly by hulle, monitor die simptome, en wees gereed om die ambulans te bel as iets versleg." },
+      { "title": "Berig die NICD by uitbreidings",                       "description": "By kindergroepe of koshuise, berig 'n suspecte geval aan die NICD vir kontakopsporing en voorbehoeding van ander." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Meningitis is 'n hospitaal-noodgeval. Gaan reguit na 'n hospitaal met 'n noodafdeling. Moenie kliniek toe gaan nie — hulle sal jou in elk geval hospitaal toe stuur, en die tyd is kritiek.",
+    "helplines": [
+      { "name": "Noodambulans",       "description": "Regerings-nooddiens",                                  "meta": "Gratis · 24 uur · sê 'verdagte meningitis'",  "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Noodlyn (selfoon)",   "description": "Bereik enige nooddiens vanaf 'n selfoon",              "meta": "Gratis vanaf enige selfoon · 24 uur",          "phone": "112",        "phone_display": "112",           "primary": true },
+      { "name": "NICD-lyn",            "description": "Vir kontak-uitbreidings en advies",                      "meta": "Ma–Vr 08:00–16:00",                            "phone": "0800029999", "phone_display": "0800 029 999",  "primary": false }
+    ]
+  }
+}

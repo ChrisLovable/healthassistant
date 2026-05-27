@@ -1,0 +1,86 @@
+{
+  "slug": "cervical-cancer-hpv",
+  "group_slug": "womens-health",
+  "name": "Servikskanker (HPV)",
+  "tagline": "Voorkombaar. Papsmeer red lewens. HPV-inenting werk.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Naam], MBChB",
+  "sources": ["CANSA", "WHO", "National Department of Health", "Pink Drive"],
+
+  "what_is_it": {
+    "heading": "Servikskanker in eenvoudige terme",
+    "lede": "Servikskanker is kanker van die servix — die onderste deel van die baarmoeder. Byna alle gevalle word veroorsaak deur die menslike papillomavirus (HPV), 'n algemene seksueel-oordraagbare virus. Dit is een van die mees-voorkombaar kankers — en die mees-effektief behandelbaar as vroeg gevang.",
+    "paragraphs": [
+      "Servikskanker is een van die top oorsake van kanker-dood by SA vroue, veral omdat baie gevalle laat ontdek word. Met die HPV-inenting (gratis vir Graad 5-meisies) en jaarlikse papsmere kan ons dit byna geheel uitwis.",
+      "Die kanker self ontwikkel stadig — gewoonlik oor 10–20 jaar van eerste HPV-infeksie tot kanker. Dit gee baie geleentheid om voorlopers (abnormale selle) by 'n papsmeer op te tel en te behandel — voor dit kanker word."
+    ]
+  },
+
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      { "color": "coral",  "icon": "users",         "headline": "Top SA kanker",   "body": "Servikskanker is een van die mees algemene kankers by SA vroue, veral omdat HIV-prevalensie risiko verhoog." },
+      { "color": "purple", "icon": "syringe",       "headline": "HPV-inenting",    "body": "Gratis op die SA-skoolprogram vir Graad 5-meisies. Twee dosisse, 6 maande uitmekaar. Voorkom 70%+ van servikskanker." },
+      { "color": "gold",   "icon": "check-circle", "headline": "Papsmeer red",     "body": "Gratis by elke kliniek vir vroue 30–55, elke 5 jaar (of vroeër as HIV-positief). Vang voorlopers voor hulle kanker word." },
+      { "color": "green",  "icon": "shield",        "headline": "Voorkombaar",     "body": "Met inenting + papsmere kan servikskanker byna heeltemal uitgewis word. Een van die mees-voorkombaar kankers wat bestaan." }
+    ],
+    "pull_quote": {
+      "text": "Geen vrou behoort vandag dag aan servikskanker dood te gaan nie. Met die HPV-inenting beskikbaar gratis op skool, en gratis papsmere by elke kliniek, het ons al die gereedskap. Wat oorbly is dat ons hulle gebruik.",
+      "source": "CANSA"
+    }
+  },
+
+  "signs": {
+    "heading": "Tekens om voor te kyk",
+    "lede": "Vroeg servikskanker veroorsaak gewoonlik geen tekens nie. Dit is hoekom papsmere so belangrik is. Wanneer tekens verskyn, is die kanker dikwels reeds gevorderd.",
+    "items": [
+      { "color": "green",  "icon": "check-circle", "title": "Vroeg — geen tekens",  "description": "Voor en in vroeë kanker is daar gewoonlik niks om te voel of te sien nie. Dis hoekom skerming met papsmere die enigste manier is om dit vroeg te vang." },
+      { "color": "orange", "icon": "droplet",       "title": "Vroeë waarskuwings",   "description": "Vaginale bloeding ná seks, tussen periodes, ná menopouse, of in swangerskap. Onnormale vaginale afskeiding. Pelvies-pyn. Wys kliniek toe." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Laat-stadium tekens",  "description": "Erge pelvies- of rugpyn, pyn tydens seks, swelling van bene, gewigsverlies, urinerings- of stoelgang-veranderinge. Behoeft urgente assessering." }
+    ]
+  },
+
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      { "myth": "Net 'losse' vroue kry HPV en servikskanker.",                              "fact": "HPV is uiters algemeen — die meeste seksueel-aktiewe mense kry dit op 'n stadium. Dit het niks met 'n moraalkode te doen nie. Beskerming is wat saak maak." },
+      { "myth": "HPV-inenting maak meisies promisku.",                                       "fact": "Decades se navorsing wys geen verband nie. Wat die inenting wel doen is om hulle te beskerm teen 'n kanker — soos hoe ons polio-inenting kry. Geen rede tot kommer." },
+      { "myth": "Ek het 'n hysterektomie gehad — ek het nie meer papsmere nodig nie.",        "fact": "Hang af van die rede vir hysterektomie. Indien dit vir abnormale selle was, gaan vaginale toetse aan. Vra jou dokter — moenie aanvaar nie." },
+      { "myth": "Papsmere is pynlik en vernederend.",                                          "fact": "Papsmere is ongemaklik vir 'n paar sekondes maar gewoonlik nie pynlik nie. Klinieke is opgelei om dit waardig te doen. Een keer elke 5 jaar — vir 'n potensieel-lewensreddende toets." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Hoe om servikskanker te voorkom",
+    "lede": "Vir feitlik geen ander kanker bestaan so 'n duidelike voorkomingsplan nie. Drie stappe — inenting, skerming, en HIV-beheer — vervang die meeste van die siekte.",
+    "items": [
+      { "color": "green",  "icon": "syringe",      "title": "HPV-inenting vir meisies (en seuns)","description": "Gratis vir Graad 5-meisies (en seuns in baie provinsies) deur die skoolprogram. Beskerm beste voor seksuele aktiwiteit begin." },
+      { "color": "purple", "icon": "check-circle", "title": "Gereelde papsmere",                   "description": "Vroue 30–55, elke 5 jaar (jaarliks as HIV-positief). Gratis by kliniek. Vang abnormale selle voor dit kanker word." },
+      { "color": "orange", "icon": "shield",        "title": "Kondoom-gebruik",                    "description": "Verminder HPV-oordrag — al beskerm dit nie heeltemal nie (vel-tot-vel kontak buite die kondoom kan steeds oordra). Saam met inenting en papsmere — sterk beskerming." },
+      { "color": "gold",   "icon": "heart-pulse",   "title": "HIV-toets en behandeling",            "description": "HIV-positiewe vroue het hoër risiko vir servikskanker. Vroeë ART-begin verminder risiko aansienlik. Albei behandelings gratis." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      { "title": "Vir tieners — kry die HPV-inenting",            "description": "As jou dogter (of seun) in Graad 5 is — die skoolprogram gee dit gratis. Toestemming-vorms huis toe. Geen koste, geen afspraak." },
+      { "title": "Vir vroue 30+ — gaan vir 'n papsmeer",          "description": "Gratis by elke kliniek. Geen verwysing nodig nie. Loop in en vra. Selfs as jy nie simptome het nie — dit is presies wanneer dit help." },
+      { "title": "By onnormale papsmeer-uitslag — moenie paniek",   "description": "Die meeste abnormale papsmere is nie kanker nie — net selle wat behandel kan word (lokale uitvee of klein operasie). Volg op met die kliniek." },
+      { "title": "By bloeding ná seks of tussen periodes",         "description": "Gaan kliniek toe vir 'n papsmeer plus ondersoek. Meeste oorsake is goedaardig — maar dit moet uitgesluit word." },
+      { "title": "By diagnose — verwysing na onkoloog",            "description": "Groot staatshospitale (Tygerberg, Charlotte Maxeke, Steve Biko) het kanker-eenhede. CANSA help met navigasie en ondersteuning." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Servikskanker-voorkoming en -behandeling is een van die sterker dele van die SA gesondheidstelsel. HPV-inenting, papsmere, behandeling — alles gratis.",
+    "helplines": [
+      { "name": "Vind jou naaste kliniek",   "description": "Gratis papsmere en HPV-assessering",                     "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true,  "link": "/clinic-finder" },
+      { "name": "CANSA-hulplyn",              "description": "Kanker-inligting, ondersteuningsgroepe, behandelingnavigasie","meta": "Ma–Vr 08:00–16:30 · gratis",                "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true },
+      { "name": "Pink Drive",                 "description": "Vroue-kanker-bewustheid, mobiele skerming",                "meta": "Mobiele klinieke en gemeenskapsprogramme",  "phone": "0867465374", "phone_display": "086 PINKDRIVE",  "primary": false }
+    ]
+  }
+}

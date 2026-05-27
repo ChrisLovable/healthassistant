@@ -1,0 +1,91 @@
+{
+  "slug": "severe-allergic-reaction",
+  "group_slug": "emergency-signs",
+  "name": "Severe allergic reaction (anaphylaxis)",
+  "tagline": "Swelling, breathing trouble — emergency.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Dr [Name], MBChB",
+  "sources": ["Allergy Foundation South Africa", "WHO", "World Allergy Organization", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Urgent — use EpiPen now",
+    "primary_message": "Use the adrenaline auto-injector (EpiPen) immediately into the outer thigh. Then call 10177.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Swelling of the face, lips, tongue, or throat",
+      "Difficulty breathing, wheezing, or a tight throat",
+      "Hoarse voice or trouble swallowing",
+      "Sudden hives or red welts spreading over the body",
+      "Rapid pulse, dizziness, or fainting",
+      "Vomiting, severe stomach cramps, or sudden diarrhoea"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Anaphylaxis in plain terms",
+    "lede": "Anaphylaxis is a severe, whole-body allergic reaction that can be fatal within minutes if untreated.",
+    "paragraphs": [
+      "It happens when the immune system massively overreacts to something usually harmless — a food, a sting, a medicine, or latex. Blood vessels leak, airways swell, blood pressure drops.",
+      "Adrenaline (epinephrine) is the only first-line treatment. An auto-injector like an EpiPen delivers it into the thigh muscle. Antihistamines and inhalers are not a substitute. After using an EpiPen, the person still needs hospital care because symptoms can return hours later."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "zap",        "headline": "Minutes",       "body": "Severe anaphylaxis can be fatal within 15 minutes. Speed of treatment is everything." },
+      { "color": "purple", "icon": "alert-circle","headline": "Top triggers",  "body": "Peanuts, tree nuts, shellfish, fish, milk, eggs, bee or wasp stings, medicines (often antibiotics), and latex." },
+      { "color": "orange", "icon": "refresh-cw", "headline": "Second wave",   "body": "Up to 1 in 5 people have a second reaction 4–12 hours later, even after improving. Hospital observation is essential." },
+      { "color": "gold",   "icon": "shield-check","headline": "EpiPen first",  "body": "Adrenaline auto-injector is the only first-line treatment. It is safe to use — withholding it is what causes harm." }
+    ],
+    "pull_quote": {
+      "text": "If you are not sure whether it is anaphylaxis — use the EpiPen anyway. The risk of using it unnecessarily is small. The risk of not using it can be fatal.",
+      "source": "Allergy Foundation South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "What you might see",
+    "lede": "Anaphylaxis usually starts within minutes of exposure. Symptoms involve more than one body system — skin, breathing, circulation, or gut.",
+    "items": [
+      { "color": "coral",  "icon": "user",    "title": "Skin",                "description": "Hives or red welts, intense itching, flushing, swelling of the face, lips, tongue, or eyes." },
+      { "color": "orange", "icon": "wind",    "title": "Breathing",           "description": "Wheezing, tight throat, hoarse voice, difficulty swallowing, persistent cough, struggling to breathe." },
+      { "color": "purple", "icon": "activity","title": "Circulation",         "description": "Rapid pulse, low blood pressure, dizziness, fainting, pale or clammy skin, collapse." },
+      { "color": "gold",   "icon": "alert-triangle","title": "Gut and general","description": "Stomach cramps, vomiting, sudden diarrhoea. A feeling of doom is a recognised warning sign." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Antihistamines are enough to stop anaphylaxis.",                         "fact": "Antihistamines treat mild allergy symptoms. They cannot reverse anaphylaxis. Adrenaline is the only first-line treatment." },
+      { "myth": "I should wait and see if it gets worse before using the EpiPen.",        "fact": "Use it as soon as anaphylaxis is suspected. Delay is the most common cause of death. Adrenaline is safe — withholding it is dangerous." },
+      { "myth": "If they feel better after the EpiPen, they don't need to go to hospital.","fact": "They still need hospital observation. Symptoms can return hours later (biphasic reaction). A second EpiPen may be needed." },
+      { "myth": "You only need an EpiPen if you have had a severe reaction before.",      "fact": "A first severe reaction can come without warning, especially in people with known food or insect allergies. Talk to a doctor about getting an EpiPen." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do — minute by minute",
+    "items": [
+      { "title": "Use the EpiPen into the outer thigh",         "description": "Through clothes is fine. Hold firmly for 10 seconds. Note the time you used it." },
+      { "title": "Call 10177 or 112 immediately",               "description": "Say 'anaphylaxis'. Even if the person seems better, they need hospital observation." },
+      { "title": "Lay them flat, raise their legs",             "description": "Helps blood pressure. If they are vomiting, lay them on their side. If breathing is hard, let them sit up — never standing." },
+      { "title": "Second EpiPen if no improvement in 5 minutes","description": "Give a second dose into the other thigh. Most EpiPens come in a 2-pack for this reason." },
+      { "title": "Stay with them until paramedics arrive",      "description": "Watch breathing and pulse. Be ready to perform CPR. Give the used EpiPen to the paramedics." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Who to call right now",
+    "lede": "Anaphylaxis is always an emergency, even if symptoms ease after the EpiPen. Get the person to hospital.",
+    "helplines": [
+      { "name": "Emergency ambulance",       "description": "Government emergency medical service",                       "meta": "Free · 24 hours · say 'anaphylaxis'",   "phone": "10177",      "phone_display": "10177",         "primary": true },
+      { "name": "Emergency (mobile)",         "description": "Reaches any emergency service from a cellphone",             "meta": "Free from any mobile · 24 hours",       "phone": "112",        "phone_display": "112",           "primary": true },
+      { "name": "Allergy Foundation SA",      "description": "Information, support, and finding an allergy specialist",    "meta": "Mon–Fri 08:00–16:30",                   "phone": "0214474360", "phone_display": "021 447 4360",  "primary": false }
+    ]
+  }
+}
