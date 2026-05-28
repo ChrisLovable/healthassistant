@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "Allergy Foundation South Africa",
-    "WHO",
-    "World Allergy Organization",
-    "National Department of Health"
+    "I-Allergy Foundation yaseMzantsi Afrika",
+    "I-WHO",
+    "Umbutho Wehlabathi Wokwala",
+    "ISebe lezeMpilo leSizwe"
   ],
   "urgent": {
     "heading": "Ingxamisekile — sebenzisa i-EpiPen ngoku",
@@ -65,7 +65,7 @@
     ],
     "pull_quote": {
       "text": "Ukuba awuqinisekanga ukuba yi-anaphylaxis na — sebenzisa i-EpiPen kunjalo. Umngcipheko wokuyisebenzisa ngokungeyomfuneko mncinci. Umngcipheko wokungayisebenzisi ungabulala.",
-      "source": "Allergy Foundation South Africa"
+      "source": "I-Allergy Foundation yaseMzantsi Afrika"
     }
   },
   "signs": {
@@ -165,7 +165,7 @@
         "primary": true
       },
       {
-        "name": "Allergy Foundation SA",
+        "name": "I-Allergy Foundation SA",
         "description": "Ulwazi, inkxaso kunye nokufumana ingcali ye-allergy",
         "meta": "Mvulo–Lwesihlanu 08:00–16:30",
         "phone": "0214474360",
@@ -175,8 +175,3 @@
     ]
   }
 }
-
-
-
-
-

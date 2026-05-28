@@ -1,105 +1,211 @@
 {
   "slug": "stis",
   "group_slug": "infectious",
-  "name": "STIs",
-  "tagline": "Common, treatable — get tested.",
+  "name": "Ii-STIs",
+  "tagline": "Iqhelekile, iyanyangeka - vavanywa.",
   "read_time_minutes": 5,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["National Department of Health", "South African National AIDS Council", "WHO", "Marie Stopes SA"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "ISebe lezeMpilo leSizwe",
+    "IBhunga leSizwe likaGawulayo loMzantsi Afrika",
+    "I-WHO",
+    "UMarie Stopes SA"
+  ],
   "what_is_it": {
-    "heading": "STIs in plain terms",
-    "lede": "Sexually transmitted infections are passed from one person to another during sex — vaginal, anal, or oral. They are very common, often have no symptoms, and most are easily treated when caught early.",
+    "heading": "Ngokucacileyo ii-STIs",
+    "lede": "Izifo ezosulela ngokwabelana ngesondo zisuka komnye umntu ziye komnye ngexesha lokwabelana ngesondo - kwilungu lobufazi, impundu, okanye ngomlomo. Zixhaphake kakhulu, kaninzi azinazimpawu, kwaye uninzi lunyangeka lula xa lubanjwe kwangethuba.",
     "paragraphs": [
-      "Bacterial STIs (chlamydia, gonorrhoea, syphilis, trichomoniasis) are curable with a course of antibiotics. Viral STIs (herpes, HPV, HIV, hepatitis B) are managed long-term but not cured by treatment. Either way, testing is what makes treatment possible.",
-      "Most STIs have no obvious symptoms — particularly in women. Left untreated, they can cause infertility, pregnancy complications, and increase the risk of getting or passing on HIV. They are not a sign of bad behaviour. They are a sign of a normal sex life and a worth-having test."
+      "Ii-STI zebhaktiriya (i-chlamydia, i-gonorrhoea, i-syphilis, i-trichomoniasis) iyanyangeka ngokusetyenziswa kwee-antibiotics. Ii-STI zentsholongwane (i-herpes, i-HPV, i-HIV, i-hepatitis B) zilawulwa ixesha elide kodwa azinyangeki ngonyango. Nokuba yeyiphi na indlela, ukuvavanywa koko kwenza ukuba unyango lwenzeke.",
+      "Uninzi lwe-STIs alunazimpawu zicacileyo - ngakumbi kwabasetyhini. Xa zinganyangwa, zinokubangela ubudlolo, iingxaki zokukhulelwa, kwaye zandise ingozi yokufumana okanye yokudlulisela i-HIV. Ayilophawu lokuziphatha kakubi. Ziyimpawu zobomi besondo obuqhelekileyo kunye novavanyo oluxabisekileyo."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "eye-off",      "headline": "Often silent", "body": "Most STIs cause no symptoms at all — especially in women. Testing is the only reliable way to know." },
-      { "color": "purple", "icon": "shield",       "headline": "Free testing", "body": "Every government clinic offers free, confidential STI testing and treatment. No appointment, no medical aid." },
-      { "color": "gold",   "icon": "check-circle", "headline": "Most are curable","body": "Chlamydia, gonorrhoea, syphilis, and trichomoniasis are all cured with a short course of antibiotics or one injection." },
-      { "color": "green",  "icon": "users",        "headline": "Treat together","body": "If you have an STI, recent partners need treatment too — even if they feel fine. Otherwise you will pass it back and forth." }
+      {
+        "color": "coral",
+        "icon": "eye-off",
+        "headline": "Kuthe cwaka rhoqo",
+        "body": "Uninzi lwe-STIs alunazimpawu kwaphela - ngakumbi kwabasetyhini. Uvavanyo kuphela kwendlela ethembekileyo yokwazi."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Uvavanyo lwasimahla",
+        "body": "Ikliniki nganye karhulumente ibonelela ngovavanyo kunye nonyango lwasimahla, oluyimfihlo lwe-STI. Akukho kuqeshwa, akukho ncedo lwezonyango."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Uninzi luyanyangeka",
+        "body": "I-Chlamydia, i-gonorrhoea, igcushuwa, kunye ne-trichomoniasis zonke zinyangwa ngekhosi emfutshane yamayeza okubulala iintsholongwane okanye inaliti enye."
+      },
+      {
+        "color": "green",
+        "icon": "users",
+        "headline": "Phathani kunye",
+        "body": "Ukuba une-STI, amaqabane akutshanje nawo afuna unyango - nokuba aziva ephilile. Kungenjalo uya kudlula ngapha nangapha."
+      }
     ],
     "pull_quote": {
-      "text": "An STI test is one of the most caring things you can do — for yourself, for the person you sleep with, and for any future partners. It is free and takes minutes.",
-      "source": "National Department of Health"
+      "text": "Uvavanyo lwe-STI yenye yezona zinto zikhathalayo onokuzenza - kuwe, kumntu olala naye, kunye nawo nawaphi na amaqabane exesha elizayo. Isimahla kwaye ithatha imizuzu.",
+      "source": "ISebe lezeMpilo leSizwe"
     }
   },
-
   "signs": {
-    "heading": "What you might notice — and what you usually won't",
-    "lede": "Most STIs are silent. When symptoms appear, they vary depending on which infection you have. The same signs can mean different things — only a test can tell.",
+    "heading": "Yintoni onokuthi uyiqaphele - kunye nento ongayi kuyibona",
+    "lede": "Uninzi lwe-STIs luthe cwaka. Xa iimpawu zivela, ziyahluka ngokuxhomekeke kuluphi usulelo onalo. Iimpawu ezifanayo zinokuthetha izinto ezahlukeneyo - luvavanyo kuphela olunokuxela.",
     "items": [
-      { "color": "orange", "icon": "droplet",       "title": "Unusual discharge",     "description": "From the vagina, penis, or anus. May be cloudy, yellow, green, smelly, or just different from usual. Common in chlamydia, gonorrhoea, trichomoniasis." },
-      { "color": "coral",  "icon": "alert-circle",  "title": "Pain or burning",       "description": "When urinating, during sex, or in the lower abdomen. Sometimes mistaken for a urinary tract infection." },
-      { "color": "purple", "icon": "user",          "title": "Sores, bumps, or rash", "description": "On the genitals, anus, mouth, or hands. May or may not be painful. Common in herpes, syphilis, HPV." },
-      { "color": "gold",   "icon": "thermometer",   "title": "Less obvious signs",    "description": "Sore throat (oral gonorrhoea), swollen glands, flu-like illness (acute HIV), unusual bleeding between periods (cervical infection)." }
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ukukhutshwa okungaqhelekanga",
+        "description": "Ukusuka kwilungu lobufazi, kwilungu lobufazi, okanye kwimpundu. Isenokuba namafu, imthubi, iluhlaza, ivumba, okanye yahluke nje kwesiqhelo. Okuqhelekileyo kwi-chlamydia, i-gonorrhoea, i-trichomoniasis."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Intlungu okanye ukutshisa",
+        "description": "Xa uchama, ngexesha lokwabelana ngesondo, okanye emazantsi esisu. Ngamanye amaxesha kuphazanyiswe usulelo lwe-urinary tract."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Izilonda, amaqhuma, okanye irhashalala",
+        "description": "Kwilungu langasese, kwimpundu, emlonyeni, okanye ezandleni. Kusenokuba buhlungu okanye kungabi buhlungu. Okuqhelekileyo kwi-herpes, i-syphilis, i-HPV."
+      },
+      {
+        "color": "gold",
+        "icon": "thermometer",
+        "title": "Iimpawu ezingacacanga",
+        "description": "Umqala obuhlungu (igonorrhoea yomlomo), ukudumba kwamadlala, isigulo esifana nomkhuhlane (acute HIV), ukopha okungaqhelekanga phakathi kokuya exesheni (usulelo lomlomo wesibeleko)."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "How STIs spread — and how they don't",
+    "heading": "Indlela ezisasazeka ngayo ii-STIs - kwaye azisasazeki njani",
     "yes": [
-      "Vaginal, anal, or oral sex without a condom",
-      "Sharing sex toys without cleaning or covering them",
-      "Skin-to-skin genital contact (HPV, herpes — even with a condom)",
-      "Mother to baby during pregnancy, birth, or breastfeeding (some STIs)",
-      "Blood-to-blood contact (sharing needles, unscreened transfusions)"
+      "Ukwabelana ngesondo kwilungu lobufazi, ezimpundu, okanye ngomlomo ngaphandle kwekhondom",
+      "Ukwabelana ngeethoyi zesondo ngaphandle kokucoca okanye ukuzigquma",
+      "Ukudibana kwesikhumba ukuya eluswini (HPV, herpes - nkqu nekhondom)",
+      "Umama kumntwana ngexesha lokukhulelwa, ukuzalwa, okanye ukuncancisa (ezinye ii-STIs)",
+      "Ukudibana kwegazi ukuya egazini (ukwabelana ngeenaliti, utofelo-gazi olungahlolwanga)"
     ],
     "no": [
-      "Hugging, holding hands, or kissing (for most STIs)",
-      "Sharing food, drinks, plates, or cutlery",
-      "Toilets, swimming pools, baths, or showers",
-      "Mosquito bites or insect contact",
-      "Casual contact at work, school, or in public"
+      "Ukuwola, ukubamba izandla, okanye ukuncamisa (kuninzi lwe-STIs)",
+      "Ukwabelana ngokutya, iziselo, iipleyiti, okanye i-cutlery",
+      "Izindlu zangasese, amadama okuqubha, iibhafu, okanye iishawari",
+      "Ukulunywa yingcongconi okanye ukudibana nezinambuzane",
+      "Ukuqhagamshelana nje rhoqo emsebenzini, esikolweni, okanye esidlangalaleni"
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "If they look healthy, they don't have an STI.",            "fact": "Most STIs cause no visible signs. You cannot tell by looking at someone — including yourself. Testing is the only reliable way." },
-      { "myth": "You can't get an STI from oral sex.",                       "fact": "Many STIs spread through oral sex — gonorrhoea, chlamydia, syphilis, herpes, HPV. Condoms and dental dams reduce the risk." },
-      { "myth": "Condoms protect against every STI 100% of the time.",      "fact": "Condoms are highly effective against most STIs when used correctly every time. Skin-to-skin STIs like HPV and herpes can still spread from areas not covered." },
-      { "myth": "If I was cured once, I am immune.",                         "fact": "You can get the same bacterial STI again after treatment. Re-testing 3 months after treatment is recommended for chlamydia and gonorrhoea." }
+      {
+        "myth": "Ukuba bakhangeleka besempilweni, abanayo i-STI.",
+        "fact": "Uninzi lwe-STIs alubangeli zimpawu zibonakalayo. Awukwazi ukuxelela ngokujonga umntu - kuquka nawe. Uvavanyo kuphela kwendlela ethembekileyo."
+      },
+      {
+        "myth": "Awukwazi ukufumana i-STI ngokwabelana ngesondo ngomlomo.",
+        "fact": "Uninzi lwe-STIs lusasazeka ngesondo lomlomo - i-gonorrhoea, i-chlamydia, i-syphilis, i-herpes, i-HPV. Iikhondom kunye namadama amazinyo anciphisa umngcipheko."
+      },
+      {
+        "myth": "Iikhondom zikhusela kwi-STI nganye 100% yexesha.",
+        "fact": "Iikhondom zisebenza kakuhle kakhulu kwii-STIs xa zisetyenziswa ngokuchanekileyo ngalo lonke ixesha. Ii-STIs zesikhumba-to-skin ezifana ne-HPV kunye ne-herpes zisenokusasazeka kwiindawo ezingagqunywanga."
+      },
+      {
+        "myth": "Ukuba ndanyangwa kanye, andikhuselekanga.",
+        "fact": "Ungaphinda ufumane i-STI yebhaktiriya efanayo emva konyango. Uvavanyo kwakhona kwiinyanga ezi-3 emva konyango luyacetyiswa kwi-chlamydia kunye ne-gonorrhoea."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to protect yourself",
-    "lede": "Most STIs are preventable with a few simple habits. None of them require giving up sex — just having it with more awareness.",
+    "heading": "Indlela yokuzikhusela",
+    "lede": "Uninzi lwe-STIs luyathinteleka ngemikhwa embalwa elula. Akukho namnye kubo ofuna ukuyeka ngesondo-ukuba nayo ngokuqaphela ngakumbi.",
     "items": [
-      { "color": "green",  "icon": "shield",       "title": "Condoms every time",        "description": "Male or female condoms, used correctly from start to finish. Free at every clinic, many pharmacies, even some petrol stations." },
-      { "color": "purple", "icon": "syringe",      "title": "HPV vaccine",                "description": "Free in SA for girls in Grade 5 and now boys in many provinces. Protects against cervical cancer, genital warts, and other cancers." },
-      { "color": "orange", "icon": "check-circle", "title": "Test before new partners",   "description": "Test before sex with a new partner, ideally together. Free, fast, confidential. Most clinics give results in 15 minutes for HIV." },
-      { "color": "gold",   "icon": "pill",         "title": "PrEP for HIV",               "description": "A daily pill that prevents HIV. Free at clinics. Useful for people at higher risk — frequent new partners, partner with HIV, sex workers." }
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Iikhondom ngalo lonke ixesha",
+        "description": "Iikhondom zamadoda okanye zabasetyhini, zisetyenziswe ngokuchanekileyo ukusuka ekuqaleni ukuya ekupheleni. Isimahla kuzo zonke iikliniki, kwiikhemesti ezininzi, nakwizikhululo zepetroli."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "Ugonyo lweHPV",
+        "description": "Isimahla e-SA kumantombazana akwiBanga lesi-5 kwaye ngoku ngamakhwenkwe akumaphondo amaninzi. Ikhusela kumhlaza womlomo wesibeleko, iintsumpa zangasese, kunye neminye imihlaza."
+      },
+      {
+        "color": "orange",
+        "icon": "check-circle",
+        "title": "Vavanya phambi kwamaqabane amatsha",
+        "description": "Vavanya ngaphambi kokwabelana ngesondo kunye neqabane elitsha, ngokufanelekileyo kunye. Isimahla, iyakhawuleza, iyimfihlo. Iikliniki ezininzi zinika iziphumo kwi-HIV imizuzu eli-15."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "title": "I-PrEP ye-HIV",
+        "description": "Ipilisi yemihla ngemihla ethintela i-HIV. Zisimahla kwiikliniki. Iluncedo kubantu abasengozini ephezulu - amaqabane amatsha rhoqo, amaqabane ane-HIV, abathengisi ngemizimba."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "Get tested",                            "description": "Walk into any government clinic. Ask for a full STI screen — HIV, syphilis, gonorrhoea, chlamydia. Most results within minutes to days." },
-      { "title": "If positive — start treatment same day","description": "Bacterial STIs are usually cured with a short course of antibiotics or a single injection. Take everything as prescribed." },
-      { "title": "Tell your recent partners",             "description": "Anyone you have had sex with in the last 6 months needs to be tested. The clinic can help you tell them anonymously if needed." },
-      { "title": "No sex while being treated",            "description": "Wait until the clinic says you are clear. Otherwise you will pass it back to the partner you just treated." },
-      { "title": "Re-test in 3 months",                   "description": "Bacterial STIs can come back if a partner was not treated. A follow-up test confirms the infection is gone." }
+      {
+        "title": "Zivavanye",
+        "description": "Ngena kuyo nayiphi na ikliniki karhulumente. Cela isikrini esipheleleyo se-STI - i-HIV, igcushuwa, i-gonorrhoea, i-chlamydia. Uninzi lweziphumo phakathi kwemizuzu ukuya kwiintsuku."
+      },
+      {
+        "title": "Ukuba unayo - qala unyango kwangolo suku",
+        "description": "Ii-STI zebhaktiriya zidla ngokunyangwa ngekhosi emfutshane yamayeza okubulala iintsholongwane okanye ngenaliti enye. Thatha yonke into njengoko kuchaziwe."
+      },
+      {
+        "title": "Xelela amaqabane akho akutshanje",
+        "description": "Nabani na okhe wabelana ngesondo naye kwiinyanga ezi-6 ezidlulileyo kufuneka avavanywe. Ikliniki ingakunceda ukuba ubaxelele ungaziwa ukuba bayafuneka."
+      },
+      {
+        "title": "Akukho ngesondo ngelixa uphathwa",
+        "description": "Linda de iklinikhi ithi ucacelwe. Kungenjalo uya kuphinda uyidlulisele kwiqabane obusanda kuliphatha."
+      },
+      {
+        "title": "Phinda uvavanye kwiinyanga ezi-3",
+        "description": "Ii-STI zebhaktiriya zinokubuya ukuba iqabane khange linyangwe. Uvavanyo olulandelayo luqinisekisa ukuba usulelo luphelile."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "STI testing is free, fast, and confidential at every government clinic. No medical aid, no judgement, no questions you don't want to answer.",
+    "heading": "Masiye phi",
+    "lede": "Uvavanyo lwe-STI lusimahla, luyakhawuleza, kwaye luyimfihlo kuzo zonke iikliniki zikarhulumente. Akukho ncedo lwezonyango, akukho sigwebo, akukho mibuzo ongafuni kuyiphendula.",
     "helplines": [
-      { "name": "National AIDS Helpline",   "description": "Confidential STI and HIV counselling and referrals",                  "meta": "Free · 24 hours",                          "phone": "0800012322", "phone_display": "0800 012 322",  "primary": true },
-      { "name": "loveLife youth line",      "description": "For young people · friendly, anonymous, free",                       "meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00",   "phone": "0800121900", "phone_display": "0800 121 900",  "primary": true },
-      { "name": "Find your nearest clinic", "description": "Every government clinic offers free STI testing and treatment",        "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+      {
+        "name": "Umnxeba woNcedo lweSizwe ngoGawulayo",
+        "description": "Ii-STI kunye neengcebiso eziyimfihlo kunye nokudluliselwa",
+        "meta": "Mahala · 24 iiyure",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "umgca wolutsha we-loveLife",
+        "description": "Kubantu abatsha · abanobubele, abangaziwa, basimahla",
+        "meta": "Mvulo-Fri 09:00–20:00 · ngoMgqibelo 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ikliniki nganye karhulumente ibonelela ngovavanyo kunye nonyango lwasimahla lwe-STI",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
     ]
   }
 }

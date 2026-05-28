@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "NICD (National Institute for Communicable Diseases)",
-    "WHO",
-    "National Department of Health",
-    "Meningitis Research Foundation"
+    "I-NICD (Iziko leSizwe leZifo ezoSulelayo)",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe",
+    "Isiseko soPhando lweMeningitis"
   ],
   "urgent": {
     "heading": "Ingxamisekile — yiya esibhedlele ngoku",
@@ -66,7 +66,7 @@
     ],
     "pull_quote": {
       "text": "Thembela kwimvakalelo yakho. Ukuba kukho into evakala imbi kakhulu — ngakumbi emntwaneni — musa ukulinda uluhlu olupheleleyo lweempawu. Yiya esibhedlele. I-meningitis ingabulala ngaphambi kokuba zonke iimpawu zivele.",
-      "source": "Meningitis Research Foundation"
+      "source": "Isiseko soPhando lweMeningitis"
     }
   },
   "signs": {
@@ -211,7 +211,7 @@
         "primary": true
       },
       {
-        "name": "NICD Hotline",
+        "name": "I-NICD Hotline",
         "description": "Ulwazi ngezifo ezosulelayo kunye nokuxela uqhambuko",
         "meta": "Mvulo–Lwesihlanu 08:00–16:00",
         "phone": "0800029999",
@@ -221,9 +221,3 @@
     ]
   }
 }
-
-
-
-
-
-

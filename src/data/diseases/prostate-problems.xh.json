@@ -1,85 +1,180 @@
 {
   "slug": "prostate-problems",
   "group_slug": "mens-health",
-  "name": "Prostate problems",
-  "tagline": "Common after 50. Most are treatable.",
+  "name": "Iingxaki zedlala lobudoda",
+  "tagline": "Okuqhelekileyo emva kwe-50. Uninzi luyanyangeka.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["CANSA (Cancer Association of South Africa)", "South African Urology Association", "WHO", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-CANSA (i-Cancer Association of South Africa)",
+    "Umbutho weUrology waseMzantsi Afrika",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "what_is_it": {
-    "heading": "Prostate problems in plain terms",
-    "lede": "The prostate is a small gland below the bladder, wrapped around the urine tube. It naturally grows with age. By 60, most men have some prostate enlargement. Most enlargement is benign — but worth checking.",
+    "heading": "Iingxaki zeProstate ngokwemiqathango ecacileyo",
+    "lede": "Idlala lengqula lidlala elincinane elingaphantsi kwesinyi, elibhijelwe kumbhobho womchamo. Ngokwendalo ikhula ngokukhula. Nge-60, amadoda amaninzi ane-prostate yokwandisa. Uninzi lolwandiso lulungile - kodwa kufanelekile ukujongwa.",
     "paragraphs": [
-      "Three main things can go wrong with the prostate: it can enlarge (BPH — benign prostatic hyperplasia), it can become inflamed or infected (prostatitis), or it can develop cancer. All three cause similar urinary symptoms.",
-      "Prostate cancer is the most common cancer in South African men. When caught early, it is highly treatable. The challenge is that men don't talk about these symptoms and don't go for screening. Getting checked from 50 — or 40 if Black or with family history — is one of the most important things a man can do."
+      "Izinto ezintathu eziphambili ezinokuhamba kakubi ngedlala lengqula: linokwandisa (BPH—benign prostatic hyperplasia), linokudumba okanye lisuleleke (iprostatitis), okanye linokuba nomhlaza. Zontathu zibangela iimpawu ezifanayo zomchamo.",
+      "Umhlaza wedlala lobudoda ngowona mhlaza uxhaphakileyo kumadoda aseMzantsi Afrika. Xa ibanjwe kwangethuba, iyanyangeka kakhulu. Umceli mngeni kukuba amadoda awathethi ngezi mpawu kwaye awayi kujongwa. Ukujongwa ukusuka kwi-50 - okanye i-40 ukuba uMnyama okanye ngembali yosapho - yenye yezona zinto zibalulekileyo ezinokwenziwa yindoda."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "users",        "headline": "Most common",   "body": "Prostate cancer is the most common cancer in SA men. About 1 in 8 will develop it in their lifetime." },
-      { "color": "purple", "icon": "calendar",     "headline": "Start at 50",   "body": "Annual screening from age 50 — or from 40 if you are Black or have family history of prostate cancer." },
-      { "color": "gold",   "icon": "check-circle", "headline": "Early = cured", "body": "Early prostate cancer has over 95% 5-year survival. Caught late, survival drops sharply. The difference is screening." },
-      { "color": "green",  "icon": "shield",       "headline": "Most not cancer","body": "Most urinary symptoms in older men are due to benign enlargement, not cancer. But you cannot tell without checking." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "Ezixhaphake kakhulu",
+        "body": "Umhlaza wedlala lobudoda ngowona mhlaza uxhaphakileyo kumadoda aseMzantsi Afrika. Malunga nomntu omnye kwabasi-8 uya kuyiphuhlisa ebomini bakhe."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Qala nge50",
+        "body": "Uvavanyo lonyaka ukusuka kwiminyaka engama-50 - okanye ukusuka kuma-40 ukuba ungumntu omnyama okanye unembali yosapho yomhlaza wedlala lesinyi."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Kwangoko = unyangekile",
+        "body": "Umhlaza wedlala lobudoda kwangethuba unama-95% iminyaka emi-5 yokusinda. Ukubanjwa emva kwexesha, ukusinda kwehla ngokukhawuleza. Umahluko kukuhlola."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Uninzi alungomhlaza",
+        "body": "Uninzi lweempawu zokuchama kumadoda amadala zibangelwa kukukhula kakuhle, hayi umhlaza. Kodwa awukwazi ukuxelela ngaphandle kokujonga."
+      }
     ],
     "pull_quote": {
-      "text": "Black South African men have nearly twice the lifetime prostate cancer risk of white men, and often present younger with more aggressive disease. Screening from 40 — not 50 — is the right call for Black men.",
-      "source": "South African Urology Association"
+      "text": "Amadoda aMnyama aseMzantsi Afrika aphantse aphinda kabini umngcipheko womhlaza wedlala lobudoda kumadoda amhlophe kubomi babo bonke, kwaye asoloko ebonisa amancinci ngezifo ezindlongondlongo. Ukuhlolwa ukusuka kwi-40 - hayi i-50 - ngumnxeba ofanelekileyo wamadoda aMnyama.",
+      "source": "Umbutho weUrology waseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "What to look out for",
-    "lede": "Most prostate symptoms come from benign enlargement (BPH). The same symptoms can also point to cancer, infection, or other conditions. Get them checked.",
+    "heading": "Yintoni omawuyijonge",
+    "lede": "Uninzi lweempawu zedlala lobudoda zivela kukwanda kwe-benign (BPH). Kwaezo mpawu zingakhomba kumhlaza, usulelo, okanye ezinye iimeko. Zihlole.",
     "items": [
-      { "color": "orange", "icon": "droplet",       "title": "Urinary changes",          "description": "Weaker stream, having to push, dribbling at the end, feeling the bladder isn't empty, getting up multiple times at night, sudden urgent need to go." },
-      { "color": "coral",  "icon": "alert-circle",  "title": "Pain or blood",            "description": "Burning when urinating (more likely infection), blood in urine or semen — needs urgent assessment. Could be infection, BPH, or cancer." },
-      { "color": "purple", "icon": "trending-down", "title": "Late warning signs",       "description": "Bone pain (especially back or hips), unexplained weight loss, fatigue, swelling of legs — may indicate advanced disease. See a doctor without delay." }
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ukutshintsha komchamo",
+        "description": "Umjelo obuthathaka, kufuneka utyhale, ugxadazelisa ekugqibeleni, ukuva ukuba isinyi asinanto, ukuvuka izihlandlo ezininzi ebusuku, ngequbuliso kufuneka uhambe."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Intlungu okanye igazi",
+        "description": "Ukutshisa xa uchama (usulelo olunokwenzeka ngakumbi), igazi kumchamo okanye amadlozi - kufuna uvavanyo olukhawulezileyo. Isenokuba lusulelo, i-BPH, okanye umhlaza."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-down",
+        "title": "Iimpawu zesilumkiso zamva",
+        "description": "Iintlungu zethambo (ngokukodwa emva okanye ezinqeni), ukulahleka kwesisindo esingenakuchazwa, ukukhathala, ukuvuvukala kwemilenze - kunokubonisa isifo esiphezulu. Bonana nogqirha ngaphandle kokulibazisa."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "If I can pee, my prostate is fine.",                            "fact": "Many men with prostate cancer have completely normal urination — especially in early stages when treatment works best. Screening, not symptoms, catches it early." },
-      { "myth": "Prostate exams are humiliating and not worth it.",             "fact": "The exam takes 30 seconds and is uncomfortable, not painful. The PSA blood test is a needle stick. Both could add 15+ years to your life." },
-      { "myth": "Treatment will leave me impotent.",                            "fact": "Modern treatments are far better at preserving function than in the past. Side effects vary by stage and treatment choice. Talk to your urologist — not the internet." },
-      { "myth": "It is an old man's disease — I am too young to worry.",        "fact": "Prostate cancer can occur from age 40, especially in Black men or those with family history. The standard guideline for higher-risk groups is screening from 40." }
+      {
+        "myth": "Ukuba ndiyakwazi ukuchama, i-prostate yam ilungile.",
+        "fact": "Amadoda amaninzi anomhlaza wedlala lobudoda anomchamo oqhelekileyo ngokupheleleyo - ngakumbi kumanqanaba okuqala xa unyango lusebenza ngcono. Ukuhlola, kungekhona iimpawu, kuyayibamba kwangethuba."
+      },
+      {
+        "myth": "Iimviwo zeProstate zihlazisa kwaye azifanelekanga.",
+        "fact": "Uviwo luthatha imizuzwana engama-30 kwaye alukhululekanga, alubuhlungu. Uvavanyo lwegazi lwe-PSA yintonga yenaliti. Zombini zingongeza iminyaka eyi-15+ kubomi bakho."
+      },
+      {
+        "myth": "Unyango luya kundishiya ndingenamandla.",
+        "fact": "Unyango lwangoku lungcono kakhulu ekugcineni ukusebenza kunangaphambili. Imiphumo emibi iyahluka ngokwenqanaba kunye nokhetho lonyango. Thetha kwi-urologist yakho - hayi i-intanethi."
+      },
+      {
+        "myth": "Sisifo sexhego — ndimncinci kakhulu ukuba ndingakhathazeka.",
+        "fact": "Umhlaza weProstate ungenzeka ukusuka kwiminyaka engama-40, ngakumbi kumadoda aMnyama okanye abo banembali yosapho. Isikhokelo esisemgangathweni samaqela asemngciphekweni ophezulu sivavanya ukusuka kuma-40."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to lower the risk and catch it early",
-    "lede": "Prostate cancer cannot be fully prevented, but you can reduce risk and catch it early. Lifestyle matters; screening matters more.",
+    "heading": "Indlela yokunciphisa umngcipheko kwaye uyibambe kwangoko",
+    "lede": "Umhlaza wedlala lobudoda awunakuthintelwa ngokupheleleyo, kodwa unokuwunciphisa umngcipheko kwaye uwubambe kwangoko. Imiba yokuphila; Ukuhlolwa kubaluleke ngakumbi.",
     "items": [
-      { "color": "green",  "icon": "check-circle", "title": "Annual screening from 50",    "description": "PSA blood test plus digital rectal exam. Free at any government clinic. Annual from 50 — or 40 if Black, family history, or known genetic risk." },
-      { "color": "purple", "icon": "leaf",         "title": "Mediterranean-style eating", "description": "Vegetables, cooked tomatoes (lycopene), fish, olive oil, legumes. Less red meat and dairy. Linked to lower prostate cancer risk in research." },
-      { "color": "orange", "icon": "activity",     "title": "Move regularly",              "description": "Active men have lower prostate cancer rates and better outcomes if diagnosed. 30 minutes of moderate activity most days. Walking counts." },
-      { "color": "gold",   "icon": "scale",        "title": "Healthy weight",              "description": "Obesity is linked to more aggressive prostate cancer and worse outcomes. Maintain a healthy weight, especially around the waist." }
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "title": "Uvavanyo lonyaka ukusuka kwi-50",
+        "description": "Uvavanyo lwegazi lwe-PSA kunye novavanyo lwedijithali lwe-rectal. Isimahla kuyo nayiphi na ikliniki karhulumente. Yonyaka ukusuka 50 - okanye 40 ukuba Black, imbali yosapho, okanye ingozi yofuzo eyaziwayo."
+      },
+      {
+        "color": "purple",
+        "icon": "leaf",
+        "title": "Ukutya kweMeditera",
+        "description": "Imifuno, utamatisi ophekiweyo (i-lycopene), intlanzi, ioli yeoli, i-legumes. Inyama ebomvu encinci kunye nobisi. Idityaniswe nomngcipheko ophantsi womhlaza wedlala lesidlala kuphando."
+      },
+      {
+        "color": "orange",
+        "icon": "activity",
+        "title": "Hambisa rhoqo",
+        "description": "Amadoda asebenzayo anezinga eliphantsi lomhlaza wedlala lesidlala kunye neziphumo ezingcono ukuba zifunyenwe. Imizuzu engama-30 yomsebenzi ophakathi iintsuku ezininzi. Ukubala ukuhamba."
+      },
+      {
+        "color": "gold",
+        "icon": "scale",
+        "title": "Ubunzima obunempilo",
+        "description": "Ukutyeba kakhulu kunxulunyaniswa nomhlaza wedlala lesinyi kunye neziphumo ezibi. Gcina ubunzima obunempilo, ngakumbi esinqeni."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "If you are 50 or older (40+ for higher risk)",  "description": "Book a prostate check at any government clinic. PSA blood test plus exam. Free. Annual repeat. Take a friend if it helps you go." },
-      { "title": "If you have urinary symptoms — get them checked","description": "Don't 'wait it out'. Most causes are treatable, including cancer if caught early. A clinic visit gives you answers, not assumptions." },
-      { "title": "If PSA is raised",                              "description": "Don't panic — many causes are not cancer (infection, BPH, even recent cycling). Your doctor will arrange further tests if needed." },
-      { "title": "If diagnosed — get to a urology team",          "description": "Major hospital cancer centres have specialist urology teams. CANSA helps navigate. Many treatment options exist — including watchful waiting for slow-growing cancer." },
-      { "title": "Tell your sons and brothers",                   "description": "Prostate cancer has a genetic component. If you have it, male relatives should screen earlier — usually 10 years before your diagnosis age." }
+      {
+        "title": "Ukuba uneminyaka engama-50 okanye ngaphezulu (40+ kumngcipheko ophezulu)",
+        "description": "Bhukisha uvavanyo lwedlala lobudoda kuyo nayiphi na ikliniki karhulumente. Uvavanyo lwegazi lwe-PSA kunye novavanyo. Mahala. Ukuphinda ngonyaka. Thatha umhlobo ukuba uyakunceda uhambe."
+      },
+      {
+        "title": "Ukuba uneempawu zokuchama - zihlole",
+        "description": "Musa 'ukuyilinda'. Uninzi lwezizathu ziyanyangeka, kuquka nomhlaza ukuba ufunyenwe kwangoko. Utyelelo lwasekliniki lukunika iimpendulo, hayi intelekelelo."
+      },
+      {
+        "title": "Ukuba iPSA iphakanyisiwe",
+        "description": "Ungothuki — oonobangela abaninzi ayingomhlaza (usulelo, i-BPH, nokukhwela ibhayisekile kutshanje). Ugqirha wakho uya kwenza amalungiselelo ovavanyo olongezelelweyo ukuba luyafuneka."
+      },
+      {
+        "title": "Ukuba ufunyanisiwe - yiya kwiqela le-urology",
+        "description": "Amaziko omhlaza kwizibhedlele ezinkulu anamaqela achwephesha ngomchamo. I-CANSA inceda ukuhamba. Ukhetho oluninzi lukhona-kuquka ukulinda umhlaza okhula kade."
+      },
+      {
+        "title": "Xelela oonyana bakho nabantakwenu",
+        "description": "Umhlaza wedlala lobudoda unecandelo lemfuzo. Ukuba unayo, izalamane zamadoda kufuneka zihlolwe kwangethuba - ngokuqhelekileyo iminyaka eyi-10 ngaphambi kweminyaka yakho yokuxilongwa."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Prostate screening and treatment are free at government clinics and hospitals. The hardest part is starting the conversation. Once you do, the system takes care of the rest.",
+    "heading": "Masiye phi",
+    "lede": "Ukuhlolwa nokunyangwa kwedlala lobudoda kusimahla kwiikliniki nasezibhedlele zikarhulumente. Eyona nto inzima kukuqalisa incoko. Nje ukuba uyenzile, inkqubo ithatha inkathalo ngokuseleyo.",
     "helplines": [
-      { "name": "Find your nearest clinic", "description": "Free PSA testing and prostate exams at every government clinic",  "meta": "No appointment · no medical aid required",  "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
-      { "name": "CANSA Helpline",            "description": "Cancer information, support groups, treatment navigation",        "meta": "Mon–Fri 08:00–16:30 · free from any phone", "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwePSA lwasimahla kunye novavanyo lwedlala lobudoda kuzo zonke iikliniki zikarhulumente",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Umnxeba woNcedo we-CASA",
+        "description": "Ulwazi lomhlaza, amaqela enkxaso, ukukhangela unyango",
+        "meta": "Mon–Fri 08:00–16:30 · simahla kuyo nayiphi na ifowuni",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      }
     ]
   }
 }

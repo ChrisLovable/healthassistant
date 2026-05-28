@@ -1,86 +1,187 @@
 {
   "slug": "heartburn-reflux",
   "group_slug": "pain",
-  "name": "Heartburn & reflux",
-  "tagline": "Common. Treatable. When it is something more.",
+  "name": "Isitshisa kunye ne-reflux",
+  "tagline": "Eqhelekileyo. Iyanyangeka. Xa iyinto engaphezulu.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["South African Gastroenterology Society", "WHO", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Umbutho weGastroenterology waseMzantsi Afrika",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "what_is_it": {
-    "heading": "Heartburn and reflux in plain terms",
-    "lede": "Heartburn is a burning feeling in the chest or throat caused by stomach acid flowing backwards into the food pipe. When it happens often, it is called GORD (gastro-oesophageal reflux disease).",
+    "heading": "Ukuvutha kwentliziyo kunye ne-reflux ngokwemiqathango ecacileyo",
+    "lede": "Isitshisa yimvakalelo etshisayo esifubeni okanye emqaleni ebangelwa sisisu esineasidi ebuyela ngasemva kumbhobho wokutya. Xa isenzeka rhoqo, ibizwa ngokuba yiGORD (gastro-oesophageal reflux disease).",
     "paragraphs": [
-      "The valve between the stomach and food pipe is meant to stay closed. When it relaxes too often or too long, acid escapes upwards. Result: a hot, burning sensation behind the breastbone — often after meals, often worse lying down.",
-      "Occasional heartburn after a big meal is normal. Heartburn that happens twice a week or more, or that wakes you at night, deserves attention. It can damage the food pipe over years. The good news: lifestyle changes plus simple medications work very well for most people."
+      "Ivalve phakathi kwesisu kunye nombhobho wokutya wenzelwe ukuba uhlale uvaliwe. Xa iphumla rhoqo okanye ixesha elide, iasidi ibalekela phezulu. Isiphumo: Imvakalelo eshushu, etshisayo emva kwethambo lesifuba - rhoqo emva kokutya, kudla ngokuba nzima kakhulu ukulala phantsi.",
+      "Ukubetha kwentliziyo ngamaxesha athile emva kwesidlo esikhulu kuqhelekile. Isitshisa esenzeka kabini ngeveki nangaphezulu, okanye esikuvusayo ebusuku, sifanelwe kukuqwalaselwa. Ingonakalisa umbhobho wokutya kwiminyaka. Iindaba ezimnandi: utshintsho lwendlela yokuphila kunye namayeza alula asebenza kakuhle kubantu abaninzi."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "users",        "headline": "1 in 4",        "body": "South Africans experience heartburn at least once a week. Far more have it occasionally. It is very common." },
-      { "color": "green",  "icon": "check-circle", "headline": "Treatable",     "body": "Lifestyle changes plus simple medication (PPIs like omeprazole) work very well. Most people get significant relief within 2 weeks." },
-      { "color": "coral",  "icon": "alert-circle", "headline": "Can mimic heart","body": "Severe heartburn can feel like a heart attack. When in doubt — especially with sweating, breathlessness, jaw or arm pain — assume heart and Tsalela umnxeba ku-10177." },
-      { "color": "gold",   "icon": "shield",       "headline": "Watch for red flags","body": "Difficulty swallowing, weight loss, vomiting blood, black stools — these are not heartburn. See a doctor without delay." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku4",
+        "body": "Abemi boMzantsi Afrika bafumana isitshisa kanye ngeveki. Baninzi kakhulu ngamanye amaxesha. Ixhaphake kakhulu."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Iyanyangeka",
+        "body": "Ukutshintsha kwendlela yokuphila kunye neyeza elilula (iiPPIs ezifana ne-omeprazole) zisebenza kakuhle kakhulu. Uninzi lwabantu lufumana isiqabu esikhulu kwiiveki ezi-2."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Unokulinganisa intliziyo",
+        "body": "Severe heartburn can feel like a heart attack. When in doubt — especially with sweating, breathlessness, jaw or arm pain — assume heart and Tsalela umnxeba ku-10177."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Jonga iiflegi ezibomvu",
+        "body": "Ubunzima bokuginya, ukwehla kobunzima bomzimba, ukugabha igazi, ilindle elimnyama — ezi ayisiso isitshisa. Bonana nogqirha ngaphandle kokulibazisa."
+      }
     ],
     "pull_quote": {
-      "text": "If you are taking heartburn medication every day for more than a few weeks, get a proper assessment. Long-term acid reflux can damage the food pipe and rarely lead to cancer — both preventable with the right care.",
-      "source": "South African Gastroenterology Society"
+      "text": "Ukuba uthatha amayeza esitshisa yonke imihla ngaphezu kweeveki ezimbalwa, fumana uvavanyo olululo. I-acid reflux yexesha elide inokonakalisa umbhobho wokutya kwaye ayifane ikhokelele kumhlaza - zombini zinokuthintelwa ngokhathalelo olufanelekileyo.",
+      "source": "Umbutho weGastroenterology waseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "What to look out for",
-    "lede": "Heartburn has a typical pattern — but some symptoms warn of something more serious.",
+    "heading": "Yintoni omawuyijonge",
+    "lede": "Isitshisa sinepateni eqhelekileyo - kodwa ezinye iimpawu zilumkisa ngento enzulu ngakumbi.",
     "items": [
-      { "color": "green",  "icon": "circle",       "title": "Typical heartburn",    "description": "Burning behind the breastbone, often after meals. Sour or bitter taste at the back of the throat. Worse lying down, bending, or after big or fatty meals. Relief from antacids." },
-      { "color": "orange", "icon": "alert-circle", "title": "Reflux features",      "description": "Acid coming up into the throat or mouth, especially at night. Persistent cough or hoarseness. Sometimes wheezing or asthma-like symptoms. Worse with weight gain or pregnancy." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Red flags — see a doctor","description": "Difficulty or painful swallowing, food sticking, weight loss, vomiting blood, black tarry stools, severe chest pain — possible heart attack. None of these are 'just heartburn'." }
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Isitshisa esiqhelekileyo",
+        "description": "Ukutshisa emva kwethambo lesifuba, rhoqo emva kokutya. Incasa emuncu okanye ekrakra emva komqala. Okubi kakhulu ukulala phantsi, ukugoba, okanye emva kokutya okukhulu okanye okunamafutha. Isiqabu kwii-antacids."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Iimpawu zeReflux",
+        "description": "Iasidi ingena emqaleni okanye emlonyeni, ngakumbi ebusuku. Ukukhohlela okuzingileyo okanye ukurhawuzelelwa. Ngamanye amaxesha ukubetha okanye iimpawu ezifana ne-asthma. Okubi ngakumbi ngokufumana ubunzima okanye ukukhulelwa."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Iiflegi ezibomvu - bonana nogqirha",
+        "description": "Ubunzima okanye obubuhlungu bokuginya, ukutya okuncamathelayo, ukwehla kobunzima bomzimba, ukugabha igazi, ilindle elimnyama, iintlungu ezibuhlungu zesifuba—ukuhlaselwa yintliziyo. Akukho nanye kwezi 'sisitshisa nje'."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Milk soothes heartburn.",                                                      "fact": "Milk briefly buffers acid, then often makes things worse — milk fat causes more acid release. Use antacids designed for the job (e.g. Gaviscon)." },
-      { "myth": "Reflux is just discomfort — it doesn't cause real damage.",                   "fact": "Years of untreated reflux can damage the food pipe lining (oesophagitis), cause narrowing, and rarely lead to a precancerous condition. Worth treating, not just enduring." },
-      { "myth": "Heartburn is always after eating spicy food.",                                   "fact": "Common triggers vary: coffee, fatty foods, chocolate, alcohol, peppermint, citrus, large meals, late eating. Different people have different triggers. A food diary helps." },
-      { "myth": "If I lose weight, the heartburn will magically go.",                            "fact": "Weight loss does help significantly, especially around the waist. But many slim people have reflux too — and weight isn't the only factor. Combine weight management with other changes." }
+      {
+        "myth": "Ubisi luthomalalisa isitshisa.",
+        "fact": "Ubisi luthintela iasidi ngokufutshane, emva koko lwenza izinto zibe mbi ngakumbi - amanqatha obisi abangela ukukhutshwa kweasidi ngaphezulu. Sebenzisa ii-antacids ezenzelwe umsebenzi (umzekelo, i-Gaviscon)."
+      },
+      {
+        "myth": "I-Reflux kukungonwabi nje - ayibangeli monakalo wokwenyani.",
+        "fact": "Iminyaka ye-reflux enganyangwayo inokonakalisa umbhobho wokutya (i-esophagitis), ibangele ukucutheka, kwaye kunqabile ukuba ikhokelele kwimeko yomhlaza. Kufanelekile ukunyangwa, kungekhona nje ukunyamezela."
+      },
+      {
+        "myth": "Isitshisa sihlala emva kokutya ukutya okuneziqholo.",
+        "fact": "Izinto ezibangela okuqhelekileyo ziyahluka: ikofu, ukutya okunamafutha, itshokolethi, utywala, i-peppermint, i-citrus, izidlo ezinkulu, ukutya kade. Abantu abahlukeneyo baneziphembeleli ezahlukeneyo. Idayari yokutya iyanceda."
+      },
+      {
+        "myth": "Ukuba ndinciphisa umzimba, isitshisa siya kuhamba ngomlingo.",
+        "fact": "Ukwehla kobunzima kunceda kakhulu, ngakumbi apha esinqeni. Kodwa abantu abaninzi ababhityileyo bane-reflux nabo-kwaye ubunzima ayisiyiyo kuphela into. Hlanganisa ukulawula ubunzima kunye nolunye utshintsho."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "Daily habits that help",
-    "lede": "Lifestyle changes are often more powerful than medication for mild to moderate reflux. Worth trying for 4 weeks before settling on pills forever.",
+    "heading": "Imikhwa yemihla ngemihla eluncedo",
+    "lede": "Iinguqu kwindlela yokuphila zihlala zinamandla ngakumbi kunamayeza e-reflux ephakathi ukuya kwephakathi. Kufanelekile ukuzama iiveki ze-4 ngaphambi kokuhlala kwiipilisi ngonaphakade.",
     "items": [
-      { "color": "green",  "icon": "utensils", "title": "Smaller meals, eat slowly",         "description": "Big meals overfill the stomach and push acid up. Try smaller portions, eat slowly, don't go back for seconds at the same sitting." },
-      { "color": "purple", "icon": "clock",    "title": "Don't eat within 3 hours of bed",  "description": "Lying down with a full stomach is a recipe for night reflux. Last meal at least 3 hours before bed. Light snack only if needed." },
-      { "color": "orange", "icon": "bed",      "title": "Raise the head of the bed",         "description": "Put 10–15cm blocks under the headboard legs (not just extra pillows — these bend the neck). Gravity keeps acid down at night." },
-      { "color": "gold",   "icon": "x-circle", "title": "Cut your triggers",                  "description": "Common: coffee, alcohol, fatty foods, chocolate, peppermint, citrus, spicy food, smoking, tight waistbands. Stop smoking entirely — it weakens the valve directly." }
+      {
+        "color": "green",
+        "icon": "utensils",
+        "title": "Ukutya okuncinci, yitya kancinci",
+        "description": "Izidlo ezinkulu zizalise isisu kwaye zityhala iasidi phezulu. Zama iinxalenye ezincinci, yitya kancinci, ungabuyi umva imizuzwana ngexesha elinye."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "Ungatyi kwiiyure ezi-3 zokulala",
+        "description": "Ukulala ngesisu esigcweleyo kuyindlela yokwenza i-reflux ebusuku. Isidlo sokugqibela ubuncinane kwiiyure ezi-3 ngaphambi kokulala. I-snack elula kuphela xa kuyimfuneko."
+      },
+      {
+        "color": "orange",
+        "icon": "bed",
+        "title": "Aphakamise intloko yebhedi",
+        "description": "Beka iibhloko ze-10-15cm phantsi kwemilenze ye-headboard (kungekhona nje imithwalo eyongezelelweyo - ezi zigoba intamo). Umxhuzulane ugcina iasidi phantsi ebusuku."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Sika izichukumisi zakho",
+        "description": "Okuqhelekileyo: ikofu, utywala, ukutya okunamafutha, itshokolethi, i-peppermint, i-citrus, ukutya okuneziqholo, ukutshaya, ukubopha ezinqeni eziqinileyo. Yeka ukutshaya ngokupheleleyo - yenza buthathaka ivalve ngokuthe ngqo."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "Try lifestyle changes for 4 weeks",                "description": "Smaller meals, no late eating, raised bed, identify triggers. About half of people get major relief from these alone — no medication needed." },
-      { "title": "Try over-the-counter antacids for occasional",     "description": "Gaviscon, Rennies, or similar work quickly for occasional episodes. Available at any pharmacy. Don't use them every day — that's a sign you need a different approach." },
-      { "title": "If symptoms 2+ times a week — see a clinic",       "description": "PPIs (omeprazole, esomeprazole) used for 4–8 weeks are often very effective. Free at government clinics. Don't take them forever without medical review." },
-      { "title": "If red flags appear — go without delay",          "description": "Difficulty swallowing, weight loss, vomiting blood, black stools — these need urgent assessment, sometimes endoscopy. Don't try over-the-counter treatment for these." },
-      { "title": "If chest pain — assume heart first",               "description": "Heart attack and heartburn can feel similar. With sweating, breathlessness, jaw or arm pain, or any uncertainty — Tsalela umnxeba ku-10177. Better safe." }
+      {
+        "title": "Zama ukutshintsha indlela yokuphila kwiiveki ezi-4",
+        "description": "Ukutya okuncinci, akukho ukutya kade, ibhedi ephakanyisiweyo, chonga izinto ezibangela. Malunga nesiqingatha sabantu sifumana isiqabu esikhulu kwezi zodwa - akukho mayeza afunekayo."
+      },
+      {
+        "title": "Zama ii-antacids ezithengiswayo ngamaxesha athile",
+        "description": "Gaviscon, Rennies, okanye umsebenzi ofanayo ngokukhawuleza kwiziqendu ngamaxesha. Ifumaneka nakweyiphi na ikhemesti. Musa ukuzisebenzisa yonke imihla - olo luphawu ukuba ufuna indlela eyahlukileyo."
+      },
+      {
+        "title": "Ukuba iimpawu ze-2 + ngeveki - jonga iklinikhi",
+        "description": "IiPPIs (omeprazole, esomeprazole) ezisetyenziswa kwiiveki ezi-4-8 zihlala zisebenza kakhulu. Zisimahla kwiikliniki zikarhulumente. Musa ukuwathatha ngonaphakade ngaphandle kokuhlolwa kwezonyango."
+      },
+      {
+        "title": "Ukuba iiflegi ezibomvu zivela - hamba ngaphandle kokulibazisa",
+        "description": "Ubunzima bokugwinya, ukunciphisa umzimba, ukuhlanza igazi, izitulo ezimnyama - ezi zifuna ukuxilongwa ngokukhawuleza, ngamanye amaxesha i-endoscopy. Sukuzama unyango olufumaneka ngaphandle kwekhawuntara kwezi."
+      },
+      {
+        "title": "Ukuba ubuhlungu besifuba - cinga intliziyo kuqala",
+        "description": "Heart attack and heartburn can feel similar. With sweating, breathlessness, jaw or arm pain, or any uncertainty — Tsalela umnxeba ku-10177. Better safe."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Most reflux can be managed at clinic level. Persistent symptoms or red flags benefit from specialist referral.",
+    "heading": "Masiye phi",
+    "lede": "Uninzi lwe-reflux lunokulawulwa kwinqanaba lekliniki. Iimpawu eziqhubekayo okanye iiflegi ezibomvu zizuza ngokuthunyelwa kweengcali.",
     "helplines": [
-      { "name": "Emergency ambulance",      "description": "If chest pain might be a heart attack",                          "meta": "Free · 24 hours",                          "phone": "10177", "phone_display": "10177",         "primary": true },
-      { "name": "Find your nearest clinic", "description": "Free assessment, lifestyle advice, and prescription treatment", "meta": "No appointment · no medical aid required", "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
-      { "name": "Any local pharmacy",        "description": "Over-the-counter antacids for occasional use",                  "meta": "No prescription needed for OTC",          "phone": null,    "phone_display": "Visit a pharmacy","primary": false }
+      {
+        "name": "I-ambulensi kaxakeka",
+        "description": "Ukuba intlungu yesifuba inokuba sisifo sentliziyo",
+        "meta": "Mahala · 24 iiyure",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwasimahla, iingcebiso ngendlela yokuphila, kunye nonyango olubhalwe ngugqirha",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Nayiphi na ikhemesti yendawo",
+        "description": "Ii-antacids ezifumaneka kwi-counter-counter ukuze zisetyenziswe ngamaxesha athile",
+        "meta": "Akukho myalelo ufunekayo we-OTC",
+        "phone": null,
+        "phone_display": "Ndwendwela ikhemesti",
+        "primary": false
+      }
     ]
   }
 }

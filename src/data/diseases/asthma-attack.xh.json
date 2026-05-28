@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "National Asthma Education Programme SA",
-    "Global Initiative for Asthma (GINA)",
-    "WHO",
-    "National Department of Health"
+    "Inkqubo yeSizwe yeMfundo yeMbefu yoMzantsi Afrika",
+    "Inyathelo leHlabathi leMbefu (GINA)",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
   ],
   "urgent": {
     "heading": "Ingxamisekile — tsalela umnxeba ngoku",
@@ -65,7 +65,7 @@
     ],
     "pull_quote": {
       "text": "Ukuba ufikelela kwipompi yakho yokukhulula ngaphezu kwamaxesha amabini ngeveki, i-asthma yakho ayilawulwa kakuhle. Bona ugqirha — musa ukuqhubeka nje usebenzisa eluhlaza okwesibhakabhaka.",
-      "source": "Global Initiative for Asthma"
+      "source": "Inyathelo leHlabathi leSifo soMbefu"
     }
   },
   "signs": {
@@ -176,8 +176,3 @@
     ]
   }
 }
-
-
-
-
-

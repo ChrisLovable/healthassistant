@@ -1,86 +1,186 @@
 {
   "slug": "vaccinations",
   "group_slug": "child-baby",
-  "name": "Childhood vaccinations",
-  "tagline": "The free SA schedule. Every shot matters.",
+  "name": "Ugonyo lwabantwana",
+  "tagline": "Ishedyuli yasimahla yoMzantsi Afrika. Yonke imbumbulu ibalulekile.",
   "read_time_minutes": 5,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["National Department of Health (EPI-SA)", "NICD", "WHO", "South African Paediatric Association"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "National Department of Health (EPI-SA)",
+    "NICD",
+    "WHO",
+    "South African Paediatric Association"
+  ],
   "what_is_it": {
-    "heading": "Childhood vaccinations in plain terms",
-    "lede": "Vaccines train a child's immune system to fight diseases before they meet them in real life. South Africa's Expanded Programme on Immunisation (EPI-SA) protects against the deadliest childhood diseases — all free at every government clinic.",
+    "heading": "Ugonyo lwabantwana ngokwemiqathango ecacileyo",
+    "lede": "Izitofu zokugonya ziqeqesha amajoni omzimba omntwana ukuba akwazi ukulwa nezifo phambi kokuba adibane nazo kubomi benene. INkqubo eYandisiweyo yoGonyo yaseMzantsi Afrika (i-EPI-SA) ikhusela ezona zifo zibulalayo kubantwana - zonke zisimahla kuzo zonke iikliniki zikarhulumente.",
     "paragraphs": [
-      "A vaccine teaches the body to recognise a virus or bacteria by showing it a harmless version. When the real thing comes along, the immune system is ready. Vaccines have prevented millions of deaths globally — measles alone used to kill 2.6 million children a year before the vaccine.",
-      "The SA schedule starts at birth and continues through school age. Stick to it. Missing one shot does not undo the others, but it leaves a gap in protection. If you've fallen behind, you can usually catch up — speak to the clinic. The Road to Health book tracks every dose."
+      "Isitofu sokugonya sifundisa umzimba ukuba wazi intsholongwane okanye ibhaktiriya ngokuyibonisa inguqulelo engenabungozi. Xa into yokwenene ifika, amajoni omzimba alungele. Izitofu zokugonya zithintele izigidi zokufa kwihlabathi jikelele - imasisi iyodwa esetyenziselwa ukubulala abantwana abazizigidi ezi-2.6 ngonyaka phambi kwesitofu sokugonya.",
+      "Ishedyuli yoMzantsi Afrika iqala ekuzalweni kwayo kwaye iqhubeleka kwiminyaka yokuya esikolweni. Hlala kuyo. Ukuphoswa kwesithonga esinye akuzilungisi ezinye, kodwa kushiya isithuba sokhuseleko. Ukuba usalele ngasemva, ungabamba – thetha nekliniki. Incwadi ethi Road to Health ilandelela idosi nganye."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "shield-check",  "headline": "Many diseases",       "body": "The free SA schedule protects against TB, polio, measles, hepatitis B, pneumococcal, rotavirus, HPV, and more." },
-      { "color": "gold",   "icon": "gift",          "headline": "All free",             "body": "Every vaccine on the schedule is free at every government clinic. No medical aid, no appointment needed for routine shots." },
-      { "color": "green",  "icon": "book-open",     "headline": "Road to Health book", "body": "Every SA child gets a Road to Health book at birth. Bring it to every clinic visit — it tracks every vaccine, weight, and milestone." },
-      { "color": "coral",  "icon": "alert-triangle","headline": "Measles is back",     "body": "Falling vaccination rates have brought measles outbreaks back to SA. Measles can kill, blind, or cause brain damage. The vaccine is safe and effective." }
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "Izifo ezininzi",
+        "body": "Ishedyuli yasimahla yoMzantsi Afrika ikhusela iTB, ipoliyo, imasisi, ihepatitis B, pneumococcal, rotavirus, HPV, nokunye."
+      },
+      {
+        "color": "gold",
+        "icon": "gift",
+        "headline": "Konke simahla",
+        "body": "Isitofu ngasinye esikwishedyuli sisimahla kuzo zonke iikliniki zikarhulumente. Akukho ncedo lwezonyango, akukho dinga lufunekayo ukulungiselela ukudutyulwa kwesiqhelo."
+      },
+      {
+        "color": "green",
+        "icon": "book-open",
+        "headline": "Incwadi yeNdlela esingise eMpilweni",
+        "body": "Wonke umntwana waseMzantsi Afrika ufumana incwadi yeNdlela esingisa eMpilweni ekuzalweni kwakhe. Yizise kutyelelo ngalunye lwekliniki - ilandelela lonke ugonyo, ubunzima, kunye nenqanaba elibalulekileyo."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Ibuyile imasisi",
+        "body": "Ukwehla kwamazinga ogonyo kubuyisele uqhambuko lwemasisi eMzantsi Afrika. Imasisi inokubulala, iyimfama, okanye ibangele umonakalo engqondweni. Isitofu sokugonya sikhuselekile kwaye siyasebenza."
+      }
     ],
     "pull_quote": {
-      "text": "Vaccines are the most cost-effective health intervention in human history. Every Rand spent on childhood immunisation saves many more in healthcare costs — and far more in lives.",
-      "source": "WHO"
+      "text": "Ugonyo lolona ngenelelo lwezempilo lungabizi kakhulu kwimbali yoluntu. IRandi nganye echithwayo kugonyo lwabantwana isindisa abaninzi ngakumbi kwiindleko zokhathalelo lwempilo - nangaphezulu kakhulu ebomini.",
+      "source": "I-WHO"
     }
   },
-
   "signs": {
-    "heading": "The SA childhood schedule",
-    "lede": "Here is when your child gets each vaccine. The 6-week, 10-week, 14-week, 9-month, and 18-month visits are the key ones — don't skip them.",
+    "heading": "Ishedyuli yobuntwana yaseMzantsi Afrika",
+    "lede": "Apha kuxa umntwana wakho efumana isitofu sokugonya ngasinye. Iiveki ezi-6, iiveki ezili-10, iiveki ezili-14, iinyanga ezisi-9, kunye notyelelo lweenyanga ezili-18 zezona zibalulekileyo—ungaze uzitsibe.",
     "items": [
-      { "color": "purple", "icon": "baby",            "title": "At birth",              "description": "BCG (against TB) and the first oral polio drops. Given before mother and baby leave the maternity ward." },
-      { "color": "orange", "icon": "calendar",        "title": "6, 10, and 14 weeks",  "description": "Pentavalent (5-in-1: diphtheria, tetanus, pertussis, Hib, hepatitis B), rotavirus drops, pneumococcal, polio. All the same clinic visit." },
-      { "color": "green",  "icon": "smile",           "title": "9 and 18 months",       "description": "Measles vaccine at both visits, plus boosters at 18 months. Critical for measles protection — never skip these." },
-      { "color": "gold",   "icon": "graduation-cap", "title": "School ages",            "description": "Tetanus and diphtheria boosters at 6 and 12 years. HPV vaccine in Grade 5 for girls (and boys in many provinces) — through the school programme." }
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Ekuzalweni",
+        "description": "I-BCG (nxamnye ne-TB) kunye nepoliyo yomlomo yokuqala iyehla. Inikwe ngaphambi kokuba umama nosana baphume kwiwadi yokubeleka."
+      },
+      {
+        "color": "orange",
+        "icon": "calendar",
+        "title": "6, 10, kunye neeveki ezili-14",
+        "description": "I-Pentavalent (i-5-in-1: i-diphtheria, i-tetanus, i-pertussis, i-Hib, i-hepatitis B), i-rotavirus drops, i-pneumococcal, i-polio. Lonke utyelelo lwasekliniki olufanayo."
+      },
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "9 kunye 18 iinyanga",
+        "description": "Isitofu sokugonya imasisi kutyelelo zombini, kunye nezincedisi kwiinyanga ezili-18. Ibalulekile kukhuseleko lwemasisi - ungaze utsibe ezi."
+      },
+      {
+        "color": "gold",
+        "icon": "graduation-cap",
+        "title": "Iminyaka yesikolo",
+        "description": "I-Tetanus kunye ne-diphtheria booster kwi-6 kunye ne-12 iminyaka. Ugonyo lwe-HPV kwiBanga lesi-5 kumantombazana (kunye namakhwenkwe kumaphondo amaninzi) — ngeprogram yesikolo."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Vaccines cause autism.",                                                    "fact": "Decades of large studies in millions of children show no link between vaccines and autism. The original 1998 study was found to be fraudulent and was retracted. The author lost his medical licence." },
-      { "myth": "Natural infection gives better immunity than vaccines.",                    "fact": "Natural infection sometimes gives stronger immunity — but at the cost of the disease itself. Measles can kill or cause brain damage. Polio can paralyse. Vaccines give immunity without the danger." },
-      { "myth": "Too many vaccines too close together overwhelms the immune system.",         "fact": "A baby's immune system handles thousands of new germs daily from breathing alone. The few proteins in a vaccine are a drop in the ocean. The schedule is timed to protect at the most vulnerable ages." },
-      { "myth": "If everyone else is vaccinated, my child doesn't need it.",                  "fact": "Herd immunity works only when most people are vaccinated. As vaccination rates drop, diseases come back — as we are seeing with measles in SA. Don't be the gap." }
+      {
+        "myth": "Izitofu zokugonya zibangela i-autism.",
+        "fact": "Amashumi eminyaka ezifundo ezinkulu kwizigidi zabantwana azibonisi nxibelelwano phakathi kogonyo kunye noluphazamiseko. Uphononongo lwakuqala luka-1998 lwafunyaniswa lunobuqhophololo kwaye lwarhoxiswa. Umbhali uphulukene nephepha-mvume lakhe lonyango."
+      },
+      {
+        "myth": "Usulelo lwendalo lunika ukhuseleko olungcono kunezitofu zokugonya.",
+        "fact": "Usulelo lwendalo ngamanye amaxesha lunika ukhuseleko olunamandla - kodwa ngexabiso lesi sifo ngokwaso. Imasisi inokubulala okanye ibangele umonakalo engqondweni. Ipoliyo inokukhubazeka. Izitofu zokugonya zinika ukhuseleko ngaphandle kwengozi."
+      },
+      {
+        "myth": "Izitofu ezininzi zokugonya ezisondelelene kakhulu zongamela amajoni omzimba.",
+        "fact": "Umxokomezelo wosana wokuzikhusela kwizifo ulawula amawakawaka eentsholongwane mihla le ngokuphefumla kuphela. Iiprotheyini ezimbalwa kwisitofu sokugonya yithontsi elwandle. Ishedyuli imiselwe ukukhusela kwawona minyaka isengozini."
+      },
+      {
+        "myth": "Ukuba wonke umntu ugonyiwe, umntwana wam akayifuni.",
+        "fact": "Ukugonywa komhlambi kusebenza kuphela xa abantu abaninzi begonyiwe. Njengoko amazinga ogonyo ehla, izifo ziyabuya - njengoko sibona ngemasisi eMzantsi Afrika. Musa ukuba ngumsantsa."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "Getting and tracking vaccines",
-    "lede": "Vaccines work best when given on time and in the right order. The clinic system makes it simple if you bring the book.",
+    "heading": "Ukufumana nokulandelela amayeza okugonya",
+    "lede": "Izitofu zokugonya zisebenza ngcono xa zinikwe ngexesha nangendlela eyiyo. Inkqubo yekliniki yenza kube lula ukuba uza nencwadi.",
     "items": [
-      { "color": "green",  "icon": "book-open",   "title": "Keep the Road to Health book","description": "Every clinic visit goes in this book. It is your child's medical passport for the first 6 years. Keep it safe and bring it every time." },
-      { "color": "purple", "icon": "calendar",    "title": "Stick to the schedule",        "description": "On-time vaccination protects at the most vulnerable ages. If you've missed a dose, the clinic catches you up — don't wait for next year." },
-      { "color": "orange", "icon": "thermometer", "title": "Mild reactions are normal",    "description": "Slight fever, redness, or fussiness in the day or two after vaccination is normal. Paracetamol helps. Severe reactions are very rare — go to clinic if you're worried." },
-      { "color": "gold",   "icon": "syringe",     "title": "Catch-up and travel vaccines","description": "If your child missed shots or you're travelling abroad, ask the clinic about catch-up schedules and travel vaccines. Most missed doses can be given later." }
+      {
+        "color": "green",
+        "icon": "book-open",
+        "title": "Gcina incwadi yeNdlela esingisa eMpilweni",
+        "description": "Utyelelo ngalunye lwasekliniki luhamba kule ncwadi. Yincwadana yokundwendwela yomntwana wakho yeminyaka emi-6 yokuqala. Yigcine ikhuselekile kwaye uyizise ngalo lonke ixesha."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "title": "Namathela kwishedyuli",
+        "description": "Ugonyo olungexesha lukhusela kweyona minyaka isengozini. Ukuba uphose ithamo, iklinikhi iyakufumana - sukulinda unyaka ozayo."
+      },
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Iimpendulo ezithambileyo ziqhelekile",
+        "description": "Umkhuhlane omncinci, ububomvu, okanye ukuxakaniseka kwimini okanye ezimbini emva kokugonywa yinto eqhelekileyo. IParacetamol iyanceda. Ukusabela okubukhali kunqabile kakhulu — yiya ekliniki ukuba unexhala."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "title": "Izitofu zokubamba kunye nokuhamba",
+        "description": "Ukuba umntwana wakho uphosile ukufota okanye uhamba phesheya, buza iklinikhi malunga neeshedyuli zokubambisa kunye nezitofu zokuhamba. Uninzi lweedosi eziphosiweyo zinokunikwa kamva."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "Check the Road to Health book",                "description": "Open the immunisation page. See which shots your child has had and which are due. If you don't have a book, ask the clinic — they'll issue one." },
-      { "title": "If your child is overdue — go now",            "description": "Walk into any clinic with the book. Most missed vaccines can be given the same day. No judgement, no extra cost." },
-      { "title": "If you've lost the book",                       "description": "Many clinics have electronic records and can usually look up what's been given. Replacement books are free." },
-      { "title": "If your child had a reaction before",           "description": "Tell the clinic. Most past reactions don't prevent future doses — alternatives or precautions are available." },
-      { "title": "If your daughter is in Grade 5",                "description": "Make sure she gets the free HPV vaccine through the school programme. Two doses, six months apart. Prevents most cervical cancer." }
+      {
+        "title": "Jonga incwadi yeNdlela esingisa eMpilweni",
+        "description": "Vula iphepha logonyo. Jonga ukuba zeziphi izithonga zomntwana wakho kwaye zeziphi ezifunekayo. Ukuba awunayo incwadi, buza ikliniki — baya kukukhupha."
+      },
+      {
+        "title": "Ukuba umntwana wakho uphelelwe lixesha - hamba ngoku",
+        "description": "Ngena kuyo nayiphi na ikliniki nencwadi. Ugonyo oluninzi oluphosiweyo lunokunikwa kwangolo suku olunye. Akukho sigqibo, akukho ndleko eyongezelelweyo."
+      },
+      {
+        "title": "Ukuba ulahlekelwe yincwadi",
+        "description": "Iikliniki ezininzi zineerekhodi ze-elektroniki kwaye zidla ngokujonga oko kunikiweyo. Iincwadi ezitshintshiweyo zisimahla."
+      },
+      {
+        "title": "Ukuba umntwana wakho uye wasabela ngaphambili",
+        "description": "Xelela ikliniki. Uninzi lweempendulo ezidlulileyo aziwathinteli amayeza exesha elizayo - iindlela ezizezinye okanye izilumkiso ziyafumaneka."
+      },
+      {
+        "title": "Ukuba intombi yakho ikwiBanga lesi-5",
+        "description": "Qinisekisa ukuba ufumana isitofu sasimahla se-HPV ngenkqubo yesikolo. Iidosi ezimbini, zishiyana ngeenyanga ezintandathu. Ithintela uninzi lomhlaza womlomo wesibeleko."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "The SA immunisation programme is one of the most accessible parts of the health system. Just bring your child and the Road to Health book.",
+    "heading": "Masiye phi",
+    "lede": "Inkqubo yogonyo loMzantsi Afrika yenye yezona ndawo zifikelelekayo kwinkqubo yezempilo. Yiza nomntwana wakho kunye nencwadi ethi Indlela esingisa eMpilweni.",
     "helplines": [
-      { "name": "Find your nearest clinic", "description": "Free childhood vaccinations on the EPI schedule", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
-      { "name": "NICD Hotline",              "description": "Vaccine information, safety queries, travel vaccines","meta": "Mon–Fri 08:00–16:00",                       "phone": "0800029999", "phone_display": "0800 029 999",  "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ugonyo lwasimahla lwabantwana kwishedyuli ye-EPI",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi lwesitofu sokugonya, imibuzo yokhuseleko, amayeza okugonya",
+        "meta": "Mvulo–Fri 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
     ]
   }
 }

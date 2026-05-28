@@ -1,75 +1,158 @@
 {
   "slug": "contraception",
   "group_slug": "womens-health",
-  "name": "Contraception",
-  "tagline": "Your options. What's free. What suits your life.",
+  "name": "Ukuthintela ukukhawula",
+  "tagline": "Iinketho zakho. Yintoni simahla. Yintoni efanele ubomi bakho.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["National Department of Health", "Marie Stopes South Africa", "WHO", "FPAofSA"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "ISebe lezeMpilo leSizwe",
+    "UMarie Stopes eMzantsi Afrika",
+    "I-WHO",
+    "FPAofSA"
+  ],
   "what_is_it": {
-    "heading": "Contraception in plain terms",
-    "lede": "Contraception lets you choose when and if you have children. South Africa offers a wide range of methods — most are free at government clinics. Different methods suit different lives.",
+    "heading": "Ukuthintela ukukhulelwa ngokwemigaqo ecacileyo",
+    "lede": "Ukuthintela ukukhawula kukuvumela ukuba ukhethe ukuba unabantwana nini na xa unabo. UMzantsi Afrika ubonelela ngeendlela ezininzi ezahlukeneyo - ezininzi zisimahla kwiikliniki zikarhulumente. Iindlela ezahlukeneyo zilungele ubomi obahlukeneyo.",
     "paragraphs": [
-      "There is no 'best' method — only the best for you right now. Choices depend on your age, health, plans for children, partner situation, and lifestyle. The right method is one you'll actually use consistently.",
-      "All government clinics provide contraception free of charge. You don't need to involve your partner, parents (from age 12), or anyone else. Confidentiality is protected by South African law — healthcare workers cannot share your contraceptive choices without your permission."
+      "Akukho ndlela 'engcono' - kuphela eyona ilungileyo kuwe ngoku. Ukhetho luxhomekeke kwiminyaka yakho, impilo, izicwangciso zabantwana, imeko yeqabane kunye nendlela yokuphila. Indlela elungileyo yile oya kuyisebenzisa rhoqo.",
+      "Zonke iikliniki zikarhulumente zibonelela ngoqingqo-nzala simahla. Awudingi ukubandakanya iqabane lakho, abazali (ukususela kwiminyaka eyi-12), okanye nabani na ongomnye. Ukugcinwa kweemfihlo kukhuselwe ngumthetho waseMzantsi Afrika - abasebenzi bezempilo abanako ukwabelana nabanye ngokhetho lwakho locwangciso ngaphandle kwemvume yakho."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "shield",        "headline": "All free",        "body": "Pills, injections, implants, IUDs, condoms — all available free at every government clinic." },
-      { "color": "green",  "icon": "check-circle", "headline": "Many options",     "body": "Daily pills, monthly injections, 3-monthly injections, implants lasting 3 years, IUDs lasting up to 10 years." },
-      { "color": "gold",   "icon": "user",          "headline": "Confidential",   "body": "From age 12 you can access contraception privately. Healthcare workers cannot tell parents or partners without your permission." },
-      { "color": "coral",  "icon": "alert-circle",  "headline": "Emergency pill","body": "Morning-after pill works up to 5 days after sex — but the sooner the better. Free at clinics, available at most pharmacies." }
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Konke simahla",
+        "body": "Iipilisi, iinaliti, izifakelo, ii-IUDs, iikhondom - zonke zifumaneka simahla kuzo zonke iikliniki zikarhulumente."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Iinketho ezininzi",
+        "body": "Iipilisi zemihla ngemihla, iinaliti zenyanga, iinaliti zenyanga ezi-3, ii-implants ezithatha iminyaka emi-3, ii-IUD ezithatha iminyaka eyi-10."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "headline": "Iyimfihlo",
+        "body": "Ukusukela kwi-12 leminyaka yobudala ungafikelela kwizicwangcisi ngasese. Abasebenzi bezempilo abanakuxelela abazali okanye amaqabane ngaphandle kwemvume yakho."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Ipilisi yongxamiseko",
+        "body": "Ipilisi yasekuseni isebenza ukuya kuthi ga kwiintsuku ezi-5 emva kokwabelana ngesondo - kodwa ngokukhawuleza kungcono. Zisimahla kwiikliniki, zifumaneka kwiikhemesti ezininzi."
+      }
     ],
     "pull_quote": {
-      "text": "Only condoms protect against both pregnancy AND STIs. Hormonal methods are highly effective for pregnancy but offer no protection from infections. Double up if you can.",
-      "source": "Marie Stopes South Africa"
+      "text": "Ziikhondom kuphela ezikhuselayo ekukhulelweni KUNYE NE-STIs. Iindlela zeHormonal zisebenza kakhulu ekukhulelweni kodwa aziniki khuselo kusulelo. Phinda kabini ukuba unako.",
+      "source": "UMarie Stopes eMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "Which method fits your life?",
-    "lede": "There's no single right answer. Match the method to your life — and remember you can switch any time.",
+    "heading": "Yeyiphi indlela ehambelana nobomi bakho?",
+    "lede": "Akukho mpendulo ichanekileyo. Tshatisa indlela ebomini bakho-kwaye khumbula ukuba ungatshintsha nangaliphi na ixesha.",
     "items": [
-      { "color": "green",  "icon": "calendar", "title": "Want long-term, low-effort",   "description": "Implant (3 years, small rod in upper arm) or IUD (3–10 years depending on type). Both are highly effective and you can forget about them once in place." },
-      { "color": "purple", "icon": "pill",     "title": "Want monthly control",          "description": "Pill (taken daily at the same time) or injection (monthly or 3-monthly). Good if you may want pregnancy in the next year or two." },
-      { "color": "gold",   "icon": "shield",   "title": "Want STI protection too",       "description": "Male or female condoms — every time, with or without other contraception. Only these protect against HIV and STIs." }
+      {
+        "color": "green",
+        "icon": "calendar",
+        "title": "Ufuna ixesha elide, umzamo ophantsi",
+        "description": "Ukufakelwa (iminyaka emi-3, intonga encinci kwingalo ephezulu) okanye i-IUD (iminyaka emi-3-10 kuxhomekeke kuhlobo). Zombini zisebenza kakhulu kwaye unokulibala ngazo xa sele zisendaweni."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "Ufuna ulawulo lwenyanga",
+        "description": "Ipilisi (ethathwa imihla ngemihla ngexesha elifanayo) okanye i-injection (ngenyanga okanye nge-3-ngenyanga). Kulungile ukuba unokufuna ukukhulelwa kunyaka ozayo okanye emibini."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Ufuna ukhuseleko lwe-STI nawe",
+        "description": "Iikhondom zamadoda okanye zabasetyhini - ngalo lonke ixesha, kunye okanye ngaphandle kolunye ucwangciso. Kuphela ezi zikhusela kwi-HIV kunye nee-STIs."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Contraception causes infertility later.",                            "fact": "All reversible methods let your fertility return after stopping — usually within months. There is no long-term effect on having children later when you want them." },
-      { "myth": "You can't get pregnant on your first time, or while breastfeeding.","fact": "You absolutely can. Always use contraception if you don't want pregnancy — first time, period, or any time after birth." },
-      { "myth": "The pill protects against HIV and STIs.",                           "fact": "Hormonal contraception prevents pregnancy only. For STIs and HIV — condoms every time, or PrEP if at higher HIV risk." },
-      { "myth": "Emergency contraception is the same as abortion.",                  "fact": "Emergency contraception works before pregnancy starts — it delays ovulation. It cannot end an existing pregnancy. Termination of pregnancy is a separate, legal service." }
+      {
+        "myth": "Ukuthintela ukukhawula kubangela ubudlolo kamva.",
+        "fact": "Zonke iindlela ezibuyiselwa umva vumela ukuchuma kwakho kubuye emva kokuyeka-kaninzi kwiinyanga. Akukho mpembelelo yexesha elide yokuba nabantwana kamva xa ubafuna."
+      },
+      {
+        "myth": "Awukwazi ukukhulelwa ngexesha lakho lokuqala, okanye ngelixa uncancisa.",
+        "fact": "Unako ngokupheleleyo. Ngalo lonke ixesha sebenzisa izicwangcisi ukuba awufuni ukukhulelwa — okokuqala, ixesha, okanye naliphi na ixesha emva kokuzalwa."
+      },
+      {
+        "myth": "Ipilisi ikhusela i-HIV kunye ne-STIs.",
+        "fact": "IHormonal contraception ikhusela ukukhulelwa kuphela. Ngee-STIs kunye ne-HIV - iikhondom ngalo lonke ixesha, okanye i-PrEP ukuba isengozini ephezulu ye-HIV."
+      },
+      {
+        "myth": "Ucwangciso olungxamisekileyo luyafana nokuqhomfa.",
+        "fact": "Ucwangciso olungxamisekileyo lusebenza phambi kokuba kuqale ukukhulelwa - kulibazisa ukuphuma kweqanda. Ayinakuphelisa ukukhulelwa okukhoyo. Ukupheliswa kokukhulelwa yinkonzo eyahlukileyo, yezomthetho."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "Go to any government clinic",                  "description": "Walk in. Ask for contraception. They'll explain options and help you choose. No appointment needed, no medical aid required." },
-      { "title": "Try a method — and switch if it doesn't fit",  "description": "Side effects with one method don't mean others will give you problems. Many women try 2 or 3 before finding the right one. Switching is free." },
-      { "title": "If you miss a pill — check the leaflet",        "description": "Different pills have different rules. Generally: take the missed pill as soon as you remember, and use condoms for 7 days as backup." },
-      { "title": "If sex without protection happens",             "description": "Emergency contraception within 5 days. Free at clinics. R30–80 at most pharmacies. The sooner the better. Doesn't replace regular contraception." },
-      { "title": "Couples — try to decide together",              "description": "Contraception works best when both partners support the choice. Many clinics offer couples counselling. Outcomes are better when you're on the same page." }
+      {
+        "title": "Yiya kuyo nayiphi na ikliniki karhulumente",
+        "description": "Ngena ngaphakathi. Cela ucwangciso. Baza kukuchazela iinketho kwaye bakuncede ukhethe. Akukho kuqeshwa kuyadingeka, akukho ncedo lwezonyango olufunekayo."
+      },
+      {
+        "title": "Zama indlela - kwaye utshintshe ukuba ayingeni",
+        "description": "Iziphumo ebezingalindelekanga ngendlela enye ayithethi ukuba abanye baya kukunika iingxaki. Abasetyhini abaninzi bazama i-2 okanye i-3 ngaphambi kokufumana eyona ilungileyo. Ukutshintsha kusimahla."
+      },
+      {
+        "title": "Ukuba uphosa ipilisi - jonga iphecana",
+        "description": "Iipilisi ezahlukeneyo zinemithetho eyahlukileyo. Ngokubanzi: thatha ipilisi ephosiweyo ngokukhawuleza ukuba ukhumbule, kwaye usebenzise iikhondom iintsuku ezisi-7 njenge-backup."
+      },
+      {
+        "title": "Ukuba ukwabelana ngesondo ngaphandle kokhuseleko kwenzeka",
+        "description": "Ucwangciso olungxamisekileyo phakathi kweentsuku ezi-5. Zisimahla kwiikliniki. I-R30–80 kwiikhemesti ezininzi. Ngokukhawuleza kungcono. Ayithathi indawo yocwangciso oluqhelekileyo."
+      },
+      {
+        "title": "Abatshatileyo — zama ukwenza isigqibo kunye",
+        "description": "Ucwangciso lusebenza ngcono xa omabini amaqabane exhasa ukhetho. Iikliniki ezininzi zinika izibini iingcebiso. Iziphumo zingcono xa ukwiphepha elinye."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Contraception is one of South Africa's best-organised public health services. Free, confidential, available to everyone from age 12.",
+    "heading": "Masiye phi",
+    "lede": "Uthintelo kukhulelwa yenye yeenkonzo zempilo zoluntu ezilungelelaniswe kakuhle eMzantsi Afrika. Isimahla, iyimfihlo, iyafumaneka kuye wonke umntu ukusuka kwiminyaka eyi-12.",
     "helplines": [
-      { "name": "Find your nearest clinic",  "description": "Every government clinic provides free contraception and counselling",     "meta": "No appointment · no medical aid required · age 12+", "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
-      { "name": "Marie Stopes SA",            "description": "Counselling, contraception, reproductive health services",                  "meta": "Mon–Fri 08:00–17:00",                                "phone": "0800117785", "phone_display": "0800 11 77 85", "primary": true },
-      { "name": "loveLife youth line",        "description": "For young people — friendly, anonymous, free",                              "meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00",             "phone": "0800121900", "phone_display": "0800 121 900",  "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ikliniki nganye karhulumente ibonelela ngothintelo-kukhulelwa kunye neengcebiso simahla",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo · iminyaka eyi-12+",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "UMarie Stopes SA",
+        "description": "Iingcebiso, ucwangciso, iinkonzo zempilo yokuzala",
+        "meta": "Mvulo–Fri 08:00–17:00",
+        "phone": "0800117785",
+        "phone_display": "0800 11 77 85",
+        "primary": true
+      },
+      {
+        "name": "umgca wolutsha we-loveLife",
+        "description": "Kubantu abatsha - banobuhlobo, abangaziwa, bakhululekile",
+        "meta": "Mvulo-Fri 09:00–20:00 · ngoMgqibelo 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
     ]
   }
 }

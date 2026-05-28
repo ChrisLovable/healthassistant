@@ -1,101 +1,194 @@
 {
   "slug": "flu",
   "group_slug": "infectious",
-  "name": "Flu (influenza)",
-  "tagline": "When to rest. When to call your doctor.",
+  "name": "Umkhuhlane (umkhuhlane)",
+  "tagline": "Ukuphumla nini. Ubiza nini ugqirha wakho.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["National Institute for Communicable Diseases (NICD)", "WHO", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Iziko leSizwe leZifo ezoSulelayo (NICD)",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "what_is_it": {
-    "heading": "Flu in plain terms",
-    "lede": "Influenza is a viral infection of the nose, throat, and lungs. It is far more aggressive than a common cold — fever, body aches, and exhaustion come on within hours.",
+    "heading": "Umkhuhlane ngokwemigaqo ecacileyo",
+    "lede": "Umkhuhlane lusulelo lwentsholongwane lwempumlo, umqala, kunye nemiphunga. Bundlongondlongo kakhulu kunomkhuhlane oqhelekileyo - umkhuhlane, iintlungu zomzimba, kunye nokudinwa kuza kwiiyure nje ezimbalwa.",
     "paragraphs": [
-      "Most healthy people recover within a week to ten days. The danger lies in complications — pneumonia, worsening of asthma or heart disease, dehydration in the elderly and young children. Roughly 11,000 South Africans die from flu-related complications every year.",
-      "Flu is not just a bad cold. Colds come on slowly. Flu hits within hours — high fever, dry cough, muscle aches, headaches, and the kind of exhaustion that puts you in bed."
+      "Uninzi lwabantu abasempilweni luyachacha kwisithuba seveki ukuya kwiintsuku ezilishumi. Ingozi ikhona kwiingxaki - i-pneumonia, ukunyuka kwe-asthma okanye isifo senhliziyo, ukungabikho kwamanzi kubantu abadala kunye nabantwana abancinci. Bamalunga ne-11,000 abemi boMzantsi Afrika abasweleka ngenxa yeengxaki ezinxulumene nomkhuhlane minyaka le.",
+      "Umkhuhlane awuyongqele embi nje. Ingqele iza kancinci. Umkhuhlane uhlasela kwiiyure nje ezimbalwa - umkhuhlane ophezulu, ukhohlokhohlo olomileyo, izihlunu ezibuhlungu, intloko ebuhlungu, kunye nohlobo lokudinwa okukubeka ebhedini."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "calendar",      "headline": "Seasonal",       "body": "South African flu season runs roughly May to September. Get vaccinated in March or April." },
-      { "color": "coral",  "icon": "alert-triangle","headline": "Still kills",     "body": "Around 11,000 SA deaths a year — mostly from complications like pneumonia, mostly in the elderly and chronically ill." },
-      { "color": "gold",   "icon": "syringe",       "headline": "Free vaccine",   "body": "High-risk groups get free flu vaccines at clinics — over 65, pregnant women, chronic illness, healthcare workers." },
-      { "color": "green",  "icon": "home",          "headline": "Rest, not antibiotics","body": "Healthy adults usually need rest, fluids, and time — not antibiotics. Antibiotics do not work against viruses." }
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Ixesha lonyaka",
+        "body": "Ixesha lomkhuhlane eMzantsi Afrika liqala ngoMeyi ukuya kuSeptemba. Ugonywe ngoMatshi okanye ngoAprili."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Usabulala",
+        "body": "Malunga ne-11,000 laseMzantsi Afrika lokusweleka ngonyaka - ubukhulu becala ngenxa yeengxaki ezifana nenyumoniya, ingakumbi kubantu abadala kunye nabagula kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Isitofu sokugonya sasimahla",
+        "body": "Amaqela asemngciphekweni omkhulu afumana izitofu zokugonya umkhuhlane simahla kwiiklinikhi - ngaphezulu kwama-65, abasetyhini abakhulelweyo, izifo ezingapheliyo, abasebenzi bezempilo."
+      },
+      {
+        "color": "green",
+        "icon": "home",
+        "headline": "Phumla, hayi antibiotics",
+        "body": "Abantu abadala abasempilweni badla ngokufuna ukuphumla, ulwelo kunye nexesha- hayi amayeza okubulala iintsholongwane. Ii-antibiotics azisebenzi ngokuchasene neentsholongwane."
+      }
     ],
     "pull_quote": {
-      "text": "The flu vaccine cannot give you flu — that is one of the most persistent and harmful myths. The vaccine contains no live virus.",
-      "source": "NICD"
+      "text": "Isitofu sokugonya somkhuhlane asinakukunika umkhuhlane-yenye yezona ntsomi zithe gqolo neziyingozi. Isitofu sokugonya asinayo intsholongwane ephilayo.",
+      "source": "I-NICD"
     }
   },
-
   "signs": {
-    "heading": "Flu versus cold — how to tell",
-    "lede": "Flu and colds are different illnesses. Knowing which you have changes what you do next.",
+    "heading": "Umkhuhlane ngokuchasene nokubanda - ukuba uxela njani",
+    "lede": "Umkhuhlane kunye neengqele zizifo ezahlukeneyo. Ukwazi ukuba yintoni onayo kutshintsha into oyenzayo ngokulandelayo.",
     "items": [
-      { "color": "coral",  "icon": "thermometer", "title": "Flu hits fast and hard","description": "High fever (over 38°C) coming on within hours, severe body aches, dry cough, exhaustion. You feel knocked over." },
-      { "color": "orange", "icon": "wind",        "title": "Cold builds slowly",   "description": "Runny nose, sore throat, mild fatigue. You feel rough but functional. No high fever, no body aches." },
-      { "color": "purple", "icon": "alert-circle","title": "Warning signs",        "description": "Difficulty breathing, chest pain, blue lips, severe vomiting, confusion, symptoms that improve then suddenly get worse — see a clinic." }
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Umkhuhlane ubetha ngokukhawuleza nanzima",
+        "description": "Ubushushu obuphezulu (ngaphezulu kwama-38°C) buvela kwiiyure nje ezingephi, umzimba oqaqanjelwayo, ukhohlokhohlo olomileyo, ukudinwa. Uziva ukhutshiwe."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Okubandayo kwakha kancinci",
+        "description": "Impumlo evuzayo, umqala obuhlungu, ukudinwa kancinci. Uziva urhabaxa kodwa usebenza. Akukho fever ephezulu, akukho ntlungu yomzimba."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Iimpawu ezilumkisayo",
+        "description": "Ubunzima bokuphefumla, iintlungu zesifuba, imilebe eluhlaza, ukugabha kakhulu, ukubhideka, iimpawu eziphucuka emva koko ziba mandundu-bonana nekliniki."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "How flu spreads",
+    "heading": "Usasazeka njani umkhuhlane",
     "yes": [
-      "Coughs and sneezes from infected people — droplets travel about a metre",
-      "Touching surfaces an infected person has coughed on, then touching your face",
-      "Close contact in poorly ventilated spaces — classrooms, taxis, offices",
-      "From an infected person starting a day before they feel sick"
+      "Ukukhohlela kunye nokuthimla kubantu abosulelekileyo - amathontsi ahamba malunga nemitha",
+      "Ukuchukumisa iindawo umntu owosulelekileyo akhohlele kuzo, aze achukumise ubuso bakho",
+      "Uqhagamshelwano olusondeleyo kwiindawo ezingenamoya omdaka - amagumbi okufundela, iiteksi, iiofisi",
+      "Ukusuka kumntu osulelekileyo ukuqala usuku ngaphambi kokuba azive egula"
     ],
     "no": [
-      "Mosquito bites or other insects",
-      "Food, water, or sharing drinks (uncommon)",
-      "Getting cold or wet — the cold does not cause flu, the virus does",
-      "The flu vaccine — it contains no live virus"
+      "Ukulunywa ziingcongconi okanye ezinye izinambuzane",
+      "Ukutya, amanzi, okanye ukwabelana ngeziselo (okungaqhelekanga)",
+      "Ukubanda okanye ukumanzi - ukubanda akubangeli umkhuhlane, intsholongwane iyawenza",
+      "Isitofu sokugonya somkhuhlane — asiqulathanga ntsholongwane iphilayo"
     ]
   },
-
   "prevention": {
-    "heading": "How to protect yourself and your family",
-    "lede": "The annual flu vaccine is the single most effective thing. Even if you still get flu after vaccination, it is usually much milder.",
+    "heading": "Indlela yokuzikhusela wena nosapho lwakho",
+    "lede": "Isitofu sokugonya somkhuhlane sonyaka yeyona nto isebenzayo. Nokuba usenawo umkhuhlane emva kokugonywa, ukholisa ukuba buthathaka kakhulu.",
     "items": [
-      { "color": "green",  "icon": "syringe", "title": "Annual flu vaccine",  "description": "Get vaccinated every year before flu season. Free at clinics for high-risk groups, around R100 at most pharmacies for everyone else." },
-      { "color": "purple", "icon": "droplet", "title": "Wash hands often",     "description": "Soap and water for 20 seconds, or alcohol sanitiser. Especially after public transport, shopping, or school pickup." },
-      { "color": "orange", "icon": "wind",    "title": "Ventilation",          "description": "Open windows in homes, classrooms, and offices. Flu spreads far less in well-ventilated spaces." },
-      { "color": "gold",   "icon": "home",    "title": "Stay home if sick",   "description": "If you have flu, stay home for 24 hours after your fever breaks. You are most infectious in the first 3–4 days." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Isitofu sokugonya somkhuhlane sonyaka",
+        "description": "Fumana ugonyo rhoqo ngonyaka phambi kwexesha lomkhuhlane. Ezikliniki zisimahla kumaqela asemngciphekweni omkhulu, malunga ne-R100 kwiikhemesti ezininzi kumntu wonke."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Hlamba izandla rhoqo",
+        "description": "Isepha kunye namanzi imizuzwana engama-20, okanye i-alcohol sanitiser. Ingakumbi emva kwesithuthi sikawonke-wonke, ivenkile, okanye isithuthi sesikolo."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukungenisa umoya",
+        "description": "Vula iifestile ezindlwini, kumagumbi okufundela, nakwiiofisi. Umkhuhlane usasazeka kancinci kwiindawo ezinomoya owaneleyo."
+      },
+      {
+        "color": "gold",
+        "icon": "home",
+        "title": "Hlala ekhaya ukuba uyagula",
+        "description": "Ukuba unomkhuhlane, hlala ekhaya iiyure ezingama-24 emva kokuba umkhuhlane wakho ugqabhukile. Wosulela kakhulu kwiintsuku ezi-3-4 zokuqala."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "The flu vaccine can give you flu.", "fact": "The flu vaccine contains no live virus. Some people feel tired or have a mild fever after the shot — that's the immune system responding, not flu." },
-      { "myth": "If I'm healthy, I don't need a flu vaccine.", "fact": "Healthy people usually survive flu — but spread it to more vulnerable people. Vaccination protects you and your children, parents, and colleagues." },
-      { "myth": "Antibiotics will clear my flu quickly.", "fact": "Antibiotics only work against bacteria. Flu is a virus. Taking antibiotics unnecessarily breeds resistant bacteria for later." },
-      { "myth": "Once I have symptoms, it's too late for the vaccine.", "fact": "If you already have flu, the vaccine won't cure that episode — but it's never too late for the season as a whole. There are often more exposures later." }
+      {
+        "myth": "Isitofu sokugonya somkhuhlane sinokukunika umkhuhlane.",
+        "fact": "Isitofu sokugonya somkhuhlane asinayo intsholongwane ephilayo. Abanye abantu baziva bediniwe okanye banomkhuhlane ongephi emva kokudutyulwa - yi-immune system ephendulayo, hayi umkhuhlane."
+      },
+      {
+        "myth": "Ukuba ndisempilweni, andifuni chiza lomkhuhlane.",
+        "fact": "Abantu abasempilweni bahlala besinda kumkhuhlane - kodwa bawusasaze kubantu abasesichengeni. Ugonyo lukhusela wena nabantwana bakho, abazali kunye noogxa bakho."
+      },
+      {
+        "myth": "Amayeza okubulala iintsholongwane aya kuwuphelisa umkhuhlane wam ngokukhawuleza.",
+        "fact": "Ii-antibiotics zisebenza kuphela kwiibhaktheriya. Umkhuhlane yintsholongwane. Ukuthatha amayeza okubulala iintsholongwane ngokungeyomfuneko kuvelisa iibhaktheriya ezixhathisayo kwixesha elizayo."
+      },
+      {
+        "myth": "Nje ukuba ndibe neempawu, selidlulile ixesha kwisitofu sokugonya.",
+        "fact": "Ukuba sele unomkhuhlane, isitofu sokugonya asiyi kunyanga eso siqendu - kodwa alikaze liphele ixesha lonyaka xa lilonke. Kudla ngokubakho ukutyhileka ngakumbi kamva."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "Rest, fluids, paracetamol",         "description": "Sleep as much as you can. Drink water, juice, soup. Paracetamol or ibuprofen for fever and aches." },
-      { "title": "Do not ask for antibiotics",        "description": "Flu is viral. Antibiotics do nothing for viruses. They only help if a bacterial complication like pneumonia develops." },
-      { "title": "If high-risk — see a clinic early", "description": "Pregnant, over 65, chronic illness (asthma, heart disease, diabetes, HIV)? See a clinic within 48 hours — antivirals work best early." },
-      { "title": "Watch for warning signs",            "description": "Difficulty breathing, chest pain, confusion, severe vomiting, sudden worsening — get medical attention." },
-      { "title": "Protect others",                     "description": "Stay home until fever-free for 24 hours. Cover coughs with your elbow. Do not visit elderly relatives while sick." }
+      {
+        "title": "Ukuphumla, ulwelo, iparacetamol",
+        "description": "Lala kangangoko unako. Sela amanzi, ijusi, isuphu. I-Paracetamol okanye ibuprofen yomkhuhlane kunye neentlungu."
+      },
+      {
+        "title": "Musa ukucela amayeza okubulala iintsholongwane",
+        "description": "Umkhuhlane yintsholongwane. Ii-antibiotics azenzi nto kwiintsholongwane. Ziyanceda kuphela xa kuvela ingxaki yebhaktiriya efana nenyumoniya."
+      },
+      {
+        "title": "Ukuba usengozini enkulu - bonana ekliniki kwangoko",
+        "description": "Ngaba ukhulelwe, ngaphezu kweminyaka engama-65, ukugula okungapheliyo (isifuba, isifo sentliziyo, isifo seswekile, i-HIV)? Bona ikliniki kwiiyure ezingama-48 - ii-antivirals zisebenza ngcono kwangoko."
+      },
+      {
+        "title": "Jonga iimpawu ezilumkisayo",
+        "description": "Ubunzima bokuphefumla, iintlungu zesifuba, ukubhideka, ukugabha kakhulu, ukuba mandundu ngokukhawuleza - fumana unyango."
+      },
+      {
+        "title": "Khusela abanye",
+        "description": "Hlala ekhaya de ungabi namkhuhlane iiyure ezingama-24. Gquma ukhohlokhohlo ngengqiniba. Musa ukutyelela izalamane ezikhulileyo ngoxa ugula."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Most flu can be managed at home. Clinics and pharmacies help with severe symptoms and high-risk groups.",
+    "heading": "Masiye phi",
+    "lede": "Uninzi lomkhuhlane unokulawulwa ekhaya. Iiklinikhi kunye neekhemesti zinceda ngeempawu ezinzima kunye namaqela asemngciphekweni omkhulu.",
     "helplines": [
-      { "name": "Find your nearest clinic", "description": "Every government clinic offers free flu vaccines for high-risk groups", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic",  "primary": true, "link": "/clinic-finder" },
-      { "name": "NICD Hotline",             "description": "Information on flu surveillance and vaccination",                       "meta": "Mon–Fri 08:00–16:00",                       "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ikliniki nganye karhulumente inikezela ngezitofu zokugonya umkhuhlane simahla kumaqela asemngciphekweni omkhulu",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi malunga nokucupha umkhuhlane kunye nokugonywa",
+        "meta": "Mvulo–Fri 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
     ]
   }
 }

@@ -1,92 +1,175 @@
 {
   "slug": "uti",
   "group_slug": "pain",
-  "name": "Urinary tract infection (UTI)",
-  "tagline": "Common in women. Antibiotics needed. Don't ignore.",
+  "name": "Usulelo lomgudu womchamo (UTI)",
+  "tagline": "Okuqhelekileyo kwabasetyhini. Amayeza okubulala iintsholongwane afunekayo. Sukuzihoya.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["South African Urology Association", "WHO", "National Department of Health", "NICD"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "South African Urology Association",
+    "WHO",
+    "National Department of Health",
+    "NICD"
+  ],
   "urgent": {
-    "heading": "Get to a clinic or hospital urgently if",
-    "primary_message": "A simple bladder infection can spread to the kidneys and bloodstream. The signs below mean the infection has progressed — it needs treatment fast.",
+    "heading": "Yiya ekliniki okanye esibhedlele ngokukhawuleza ukuba",
+    "primary_message": "Usulelo olulula lwesinyi lunokusasazeka kwiintso kunye negazi. Iimpawu ezingezantsi zithetha ukuba usulelo luqhubekile - lufuna unyango ngokukhawuleza.",
     "phone": "10177",
     "phone_display": "Tsalela umnxeba ku-10177",
     "red_flags": [
-      "High fever, shivering, or sweats with UTI symptoms",
-      "Severe pain in the back or side (around the kidneys)",
-      "Nausea and vomiting that won't stop",
-      "Confusion or extreme drowsiness — especially in older people",
-      "Blood in urine (more than a small amount)",
-      "UTI symptoms in pregnancy — never wait it out",
-      "UTI symptoms in a child or baby",
-      "UTI symptoms in a man (less common, often more serious)"
+      "Umkhuhlane ophezulu, ukungcangcazela, okanye ukubila kunye neempawu ze-UTI",
+      "Intlungu ebuhlungu emqolo okanye ecaleni (ejikeleze izintso)",
+      "Isicaphucaphu nokugabha okungayekiyo",
+      "Ukudideka okanye ukozela kakhulu - ngakumbi kubantu abadala",
+      "Igazi kumchamo (ngaphezulu kwexabiso elincinci)",
+      "Iimpawu ze-UTI ekukhulelweni - ungaze ulinde ngaphandle",
+      "Iimpawu ze-UTI emntwaneni okanye kusana",
+      "Iimpawu ze-UTI endodeni (ezingaqhelekanga, zihlala zibi kakhulu)"
     ]
   },
-
   "what_is_it": {
-    "heading": "UTI in plain terms",
-    "lede": "A urinary tract infection happens when bacteria — usually from the gut — get into the urine system and multiply. Most affect the bladder (cystitis). Sometimes they reach the kidneys (pyelonephritis), which is more serious.",
+    "heading": "UTI ngokwemiqathango ecacileyo",
+    "lede": "Usulelo lomjelo womchamo lwenzeka xa ibhaktheriya - idla ngokuphuma emathunjini - ingena kwinkqubo yomchamo kwaye iphindaphindeka. Uninzi luchaphazela isinyi (cystitis). Ngamanye amaxesha bafikelela kwizintso (pyelonephritis), eyingozi kakhulu.",
     "paragraphs": [
-      "UTIs are far more common in women because the urine tube (urethra) is shorter, so bacteria reach the bladder more easily. About half of women have at least one UTI in their lifetime. UTIs in men, children, or pregnancy are less common and need closer attention.",
-      "Most simple bladder UTIs clear quickly with a short course of antibiotics. Untreated, they can spread upwards to the kidneys, where the infection becomes much more serious — sometimes life-threatening. Don't ignore symptoms hoping they'll go."
+      "Ii-UTIs zixhaphake kakhulu kwabasetyhini kuba ityhubhu yomchamo (urethra) imfutshane, ngoko ke iintsholongwane zifikelela kwisinyi ngokulula. Malunga nesiqingatha abasetyhini ubuncinane enye UTI ebomini babo. I-UTIs emadodeni, abantwana, okanye ukukhulelwa ayixhaphakanga kwaye ifuna ingqalelo esondeleyo.",
+      "Uninzi lwe-UTIs yesinye esilula lucaca ngokukhawuleza ngekhosi emfutshane yamayeza okubulala iintsholongwane. Ukunganyangwa, banokusasazeka ukuya phezulu kwiintso, apho usulelo luba lukhulu kakhulu - ngamanye amaxesha lubeka ubomi esichengeni. Musa ukuzihoya iimpawu ngethemba lokuba ziya kuhamba."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "users",        "headline": "Half of women",    "body": "Will have at least one UTI in their lifetime. Many have several. It is one of the most common reasons for clinic visits." },
-      { "color": "green",  "icon": "check-circle", "headline": "Antibiotics work","body": "Most simple UTIs clear in 2–3 days on a short antibiotic course. Drink plenty of water alongside." },
-      { "color": "coral",  "icon": "alert-triangle","headline": "Can spread up",   "body": "Untreated UTIs can spread to the kidneys — pyelonephritis. This causes fever, back pain, and sometimes sepsis. A real emergency." },
-      { "color": "gold",   "icon": "droplet",      "headline": "Pee after sex",   "body": "Sex is a common trigger for UTIs in women. Peeing within 30 minutes flushes bacteria out. Easy daily prevention habit." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Isiqingatha sabasetyhini",
+        "body": "Baya kuba ne-UTI ubuncinane enye ebomini babo. Abaninzi baye abaninzi. Sesinye sezizathu eziqhelekileyo zokundwendwela eklinikhi."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Ii-antibiotics ziyasebenza",
+        "body": "Uninzi lwee-UTIs ezilula zicacile kwiintsuku ezi-2-3 kwikhosi emfutshane ye-antibiotic. Sela amanzi amaninzi ecaleni kwawo."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Inokusasaza",
+        "body": "I-UTIs enganyangwayo inokunwenwela kwizintso - i-pyelonephritis. Oku kubangela umkhuhlane, intlungu yomqolo, kwaye ngamanye amaxesha i-sepsis. Ingxakeko yokwenyani."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "headline": "Chama emva kokwabelana ngesondo",
+        "body": "Ukwabelana ngesondo yinto eqhelekileyo ye-UTIs kubasetyhini. Ukuchama kwimizuzu engama-30 kukhupha iintsholongwane. Umkhwa wokuthintela lula imihla ngemihla."
+      }
     ],
     "pull_quote": {
-      "text": "Don't try to treat UTI symptoms with cranberry juice and water alone. They may help prevent future infections but won't clear an active one. Get the antibiotics — early treatment prevents kidney involvement.",
-      "source": "South African Urology Association"
+      "text": "Musa ukuzama ukunyanga iimpawu ze-UTI ngejusi ye-cranberry kunye namanzi kuphela. Banokunceda ukuthintela usulelo oluzayo kodwa abayi kulususa olusebenzayo. Fumana amayeza okubulala iintsholongwane - unyango kwangoko luthintela ukubandakanyeka kwezintso.",
+      "source": "Umbutho weUrology waseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "How to tell what you have",
-    "lede": "Bladder UTIs and kidney UTIs share some symptoms — but kidney UTIs add fever and back pain. The difference matters a lot.",
+    "heading": "Indlela yokuxelela into onayo",
+    "lede": "I-UTIs yesinyi kunye nee-UTIs zezintso zabelana ngeempawu ezithile - kodwa ii-UTIs zezintso zongeza umkhuhlane kunye neentlungu zomqolo. Umahluko ubalulekile kakhulu.",
     "items": [
-      { "color": "orange", "icon": "droplet",       "title": "Bladder UTI (cystitis)",       "description": "Burning when peeing, needing to pee often, urgent need to pee but only small amounts come out, cloudy or smelly urine, pelvic or lower belly discomfort. No fever." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Kidney UTI (pyelonephritis)",  "description": "All of the above PLUS fever, shivering, severe pain in the back or side, nausea and vomiting. This needs urgent treatment — sometimes hospital." },
-      { "color": "purple", "icon": "alert-circle",   "title": "UTI in special groups",        "description": "Pregnancy, children, older people, and men — UTIs can be less obvious (confusion in the elderly, just irritability in babies) and more serious. Always get checked." }
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Isinyi UTI (cystitis)",
+        "description": "Ukutshisa xa uchama, kufuna uchama rhoqo, kufuneka uchame ngokukhawuleza kodwa kuphuma amanani amancinci kuphela, umchamo onamafu okanye onukayo, ukungakhululeki kwe-pelvic okanye emazantsi esisu. Akukho fever."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Izintso UTI (pyelonephritis)",
+        "description": "Konke oku kungasentla kwe-PLUS fever, ukungcangcazela, iintlungu eziqatha emqolo okanye ecaleni, isicaphucaphu kunye nokugabha. Oku kufuna unyango olungxamisekileyo - ngamanye amaxesha esibhedlele."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "UTI ngamaqela akhethekileyo",
+        "description": "Ukukhulelwa, abantwana, abantu abadala, kunye namadoda - i-UTIs ingaba yinto engabonakaliyo (ukudideka kubantu abadala, ukucaphuka nje kwiintsana) kunye nokubi kakhulu. Hlala ujongwa."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to lower your chances",
-    "lede": "If you get recurrent UTIs, daily habits make a real difference. Small things, done consistently.",
+    "heading": "Indlela yokunciphisa amathuba akho",
+    "lede": "Ukuba ufumana i-UTIs ephindaphindiweyo, imikhwa yemihla ngemihla yenza umahluko wokwenyani. Izinto ezincinci, zenziwe rhoqo.",
     "items": [
-      { "color": "green",  "icon": "droplet",     "title": "Drink plenty of water",           "description": "Aim for 1.5–2 litres a day, more in hot weather or with exercise. Diluted urine and frequent flushing keep bacteria from multiplying." },
-      { "color": "purple", "icon": "user",        "title": "Pee when you need to",             "description": "Don't hold it. Pee fully — don't rush. Holding urine gives bacteria time to multiply in a warm, dark bladder." },
-      { "color": "orange", "icon": "shield",      "title": "Pee within 30 minutes after sex","description": "Flushes out bacteria that may have entered during sex. Probably the single most effective prevention habit for sexually active women." },
-      { "color": "gold",   "icon": "wind",        "title": "Wipe front to back",                "description": "Especially after bowel movements. Prevents gut bacteria from reaching the urine tube — the most common source of UTI bacteria." }
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Sela amanzi amaninzi",
+        "description": "Injongo ye-1.5-2 ilitha ngosuku, ngakumbi kwimozulu eshushu okanye ngokuzilolonga. Umchamo ohlanjululweyo kunye nokugungxulwa rhoqo kugcina iintsholongwane zingaphindaphindeki."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Chama xa kufuneka",
+        "description": "Musa ukuyibamba. Chama ngokupheleleyo — sukungxama. Ukubamba umchamo kunika iintsholongwane ixesha lokuphindaphinda kwisinyi esishushu, esimnyama."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Chama kwimizuzu engama-30 emva kokwabelana ngesondo",
+        "description": "Ukhupha iibhaktheriya ezinokuthi zingene ngexesha lokwabelana ngesondo. Mhlawumbi eyona mkhwa isebenzayo yokuthintela yabasetyhini ababelana ngesondo."
+      },
+      {
+        "color": "gold",
+        "icon": "wind",
+        "title": "Sula umphambili ukuya ngasemva",
+        "description": "Ngokukodwa emva kokuhamba kwamathumbu. Ikhusela iintsholongwane emathunjini ekufikeni kwityhubhu yomchamo-owona mthombo uxhaphakileyo we-UTI bacteria."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "Go to clinic for proper antibiotic",       "description": "Free at any government clinic. A urine test confirms the infection. A short antibiotic course (usually 3–5 days) clears most UTIs. Don't try to ride it out." },
-      { "title": "Drink a lot of water",                     "description": "Especially while symptoms are active. Helps flush bacteria, dilutes pain when peeing. Aim for at least 2 litres a day during the infection." },
-      { "title": "Finish the antibiotic course — even if better","description": "Most people feel better in 24–48 hours. The full course is what eliminates the bacteria and prevents return. Stopping early breeds resistance." },
-      { "title": "If fever or back pain appears — go without delay","description": "These mean the infection has reached the kidneys. Needs urgent stronger treatment — sometimes hospital. Don't wait until morning." },
-      { "title": "If you get UTIs often — see a doctor",     "description": "Recurrent UTIs (3+ a year) need investigation. There may be a treatable underlying cause, and longer-term prevention options exist." }
+      {
+        "title": "Yiya ekliniki ufumane amayeza okubulala iintsholongwane afanelekileyo",
+        "description": "Isimahla kuyo nayiphi na ikliniki karhulumente. Uvavanyo lomchamo luqinisekisa usulelo. Ikhosi emfutshane yamayeza okubulala iintsholongwane (idla ngokuba ziintsuku ezi-3-5) icoca uninzi lwe-UTIs. Musa ukuzama ukuyikhupha."
+      },
+      {
+        "title": "Sela amanzi amaninzi",
+        "description": "Ngokukodwa ngelixa iimpawu zisebenza. Inceda ukugungxula iintsholongwane, inciphisa intlungu xa uchama. Jonga ubuncinane iilitha ezi-2 ngosuku ngexesha losulelo."
+      },
+      {
+        "title": "Gqibezela ikhosi yokubulala iintsholongwane - nokuba kungcono",
+        "description": "Uninzi lwabantu luziva ngcono kwiiyure ezingama-24-48. Ikhosi epheleleyo yinto ephelisa ibhaktheriya kwaye inqande ukubuya. Ukuyeka ukuxhathisa kwemfuyo kwangethuba."
+      },
+      {
+        "title": "Ukuba umkhuhlane okanye intlungu ibonakala - hamba ngaphandle kokulibazisa",
+        "description": "Oku kuthetha ukuba usulelo lufikelele kwizintso. Ifuna unyango olungxamisekileyo olunamandla - ngamanye amaxesha esibhedlele. Musani ukulinda kude kube kusasa."
+      },
+      {
+        "title": "Ukuba ufumana i-UTIs rhoqo - bonana nogqirha",
+        "description": "Ii-UTI eziqhubekayo (3+ ngonyaka) zifuna uphando. Kusenokubakho unobangela osisiseko onyangekayo, kunye neendlela zokuthintela ixesha elide zikhona."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "UTIs are one of the most common reasons people visit clinics. Treatment is free, quick, and effective — no need to suffer through.",
+    "heading": "Masiye phi",
+    "lede": "I-UTIs sesinye sezizathu eziqhelekileyo zokuba abantu batyelele iikliniki. Unyango lusimahla, luyakhawuleza, kwaye luyasebenza—akukho mfuneko yakuva ubunzima.",
     "helplines": [
-      { "name": "Emergency ambulance",      "description": "For kidney UTI with high fever, severe back pain, or vomiting", "meta": "Free · 24 hours",                          "phone": "10177", "phone_display": "10177",         "primary": true },
-      { "name": "Find your nearest clinic", "description": "Free urine test, assessment, and antibiotics",                  "meta": "No appointment · no medical aid required", "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" }
+      {
+        "name": "I-i-ambulensi kaxakeka",
+        "description": "Kwi-UTI yezintso ezinomkhuhlane ophezulu, iintlungu ezibuhlungu zomqolo, okanye ukugabha",
+        "meta": "Mahala · 24 iiyure",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lomchamo lwasimahla, uvavanyo, kunye ne-antibiotics",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      }
     ]
   }
 }

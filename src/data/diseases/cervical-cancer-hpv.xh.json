@@ -1,86 +1,188 @@
 {
   "slug": "cervical-cancer-hpv",
   "group_slug": "womens-health",
-  "name": "Cervical cancer & HPV",
-  "tagline": "Preventable with vaccine and screening.",
+  "name": "Umhlaza womlomo wesibeleko kunye ne-HPV",
+  "tagline": "Iyathintelwa ngesitofu sokugonya kunye novavanyo.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["CANSA (Cancer Association of South Africa)", "National Department of Health", "WHO", "International Agency for Research on Cancer"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-CANSA (i-Cancer Association of South Africa)",
+    "ISebe lezeMpilo leSizwe",
+    "I-WHO",
+    "I-Arhente yeHlabathi yoPhando ngoMhlaza"
+  ],
   "what_is_it": {
-    "heading": "Cervical cancer in plain terms",
-    "lede": "Cervical cancer is cancer of the cervix — the lower part of the womb. Almost all cases (over 99%) are caused by long-term infection with high-risk types of HPV (Human Papillomavirus).",
+    "heading": "Umhlaza womlomo wesibeleko ngokwemiqathango ecacileyo",
+    "lede": "Umhlaza womlomo wesibeleko ngumhlaza womlomo wesibeleko - emazantsi esibeleko. Phantse zonke iimeko (ngaphezu kwama-99%) zibangelwa usulelo lwexesha elide kunye neentlobo ezinobungozi obuphezulu be-HPV (Human Papillomavirus).",
     "paragraphs": [
-      "HPV is extremely common — most sexually active people catch it at some point. The body clears most HPV infections within a year or two. But if a high-risk type persists for 10–15 years, it can cause cells in the cervix to change slowly into pre-cancer, then cancer.",
-      "This long timeline is what makes cervical cancer one of the most preventable cancers in the world. Screening (Pap smear or HPV test) catches cell changes years before cancer develops — when treatment is simple. The HPV vaccine prevents the infections that cause it in the first place."
+      "I-HPV ixhaphake kakhulu - uninzi lwabantu ababelana ngesondo bayayibamba ngaxa lithile. Umzimba ususa uninzi losulelo lwe-HPV kunyaka okanye emibini. Kodwa ukuba uhlobo olusemngciphekweni omkhulu luyaqhubeka iminyaka eyi-10-15, lunokubangela ukuba iiseli zomlomo wesibeleko zitshintshe kancinci zibe ngumhlaza wangaphambi komhlaza, emva koko umhlaza.",
+      "Lo mgca wexesha elide yinto eyenza umhlaza womlomo wesibeleko ube ngowona mhlaza unokuthinteleka kwihlabathi. Ukuhlolwa (i-Pap smear okanye uvavanyo lwe-HPV) lubamba utshintsho lweeseli kwiminyaka ngaphambi kokuba umhlaza uqhambuke - xa unyango lulula. Isitofu sokugonya se-HPV sithintela usulelo olubangela kwasekuqaleni."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "alert-triangle","headline": "Second most common","body": "Cervical cancer is the second most common cancer in SA women. The highest rates are in women aged 35 to 55." },
-      { "color": "purple", "icon": "shield-check",  "headline": "99% HPV",            "body": "Over 99% of cervical cancers are caused by long-term HPV infection. Stopping HPV stops the cancer." },
-      { "color": "gold",   "icon": "syringe",       "headline": "Free vaccine",      "body": "The HPV vaccine is free for Grade 5 girls (and now boys in many provinces) through the school programme. Best given before sexual debut." },
-      { "color": "green",  "icon": "check-circle",  "headline": "Pap smears save lives","body": "Free Pap smear every 10 years from age 30 at government clinics. Every 3 years if HIV positive. Catches changes before cancer." }
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Okwesibini okuqhelekileyo",
+        "body": "Umhlaza womlomo wesibeleko ngowona mhlaza wesibini uxhaphakileyo kwabasetyhini baseMzantsi Afrika. Awona mazinga aphezulu kubasetyhini abaneminyaka engama-35 ukuya kwengama-55."
+      },
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "99% HPV",
+        "body": "Ngaphezu kwe-99% yomhlaza womlomo wesibeleko ubangelwa lusulelo lwe-HPV lwexesha elide. Ukuyeka i-HPV kunqanda umhlaza."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Isitofu sokugonya sasimahla",
+        "body": "Isitofu sokugonya iHPV sisimahla kumantombazana eBanga lesi-5 (kwaye ngoku singamakhwenkwe akumaphondo amaninzi) ngeprogram yesikolo. Eyona nto inikezelweyo ngaphambi kokuqala ngokwesondo."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Ii-Pap smears zisindisa ubomi",
+        "body": "I-Pap smear yasimahla rhoqo emva kweminyaka eli-10 ukusuka kwiminyaka engama-30 kwiikliniki zikarhulumente. Rhoqo kwiminyaka emi-3 ukuba une-HIV. Ubamba utshintsho phambi komhlaza."
+      }
     ],
     "pull_quote": {
-      "text": "If every woman in South Africa got vaccinated as a girl and screened in adulthood, we could eliminate cervical cancer within a generation. The tools exist. They are free.",
-      "source": "WHO Cervical Cancer Elimination Initiative"
+      "text": "Ukuba wonke owasetyhini eMzantsi Afrika uyagonywa eyintombazana aze avavanywe ebudaleni, singawuphelisa umhlaza womlomo wesibeleko kwisizukulwana. Izixhobo zikhona. Bakhululekile.",
+      "source": "Inyathelo le-WHO lokuphelisa umhlaza womlomo wesibeleko"
     }
   },
-
   "signs": {
-    "heading": "What you might notice",
-    "lede": "Early cervical changes — including pre-cancer and early cancer — usually cause no symptoms. This is why screening matters. Symptoms appear when cancer is more advanced.",
+    "heading": "Yintoni onokuyibona",
+    "lede": "Ukutshintsha kwangoko komlomo wesibeleko-kuquka umhlaza wangaphambi komhlaza kunye nomhlaza wangethuba-kaninzi akubangeli zimpawu. Kungenxa yoko le nto ukuhlolwa kubalulekile. Iimpawu zivela xa umhlaza uhambele phambili.",
     "items": [
-      { "color": "purple", "icon": "eye-off",      "title": "Early — silent",         "description": "Pre-cancer and early cancer usually cause no symptoms. Only a Pap smear or HPV test catches changes this early." },
-      { "color": "orange", "icon": "droplet",      "title": "Later — bleeding",       "description": "Bleeding between periods, after sex, or after menopause. Heavier or longer periods than usual. Unusual vaginal discharge." },
-      { "color": "coral",  "icon": "alert-circle", "title": "Advanced — see a doctor","description": "Pelvic pain, lower back pain, pain during sex, leg swelling, blood in urine or stool. These need urgent assessment." }
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "title": "Early - cwaka",
+        "description": "Umhlaza wangaphambi komhlaza kunye nomhlaza wokuqala awubangeli zimpawu. Kuphela yiPap smear okanye uvavanyo lweHPV oluthi lutshintshe oku kwangoko."
+      },
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Kamva - ukopha",
+        "description": "Ukopha phakathi kwexesha, emva kokwabelana ngesondo, okanye emva kokuyeka ukuya exesheni. Amaxesha anzima okanye amade kunesiqhelo. Ukukhutshwa okungaqhelekanga kwilungu lobufazi."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ukwinqanaba eliphezulu - bonana nogqirha",
+        "description": "Iintlungu ze-pelvic, iintlungu ezisezantsi, intlungu ngexesha lokwabelana ngesondo, ukudumba komlenze, igazi kumchamo okanye isitulo. Ezi zifuna uvavanyo olungxamisekileyo."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Only women who have many partners get HPV.",                           "fact": "HPV is extremely common — most sexually active people catch it. Even one partner can transmit it. Vaccination protects regardless of partner history." },
-      { "myth": "The HPV vaccine encourages young people to start sex earlier.",        "fact": "Years of research show no link between HPV vaccination and earlier sexual activity. The vaccine works best given before any sexual exposure." },
-      { "myth": "If I had the HPV vaccine, I do not need Pap smears.",                  "fact": "The vaccine prevents most but not all high-risk HPV types. Screening is still essential — vaccine plus screening together is the strongest protection." },
-      { "myth": "Cervical cancer runs in families — there is nothing I can do.",        "fact": "Family history is a small risk factor at most. HPV infection is the cause for almost all cervical cancer — and HPV is preventable and detectable." }
+      {
+        "myth": "Ngabasetyhini kuphela abanamaqabane amaninzi abafumana i-HPV.",
+        "fact": "I-HPV ixhaphake kakhulu - uninzi lwabantu ababelana ngesondo bayayibamba. Nokuba iqabane elinye liyakwazi ukuyisasaza. Ugonyo lukhusela nokuba ithini na imbali yeqabane."
+      },
+      {
+        "myth": "Ugonyo lwe-HPV lukhuthaza abantu abatsha ukuba baqale ngesondo kwangoko.",
+        "fact": "Iminyaka yophando ibonisa ukuba akukho khonkco phakathi kogonyo lwe-HPV kunye nomsebenzi wangaphambili wesondo. Isitofu sokugonya sisebenza ngcono xa sinikwa phambi kokuba ube sesichengeni ngokwesondo."
+      },
+      {
+        "myth": "Ukuba bendinogonyo lwe-HPV, andizidingi ii-Pap smears.",
+        "fact": "Isitofu sokugonya sithintela uninzi kodwa ayizizo zonke iintlobo zeHPV ezisemngciphekweni omkhulu. Uvavanyo lusebalulekile - isitofu sokugonya kunye novavanyo kunye lolona khuselo lunamandla."
+      },
+      {
+        "myth": "Umhlaza womlomo wesibeleko uqhuba kwiintsapho - akukho nto ndinokuyenza.",
+        "fact": "Imbali yosapho yinto encinci yomngcipheko kakhulu. Usulelo lwe-HPV ngunobangela phantse kuwo wonke umhlaza womlomo wesibeleko - kwaye i-HPV iyathintelwa kwaye iyabhaqwa."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to protect yourself",
-    "lede": "Cervical cancer is one of the most preventable cancers because there is both a vaccine and effective screening. Every adult woman should know her plan.",
+    "heading": "Indlela yokuzikhusela",
+    "lede": "Umhlaza womlomo wesibeleko ngowona mhlaza unokuthinteleka kuba kukho zombini isitofu sokugonya kunye novavanyo olusebenzayo. Wonke umfazi omdala kufuneka azi isicwangciso sakhe.",
     "items": [
-      { "color": "green",  "icon": "syringe",        "title": "HPV vaccine",        "description": "Free in SA for Grade 5 girls (and boys in many provinces). Best before sexual activity starts but works at any age — ask your clinic up to age 45." },
-      { "color": "purple", "icon": "check-circle",   "title": "Regular Pap smears","description": "Free at clinics from age 30, every 10 years if normal. Every 3 years if HIV positive. Start earlier and screen more often if you have a history of abnormal results." },
-      { "color": "orange", "icon": "shield",         "title": "Condoms",             "description": "Reduce HPV transmission but do not eliminate it — HPV can spread from skin not covered by a condom. Still useful, especially with new partners." },
-      { "color": "gold",   "icon": "x-circle",       "title": "Don't smoke",         "description": "Smoking weakens the cervix's ability to clear HPV infection and doubles cervical cancer risk in HPV-positive women." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ugonyo lweHPV",
+        "description": "Isimahla eMzantsi Afrika kumantombazana eBanga lesi-5 (kunye namakhwenkwe kumaphondo amaninzi). Okona kulungileyo phambi kokuba kuqale umsebenzi wesondo kodwa usebenze nakweyiphi na iminyaka - cela ikliniki yakho ukuya kuthi ga kwiminyaka engama-45."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "title": "Ii-Pap smears rhoqo",
+        "description": "Isimahla kwiikliniki ukusuka kwiminyaka engama-30 ubudala, rhoqo kwiminyaka eli-10 ukuba kuqhelekile. Rhoqo kwiminyaka emi-3 ukuba une-HIV. Qala kwangethuba kwaye ukhuse rhoqo ukuba unembali yeziphumo ezingaqhelekanga."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Iikhondom",
+        "description": "Nciphisa usulelo lwe-HPV kodwa ungayisusi — I-HPV inokusasazeka elukhumbeni olungagqunywanga yikhondom. Kuseluncedo, ngakumbi namaqabane amatsha."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Musa ukutshaya",
+        "description": "Ukutshaya kuwenza buthathaka amandla omlomo wesibeleko ekucoceni usulelo lwe-HPV kwaye kuphinda kabini ingozi yomhlaza womlomo wesibeleko kwabasetyhini abane-HPV."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "If you have a daughter in Grade 5",         "description": "Make sure she gets the HPV vaccine through the school programme. Two doses, free, given six months apart. This is the single most powerful cancer-prevention tool we have." },
-      { "title": "If you are aged 30 or older",                "description": "Book a Pap smear at any government clinic if you have not had one in the last 10 years. Free, takes five minutes, results in 2–4 weeks." },
-      { "title": "If you have HIV",                            "description": "Screening is every 3 years regardless of age, from diagnosis onwards. HPV behaves more aggressively with HIV — do not skip." },
-      { "title": "If you have abnormal bleeding",              "description": "Bleeding between periods, after sex, or after menopause — see a clinic. Most causes are not cancer, but cervical cancer is one cause that needs catching early." },
-      { "title": "If your Pap smear is abnormal",              "description": "Do not panic. Most abnormal results are pre-cancer that can be treated in a single visit. Follow up — the system works if you keep your appointments." }
+      {
+        "title": "Ukuba unentombi kwiBanga lesi-5",
+        "description": "Qinisekisa ukuba ufumana isitofu sokugonya i-HPV ngenkqubo yesikolo. Iidosi ezimbini, simahla, zinikwe ngokwahlukeneyo kwiinyanga ezintandathu. Esi sesona sixhobo sinamandla sokuthintela umhlaza esinaso."
+      },
+      {
+        "title": "Ukuba uneminyaka engama-30 okanye ngaphezulu",
+        "description": "Bhukisha i-Pap smear kuyo nayiphi na ikliniki karhulumente ukuba awukhange uyenze kule minyaka ili-10 idlulileyo. Isimahla, ithatha imizuzu emihlanu, iziphumo kwiiveki ezi-2-4."
+      },
+      {
+        "title": "Ukuba une-HIV",
+        "description": "Ukuhlolwa rhoqo kwiminyaka emi-3 kungakhathaliseki ubudala, ukususela ekuxilongweni ukuya phambili. I-HPV iziphatha ndlongondlongo kakhulu kwi-HIV — ungatsibi."
+      },
+      {
+        "title": "Ukuba wopha ngokungaqhelekanga",
+        "description": "Ukopha phakathi kwexesha, emva kokwabelana ngesondo, okanye emva kokuyeka ukuya exesheni - bonana nekliniki. Oonobangela abaninzi ayingomhlaza, kodwa umhlaza womlomo wesibeleko sesinye sezizathu ezifuna ukubanjwa kwangoko."
+      },
+      {
+        "title": "Ukuba iPap smear yakho ayiqhelekanga",
+        "description": "Musa ukuphaphazela. Uninzi lweziphumo ezingaqhelekanga zezomhlaza wangaphambili onokunyangwa kutyelelo olunye. Landela — inkqubo iyasebenza ukuba uyawagcina amadinga akho."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Cervical screening, treatment of pre-cancer, and the HPV vaccine are all free at South African public clinics. The cancer-prevention infrastructure is there — use it.",
+    "heading": "Masiye phi",
+    "lede": "Ukuhlolwa komlomo wesibeleko, unyango lomhlaza wangaphambi komhlaza, kunye nesitofu sokugonya se-HPV zonke zisimahla kwiikliniki zoluntu zaseMzantsi Afrika. Isiseko sothintelo lomhlaza sikhona - sisebenzise.",
     "helplines": [
-      { "name": "Find your nearest clinic", "description": "Free HPV vaccines, Pap smears, and follow-up of abnormal results", "meta": "No appointment · no medical aid required",        "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
-      { "name": "CANSA Helpline",            "description": "Cancer information, support, and referrals",                         "meta": "Mon–Fri 08:00–16:30 · free from any phone",       "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true },
-      { "name": "loveLife youth line",       "description": "For young women — confidential information about HPV and screening","meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00",          "phone": "0800121900", "phone_display": "0800 121 900",   "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Izitofu zokugonya ze-HPV zasimahla, ii-Pap smears, kunye nokulandelelwa kweziphumo ezingaqhelekanga",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Umnxeba woNcedo we-CASA",
+        "description": "Ulwazi lomhlaza, inkxaso, kunye nokuthunyelwa",
+        "meta": "Mon–Fri 08:00–16:30 · simahla kuyo nayiphi na ifowuni",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "umgca wolutsha we-loveLife",
+        "description": "Kubasetyhini abancinci - ulwazi oluyimfihlo malunga ne-HPV kunye nokuhlolwa",
+        "meta": "Mvulo-Fri 09:00–20:00 · ngoMgqibelo 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
     ]
   }
 }

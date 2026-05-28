@@ -1,85 +1,180 @@
 {
   "slug": "eczema",
   "group_slug": "skin",
-  "name": "Eczema",
-  "tagline": "Itchy, dry skin. Moisturise. Manage triggers.",
+  "name": "I-eczema",
+  "tagline": "Ulusu olurhawuzelayo, olomileyo. Ukufuma. Lawula izichukumisi.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["Allergy Foundation South Africa", "Dermatological Society of South Africa", "WHO", "National Eczema Association"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-Allergy Foundation yaseMzantsi Afrika",
+    "Umbutho weDermatological waseMzantsi Afrika",
+    "I-WHO",
+    "Umbutho weSizwe weEczema"
+  ],
   "what_is_it": {
-    "heading": "Eczema in plain terms",
-    "lede": "Eczema (also called atopic dermatitis) is a long-term skin condition where the skin barrier doesn't hold moisture well and gets easily irritated. The result: dry, itchy, inflamed patches — sometimes flaring badly, sometimes calm.",
+    "heading": "Eczema ngokwemiqathango ecacileyo",
+    "lede": "I-eczema (ekwabizwa ngokuba yi-atopic dermatitis) yimeko yesikhumba yexesha elide apho umqobo wolusu ungabambeli kakuhle ukufuma kwaye ucaphuka lula. Isiphumo: omile, ukurhawuzelelwa, iipatches ezivuthayo - ngamanye amaxesha zivutha kakubi, ngamanye amaxesha zizolile.",
     "paragraphs": [
-      "Eczema usually starts in childhood — about 1 in 5 South African children have it. Many improve with age, though it can return at any point. Adult-onset eczema is also common. It often runs alongside asthma, hay fever, or food allergies — the 'atopic triad'.",
-      "Eczema is not contagious. It is not caused by being dirty or by poor hygiene. The skin barrier in eczema is just genetically different — more porous, more reactive. The good news: with daily moisturising and trigger management, most people keep it well controlled."
+      "I-eczema idla ngokuqala ebuntwaneni - malunga nomntwana om-1 kwabahlanu eMzantsi Afrika unayo. Abaninzi baphucula ngokukhula, nangona inokubuya nangaliphi na ixesha. I-eczema yabantu abadala nayo ixhaphakile. Ihlala ihamba ecaleni kwesifuba, ihay fever, okanye iallergies ekutyeni - 'atopic triad'.",
+      "I-eczema ayosuleli. Ayibangelwa kukungcola okanye ukungacoceki. Isithintelo solusu kwi-eczema sihluke nje ngokwemfuza - i-porous ngakumbi, isebenza ngakumbi. Iindaba ezilungileyo: ngokuthambisa imihla ngemihla kunye nolawulo lwe-trigger, abantu abaninzi bayigcina ilawulwa kakuhle."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "users",        "headline": "1 in 5",          "body": "South African children have eczema. Many improve with age. Adult eczema is common too." },
-      { "color": "green",  "icon": "droplet",     "headline": "Moisturiser wins","body": "Daily moisturising — even when skin looks fine — is the single most powerful eczema treatment. Skip a few days and the flare comes back." },
-      { "color": "gold",   "icon": "shield",      "headline": "Not contagious",   "body": "You cannot catch eczema. It is not caused by dirt or hygiene. It is a genetic skin barrier issue, often with allergic component." },
-      { "color": "coral",  "icon": "alert-circle","headline": "Steroid creams work","body": "Topical steroids during flares are safe when used correctly. They calm the inflammation so the skin can heal." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku5",
+        "body": "Abantwana baseMzantsi Afrika bane-eczema. Abaninzi bayaphucuka ngokukhula. I-eczema yabantu abadala ixhaphakile nayo."
+      },
+      {
+        "color": "green",
+        "icon": "droplet",
+        "headline": "I-Moisturizer iphumelele",
+        "body": "Ukuthambisa imihla ngemihla - nokuba ulusu lukhangeleka lulungile - lolona nyango lunamandla lwe-eczema. Tsiba iintsuku ezimbalwa kwaye umlilo uyabuya."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ayosuleli",
+        "body": "Awukwazi ukubamba i-eczema. Ayibangelwa bukungcola okanye ucoceko. Ngumba wothintelo lwemfuzo lwesikhumba, rhoqo kunye nelungu le-aleji."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "I-steroid creams iyasebenza",
+        "body": "I-Topical steroids ngexesha lokuvutha zikhuselekile xa zisetyenziswe ngokuchanekileyo. Bazolisa ukuvuvukala ukuze ulusu luphole."
+      }
     ],
     "pull_quote": {
-      "text": "Most eczema is well controlled with two simple steps: moisturise twice a day every day, and use a steroid cream when flaring. The mistake most people make is stopping the moisturiser when the skin looks fine.",
-      "source": "Allergy Foundation South Africa"
+      "text": "Uninzi lwe-eczema lulawulwa kakuhle ngamanyathelo amabini alula: thambisa kabini ngosuku yonke imihla, kwaye usebenzise i-steroid cream xa ivutha. Impazamo eyenziwa ngabantu abaninzi kukumisa i-moisturizer xa ulusu lubonakala lulungile.",
+      "source": "I-Allergy Foundation yaseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "What eczema looks like",
-    "lede": "Eczema shows up in typical places and has typical patterns. The look can differ on different skin tones — on darker skin it can appear grey, purple, or darker brown rather than the textbook red.",
+    "heading": "Ibukeka njani i-eczema",
+    "lede": "I-eczema ibonakala kwiindawo eziqhelekileyo kwaye ineepateni eziqhelekileyo. Inkangeleko inokwahluka kwiitoni zolusu ezahlukeneyo-kwisikhumba esimnyama sinokuvela ngwevu, mfusa, okanye mnyama mdaka kunencwadi ebomvu.",
     "items": [
-      { "color": "orange", "icon": "circle",       "title": "Babies and young children", "description": "Cheeks, scalp, and outer arms and legs. Red (or darker, on Black skin), dry, often crusty patches. Very itchy — babies scratch even in their sleep." },
-      { "color": "purple", "icon": "user",         "title": "Older children and adults", "description": "Skin folds — inside elbows, behind knees, wrists, neck, ankles. Patches of thickened, scaly, itchy skin. Hands and eyelids common in adults." },
-      { "color": "coral",  "icon": "alert-circle", "title": "When to worry — infection",  "description": "If patches become weepy, yellow-crusted, very painful, or spread fast — it may be infected. Needs clinic assessment for antibiotics or antiviral treatment." }
+      {
+        "color": "orange",
+        "icon": "circle",
+        "title": "Iintsana kunye nabantwana abancinci",
+        "description": "Izidlele, isikhumba sentloko, kunye neengalo nemilenze yangaphandle. Ubomvu (okanye umnyama, kwisikhumba esiMnyama), owomileyo, amabala ahlala e-crusty. Kuyarhawuzelelwa kakhulu - abantwana bayarhawuzelela naxa belele."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Abantwana abadala kunye nabantu abadala",
+        "description": "Ukugoba kwesikhumba - ngaphakathi kweengqiniba, ngasemva kwamadolo, izihlahla, intamo, amaqatha. Amabala olusu olujiyileyo, olunexolo, olurhawuzelelwa. Izandla kunye neenkophe eziqhelekileyo kubantu abadala."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ngexesha lokukhathazeka - usulelo",
+        "description": "Ukuba amabala ayalila, abe tyheli, abe buhlungu kakhulu, okanye asasazeke ngokukhawuleza - inokosuleleka. Ifuna uvavanyo lweklinikhi malunga ne-antibiotics okanye unyango lwe-antiviral."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Steroid creams will damage my skin.",                         "fact": "Used correctly for short courses during flares, topical steroids are safe and effective. Avoiding them causes more harm — chronic uncontrolled eczema thickens skin and causes infection." },
-      { "myth": "Eczema is caused by something in the diet.",                  "fact": "True food allergies do trigger eczema in some children — but most eczema is not food-driven. Avoid elimination diets without medical advice; they can cause real nutritional harm." },
-      { "myth": "If you scratch enough, you can scratch it out.",              "fact": "Scratching damages the skin barrier further, releases more itch chemicals, and creates a vicious itch-scratch cycle. Cold compresses, moisturiser, and antihistamines help — scratching doesn't." },
-      { "myth": "Children always grow out of eczema.",                          "fact": "Many do, but many don't. Even those who 'grow out' can have flares as adults. Lifelong skin care habits — gentle cleansers, daily moisturiser — are worth building early." }
+      {
+        "myth": "Iikhrimu zeSteroid ziyawonakalisa ulusu lwam.",
+        "fact": "Isetyenziswe ngokuchanekileyo kwiikhosi ezimfutshane ngexesha lokuvutha, i-topical steroids ikhuselekile kwaye iyasebenza. Ukuziphepha kubangela ingozi enkulu - i-eczema engapheliyo engalawulekiyo yenza ulusu lube lukhuni kwaye lubangele usulelo."
+      },
+      {
+        "myth": "I-eczema ibangelwa yinto ekutyeni.",
+        "fact": "I-allergies yokutya yokwenyani ibangela i-eczema kwabanye abantwana - kodwa uninzi lwe-eczema ayiqhutywa kukutya. Gwema ukutya okuphelisa ngaphandle kweengcebiso zonyango; zinokubangela ingozi yokwenyani kwisondlo."
+      },
+      {
+        "myth": "Ukuba ukrwempa ngokwaneleyo, ungawukrwela.",
+        "fact": "Ukukrwempa kuwonakalisa ngakumbi umqobo wolusu, kukhuphe iikhemikhali zokurhawuzelelwa ngakumbi, kwaye kudala umjikelo okhohlakeleyo wokurhawuzelelwa. Ukucinezela okubandayo, ukuthambisa, kunye ne-antihistamines kuyanceda - ukukrwela akuncedi."
+      },
+      {
+        "myth": "Abantwana bahlala bekhula kwi-eczema.",
+        "fact": "Abaninzi bayayenza, kodwa abaninzi abakwenzi oko. Kwanabo 'bakhulileyo' banokuba namadangatye xa sele bekhulile. Imikhwa yokukhathalela ulusu ubomi bonke - izicoci ezithambileyo, i-moisturizer yemihla ngemihla - kufanelekile ukwakha kwangoko."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "Daily habits that keep flares away",
-    "lede": "Eczema management is mostly about daily skin care — small habits that prevent the next flare.",
+    "heading": "Imikhwa yemihla ngemihla egcina ukuvutha kude",
+    "lede": "Ulawulo lwe-eczema lumalunga nokhathalelo lwemihla ngemihla yolusu - imikhwa emincinci ethintela ukugqabhuka okulandelayo.",
     "items": [
-      { "color": "green",  "icon": "droplet",    "title": "Moisturise twice a day, every day","description": "Thick fragrance-free moisturiser within 3 minutes of bathing seals in water. Continue even when skin looks fine — this is what prevents the next flare." },
-      { "color": "purple", "icon": "shower",     "title": "Lukewarm short baths or showers", "description": "Hot water strips the skin. Use lukewarm water, fragrance-free wash (not regular soap), 5–10 minutes maximum. Pat dry — don't rub." },
-      { "color": "orange", "icon": "wind",        "title": "Know and avoid your triggers",    "description": "Common triggers: heat and sweat, wool and synthetic fabrics, harsh soaps and detergents, stress, allergens (pets, dust). Keep a flare diary to spot yours." },
-      { "color": "gold",   "icon": "snowflake",  "title": "Cool, calm bedroom",               "description": "Heat and sweat worsen night-time itch. Keep the bedroom cool, use cotton sheets, and don't over-bundle children. Cooler is calmer." }
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Moisturise kabini ngemini, yonke imihla",
+        "description": "Isithambiso esingqindilili esingenavumba lokuthambisa kwimizuzu emi-3 yokuvasa emanzini. Qhubeka nokuba ulusu lukhangeleka lulungile - oku kukuthintela ukugqabhuka okulandelayo."
+      },
+      {
+        "color": "purple",
+        "icon": "shower",
+        "title": "Iibhafu ezimfutshane ezishushu okanye iishawari",
+        "description": "Amanzi ashushu ahluba ulusu. Sebenzisa amanzi adikidiki, angenavumba elimnandi (hayi isepha eqhelekileyo), imizuzu emi-5 ukuya kweli-10 ubuninzi. Yomisa kancinci — sukuhlikihla."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Yazi kwaye uphephe izinto ezikubangelayo",
+        "description": "Izinto eziqhelekileyo ezibangela: ukushisa kunye nokujuluka, uboya kunye neendwangu zokwenziwa, iisepha ezinobunzima kunye ne-detergents, uxinzelelo, izifo (izilwanyana ezifuywayo, uthuli). Gcina idayari ye-flare ukuze ubone eyakho."
+      },
+      {
+        "color": "gold",
+        "icon": "snowflake",
+        "title": "Igumbi lokulala elipholileyo, elizolileyo",
+        "description": "Ubushushu kunye nokubila kuye kube mandundu xa ukurhawuzelelwa ebusuku. Gcina igumbi lokulala lipholile, sebenzisa amashiti e-cotton, kwaye ungafaki kakhulu abantwana. Isipholileyo sizolile."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do when it flares",
+    "heading": "Yintoni enokuyenza xa ivutha",
     "items": [
-      { "title": "Apply steroid cream for active flares",       "description": "Available from clinics — usually hydrocortisone (mild) for face and babies, stronger for body. Use thinly on red patches twice a day until calm. Then stop." },
-      { "title": "Keep moisturising — even over the steroid",   "description": "Apply moisturiser 30 minutes after the steroid, or at other times. The moisturiser supports healing — don't stop because you're using steroid." },
-      { "title": "Take an antihistamine for severe itch",        "description": "Cetirizine or loratadine help with itch, especially at night. Available over the counter at any pharmacy. Particularly useful for children who scratch in their sleep." },
-      { "title": "If skin becomes weepy or infected — go to clinic","description": "Yellow crusting, painful spreading, fever — may be a bacterial infection (staph) or eczema herpeticum (viral, more serious). Needs treatment quickly." },
-      { "title": "For severe or hard-to-control eczema",          "description": "Government clinics can refer to a dermatologist. New treatments like dupilumab (biologic injection) have transformed severe eczema in recent years." }
+      {
+        "title": "Faka i-steroid cream kwi-flare esebenzayo",
+        "description": "Ifumaneka kwiiklinikhi - idla ngokuba yi-hydrocortisone (ephakathi) ebusweni nakwiintsana, yomelele emzimbeni. Sebenzisa kancinci kwiipatches ezibomvu kabini ngemini de uzolile. Yima ke."
+      },
+      {
+        "title": "Gcina ufumile - nangaphezulu kwe-steroid",
+        "description": "Faka isicelo sokuthambisa imizuzu engama-30 emva kwe-steroid, okanye ngamanye amaxesha. I-moisturizer ixhasa ukuphilisa - ungayeki kuba usebenzisa i-steroid."
+      },
+      {
+        "title": "Thatha i-antihistamine xa urhawuzelela kakhulu",
+        "description": "I-Cetirizine okanye i-loratadine inceda ngokubetha, ngakumbi ebusuku. Ifumaneka kwikhawuntara kuyo nayiphi na ikhemesti. Ingakumbi luncedo kubantwana abakrwempa ebuthongweni babo."
+      },
+      {
+        "title": "Ukuba ulusu luyakhala okanye losuleleke - yiya ekliniki",
+        "description": "I-Yellow crusting, intlungu esasazekayo, umkhuhlane - unokuba lusulelo lwebhaktheriya (i-staph) okanye i-eczema herpeticum (intsholongwane, eyingozi kakhulu). Ifuna unyango ngokukhawuleza."
+      },
+      {
+        "title": "Kwi-eczema enzima okanye enzima ukuyilawula",
+        "description": "Iiklinikhi zikarhulumente zinokubhekisa kugqirha wesikhumba. Unyango olutsha olufana ne-dupilumab (inaliti yebhayoloji) iguqule i-eczema enzima kwiminyaka yakutshanje."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Most eczema is well managed at clinic level. Severe cases benefit from dermatology referral — available through the public system.",
+    "heading": "Masiye phi",
+    "lede": "Uninzi lwe-eczema lulawulwa kakuhle kwinqanaba lekliniki. Iimeko ezimandundu ziyazuza ekuthunyelweni kwe-dermatology - ifumaneka ngenkqubo yoluntu.",
     "helplines": [
-      { "name": "Find your nearest clinic",   "description": "Free eczema assessment, moisturisers, and steroid creams",   "meta": "No appointment · no medical aid required", "phone": null,        "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
-      { "name": "Allergy Foundation SA",       "description": "Information, support, and allergist referral",                "meta": "Mon–Fri 08:30–16:30",                       "phone": "0214474360","phone_display": "021 447 4360",   "primary": true }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwasimahla lwe-eczema, izinto zokuthambisa, kunye ne-steroid creams",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-Allergy Foundation SA",
+        "description": "Ulwazi, inkxaso, kunye nokuthunyelwa kwe-allergist",
+        "meta": "UMvulo–ngoLwesihlanu 08:30–16:30",
+        "phone": "0214474360",
+        "phone_display": "021 447 4360",
+        "primary": true
+      }
     ]
   }
 }

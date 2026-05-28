@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "Heart and Stroke Foundation SA",
-    "South African Heart Association",
-    "WHO",
-    "American Heart Association"
+    "I-Heart and Stroke Foundation SA",
+    "Umbutho wentliziyo waseMzantsi Afrika",
+    "I-WHO",
+    "Umbutho weentliziyo zaseMelika"
   ],
   "urgent": {
     "heading": "Ingxamisekile — tsalela umnxeba ngoku",
@@ -65,7 +65,7 @@
     ],
     "pull_quote": {
       "text": "Uninzi lwabantu abasweleka ngenxa yohlaselo lwentliziyo basweleka bengakafiki esibhedlele — ngokuqhelekileyo kuba belindile, benethemba lokuba kuza kudlula. Ukuba awuqinisekanga, tsalela umnxeba.",
-      "source": "South African Heart Association"
+      "source": "Umbutho wentliziyo waseMzantsi Afrika"
     }
   },
   "signs": {
@@ -165,7 +165,7 @@
         "primary": true
       },
       {
-        "name": "Heart and Stroke Foundation SA",
+        "name": "I-Heart and Stroke Foundation SA",
         "description": "Ulwazi, iingcebiso zokuthintela, nenkxaso kwabasindileyo",
         "meta": "Mvulo–Lwesihlanu 08:00–16:30",
         "phone": "0860000254",
@@ -175,9 +175,3 @@
     ]
   }
 }
-
-
-
-
-
-

@@ -1,93 +1,176 @@
 {
   "slug": "fungal-skin",
   "group_slug": "skin",
-  "name": "Fungal skin infections",
-  "tagline": "Athlete's foot, ringworm, jock itch. Cheap to treat.",
+  "name": "Usulelo lwesikhumba somngundo",
+  "tagline": "Unyawo lomdlali, intshulube, i-jock itch. Kutshiphu ukunyanga.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["Dermatological Society of South Africa", "WHO", "NICD", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Umbutho weDermatological waseMzantsi Afrika",
+    "I-WHO",
+    "I-NICD",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "what_is_it": {
-    "heading": "Fungal skin infections in plain terms",
-    "lede": "Fungal skin infections are caused by tiny harmless fungi that live on warm, moist parts of the body. When they overgrow, they cause itchy, scaly, often ring-shaped patches. Annoying but generally easy to treat.",
+    "heading": "Usulelo lwesikhumba sefungal ngokwemiqathango ecacileyo",
+    "lede": "Usulelo lolusu lomngundo lubangelwa yifungi encinci engenabungozi ehlala kwiindawo ezifudumeleyo, ezifumileyo zomzimba. Xa zikhula kakhulu, zibangela ukurhawuzelelwa, amaxolo, amaxesha amaninzi amile okwesangqa. Kuyacaphukisa kodwa kulula ukunyanga.",
     "paragraphs": [
-      "Common types: athlete's foot (between toes), jock itch (groin), ringworm (anywhere — actually a fungus, not a worm), nail fungus, scalp ringworm in children. Despite different names, they're all caused by similar fungi.",
-      "Most respond to over-the-counter antifungal cream applied for 2–4 weeks. Some — nail fungus, scalp infections — need prescription tablets. People with diabetes, weakened immune systems, or HIV may get more severe or recurring infections."
+      "Iindidi eziqhelekileyo: unyawo lomdlali (phakathi kweenzwane), i-jock itch (i-groin), i-ringworm (naphi na - ngokwenene i-fungus, kungekhona i-worm), i-fungus ye-nail, i-scalp kubantwana. Ngaphandle kwamagama ahlukeneyo, zonke zibangelwa yifungi efanayo.",
+      "Uninzi luphendula kwi-counter-counter antifungal cream efakwe kwiiveki ezi-2-4. Ezinye - i-fungus ye-nail, izifo ze-scalp - zifuna iipilisi ezichazwe ngugqirha. Abantu abanesifo seswekile, amajoni omzimba abuthathaka, okanye i-HIV banokufumana usulelo oluqatha kakhulu okanye oluphindaphindayo."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "users",        "headline": "Very common",     "body": "Athlete's foot alone affects up to 70% of adults at some point. Ringworm and jock itch are common worldwide." },
-      { "color": "green",  "icon": "check-circle", "headline": "Easy to treat",   "body": "Most fungal skin infections clear with over-the-counter cream in 2–4 weeks. Cheap, available at any pharmacy." },
-      { "color": "coral",  "icon": "alert-circle", "headline": "Contagious",      "body": "Fungus spreads on towels, shower floors, gym mats, shared shoes. Treat it — and don't share towels or footwear during treatment." },
-      { "color": "gold",   "icon": "shield",       "headline": "Keep dry",         "body": "Fungus loves warm, moist skin. Dry thoroughly after bathing, change sweaty socks and underwear, air out shoes. Prevention is mostly about dryness." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Ixhaphake kakhulu",
+        "body": "Unyawo loMgijimi lulodwa luchaphazela ukuya kuthi ga kwi-70% yabantu abadala ngexesha elithile. Umsundulu kunye nejock itch zixhaphakile kwihlabathi liphela."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kulula ukunyanga",
+        "body": "Uninzi lwezifo zolusu lomngundo ziyacaca ngekhrimu ye-over-the-counter kwiiveki ezi-2-4. Ixabiso eliphantsi, elifumaneka kuyo nayiphi na ikhemesti."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Iyasulela",
+        "body": "Ifungus isasazeka kwiitawuli, imigangatho yeshawari, iimethi zokuzilolonga, izihlangu ekwabelwana ngazo. Yinyange - kwaye ungabelani ngeetawuli okanye izihlangu ngexesha lonyango."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Gcina yomile",
+        "body": "Umngundo uthanda ulusu olufudumeleyo, olufumileyo. Yomisa kakuhle emva kokuhlamba, tshintsha iikawusi ezibilayo kunye nempahla yangaphantsi, zikhuphe umoya izihlangu. Uthintelo lumalunga nokomisa."
+      }
     ],
     "pull_quote": {
-      "text": "If a 'ring' on the skin doesn't clear with antifungal cream in 4 weeks, see a doctor. Some other skin conditions look like ringworm — and steroid cream will make a real ringworm worse.",
-      "source": "Dermatological Society of South Africa"
+      "text": "Ukuba i-'ring' esikhumbeni ayicaci nge-antifungal cream kwiiveki ezi-4, bonana nogqirha. Ezinye iimeko zolusu zikhangeleka ngathi ziintshulube - kwaye i-steroid cream iya kwenza intshulube yokwenyani ibe mandundu.",
+      "source": "Umbutho weDermatological waseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "Common patterns",
-    "lede": "Fungal infections all share an itchy, scaly, often ring-shaped look — but where they show up varies.",
+    "heading": "Iipateni eziqhelekileyo",
+    "lede": "Usulelo lomngundo zonke zabelana ngokurhawuzelelwa, amaxolo, inkangeleko emile okweringi - kodwa apho zivela khona ziyahluka.",
     "items": [
-      { "color": "orange", "icon": "footprints",  "title": "Athlete's foot",    "description": "Itchy, cracking, peeling skin between toes — especially the 4th and 5th. Can spread to soles. Smells. Worsens in summer and with sweaty shoes." },
-      { "color": "purple", "icon": "circle",      "title": "Ringworm (tinea corporis)","description": "Round red (or darker, on Black skin) scaly patch with a clear centre — looks like a ring. Slowly grows outwards. Common on arms, neck, body. Itchy." },
-      { "color": "coral",  "icon": "user",        "title": "Jock itch and scalp tinea","description": "Jock itch: red, itchy rash in the groin folds — common in men, after sweating. Scalp ringworm: patchy hair loss with scaling — common in children, needs tablets." }
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Unyawo lomdlali",
+        "description": "Ukubetha, ukukhwabanisa, ukukhupha isikhumba phakathi kweenzwane - ngakumbi i-4 kunye ne-5. Inokusasazeka kwiisoli. Uyanuka. Iba mbi ehlotyeni kunye nezihlangu ezibilayo."
+      },
+      {
+        "color": "purple",
+        "icon": "circle",
+        "title": "Umbungu (tinea corporis)",
+        "description": "Ubomvu ojikelezayo (okanye umnyama, kwisikhumba esiMnyama) i-scaly patch eneziko elicacileyo - ibonakala njengendandatho. Kancinci ukukhula ngaphandle. Okuqhelekileyo kwiingalo, intamo, umzimba. Kuyarhawuzelelwa."
+      },
+      {
+        "color": "coral",
+        "icon": "user",
+        "title": "Jock ukurhawuzelelwa kunye ne-scalp tinea",
+        "description": "I-Jock itch: i-red, i-rash ebomvu kwi-groin folds - ixhaphake kumadoda, emva kokubila. I-scalp ringworm: ukulahleka kweenwele ezinqabileyo kunye nokulinganisa - okuqhelekileyo kubantwana, kufuna iipilisi."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "How fungal infections spread",
+    "heading": "Indlela usulelo lomngundo olusasazeka ngayo",
     "yes": [
-      "Direct skin-to-skin contact with an infected person",
-      "Shared towels, bed linen, clothing, hairbrushes",
-      "Walking barefoot on contaminated floors — public showers, gym changing rooms, swimming pool decks",
-      "Shared shoes, especially sports gear",
-      "From pets (cats and dogs can carry ringworm)",
-      "From sweaty equipment in gyms or sport"
+      "Ukudibana ngokuthe ngqo kwesikhumba kunye nomntu osulelekileyo",
+      "Iitawuli ekwabelwana ngazo, ilinen yokulala, iimpahla, iibrashi zeenwele",
+      "Ukuhamba unganxibanga zihlangu kwimigangatho engcolisekileyo - iishawara zikawonke wonke, amagumbi okutshintsha umthambo, iidekhi zokuqubha",
+      "Izihlangu ekwabelwana ngazo, ingakumbi izixhobo zemidlalo",
+      "Kwizilwanyana zasekhaya (iikati nezinja zinokuthwala intshulube)",
+      "Ukususela kwizixhobo zokubila kwiindawo zokujima okanye kwezemidlalo"
     ],
     "no": [
-      "Casual contact like shaking hands or hugging",
-      "Sharing food or drinks",
-      "Being in the same room",
-      "Air or breath"
+      "Ukudibana okuqhelekileyo njengokuxhawula izandla okanye ukuwola",
+      "Ukwabelana ngokutya okanye iziselo",
+      "Ukuba kwigumbi elinye",
+      "Umoya okanye umoya"
     ]
   },
-
   "prevention": {
-    "heading": "How to avoid getting it again",
-    "lede": "Fungus comes back if conditions remain warm and moist. Small daily habits prevent most recurrences.",
+    "heading": "Indlela yokuphepha ukuyifumana kwakhona",
+    "lede": "Umngundo uyabuya ukuba iimeko zihlala zishushu kwaye zifumile. Imikhwa emincinci yemihla ngemihla ikhusela ukuphindaphinda okuninzi.",
     "items": [
-      { "color": "green",  "icon": "droplet", "title": "Dry thoroughly after washing","description": "Especially between toes, in groin, under breasts, in skin folds. Pat dry. A dry skin is an unfriendly home for fungus." },
-      { "color": "purple", "icon": "shirt",    "title": "Clean cotton, change often",   "description": "Cotton socks and underwear breathe better than synthetics. Change daily and after sweating. Don't re-wear sweaty gym clothes." },
-      { "color": "orange", "icon": "footprints","title": "Don't go barefoot in public",  "description": "Public showers, gym changing rooms, swimming pool decks — wear slops or sandals. Most fungal foot infections come from these places." },
-      { "color": "gold",   "icon": "x-circle", "title": "Don't share towels or shoes",   "description": "Even with family members. If someone has a fungal infection, use separate towels until it has cleared." }
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Yomisa kakuhle emva kokuhlamba",
+        "description": "Ngokukodwa phakathi kweenzwane, kwi-groin, phantsi kwamabele, kwii-folds zesikhumba. Yomisa kancinci. Ulusu olomileyo likhaya elingenabubele lefungus."
+      },
+      {
+        "color": "purple",
+        "icon": "shirt",
+        "title": "Ikotoni ecocekileyo, tshintsha rhoqo",
+        "description": "Iikawusi zomqhaphu kunye neengubo zangaphantsi ziphefumla ngcono kunezokwenziwa. Guqula yonke imihla nasemva kokubila. Musa ukuphinda unxibe iimpahla zokujima ezibilayo."
+      },
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Musa ukuhamba unganxibanga zihlangu esidlangalaleni",
+        "description": "Iishawa kawonke-wonke, amagumbi okutshintsha ijim, iidekhi zokuqubha - nxiba iislops okanye iimbadada. Uninzi losulelo lwenyawo lomngundo luvela kwezi ndawo."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Musa ukwabelana ngeetawuli okanye izihlangu",
+        "description": "Nditsho namalungu osapho. Ukuba umntu unosulelo lomngundo, sebenzisa iitawuli ezahlukeneyo de luphele."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "Start over-the-counter antifungal cream",     "description": "Clotrimazole or terbinafine — apply twice a day to the affected area plus 2cm around it. Keep going for 2 weeks after the rash clears to prevent return." },
-      { "title": "Keep the area dry and exposed to air",        "description": "Don't bandage. Wear loose clothing. Let the skin breathe. Powder (not cream) in the morning can help in groin or feet for sweat absorption." },
-      { "title": "Treat the source",                            "description": "Wash all towels, bedding, and clothes that touched the infection in hot water. Throw out or disinfect old shoes if athlete's foot keeps coming back." },
-      { "title": "If not better in 4 weeks — see a doctor",     "description": "Some look-alike conditions don't respond to antifungal. Nail fungus and scalp ringworm need tablets. Government clinics provide both free." },
-      { "title": "If you have diabetes or HIV — go early",      "description": "Fungal infections can be more severe and spread faster. Go to clinic at the first sign — don't wait to try over-the-counter for weeks." }
+      {
+        "title": "Qala phezu-the-counter antifungal cream",
+        "description": "I-Clotrimazole okanye i-terbinafine - sebenzisa kabini ngosuku kwindawo echaphazelekayo kunye ne-2cm ngeenxa zonke. Qhubeka uqhubeka iiveki ezi-2 emva kokuba irhashalala iphelile ukuthintela ukubuya."
+      },
+      {
+        "title": "Gcina indawo yomile kwaye ibonakaliswe emoyeni",
+        "description": "Musa ukubopha ibhanti. Nxiba iimpahla ezikhululekileyo. Vumela ulusu luphefumle. Umgubo (kungekhona ukhilimu) kusasa unokunceda kwi-groin okanye ezinyaweni zokufunxa umbilo."
+      },
+      {
+        "title": "Phatha umthombo",
+        "description": "Hlamba zonke iitawuli, iibhedi, kunye neempahla ezichaphazele isifo emanzini ashushu. Lahla okanye ubulale iintsholongwane kwizihlangu ezidala ukuba unyawo lwembaleki luhlala lubuya."
+      },
+      {
+        "title": "Ukuba akukho ngcono kwiiveki ezi-4 - bonana nogqirha",
+        "description": "Ezinye iimeko ezikhangelekayo aziphenduli kwi-antifungal. I-Nail fungus kunye ne-scalp worm zifuna iipilisi. Iiklinikhi zikarhulumente zibonelela ngazo zombini simahla."
+      },
+      {
+        "title": "Ukuba unesifo seswekile okanye i-HIV - yiya kwangoko",
+        "description": "Usulelo lomngundo lunokuba nzima kwaye lusasazeka ngokukhawuleza. Yiya ekliniki ngokokuqala ngqa—ungalindi ukuba uzame evenkileni kangangeeveki."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Most fungal skin infections clear with cheap over-the-counter cream. If they don't, government clinics provide free prescription treatment.",
+    "heading": "Masiye phi",
+    "lede": "Uninzi lwezifo zolusu lomngundo zicacile ngekrimu engabizi kakhulu kwi-counter-counter. Ukuba abakwenzi oko, iikliniki zikarhulumente zibonelela ngonyango lwasimahla olubhalwe ngugqirha.",
     "helplines": [
-      { "name": "Any local pharmacy",         "description": "Over-the-counter antifungal creams — clotrimazole, terbinafine",  "meta": "No prescription needed for cream", "phone": null, "phone_display": "Visit a pharmacy", "primary": true },
-      { "name": "Find your nearest clinic",   "description": "Free assessment and prescription antifungal treatment if needed", "meta": "No appointment · no medical aid required", "phone": null, "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" }
+      {
+        "name": "Nayiphi na ikhemesti yendawo",
+        "description": "I-anti-counter antifungal creams - i-clotrimazole, i-terbinafine",
+        "meta": "Akukho myalelo ufunekayo wekrimu",
+        "phone": null,
+        "phone_display": "Ndwendwela ikhemesti",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwasimahla kunye nomyalelo wonyango lwe-antifungal ukuba luyimfuneko",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      }
     ]
   }
 }

@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "National Department of Health",
-    "Saving Mothers Report",
-    "WHO",
-    "South African Society of Obstetricians and Gynaecologists"
+    "ISebe lezeMpilo leSizwe",
+    "Ukugcina Ingxelo kaMama",
+    "I-WHO",
+    "Umbutho waseMzantsi Afrika wooGqirha bokuBeleka kunye neeGqirha zabafazi"
   ],
   "urgent": {
     "heading": "Yiya esibhedlele ngoku ukuba",
@@ -67,7 +67,7 @@
     ],
     "pull_quote": {
       "text": "Konke ukusweleka koomama kunebali leempawu zesilumkiso ezaphoswayo okanye zajongelwa phantsi. Ukuba ukhulelwe kwaye ukhathazekile, impendulo efanelekileyo isoloko ikukuba uhlolwe. Ngalo lonke ixesha.",
-      "source": "Saving Mothers Report, South Africa"
+      "source": "Ingxelo yoMama oLondoloza, eMzantsi Afrika"
     }
   },
   "signs": {
@@ -150,8 +150,3 @@
     ]
   }
 }
-
-
-
-
-

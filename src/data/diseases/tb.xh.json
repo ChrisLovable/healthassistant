@@ -1,119 +1,224 @@
 {
   "slug": "tb",
   "group_slug": "infectious",
-  "name": "TB (Tuberculosis)",
-  "tagline": "Coughing for 2+ weeks? Test today — treatment is free.",
+  "name": "I-TB (iSifo sePhepha)",
+  "tagline": "Ukukhohlela iiveki ezi-2+? Uvavanyo namhlanje - unyango lusimahla.",
   "read_time_minutes": 5,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["National Institute for Communicable Diseases (NICD)", "TB Free SA", "WHO", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "National Institute for Communicable Diseases (NICD)",
+    "TB Free SA",
+    "WHO",
+    "National Department of Health"
+  ],
   "urgent": {
-    "heading": "Urgent — see a clinic this week",
-    "primary_message": "Coughing for more than 2 weeks, coughing up blood, severe night sweats, or rapid weight loss — get to a clinic. Testing is free.",
+    "heading": "Kungxamisekile - bona ikliniki kule veki",
+    "primary_message": "Ukukhohlela ngaphezu kweeveki ezi-2, ukukhohlela igazi, ukubila kakhulu ebusuku, okanye ukuncipha ngokukhawuleza komzimba - yiya ekliniki. Uvavanyo lusimahla.",
     "phone": "0800012322",
-    "phone_display": "Call 0800 012 322",
+    "phone_display": "Tsalela umnxeba ku-0800 012 322",
     "red_flags": [
-      "Cough lasting more than 2 weeks — productive or dry",
-      "Coughing up blood, even small amounts",
-      "Drenching night sweats for more than a week",
-      "Unexplained weight loss",
-      "Chest pain that worsens with breathing",
-      "Persistent low-grade fever for weeks",
-      "Children with persistent cough and failure to thrive"
+      "Ukhohlokhohlo oluhlala ngaphezu kweeveki ezi-2 - luvelisa okanye lomile",
+      "Ukukhohlela igazi, kwanemali encinci",
+      "Ukumanzisa ebusuku ukubila ixesha elingaphezu kweveki",
+      "Ukwehla kobunzima obungachazwanga",
+      "Iintlungu zesifuba eziye ziba mandundu xa uphefumla",
+      "Umkhuhlane ongapheliyo womgangatho ophantsi kangangeeveki",
+      "Abantwana abanokhohlokhohlo oluzingisileyo kunye nokusilela ukuphumelela"
     ]
   },
-
   "what_is_it": {
-    "heading": "TB in plain terms",
-    "lede": "Tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis. It usually attacks the lungs but can affect any part of the body — bones, brain, kidneys, lymph nodes.",
+    "heading": "I-TB ngokwemiqathango ecacileyo",
+    "lede": "Isifo sephepha lusulelo lwebhaktiriya olubangelwa yiMycobacterium tuberculosis. Ngokuqhelekileyo ihlasela imiphunga kodwa inokuchaphazela naliphi na ilungu lomzimba - amathambo, ingqondo, izintso, i-lymph nodes.",
     "paragraphs": [
-      "TB spreads through the air when an infected person coughs or sneezes. Most people exposed do not get sick straight away — the bacteria can stay dormant for years (latent TB) before becoming active. About 1 in 10 latent infections become active disease in a lifetime.",
-      "TB is curable. The standard treatment is 6 months of daily tablets — completely free at every South African clinic. The biggest danger is stopping treatment early when you feel better. Partial treatment breeds drug-resistant TB, which is far harder and longer to treat."
+      "I-TB isasazeka emoyeni xa umntu osulelekileyo ekhohlela okanye ethimla. Abantu abaninzi abavezwayo abaguli ngoko nangoko - ibhaktiriya inokuhlala ingasebenzi iminyaka (i-TB esafukamileyo) phambi kokuba iqalise ukusebenza. Malunga ne-1 kwi-10 usulelo olufihlakeleyo luba sisifo esisebenzayo ebomini.",
+      "I-TB iyanyangeka. Unyango oluqhelekileyo ziinyanga ezi-6 zeepilisi zemihla ngemihla — simahla kuzo zonke iikliniki zaseMzantsi Afrika. Eyona ngozi inkulu kukuyeka unyango kwangoko xa uziva ngcono. Unyango olungaphelelanga luzala i-TB enganyangekiyo ngamachiza, ekunzima kakhulu kwaye ixesha elide ukuyinyanga."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "users",      "headline": "300,000+",      "body": "New TB cases in South Africa every year. One of the highest rates in the world." },
-      { "color": "purple", "icon": "shield",     "headline": "100% free",     "body": "Every test, every tablet, every visit. Drug-resistant TB treatment is also free. No medical aid needed." },
-      { "color": "gold",   "icon": "refresh-cw", "headline": "Curable",       "body": "6 months of daily medication cures standard TB completely. Drug-resistant TB takes longer but is also curable." },
-      { "color": "green",  "icon": "alert-circle","headline": "HIV doubles risk","body": "TB is the leading cause of death in people living with HIV. If you are HIV positive, get screened for TB at every visit." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "300,000+",
+        "body": "Iimeko ezitsha ze-TB eMzantsi Afrika minyaka le. Elinye lawona mazinga aphezulu ehlabathini."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "100% simahla",
+        "body": "Lonke uvavanyo, zonke tablet, lonke utyelelo. Unyango lwe-TB engeva yeza nalo lusimahla. Akukho ncedo lwezonyango olufunekayo."
+      },
+      {
+        "color": "gold",
+        "icon": "refresh-cw",
+        "headline": "Iyanyangeka",
+        "body": "Iinyanga ezi-6 zamayeza emihla ngemihla ziyinyanga ngokupheleleyo i-TB eqhelekileyo. I-TB engeva yeza ithatha ixesha elide kodwa iyanyangeka."
+      },
+      {
+        "color": "green",
+        "icon": "alert-circle",
+        "headline": "I-HIV iphinda kabini umngcipheko",
+        "body": "I-TB ngoyena nobangela wokusweleka kwabantu abaphila ne-HIV. Ukuba ngaba une-HIV, zivavanyelwe i-TB ngalo lonke ixesha undwendwela."
+      }
     ],
     "pull_quote": {
-      "text": "Stopping TB tablets when you feel better is the most dangerous thing you can do — to yourself and to everyone around you. Drug-resistant TB starts the day someone stops their treatment.",
-      "source": "TB Free SA"
+      "text": "Ukuyekisa iipilisi ze-TB xa uziva ubhetele yeyona nto iyingozi onokuyenza - kuwe nakubo bonke abantu abakungqongileyo. I-TB engeva yeza iqala mhla umntu eyeka unyango lwakhe.",
+      "source": "I-TB Free SA"
     }
   },
-
   "signs": {
-    "heading": "What to watch for",
-    "lede": "TB usually develops slowly. The classic sign is a cough that just will not go away. Any cough lasting more than 2 weeks deserves a test.",
+    "heading": "Yintoni omawuyibukele",
+    "lede": "I-TB idla ngokuvela kancinane. Uphawu lwakudala lukhohlokhohlo olungasoze luhambe. Naluphi na ukhohlokhohlo oluhlala ngaphezu kweeveki ezi-2 lufanele uvavanyo.",
     "items": [
-      { "color": "orange", "icon": "wind",          "title": "Persistent cough",     "description": "A cough lasting more than 2 weeks, often productive, sometimes with blood. May be worse at night." },
-      { "color": "coral",  "icon": "droplet",       "title": "Night sweats and fever","description": "Drenching night sweats that soak the sheets. Low-grade fever, especially in the afternoon and evening." },
-      { "color": "purple", "icon": "trending-down", "title": "Weight loss and fatigue","description": "Unintentional weight loss over weeks or months. Loss of appetite. Tiredness out of proportion to activity." },
-      { "color": "gold",   "icon": "baby",          "title": "In children",          "description": "Failure to thrive, poor weight gain, persistent cough, swollen glands in the neck. TB in children is often missed — ask if a close relative has TB." }
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukhohlokhohlo oluzingisileyo",
+        "description": "Ukhohlokhohlo oluhlala ngaphezu kweeveki ezi-2, ludla ngokuvelisa, ngamanye amaxesha ngegazi. Isenokuba worse ebusuku."
+      },
+      {
+        "color": "coral",
+        "icon": "droplet",
+        "title": "Ukubila ebusuku kunye nomkhuhlane",
+        "description": "Ukubila ebusuku okumanzisa okumanzisa amashiti. Umkhuhlane ophantsi, ngakumbi emva kwemini nangokuhlwa."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-down",
+        "title": "Ukunciphisa umzimba kunye nokudinwa",
+        "description": "Ukulahleka kwesisindo ngokungeyomfuneko kwiiveki okanye iinyanga. Ukulahlekelwa ngumdla wokutya. Ukudinwa ngaphandle kokulingana nomsebenzi."
+      },
+      {
+        "color": "gold",
+        "icon": "baby",
+        "title": "Ebantwaneni",
+        "description": "Ukungaphumeleli ukuphumelela, ukutyeba kakubi, ukukhohlela okuzingileyo, ukudumba kwamadlala entanyeni. I-TB ebantwaneni isoloko iphoswa — buza ukuba isizalwane esisondeleyo sine-TB na."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "How TB spreads — and how it doesn't",
+    "heading": "Isasazeka njani i-TB — kwaye ayisasazeki njani",
     "yes": [
-      "Breathing in droplets from someone with active lung TB who is coughing or sneezing",
-      "Prolonged close contact in enclosed, poorly ventilated spaces",
-      "Living or working in crowded conditions — homes, hostels, mines, prisons",
-      "Drinking unpasteurised milk from infected cattle (rare in SA)"
+      "Ukuphefumla amathontsi omntu one-TB yemiphunga ephilayo ekhohlelayo okanye ethimla",
+      "Uqhagamshelo olusondele ixesha elide kwiindawo ezivaliweyo, ezingenamoya kakuhle",
+      "Ukuhlala okanye ukusebenza kwiimeko ezixineneyo - amakhaya, iihostele, imigodi, iintolongo",
+      "Ukusela ubisi olungaxutywanga kwiinkomo ezosulelekileyo (zinqabile eMzantsi Afrika)"
     ],
     "no": [
-      "Casual contact like shaking hands or being in the same outdoor space",
-      "Sharing food, drinks, plates, or cutlery",
-      "Toilet seats, doorknobs, or bedding (once aired)",
-      "Kissing, hugging, or sexual contact"
+      "Ukudibana okuqhelekileyo njengokuxhawula izandla okanye ukuba kwindawo enye ngaphandle",
+      "Ukwabelana ngokutya, iziselo, iipleyiti, okanye i-cutlery",
+      "Izihlalo zangasese, amaqhosha ecango, okanye izinto zokulala (sakuba zivuliwe)",
+      "Ukuncamisana, ukuwolana, okanye ukwabelana ngesondo"
     ]
   },
-
   "prevention": {
-    "heading": "How to protect yourself and your family",
-    "lede": "TB thrives in poorly ventilated, crowded spaces. Most prevention is about air, early detection, and completing treatment — yours or a household contact's.",
+    "heading": "Indlela yokuzikhusela wena nosapho lwakho",
+    "lede": "I-TB iyakhula kwiindawo ekungangeni moya ngazo kakuhle, kwiindawo ezixineneyo. Uninzi lothintelo lumalunga nomoya, ukubhaqwa kwangoko, kunye nokugqibezela unyango - olwakho okanye lomfowunelwa wekhaya.",
     "items": [
-      { "color": "green",  "icon": "syringe",      "title": "BCG vaccine at birth",      "description": "Every SA baby gets a BCG injection at birth. It does not prevent all TB but reduces severe forms in children, especially meningitis." },
-      { "color": "purple", "icon": "wind",         "title": "Open windows",              "description": "TB bacteria die quickly in fresh air and sunlight. Open windows, especially in bedrooms shared with someone being treated for TB." },
-      { "color": "orange", "icon": "users",        "title": "Test household contacts",   "description": "If someone in your home is diagnosed, everyone in the house should be tested — even if they feel well. Children especially need protection." },
-      { "color": "gold",   "icon": "shield-check", "title": "TB preventive therapy",     "description": "People living with HIV, household contacts, and other at-risk groups can be given a course of TB tablets to prevent active disease. Ask at your clinic." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ugonyo lwe-BCG ekuzalweni",
+        "description": "Usana ngalunye lwaseMzantsi Afrika lufumana inaliti ye-BCG ekuzalweni kwayo. Ayithinteli yonke i-TB kodwa yehlisa iintlobo ezinzima ebantwaneni, ngakumbi i-meningitis."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Vula iifestile",
+        "description": "Iibhaktheriya ze-TB zifa ngokukhawuleza emoyeni omtsha nakukukhanya kwelanga. Vula iifestile, ngakumbi kumagumbi okulala ahlala kunye nomntu onyangwa i-TB."
+      },
+      {
+        "color": "orange",
+        "icon": "users",
+        "title": "Vavanya abafowunelwa basekhaya",
+        "description": "Ukuba umntu okwikhaya lakho ufunyenwe, wonke umntu osendlwini kufuneka avavanywe-nokuba uziva ephilile. Abantwana bafuna ukukhuselwa ngokukhethekileyo."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "title": "Unyango lothintelo lwe-TB",
+        "description": "Abantu abaphila ne-HIV, abafowunelwa basekhaya, kunye namanye amaqela asemngciphekweni banokunikwa ikhosi yeepilisi ze-TB ukuthintela isifo esisebenzayo. Buza kwikliniki yakho."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "TB is a poor person's disease.", "fact": "TB affects all income groups. High SA rates come from poor ventilation, overcrowding, and the HIV link — but anyone who spends time in a closed space with active TB is exposed." },
-      { "myth": "Once I feel better, I can stop the pills.", "fact": "Stopping early is how drug-resistant TB develops. You must complete the full 6 months — even when you no longer cough and have regained weight." },
-      { "myth": "TB pills damage the liver and heart — natural remedies are better.", "fact": "TB pills can rarely have liver side effects, which are monitored. But untreated TB kills for certain. No natural remedy has ever stopped TB bacteria." },
-      { "myth": "If you eat well and stay strong, you can fight off TB yourself.", "fact": "Good nutrition helps the immune system, but no diet alone can stop active TB. Antibiotics are the only effective treatment. Eat well AND take the pills." }
+      {
+        "myth": "I-TB sisifo somntu ohluphekayo.",
+        "fact": "I-TB ichaphazela onke amaqela emivuzo. Amazinga aphezulu e-SA avela ekungeneni komoya okulambathayo, ukuxinana, kunye nekhonkco le-HIV - kodwa nabani na ochitha ixesha kwindawo evaliweyo ene-TB eqanduselayo uyabhencwa."
+      },
+      {
+        "myth": "Xa ndiziva ngcono, ndiyakwazi ukuyeka iipilisi.",
+        "fact": "Ukuyeka kwangoko yindlela ekhula ngayo i-TB enganyangekiyo ngamachiza. Kufuneka ugqibe iinyanga ezi-6 ezipheleleyo - nokuba awusakhohlisi kwaye sele ubuyile emzimbeni."
+      },
+      {
+        "myth": "Iipilisi ze-TB zonakalisa isibindi nentliziyo — amayeza endalo angcono.",
+        "fact": "Iipilisi ze-TB azifane zibe neziphumo ebezingalindelekanga zesibindi, ezijongwayo. Kodwa i-TB enganyangwanga iyabulala ngokuqinisekileyo. Alikho iyeza lendalo elakhe lanqanda ibhaktheriya ye-TB."
+      },
+      {
+        "myth": "Ukuba utya kakuhle kwaye womelele, ungayilwa i-TB ngokwakho.",
+        "fact": "Isondlo esilungileyo siyawunceda umxokomezelo wokhuselo lomzimba, kodwa akukho kutya kukodwa kunokuphelisa i-TB eqanduselayo. Amayeza okubulala iintsholongwane lolona nyango lusebenzayo. Yitya kakuhle KWAYE usele iipilisi."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "If you have had a cough for 2 weeks — get tested",   "description": "Walk into any clinic. Ask for a TB test. You will be asked to cough up sputum into a small cup. Results within a few days." },
-      { "title": "If positive — start treatment immediately",          "description": "The clinic will give you the tablets that same day. Treatment is daily, supervised in the early phase, and free." },
-      { "title": "Take every dose, every day, for the full 6 months",  "description": "Never skip. Never stop early — even when you feel completely better after a few weeks. Skipping breeds drug-resistant TB." },
-      { "title": "Tell your household and close contacts",             "description": "They should all be tested. Children under 5 and pregnant women especially need to be seen quickly. The clinic helps with contact tracing." },
-      { "title": "If on HIV treatment — keep both going",              "description": "TB and HIV treatments work alongside each other. Tell the clinic about all your medications. Never stop one to make the other easier." }
+      {
+        "title": "Ukuba ubunokhohlokhohlo kangangeeveki ezi-2 - zivavanye",
+        "description": "Ngena kuyo nayiphi na ikliniki. Cela uvavanyo lwe-TB. Uya kucelwa ukuba ukhuphe isikhohlela kwikomityi encinci. Iziphumo ngeentsuku ezimbalwa."
+      },
+      {
+        "title": "Ukuba unayo - qala unyango ngokukhawuleza",
+        "description": "Ikliniki iya kukunika iipilisi kwangaloo mini. Unyango lwemihla ngemihla, lujongwe kwisigaba sokuqala, kwaye simahla."
+      },
+      {
+        "title": "Thatha yonke idosi, yonke imihla, kwiinyanga ezi-6 ezipheleleyo",
+        "description": "Ungaze utsibe. Ungaze uyeke kwangoko - nokuba uziva ngcono ngokupheleleyo emva kweeveki ezimbalwa. Ukutsiba kuzala i-TB engeva yeza."
+      },
+      {
+        "title": "Xelela ikhaya lakho kunye nabafowunelwa abasondeleyo",
+        "description": "Bonke kufuneka bavavanywe. Abantwana abangaphantsi kweminyaka emi-5 kunye nabasetyhini abakhulelweyo bafuna ukubonwa ngokukhawuleza. Iklinikhi inceda ngokukhangelwa koqhagamshelwano."
+      },
+      {
+        "title": "Ukuba kunyango lwe-HIV - ziqhube zombini",
+        "description": "Unyango lwe-TB ne-HIV lusebenza kunye. Xelela ikliniki ngawo onke amayeza akho. Ungaze uyeke enye ukuze wenze enye ibe lula."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "TB care is one of the most established systems in South African public health. Walk into any clinic — no appointment, no medical aid, no ID required.",
+    "heading": "Masiye phi",
+    "lede": "Ukhathalelo lwe-TB yenye yezona nkqubo zisekiweyo kwimpilo yoluntu eMzantsi Afrika. Hamba uye kuyo nayiphi na ikliniki - akukho dinga, akukho ncedo lwezonyango, akukho ID efunekayo.",
     "helplines": [
-      { "name": "National TB Hotline",       "description": "Free, confidential information and referrals",          "meta": "24 hours · free from any phone",            "phone": "0800012322", "phone_display": "0800 012 322",  "primary": true },
-      { "name": "Find your nearest clinic",  "description": "Every government clinic offers free TB testing and treatment", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
-      { "name": "TB Free SA",                "description": "Information, advocacy, and support for people on TB treatment", "meta": "Mon–Fri 08:00–16:30",                       "phone": "0214473007", "phone_display": "021 447 3007",  "primary": false }
+      {
+        "name": "Umnxeba we-TB weSizwe",
+        "description": "Ulwazi lwasimahla, oluyimfihlo kunye nokuthunyelwa",
+        "meta": "Iiyure ezingama-24 · simahla kuyo nayiphi na ifowuni",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ikliniki nganye karhulumente ibonelela ngovavanyo kunye nonyango lwe-TB simahla",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-TB Free SA",
+        "description": "Ulwazi, ubhengezo, kunye nenkxaso kubantu abakunyango lwe-TB",
+        "meta": "Mvulo–Fri 08:00–16:30",
+        "phone": "0214473007",
+        "phone_display": "021 447 3007",
+        "primary": false
+      }
     ]
   }
 }

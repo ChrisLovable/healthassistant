@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "Heart and Stroke Foundation SA",
-    "WHO",
-    "National Department of Health",
-    "American Stroke Association"
+    "I-Heart and Stroke Foundation SA",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe",
+    "Umbutho weStroke waseMelika"
   ],
   "urgent": {
     "heading": "Ingxamisekile — tsalela umnxeba ngoku",
@@ -65,7 +65,7 @@
     ],
     "pull_quote": {
       "text": "Ukuba ukrokrela istroke, musa ukulinda ubone ukuba kuza kuhamba njani. Biza i-ambulensi. Nokuba iimpawu ziyadlula ngokwazo — naloo nto luphawu lwesilumkiso.",
-      "source": "Heart and Stroke Foundation SA"
+      "source": "I-Heart and Stroke Foundation SA"
     }
   },
   "signs": {
@@ -165,7 +165,7 @@
         "primary": true
       },
       {
-        "name": "Heart and Stroke Foundation SA",
+        "name": "I-Heart and Stroke Foundation SA",
         "description": "Ulwazi, inkxaso kunye nokudluliselwa kwiinkonzo zokubuyisela emva kwe-stroke",
         "meta": "Mvulo–Lwesihlanu 08:00–16:30",
         "phone": "0860000254",
@@ -175,9 +175,3 @@
     ]
   }
 }
-
-
-
-
-
-

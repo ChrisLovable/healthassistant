@@ -1,101 +1,195 @@
 {
   "slug": "diabetes",
   "group_slug": "chronic-lifestyle",
-  "name": "Diabetes",
-  "tagline": "Fastest-growing chronic disease in SA.",
+  "name": "Isifo seswekile",
+  "tagline": "Esona sifo sikhula ngokukhawuleza esingapheliyo eMzantsi Afrika.",
   "read_time_minutes": 5,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["Diabetes SA", "International Diabetes Federation", "WHO", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Isifo seswekile SA",
+    "I-International Diabetes Federation",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "urgent": {
     "heading": "Tsalela umnxeba ku-10177 okanye uye ngqo esibhedlele ukuba",
-    "primary_message": "Very high or very low blood sugar can become life-threatening within hours. These signs mean — don't wait.",
+    "primary_message": "Iswekile yegazi ephezulu kakhulu okanye ephantsi kakhulu inokubeka ubomi esichengeni kwiiyure nje ezimbalwa. Le miqondiso ithetha - musa ukulinda.",
     "phone": "10177",
     "phone_display": "Tsalela umnxeba ku-10177",
     "red_flags": [
-      "Excessive thirst with fast breathing — may be diabetic ketoacidosis (DKA)",
-      "Fruity or nail-polish breath (typical of DKA)",
-      "Severe nausea and vomiting with abdominal pain",
-      "Confusion, drowsiness, or difficulty waking up",
-      "Low blood sugar — shaking, sweating, confusion that doesn't improve with sugar",
-      "Seizures or loss of consciousness",
-      "A foot or leg that suddenly shows infection or a black patch (diabetic foot)"
+      "Unxano olugqithisileyo ngokuphefumla ngokukhawuleza-inokuba sisifo seswekile ketoacidosis (DKA)",
+      "Isiqhamo okanye ukupholisa inzipho umoya (umzekelo weDKA)",
+      "Isicaphucaphu esikhulu kunye nokugabha kunye neentlungu zesisu",
+      "Ukudideka, ukozela, okanye ubunzima bokuvuka",
+      "Iswekile yegazi ephantsi — ukungcangcazela, ukubila, ukubhideka okungaphucukiyo neswekile",
+      "Ukuxhuzula okanye ukulahlekelwa zingqondo",
+      "Unyawo okanye umlenze obonisa ngokukhawuleza usulelo okanye ibala elimnyama (unyawo lweswekile)"
     ]
   },
-
   "what_is_it": {
-    "heading": "Diabetes in plain terms",
-    "lede": "Diabetes is what happens when your body can't manage the sugar in your blood properly. Either your pancreas doesn't make enough insulin (Type 1), or your body stops responding to insulin properly (Type 2).",
+    "heading": "Isifo seswekile ngokwemiqathango ecacileyo",
+    "lede": "Isifo seswekile yinto eyenzekayo xa umzimba wakho ungakwazi ukuyilawula kakuhle iswekile esegazini lakho. Mhlawumbi i-pancreas yakho ayenzi i-insulin eyaneleyo (Uhlobo loku-1), okanye umzimba wakho uyayeka ukuphendula kwi-insulin ngokufanelekileyo (Uhlobo 2).",
     "paragraphs": [
-      "Insulin is a hormone that tells your cells to take sugar (glucose) out of the blood and use it for energy. Without enough insulin — or with cells that ignore it — sugar builds up in the blood and damages blood vessels, nerves, eyes, kidneys, and feet over years.",
-      "Type 1 usually starts in childhood or young adulthood and requires insulin injections for life. Type 2 — by far the more common — develops in adulthood and is closely linked to weight, diet, family history, and ethnicity. Early Type 2 can sometimes be reversed with diet and weight loss alone."
+      "I-insulin yihomoni exelela iiseli zakho ukuba zikhuphe iswekile (iswekile) egazini kwaye ziyisebenzisele amandla. Ngaphandle kwe-insulin eyaneleyo - okanye ngeeseli ezingayinakiyo - iswekile yakha egazini kwaye yonakalise imithambo yegazi, imithambo-luvo, amehlo, izintso kunye neenyawo kwiminyaka.",
+      "Udidi loku-1 ludla ngokuqala ebuntwaneni okanye ebudaleni obuncinci kwaye lufuna inaliti ye-insulin ubomi babo bonke. Uhlobo lwe-2 - ngokude luxhaphake kakhulu - lukhula ekukhuleni kwaye ludibaniswe ngokusondeleyo nobunzima, ukutya, imbali yentsapho kunye nobuhlanga. Uhlobo lokuqala lwe-2 ngamanye amaxesha lunokuguqulwa ngokutya kunye nokunciphisa umzimba kuphela."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "users",      "headline": "4.5 million",      "body": "South Africans live with diabetes. Roughly half do not know they have it." },
-      { "color": "purple", "icon": "trending-up","headline": "Type 2 = 90%",     "body": "Most diabetes in adults is Type 2 — strongly linked to weight, family history, and diet." },
-      { "color": "gold",   "icon": "shield",     "headline": "Free care",        "body": "Diabetes screening, oral medication, and insulin are all free at every government clinic." },
-      { "color": "green",  "icon": "refresh-cw", "headline": "Reversible early", "body": "Many newly-diagnosed Type 2 patients can return to normal blood sugar with diet, weight loss, and exercise." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "4.5 yezigidi",
+        "body": "Abemi boMzantsi Afrika baphila nesifo seswekile. Phantse isiqingatha asazi ukuba banayo."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-up",
+        "headline": "Uhlobo 2 = 90%",
+        "body": "Uninzi lwesifo seswekile kubantu abadala ludidi lwe-2 - ludityaniswe kakhulu nobunzima, imbali yentsapho kunye nokutya."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ukhathalelo lwasimahla",
+        "body": "Ukuhlolwa kwesifo seswekile, amayeza aselelweyo, kunye ne-insulin zonke zisimahla kuzo zonke iikliniki zikarhulumente."
+      },
+      {
+        "color": "green",
+        "icon": "refresh-cw",
+        "headline": "Inokubuyiselwa kwangethuba",
+        "body": "Uninzi lwezigulana ezisanda kufunyaniswa zisanda kuxilongwa zingabuyela kwiswekile yegazi eqhelekileyo ngokutya, ukunciphisa umzimba, kunye nokuzilolonga."
+      }
     ],
     "pull_quote": {
-      "text": "Every year clinics see patients lose toes, kidneys, and eyesight to diabetes — almost always because the disease was advanced before they were tested. Get tested. It is free.",
-      "source": "Diabetes SA"
+      "text": "Rhoqo ngonyaka iikliniki zibona izigulana zilahlekelwa ziinzwane, izintso, namehlo ngenxa yesifo seswekile - phantse rhoqo ngenxa yokuba eso sifo sasihamba phambili ngaphambi kokuba sivavanywe. Zivavanye. Isimahla.",
+      "source": "Isifo seswekile SA"
     }
   },
-
   "signs": {
-    "heading": "What you might notice",
-    "lede": "Diabetes can develop slowly over years (Type 2) or come on within weeks (Type 1). The classic signs are easy to miss — and many people have none at all until complications appear.",
+    "heading": "Yintoni onokuyibona",
+    "lede": "Isifo seswekile sinokukhula ngokucothayo ekuhambeni kweminyaka (uHlobo lwesi-2) okanye sivele kwiiveki nje ezimbalwa (uHlobo loku-1). Iimpawu zakudala kulula ukuziphosa - kwaye abantu abaninzi abanayo kwaphela de kuvele iingxaki.",
     "items": [
-      { "color": "orange", "icon": "droplet",        "title": "The classic three",       "description": "Frequent urination, intense thirst, and unexplained weight loss — especially together, especially over a few weeks." },
-      { "color": "coral",  "icon": "battery-low",    "title": "Tiredness and slow healing","description": "Unusual fatigue, blurred vision, cuts and infections that take a long time to heal, frequent yeast or urinary infections." },
-      { "color": "purple", "icon": "alert-triangle", "title": "Type 1 warning signs",     "description": "Sudden weight loss with extreme thirst, especially in children or young adults. Vomiting, deep fast breathing, fruity breath, drowsiness — emergency." }
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ezintathu zakudala",
+        "description": "Ukuchama rhoqo, unxano olunzulu, kunye nokuncipha kwesisindo esingachazwanga - ngakumbi kunye, ngakumbi kwiiveki ezimbalwa."
+      },
+      {
+        "color": "coral",
+        "icon": "battery-low",
+        "title": "Ukudinwa nokuphola kade",
+        "description": "Ukudinwa okungaqhelekanga, ukubona luzizi, ukusikeka kunye nosulelo oluthatha ixesha elide ukuphola, igwele rhoqo okanye usulelo lokuchama."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "title": "Uhlobo loku-1 lweempawu zesilumkiso",
+        "description": "Ukuncipha ngokukhawuleza kwesisindo ngonxano olugqithisileyo, ngakumbi kubantwana okanye kubantu abadala. Ukugabha, ukuphefumla nzulu ngokukhawuleza, ukuphefumla okuneziqhamo, ukozela — unxunguphalo."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Diabetes is caused by eating too much sugar.",            "fact": "Sugar contributes to weight gain, which is a risk factor. But genetics, body shape, ethnicity, and overall diet matter more than sugar alone." },
-      { "myth": "If you don't need insulin, your diabetes isn't serious.","fact": "Type 2 diabetes causes just as many complications — heart attacks, strokes, blindness, kidney failure, amputations — as Type 1." },
-      { "myth": "Diabetics can never eat sugar again.",                   "fact": "Small amounts of sugar in a balanced meal are usually fine. What matters is the overall pattern of eating, not single foods." },
-      { "myth": "If diabetes runs in my family, there's nothing I can do.","fact": "Lifestyle reduces Type 2 risk by more than 50%, even with a strong family history. Genes load the gun; lifestyle pulls the trigger." }
+      {
+        "myth": "Isifo seswekile sibangelwa kukutya iswekile eninzi.",
+        "fact": "Iswekile inegalelo ekuzuzeni ubunzima, nto leyo engumngcipheko. Kodwa i-genetics, ukumila komzimba, ubuhlanga, kunye nokutya ngokubanzi kubaluleke ngaphezu kweswekile yodwa."
+      },
+      {
+        "myth": "Ukuba awuyidingi i-insulin, isifo sakho seswekile asikho nzulu.",
+        "fact": "I-Type 2 yeswekile ibangela iingxaki ezininzi - ukuhlaselwa yintliziyo, ukubetha, ukungaboni, ukusilela kwezintso, ukunqunyulwa kwamalungu - njenge-Type 1."
+      },
+      {
+        "myth": "Abantu abanesifo seswekile abanakuze baphinde bayitye iswekile kwakhona.",
+        "fact": "Izixa ezincinci zeswekile kwisidlo esilungeleleneyo zihlala zilungile. Eyona nto ibalulekileyo yindlela yokutya, kungekhona ukutya okukodwa."
+      },
+      {
+        "myth": "Ukuba isifo seswekile sinosapho lwam, akukho nto ndinokuyenza.",
+        "fact": "Indlela yokuphila inciphisa umngcipheko we-2 ngaphezu kwe-50%, kunye nembali yosapho eyomeleleyo. Imfuza ilayisha umpu; ubomi butsala umdla."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to lower your risk",
-    "lede": "Prevention is most powerful when started before problems appear. If you have a parent, sibling, or child with Type 2 — your risk is significantly higher and screening matters.",
+    "heading": "Indlela yokunciphisa umngcipheko wakho",
+    "lede": "Uthintelo lunamandla kakhulu xa luqalisiwe phambi kokuba kuvele iingxaki. Ukuba unomzali, umntakwenu, okanye umntwana onoHlobo lwesi-2 - umngcipheko wakho uphezulu kakhulu kwaye imiba yokuhlola.",
     "items": [
-      { "color": "green",  "icon": "scale",        "title": "Healthy weight",      "description": "Especially around the waist. Losing 5–10% of body weight cuts Type 2 risk by more than half." },
-      { "color": "purple", "icon": "activity",     "title": "Move daily",          "description": "30 minutes of moderate activity — walking, cycling, gardening, dancing — most days of the week." },
-      { "color": "orange", "icon": "leaf",         "title": "Plate balance",       "description": "Fill half your plate with vegetables, a quarter with lean protein, a quarter with whole grains. Cut sugary drinks first — biggest impact." },
-      { "color": "gold",   "icon": "check-circle", "title": "Screen if at risk",   "description": "Family history, overweight, age over 40, gestational diabetes history — ask for a finger-prick blood sugar test. Free at every clinic." }
+      {
+        "color": "green",
+        "icon": "scale",
+        "title": "Ubunzima obunempilo",
+        "description": "Ngokukodwa esinqeni. Ukulahlekelwa yi-5-10% yokunciphisa ubunzima bomzimba Uhlobo lwe-2 ingozi ngaphezu kwesiqingatha."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hambisa yonke imihla",
+        "description": "Imizuzu ye-30 yomsebenzi ophakathi - ukuhamba, ukuhamba ngebhayisikili, ukulima, ukudansa - iintsuku ezininzi zeveki."
+      },
+      {
+        "color": "orange",
+        "icon": "leaf",
+        "title": "Ibhalansi yepleyiti",
+        "description": "Gcwalisa isiqingatha seplate yakho ngemifuno, ikota eneprotheni ephilileyo, ikota kunye neengqolowa ezipheleleyo. Sika iziselo ezineswekile kuqala - impembelelo enkulu."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Isikrini ukuba sisemngciphekweni",
+        "description": "Imbali yentsapho, ukutyeba, iminyaka engaphezu kwama-40, imbali yesifo sikashukela sokukhulelwa - cela uvavanyo lweswekile yegazi ngomnwe. Isimahla kuzo zonke iikliniki."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "Get tested",                       "description": "A finger-prick blood sugar test is free at every clinic and many pharmacies. Random reading over 11, or fasting over 7, suggests diabetes." },
-      { "title": "If diagnosed, start treatment",    "description": "Diet and exercise alone may work for early Type 2. Most people will eventually need oral medication or insulin. All free at government clinics." },
-      { "title": "Take medication every day",        "description": "Even on days you feel fine. Especially on days you feel fine. Diabetes does its damage silently while sugar is high." },
-      { "title": "Check your feet daily",            "description": "Diabetes damages the nerves in your feet — you can get serious wounds and not feel them. Look, smell, feel. See a clinic for any sore that does not heal." },
-      { "title": "Annual eye and kidney check",      "description": "Diabetic eye disease and kidney disease are silent until advanced. Annual checks catch them in time to act." }
+      {
+        "title": "Zivavanye",
+        "description": "Uvavanyo lweswekile yegazi lusimahla kuzo zonke iikliniki nakwiikhemesti ezininzi. Ukufunda ngokungaqhelekanga ngaphezu kwe-11, okanye ukuzila ukutya ngaphezu kwe-7, kubonisa isifo sikashukela."
+      },
+      {
+        "title": "Ukuba ufunyanisiwe, qalisa unyango",
+        "description": "Ukutya kunye nokuzilolonga kukodwa kunokusebenzela udidi lwesi-2 lwakwangoko. Uninzi lwabantu ekugqibeleni luya kufuna iyeza lomlomo okanye i-insulin. Zonke zisimahla kwiikliniki zikarhulumente."
+      },
+      {
+        "title": "Thatha amayeza yonke imihla",
+        "description": "Nangeentsuku uziva uphilile. Ingakumbi ngeentsuku oziva uphilile. Isifo seswekile siyawenza umonakalo sithe cwaka ngelixa iswekile iphezulu."
+      },
+      {
+        "title": "Hlola iinyawo zakho yonke imihla",
+        "description": "Isifo seswekile siyonakalisa imithambo-luvo ezinyaweni zakho - unokufumana amanxeba amabi kwaye ungaziva. Jonga, ivumba, uzive. Jonga ekliniki nasiphi na isilonda esingapholiyo."
+      },
+      {
+        "title": "Ukuhlolwa kwamehlo kunye nezintso ngonyaka",
+        "description": "Isifo samehlo seswekile kunye nesifo sezintso zithe cwaka de zidlulele phambili. Iitshekhi zonyaka zizifumana ngexesha lokuthatha inyathelo."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to start",
-    "lede": "Diabetes care in South Africa is free at the point of need. The hard part is starting — once you do, the clinic system can carry a lot of the load.",
+    "heading": "Uqale phi",
+    "lede": "Ukhathalelo lwesifo seswekile eMzantsi Afrika lusimahla kwindawo yesidingo. Indawo enzima iyaqala - wakuba uyenzile, inkqubo yekliniki inokuthwala umthwalo omninzi.",
     "helplines": [
-      { "name": "Find your nearest clinic", "description": "Every government clinic offers free diabetes screening, medication, and insulin",   "meta": "No appointment · no medical aid required",      "phone": null,         "phone_display": "Find a clinic",  "primary": true,  "link": "/clinic-finder" },
-      { "name": "Diabetes SA",              "description": "Information, support groups, and dietitian referrals",                                 "meta": "Mon–Fri 08:00–16:30",                            "phone": "0118863765", "phone_display": "011 886 3765",   "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Iklinikhi nganye karhulumente ibonelela ngovavanyo lwasimahla lweswekile, amayeza, kunye ne-insulin",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Isifo seswekile SA",
+        "description": "Ulwazi, amaqela enkxaso, kunye nokuthunyelwa kweengcali zokutya",
+        "meta": "Mvulo–Fri 08:00–16:30",
+        "phone": "0118863765",
+        "phone_display": "011 886 3765",
+        "primary": false
+      }
     ]
   }
 }

@@ -1,118 +1,218 @@
 {
   "slug": "pneumonia",
   "group_slug": "infectious",
-  "name": "Pneumonia",
-  "tagline": "Top killer of under-5s and over-65s.",
+  "name": "Ukukrala kwemiphunga",
+  "tagline": "Umbulali ophezulu wabangaphantsi kweminyaka emi-5 nangaphezulu kwe-65.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["NICD", "WHO", "National Department of Health", "American Thoracic Society"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-NICD",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe",
+    "Umbutho waseMelika weThoracic"
+  ],
   "urgent": {
-    "heading": "Urgent — see a clinic now",
-    "primary_message": "Pneumonia in young children and the elderly can become deadly within hours. Difficulty breathing, blue lips, severe weakness — go to hospital.",
+    "heading": "Kungxamisekile - bona ikliniki ngoku",
+    "primary_message": "Inyumoniya kubantwana abancinci nakubantu abadala inokubulala kwiiyure nje ezimbalwa. Ukuphefumula kanzima, imilebe eluhlaza okwesibhakabhaka, ubuthathaka obunzima - yiya esibhedlele.",
     "phone": "10177",
     "phone_display": "Tsalela umnxeba ku-10177",
     "red_flags": [
-      "Difficulty breathing or breathing very fast",
-      "Bluish lips, fingertips, or face",
-      "Cannot keep fluids down — vomiting everything",
-      "Chest pain that worsens with breathing",
-      "Confusion or unusual drowsiness, especially in elderly",
-      "In a child under 5: chest sucking in between ribs, refusal to feed, listlessness",
-      "Cough producing rust-coloured, green, or blood-streaked mucus"
+      "Ubunzima bokuphefumla okanye ukuphefumla ngokukhawuleza",
+      "Imilebe eluhlaza, iincam zeminwe, okanye ubuso",
+      "Awukwazi ukugcina ulwelo phantsi - ukugabha yonke into",
+      "Iintlungu zesifuba eziye ziba mandundu xa uphefumla",
+      "Ukudideka okanye ukozela okungaqhelekanga, ngakumbi kubantu abadala",
+      "Kumntwana ongaphantsi kweminyaka emi-5: isifuba sokufunxa phakathi kweembambo, ukwala ukondla, ukungabi naludwe",
+      "Ukhohlokhohlo luvelisa umhlwa ombala womhlwa, oluhlaza, okanye onegazi"
     ]
   },
-
   "what_is_it": {
-    "heading": "Pneumonia in plain terms",
-    "lede": "Pneumonia is an infection of the air sacs (alveoli) in one or both lungs. The sacs fill with fluid or pus, making it hard to breathe and starving the body of oxygen.",
+    "heading": "Inyumoniya ngokwemigaqo ecacileyo",
+    "lede": "Inyumoniya lusulelo lweengxowa zomoya (alveoli) kumphunga omnye okanye yomibini. Iingxowa zigcwala ulwelo okanye ubofu, nto leyo eyenza kube nzima ukuphefumla kwaye ulambe umzimba weoksijini.",
     "paragraphs": [
-      "Most pneumonia is caused by bacteria — Streptococcus pneumoniae is the most common. Viruses and fungi can also cause it. The infection often follows a cold or flu, when the immune system is weakened.",
-      "Healthy adults usually recover well with antibiotics or supportive care. The danger is concentrated in three groups: children under 5, adults over 65, and people with chronic conditions or HIV. In these groups, pneumonia is one of South Africa's top killers."
+      "Uninzi lwenyumoniya lubangelwa ziintsholongwane — iStreptococcus pneumoniae yeyona ixhaphakileyo. Iintsholongwane kunye nomngundo nazo zinokubangela. Usulelo luhlala lulandela umkhuhlane okanye umkhuhlane, xa amajoni omzimba ebuthathaka.",
+      "Abantu abadala abasempilweni bahlala bechacha kakuhle ngamayeza okubulala iintsholongwane okanye ukhathalelo lwenkxaso. Ingozi igxininiswe kumaqela amathathu: abantwana abangaphantsi kweminyaka emi-5, abantu abadala abangaphezu kweminyaka engama-65, kunye nabantu abaneemeko ezingapheliyo okanye i-HIV. Kula maqela, inyumoniya lelinye lawona abulala kakhulu eMzantsi Afrika."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "users",        "headline": "Top killer",      "body": "Pneumonia is among the leading causes of death in SA children under 5 and adults over 65." },
-      { "color": "purple", "icon": "shield",       "headline": "Vaccine-preventable","body": "Pneumococcal vaccine — free for children, recommended for over-65s and chronic illness. Cuts the most common type significantly." },
-      { "color": "gold",   "icon": "pill",         "headline": "Curable",          "body": "Bacterial pneumonia responds to antibiotics within days. Treatment must be completed in full — never stop early." },
-      { "color": "green",  "icon": "alert-circle", "headline": "Often follows flu","body": "Many pneumonias start as a viral chest infection that becomes bacterial. This is why a flu that gets worse after 5–7 days needs medical assessment." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "Umbulali ophezulu",
+        "body": "Inyumoniya iphakathi koonobangela abaphambili bokusweleka kubantwana eMzantsi Afrika abangaphantsi kweminyaka emi-5 kunye nabantu abadala abangaphezu kweminyaka engama-65."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Ugonyo-luthinteleka",
+        "body": "Isitofu sokugonya i-Pneumococcal - ikhululekile kubantwana, inconywa ngaphezu kwe-65 kunye nesifo esingapheliyo. Usika olona hlobo luqhelekileyo kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Iyanyangeka",
+        "body": "Inyumoniya yebhaktiriya iphendula kwii-antibiotics ngaphakathi kweentsuku. Unyango kufuneka lugqitywe ngokupheleleyo - ungaze uyeke kwangoko."
+      },
+      {
+        "color": "green",
+        "icon": "alert-circle",
+        "headline": "Ngokuqhelekileyo kulandela umkhuhlane",
+        "body": "Iinyumoniya ezininzi ziqala njengosulelo lwentsholongwane esifubeni oluba yintsholongwane. Yiyo loo nto umkhuhlane usiba mandundu emva kweentsuku ezi-5-7 ufuna uvavanyo lonyango."
+      }
     ],
     "pull_quote": {
-      "text": "Pneumonia in a small child can go from a cough to critical in 24 hours. If a child is breathing fast, refusing to feed, or has chest indrawing — do not wait for morning. Go now.",
-      "source": "WHO"
+      "text": "Inyumoniya kumntwana omncinci inokusuka ekukhohleleni iye emandundu kwiiyure ezingama-24. Ukuba umntwana uphefumla ngokukhawuleza, wenqaba ukondla, okanye unesifuba sokutsala - musa ukulinda kusasa. Hamba ngoku.",
+      "source": "I-WHO"
     }
   },
-
   "signs": {
-    "heading": "What pneumonia looks like",
-    "lede": "Pneumonia symptoms range from mild walking-pneumonia to severe and life-threatening. Children and elderly often show atypical signs.",
+    "heading": "Ijongeka njani inyumoniya",
+    "lede": "Iimpawu zenyumoniya ziqala ukuhamba kancinci-inyumoniya ukuya kumandundu kwaye abeka ubomi esichengeni. Abantwana kunye nabantu abadala bahlala bebonisa iimpawu ze-atypical.",
     "items": [
-      { "color": "orange", "icon": "wind",        "title": "Classic symptoms",       "description": "Cough (often with thick green, yellow, or rust-coloured mucus), fever and chills, difficulty breathing, chest pain that worsens with breathing." },
-      { "color": "coral",  "icon": "thermometer", "title": "Elderly may not have fever","description": "Older adults often present with confusion, weakness, falls, or worsening of underlying conditions — without obvious fever or cough." },
-      { "color": "purple", "icon": "baby",        "title": "Children",                "description": "Fast breathing, chest indrawing (skin pulling in between or below ribs with each breath), refusing to feed, grunting, blue lips — these need immediate attention." }
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Iimpawu zakudala",
+        "description": "Ukhohlokhohlo (oludla ngokuba nofifi olungqindilili oluluhlaza, olutyheli, okanye olunombala womhlwa), umkhuhlane kunye nengqele, ubunzima bokuphefumla, iintlungu esifubeni ezithi zibe mandundu xa uphefumla."
+      },
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Abantu abadala basenokungabinawo umkhuhlane",
+        "description": "Abantu abadala bahlala benesiphithiphithi, ubuthathaka, ukuwa, okanye ukuwohloka kweemeko eziphantsi-ngaphandle komkhuhlane ocacileyo okanye ukukhohlela."
+      },
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Abantwana",
+        "description": "Ukuphefumla ngokukhawuleza, ukutsala isifuba (ukutsala ulusu phakathi okanye ngaphantsi kweembambo ngomphefumlo ngamnye), ukwenqaba ukutya, ukugquma, umlomo oluhlaza okwesibhakabhaka - ezi zifuna ingqalelo ngokukhawuleza."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "How pneumonia spreads",
+    "heading": "Indlela inyumoniya esasazeka ngayo",
     "yes": [
-      "Coughs and sneezes spreading bacteria or viruses from infected people",
-      "Close contact in households, day care, or care homes",
-      "Aspiration of food, drink, or stomach contents into the lungs (in older or weakened adults)",
-      "Following another respiratory infection like flu or COVID"
+      "Ukukhohlela kunye nokuthimla okusasaza ibhaktheriya okanye iintsholongwane kubantu abosulelekileyo",
+      "Uqhagamshelwano olusondeleyo kumakhaya, ukhathalelo lwasemini, okanye kumakhaya ononophelo",
+      "Ukuphefumlelwa kokutya, isiselo, okanye isisu kwimiphunga (kubantu abadala okanye ababuthathaka)",
+      "Ukulandela olunye usulelo lokuphefumla olufana nomkhuhlane okanye i-COVID"
     ],
     "no": [
-      "Casual contact like handshakes (uncommon)",
-      "Mosquitoes or insects",
-      "Food and water (other than aspiration)",
-      "Toilet seats or surfaces (negligible)"
+      "Ukudibana okuqhelekileyo njengokuxhawulana ngezandla (okungaqhelekanga)",
+      "Iingcongconi okanye izinambuzane",
+      "Ukutya kunye namanzi (ngaphandle komnqweno)",
+      "Izihlalo zangasese okanye umphezulu (awunamsebenzi)"
     ]
   },
-
   "prevention": {
-    "heading": "How to lower the risk",
-    "lede": "Most pneumonia in young children, the elderly, and chronically ill people is preventable with vaccines, hand washing, and treating respiratory infections early.",
+    "heading": "Indlela yokunciphisa umngcipheko",
+    "lede": "Uninzi lwenyumoniya kubantwana abancinci, abantu abadala, kunye nabantu abagula kakhulu bayathintelwa ngamayeza okugonya, ukuhlamba izandla, kunye nokunyanga izifo zokuphefumla kwangoko.",
     "items": [
-      { "color": "green",  "icon": "syringe",      "title": "Pneumococcal vaccine","description": "Free for children at 6 weeks, 14 weeks, and 9 months. Recommended for adults over 65 and chronic illness — ask at clinic." },
-      { "color": "purple", "icon": "syringe",      "title": "Annual flu vaccine",  "description": "Flu often leads to pneumonia. Preventing flu prevents many secondary pneumonias. Free for high-risk groups." },
-      { "color": "orange", "icon": "x-circle",     "title": "Don't smoke",          "description": "Smoking damages the lungs' defences and is a major risk factor for pneumonia. Quitting reduces risk within months." },
-      { "color": "gold",   "icon": "droplet",      "title": "Hand hygiene",        "description": "Wash hands often, especially around small children, elderly relatives, or anyone with chronic illness." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Isitofu sokugonya ipneumococcal",
+        "description": "Isimahla kubantwana kwiiveki ezi-6, iiveki ezili-14, kunye neenyanga ezili-9. Icetyiswa kubantu abadala abangaphezu kweminyaka engama-65 kunye nesifo esingapheliyo - buza eklinikhi."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "Isitofu sokugonya somkhuhlane sonyaka",
+        "description": "Umkhuhlane udla ngokukhokelela kwinyumoniya. Ukuthintela umkhuhlane kuthintela iinyumoniya ezininzi zesibini. Isimahla kumaqela asemngciphekweni omkhulu."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "Musa ukutshaya",
+        "description": "Ukutshaya kuyonakalisa indlela yokuzikhusela emiphungeni kwaye ngunobangela omkhulu wenyumoniya. Ukuyeka kunciphisa umngcipheko kwiinyanga."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Ucoceko lwezandla",
+        "description": "Hlamba izandla rhoqo, ngakumbi xa ukufutshane nabantwana abancinci, izalamane ezikhulileyo, okanye nabani na onesifo esinganyangekiyo."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Only older people get pneumonia.", "fact": "Pneumonia can strike at any age. Children, young people, athletes — all get it. For most it is treatable — but it must be treated." },
-      { "myth": "Cough remedies and steam are enough to cure pneumonia.", "fact": "Bacterial pneumonia needs antibiotics. Steam and home remedies can ease symptoms but won't clear the infection. See a doctor." },
-      { "myth": "If I feel better after a few days, I can stop my antibiotics.", "fact": "Stopping antibiotics early lets some bacteria survive, become resistant, and bring the infection back — sometimes worse. Complete the full course." },
-      { "myth": "Pneumonia is always the same — treat it once and you're done.", "fact": "Different germs cause different pneumonias, and the right antibiotic differs. That's why a doctor — not self-treatment — should choose the treatment." }
+      {
+        "myth": "Ngabantu abadala kuphela abafumana inyumoniya.",
+        "fact": "Inyumoniya inokuhlasela nakweyiphi na iminyaka. Abantwana, abantu abaselula, iimbaleki - bonke bayayifumana. Kuninzi luyanyangeka - kodwa kufuneka lunyangwe."
+      },
+      {
+        "myth": "Izilungiso zokukhohlela kunye nomphunga zanele ukunyanga inyumoniya.",
+        "fact": "Inyumoniya yebhaktiriya ifuna i-antibiotics. Umphumo kunye namayeza asekhaya anokuzidambisa iimpawu kodwa akayi kulususa usulelo. Bona ugqirha."
+      },
+      {
+        "myth": "Ukuba ndiziva ndingcono emva kweentsuku ezimbalwa, ndiyakwazi ukuyeka amayeza am amayeza okubulala iintsholongwane.",
+        "fact": "Ukuyekisa amayeza okubulala iintsholongwane kwangoko kuvumela ezinye iibhaktheriya ukuba ziphile, zinganyangeki, kwaye zibuyise usulelo - ngamanye amaxesha mandundu. Gqibezela ikhosi epheleleyo."
+      },
+      {
+        "myth": "Inyumoniya isoloko ifana - yinyange kube kanye kwaye ugqibile.",
+        "fact": "Iintsholongwane ezahlukeneyo zibanga inyumoniya ezahlukeneyo, kwaye isibulala-ntsholongwane esifanelekileyo siyahluka. Yiyo loo nto ugqirha - hayi ukuzinyanga - kufuneka akhethe unyango."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "See a clinic for any persistent chest infection",       "description": "A cough that does not improve after 7 days, especially with fever, chest pain, or breathing difficulty, needs medical assessment." },
-      { "title": "If diagnosed — take the full antibiotic course",        "description": "Most bacterial pneumonia is treated with 5–7 days of antibiotics. Take every dose even if you feel better — stopping early can let infection rebound." },
-      { "title": "Rest fully until recovered",                            "description": "Pneumonia exhausts the body. Plan for at least a week off work or school. Pushing through delays recovery and risks complications." },
-      { "title": "Watch for danger signs",                                "description": "Fast or laboured breathing, blue lips, confusion, chest pain, inability to keep fluids down — go to hospital immediately." },
-      { "title": "Get vaccines after recovery",                           "description": "Once recovered, ask your clinic about pneumococcal and flu vaccines if you have not had them. Prevents the next episode." }
+      {
+        "title": "Yiya ekliniki ngalo naliphi na usulelo lwesifuba oluzingileyo",
+        "description": "Ukhohlokhohlo olungaphucukanga emva kweentsuku ezisi-7, ingakumbi xa unomkhuhlane, iintlungu zesifuba, okanye ukuphefumla nzima, lufuna uvavanyo lukagqirha."
+      },
+      {
+        "title": "Ukuba ufunyanisiwe - thatha ikhosi epheleleyo ye-antibiotic",
+        "description": "Uninzi lwenyumoniya yebhaktheriya iphathwa ngeentsuku ezi-5-7 ze-antibiotics. Thatha yonke idosi nokuba uziva ngcono - ukuyeka kwangoko kunokuvumela usulelo ukuba luphinde lubekho."
+      },
+      {
+        "title": "Phumla ngokupheleleyo de uchache",
+        "description": "Inyumoniya iwugqiba umzimba. Cwangcisa ubuncinci iveki ungekho emsebenzini okanye esikolweni. Ukuqhubela phambili ukulibaziseka ukuchacha kunye nomngcipheko weengxaki."
+      },
+      {
+        "title": "Jonga iimpawu ezinobungozi",
+        "description": "Ukuphefumla ngokukhawuleza okanye okusebenzayo, imilebe eluhlaza, ukudideka, intlungu yesifuba, ukungakwazi ukugcina ulwelo phantsi - yiya esibhedlele ngokukhawuleza."
+      },
+      {
+        "title": "Fumana izitofu zokugonya emva kokuchacha",
+        "description": "Wakuba uchache, buza ikliniki yakho malunga nezitofu zokugonya ipneumococcal kunye nomkhuhlane ukuba awuzange ube nazo. Ikhusela isiqendu esilandelayo."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Mild pneumonia can be treated at home with antibiotics from a clinic. Severe pneumonia is a hospital emergency.",
+    "heading": "Masiye phi",
+    "lede": "Inyumoniya ethambileyo inokunyangwa ekhaya ngamayeza okubulala iintsholongwane avela ekliniki. Inyumoniya emandla yimeko engxamisekileyo esibhedlele.",
     "helplines": [
-      { "name": "Emergency ambulance",        "description": "Government emergency medical service",                        "meta": "Free · 24 hours · for severe breathing difficulty", "phone": "10177",      "phone_display": "10177",         "primary": true },
-      { "name": "Emergency (mobile)",          "description": "Reaches any emergency service from a cellphone",              "meta": "Free from any mobile · 24 hours",                  "phone": "112",        "phone_display": "112",           "primary": true },
-      { "name": "Find your nearest clinic",   "description": "Free pneumococcal vaccines, antibiotics, and assessment",       "meta": "No appointment · no medical aid required",         "phone": null,         "phone_display": "Find a clinic", "primary": false, "link": "/clinic-finder" }
+      {
+        "name": "I-ambulensi kaxakeka",
+        "description": "Inkonzo karhulumente yonyango olungxamisekileyo",
+        "meta": "Mahala · iiyure ezingama-24 · kubunzima bokuphefumla kakhulu",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Ungxamiseko (iselula)",
+        "description": "Ufikelela kuyo nayiphi na inkonzo kaxakeka esuka kwiselula",
+        "meta": "Isimahla kuyo nayiphi na iselula · iiyure ezingama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Izitofu zokugonya zepneumococcal zasimahla, ii-antibiotics, kunye novavanyo",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
     ]
   }
 }

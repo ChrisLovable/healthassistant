@@ -1,91 +1,173 @@
 {
   "slug": "depression",
   "group_slug": "mental-health",
-  "name": "Depression",
-  "tagline": "Real. Common. Treatable. You are not alone.",
+  "name": "Ukudakumba",
+  "tagline": "Okwenyani. Eqhelekileyo. Iyanyangeka. AWUKHO wedwa.",
   "read_time_minutes": 5,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["SADAG (South African Depression and Anxiety Group)", "WHO", "National Department of Health Mental Health Directorate", "South African Society of Psychiatrists"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-SADAG (iQela laseMzantsi Afrika lokudakumba nokuxhalaba)",
+    "I-WHO",
+    "ICandelo leSizwe lezeMpilo yeNgqondo",
+    "Umbutho waseMzantsi Afrika weeGqirha zeNgqondo"
+  ],
   "urgent": {
-    "heading": "Talk to someone now",
-    "primary_message": "If you are thinking about ending your life, or hurting yourself — please reach out. Free, confidential support is available right now. You don't have to be in crisis to call.",
+    "heading": "Thetha nomntu ngoku",
+    "primary_message": "Ukuba ucinga ngokuzibulala, okanye ukuzenzakalisa - nceda ufikelele. Inkxaso yasimahla, eyimfihlo iyafumaneka ngoku. Akunyanzelekanga ukuba ube sengxakini ukuze ufowune.",
     "phone": "0800567567",
     "phone_display": "SADAG 0800 567 567",
     "red_flags": [
-      "Thoughts of ending your life or that others would be better off without you",
-      "Feeling completely numb, hollow, or disconnected from yourself",
-      "Giving away meaningful possessions or saying goodbye",
-      "Severe withdrawal from everyone and everything",
-      "Hearing voices, seeing things others don't, or feeling deeply unreal",
-      "Inability to look after yourself — not eating, washing, getting out of bed for days",
-      "Sudden calm after a long depression — this can be a warning, not a recovery"
+      "Iingcinga zokuphelisa ubomi bakho okanye abanye bangaphila ngcono ngaphandle kwakho",
+      "Ukuziva ndindisholo ngokupheleleyo, ungento yanto, okanye uqhawulwe kunxibelelwano lwakho",
+      "Ukunikezela ngezinto ezinentsingiselo okanye ukuthi ndlela-ntle",
+      "Ukurhoxiswa okukhulu kuye wonke umntu nayo yonke into",
+      "Ukuva amazwi, ukubona izinto abanye abangaziboniyo, okanye ukuziva ungeyonyani ngokunzulu",
+      "Ukungakwazi ukuzijonga - ungatyi, uhlambe, uphume ebhedini iintsuku",
+      "Ukuzola ngokukhawuleza emva kokudakumba ixesha elide - oku kunokuba sisilumkiso, kungekhona ukuchacha"
     ]
   },
-
   "what_is_it": {
-    "heading": "Depression in plain terms",
-    "lede": "Depression is a real medical condition — not weakness, not bad attitude, not 'just sadness'. It changes how the brain works, how the body feels, and how everything looks. And it is treatable.",
+    "heading": "Ukudakumba ngokwemigaqo ecacileyo",
+    "lede": "Ukudakumba yimeko yokwenyani yezonyango - hayi ubuthathaka, hayi isimo sengqondo esibi, hayi 'usizi nje'. Itshintsha indlela ingqondo esebenza ngayo, indlela umzimba ovakalelwa ngayo, kunye nendlela ekhangeleka ngayo yonke into. Kwaye iyanyangeka.",
     "paragraphs": [
-      "Everyone feels sad sometimes. Depression is different. It is a lasting heaviness — persistent low mood, loss of interest in things you used to enjoy, exhaustion that sleep doesn't fix, feelings of worthlessness or hopelessness. It lasts weeks or months, not hours or days.",
-      "Depression affects about 1 in 6 South Africans in their lifetime. It runs in families. It can be triggered by stress, illness, loss, hormonal changes, or nothing in particular. With treatment — therapy, medication, or both — most people get significantly better. Many recover completely."
+      "Wonke umntu uba buhlungu ngamanye amaxesha. Ukudakumba kwahlukile. Bubunzima obuhlala buhleli-imeko ephantsi eqhubekayo, ukulahlekelwa ngumdla kwizinto obuqhele ukuzonwabela, ukudinwa okungalungisekiyo ubuthongo, ukuziva ungento yanto okanye ukuphelelwa lithemba. Ihlala iiveki okanye iinyanga, hayi iiyure okanye iintsuku.",
+      "Ukudakumba kuchaphazela malunga nommi omnye kwabathandathu eMzantsi Afrika ebomini bakhe. Iqhutywa kwiintsapho. Isenokubangelwa luxinzelelo, ukugula, ukulahleka, utshintsho lwehomoni, okanye akukho nto ikhethekileyo. Ngonyango - unyango, amayeza, okanye zombini - uninzi lwabantu lubangcono kakhulu. Abaninzi bachacha ngokupheleleyo."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "users",        "headline": "1 in 6",        "body": "South Africans will experience depression in their lifetime. It is one of the most common medical conditions there is." },
-      { "color": "green",  "icon": "check-circle", "headline": "Treatable",     "body": "Roughly 80% of people with depression get significantly better with treatment. Many recover completely. Help works." },
-      { "color": "coral",  "icon": "phone",        "headline": "SADAG is free", "body": "0800 567 567 is the free South African suicide crisis line — counsellors trained to listen, in many languages, 24 hours." },
-      { "color": "gold",   "icon": "shield-check", "headline": "Not weakness",  "body": "Depression is a medical condition involving changes in brain chemistry. Telling someone to 'snap out of it' is like telling a diabetic to make insulin harder. It doesn't work." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku6",
+        "body": "Abemi boMzantsi Afrika bazakufumana uxinzelelo kubomi babo bonke. Yenye yeemeko zonyango eziqhelekileyo ezikhoyo."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Iyanyangeka",
+        "body": "Malunga nama-80% abantu abanokudakumba babangcono kakhulu ngonyango. Abaninzi bachacha ngokupheleleyo. Uncedo luyasebenza."
+      },
+      {
+        "color": "coral",
+        "icon": "phone",
+        "headline": "I-SADAG isimahla",
+        "body": "0800 567 567 ngumnxeba wasimahla wokuzibulala waseMzantsi Afrika - abacebisi abaqeqeshelwe ukumamela, ngeelwimi ezininzi, iiyure ezingama-24."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Hayi ubuthathaka",
+        "body": "Ukudakumba yimeko yonyango ebandakanya utshintsho kwimichiza yengqondo. Ukuxelela umntu ukuba 'aphume kuyo' kufana nokuxelela umntu onesifo seswekile ukuba enze i-insulin ibe nzima. Ayisebenzi."
+      }
     ],
     "pull_quote": {
-      "text": "Reaching out for help is not weakness. It is one of the bravest, hardest things a depressed person can do. If you are thinking about it — make the call. The person on the other end is ready.",
+      "text": "Ukuzabalazela uncedo akubobuthathaka. Yenye yezona zinto zikhaliphileyo nezinzima anokuzenza umntu odandathekileyo. Ukuba ucinga ngako - yenza umnxeba. Umntu kwelinye icala ulungile.",
       "source": "SADAG"
     }
   },
-
   "signs": {
-    "heading": "What depression looks like",
-    "lede": "Depression looks different in different people. Some signs are emotional, some physical, some social. Two weeks of these symptoms most of the day is the threshold to take seriously.",
+    "heading": "Kukhangeleka njani ukudakumba",
+    "lede": "Ukudakumba kubonakala ngokwahlukileyo kubantu abahlukeneyo. Ezinye iimpawu zeemvakalelo, ezinye ngokwasemzimbeni, ezinye zezentlalo. Iiveki ezimbini zezi mpawu uninzi lwemini ngumda wokuthatha nzulu.",
     "items": [
-      { "color": "purple", "icon": "cloud",         "title": "Emotional",            "description": "Persistent sadness or emptiness, hopelessness, feeling worthless or guilty, irritability or anger (often missed in men), loss of interest in things you used to enjoy." },
-      { "color": "orange", "icon": "battery-low",   "title": "Physical",             "description": "Exhaustion that sleep doesn't fix, changes in appetite (often eating less or more than usual), aches and pains, slowed movement or speech, sleep disturbance — either too much or unable to sleep." },
-      { "color": "coral",  "icon": "user-x",        "title": "Social and cognitive", "description": "Withdrawing from friends and family, struggling to make decisions or concentrate, persistent thoughts of self-harm or death. These thoughts are common in depression — and a reason to reach out for help, not isolate further." }
+      {
+        "color": "purple",
+        "icon": "cloud",
+        "title": "Ngokweemvakalelo",
+        "description": "Usizi oluzingisileyo okanye ukungento yanto, ukungabi nathemba, ukuziva ungento yanto okanye unetyala, ukucaphuka okanye umsindo (usoloko uphoswa ngamadoda), ukuphelelwa ngumdla kwizinto obukade uzinandipha."
+      },
+      {
+        "color": "orange",
+        "icon": "battery-low",
+        "title": "Ngokwasemzimbeni",
+        "description": "Ukudinwa ukuba ubuthongo abuyi kulungisa, utshintsho kumdla wokutya (udla ngokutya ngaphantsi okanye ngaphezulu kunesiqhelo), iintlungu neentlungu, ukunyakaza okucothayo okanye intetho, ukuphazamiseka kokulala — nokuba kuninzi kakhulu okanye ukungakwazi ukulala."
+      },
+      {
+        "color": "coral",
+        "icon": "user-x",
+        "title": "Ezentlalo kunye nengqondo",
+        "description": "Ukurhoxa kubahlobo kunye nosapho, uzama ukwenza izigqibo okanye ukuzikisa ingqondo, iingcinga ezizingisileyo zokuzenzakalisa okanye ukufa. Ezi ngcinga ziqhelekile kuxinzelelo - kunye nesizathu sokufikelela kuncedo, ungabahluli ngaphezulu."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Depression is just weakness — you should be able to pull yourself together.",  "fact": "Depression is a real medical condition involving changes in brain chemistry. Telling someone with depression to 'snap out of it' is like telling someone with diabetes to make insulin harder. It doesn't work and it shames them." },
-      { "myth": "Antidepressants are addictive and change who you are.",                         "fact": "Modern antidepressants are not addictive — though they should be tapered slowly when stopping. They don't change your personality. They lift the fog so you can be yourself again." },
-      { "myth": "Depression in Africa is just a Western diagnosis.",                              "fact": "Depression occurs everywhere on Earth, in every culture, at similar rates. The way it shows itself can differ (more body symptoms in some cultures), but the underlying condition is universal — and just as treatable." },
-      { "myth": "Talking about suicide makes it more likely to happen.",                          "fact": "The opposite is true. Asking 'are you having thoughts of suicide' shows care and creates space to get help. Silence and avoidance are what make things worse." }
+      {
+        "myth": "Ukudakumba bubuthathaka nje - kufuneka ukwazi ukuzitsala kunye.",
+        "fact": "Ukudakumba yimeko yokwenyani yonyango ebandakanya utshintsho kwimichiza yengqondo. Ukuxelela umntu odandathekileyo ukuba 'ahlukane nalo' kufana nokuxelela umntu onesifo seswekile ukuba enze i-insulin ibe nzima. Ayisebenzi kwaye iyabahlazisa."
+      },
+      {
+        "myth": "Amachiza okuthomalalisa ayakhobokisa kwaye atshintshe umntu onguye.",
+        "fact": "Ii-antidepressants zanamhlanje azikhoboki - nangona kufuneka zicocwe kancinci xa ziyeka. Ababutshintshi ubuntu bakho. Baphakamisa inkungu ukuze ube nguwe kwakhona."
+      },
+      {
+        "myth": "Ukudakumba eAfrika luxilongo nje lwaseNtshona.",
+        "fact": "Ukudakumba kwenzeka kuyo yonke indawo eMhlabeni, kuzo zonke iinkcubeko, ngamaxabiso afanayo. Indlela ezibonisa ngayo inokwahluka (iimpawu zomzimba ezingakumbi kwezinye iinkcubeko), kodwa imeko esisiseko yendalo yonke - kwaye iyanyangeka."
+      },
+      {
+        "myth": "Ukuthetha ngokuzibulala kwenza ukuba kwenzeke ngakumbi.",
+        "fact": "Okuchaseneyo kuyinyaniso. Ukubuza 'ingaba uneengcinga zokuzibulala' kubonisa inkathalo kwaye kudala indawo yokufumana uncedo. Ukuthula nokuphepha zizinto ezenza izinto zibe mandundu."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "If you are in crisis — call SADAG now",         "description": "0800 567 567 is free from any phone, 24 hours. Counsellors are trained to listen. You don't have to be 'in crisis enough' — just pick up." },
-      { "title": "If you can — tell one person",                  "description": "A friend, family member, faith leader, manager. Saying it out loud once breaks the worst of the isolation. You don't have to explain it perfectly." },
-      { "title": "Go to a clinic for assessment",                  "description": "Government clinics offer free mental health assessment and treatment. Ask for the 'mental health nurse' or doctor. Antidepressant medication is free at clinics if needed." },
-      { "title": "If you can manage daily things",                "description": "Get sunlight in the morning, walk if you can, eat regular small meals even without appetite, sleep on a routine. None of these cure depression — but they help treatment work better." },
-      { "title": "If someone you love has depression",              "description": "Listen without trying to fix. Don't say 'cheer up' or 'others have it worse'. Do say 'I'm here, I see you, what would help'. Encourage them to call SADAG together." }
+      {
+        "title": "Ukuba usengxakini — tsalela i-SADAG ngoku",
+        "description": "0800 567 567 simahla kuyo nayiphi na ifowuni, iiyure ezingama-24. Abacebisi baqeqeshelwa ukumamela. Akunyanzelekanga ukuba ube 'sengxakini ngokwaneleyo' - vele uqhubeke."
+      },
+      {
+        "title": "Ukuba unako - xelela umntu omnye",
+        "description": "Umhlobo, ilungu losapho, inkokeli yenkolo, umphathi. Ukuyithetha ngokuvakalayo kanye kophula eyona nto imbi yokuba wedwa. Akunyanzelekanga ukuba uyicacise ngokugqibeleleyo."
+      },
+      {
+        "title": "Yiya ekliniki uyokwenza uvavanyo",
+        "description": "Iiklinikhi zikarhulumente zibonelela ngovavanyo kunye nonyango lwasimahla lwempilo yengqondo. Cela 'umongikazi wezempilo yengqondo' okanye ugqirha. Iyeza lokuthomalalisa uxinezeleko lisimahla ezikliniki ukuba liyafuneka."
+      },
+      {
+        "title": "Ukuba uyakwazi ukulawula izinto zemihla ngemihla",
+        "description": "Fumana ukukhanya kwelanga kusasa, hamba ukuba unako, utye ukutya okuncinci okuqhelekileyo nangaphandle kokutya, ulale ngendlela eqhelekileyo. Akukho nanye kwezi enyanga ukudakumba - kodwa inceda unyango lusebenze ngcono."
+      },
+      {
+        "title": "Ukuba umntu omthandayo une depression",
+        "description": "Mamela ngaphandle kokuzama ukulungisa. Sukuthi 'chwayita' okanye 'abanye banengxaki ngakumbi'. Yithi 'Ndilapha, ndiyakubona, yintoni enokunceda'. Bakhuthaze ukuba babize i-SADAG kunye."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Who to call right now",
-    "lede": "South Africa has free, confidential mental health support available 24 hours a day. You don't need a medical aid, an ID, or a referral. Just a phone.",
+    "heading": "Ngubani ozokutsalela umnxeba ngoku",
+    "lede": "UMzantsi Afrika unenkxaso yasimahla, eyimfihlo yempilo yengqondo efumaneka iiyure ezingama-24 ngosuku. Awudingi ncedo lwezonyango, isazisi, okanye ukuthunyelwa. Ifowuni nje.",
     "helplines": [
-      { "name": "SADAG Suicide Crisis Line",   "description": "Free, confidential crisis counselling in multiple SA languages","meta": "Free · 24 hours · trained counsellors", "phone": "0800567567", "phone_display": "0800 567 567",   "primary": true },
-      { "name": "LifeLine Southern Africa",     "description": "Free counselling, trauma, abuse, and emotional support",         "meta": "24 hours · free from any phone",       "phone": "0861322322", "phone_display": "0861 322 322",   "primary": true },
-      { "name": "Find your nearest clinic",    "description": "Free mental health assessment and medication if needed",          "meta": "No appointment · no medical aid required","phone": null,         "phone_display": "Find a clinic",  "primary": false, "link": "/clinic-finder" }
+      {
+        "name": "I-SADAG Suicide Crisis Line",
+        "description": "Iingcebiso zasimahla, eziyimfihlo kwiilwimi ezininzi zaseMzantsi Afrika",
+        "meta": "Mahala · iiyure ezingama-24 · abacebisi abaqeqeshiweyo",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "ILifeLine yaseMzantsi Afrika",
+        "description": "Iingcebiso zasimahla, umonzakalo, ukuxhatshazwa, kunye nenkxaso yomphefumlo",
+        "meta": "Iiyure ezingama-24 · simahla kuyo nayiphi na ifowuni",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwempilo yengqondo lwasimahla kunye namayeza ukuba kuyafuneka",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
     ]
   }
 }

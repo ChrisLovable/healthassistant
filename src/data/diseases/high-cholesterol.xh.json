@@ -1,85 +1,180 @@
 {
   "slug": "high-cholesterol",
   "group_slug": "chronic-lifestyle",
-  "name": "High cholesterol",
-  "tagline": "What the numbers mean for your heart.",
+  "name": "I-cholesterol ephezulu",
+  "tagline": "Amanani athetha ntoni entliziyweni yakho.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["Heart and Stroke Foundation SA", "Lipid and Atherosclerosis Society of South Africa", "WHO", "American Heart Association"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-Heart and Stroke Foundation SA",
+    "ILipid kunye ne-Atherosclerosis Society yaseMzantsi Afrika",
+    "I-WHO",
+    "Umbutho weentliziyo zaseMelika"
+  ],
   "what_is_it": {
-    "heading": "Cholesterol in plain terms",
-    "lede": "Cholesterol is a fatty substance your body needs to build cells and make hormones. The problem is the type and the amount — too much of the wrong kind builds up in artery walls and causes heart attacks and strokes.",
+    "heading": "I-Cholesterol kwimiba ecacileyo",
+    "lede": "I-cholesterol yinto enamafutha afunwa ngumzimba wakho ukuze wakhe iiseli kunye nokwenza iihomoni. Ingxaki luhlobo kunye nesixa-ininzi kakhulu yohlobo olungalunganga lwakha kwiindonga ze-artery kwaye ibangela ukuhlaselwa yintliziyo kunye nokubetha.",
     "paragraphs": [
-      "Your liver makes most of your cholesterol. Some also comes from food, especially animal products. LDL ('bad') cholesterol carries fat into the artery walls. HDL ('good') cholesterol clears it away. The balance matters.",
-      "Some people have inherited high cholesterol (familial hypercholesterolaemia) — their numbers are dangerously high from childhood, regardless of diet. This is the most under-diagnosed cause of early heart attacks. If a close relative had a heart attack before 60, get checked."
+      "Isibindi sakho senza uninzi lwe-cholesterol yakho. Ezinye ziphuma nasekutyeni, ngakumbi iimveliso zezilwanyana. I-LDL ('embi') i-cholesterol ithwala amafutha kwiindonga ze-artery. I-cholesterol ye-HDL ('elungileyo') iyayisusa. Ibhalansi ibalulekile.",
+      "Abanye abantu baye bafumana i-cholesterol ephezulu (i-familial hypercholesterolaemia) - amanani abo aphezulu ngokuyingozi ukusuka ebuntwaneni, kungakhathaliseki ukutya. Lo ngoyena nobangela ungaphantsi kokuxilongwa kokuhlaselwa yintliziyo kwangoko. Ukuba isalamane esisondeleyo sinesifo sentliziyo phambi kwe-60, jonga."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "eye-off",   "headline": "Silent",       "body": "High cholesterol has no symptoms. You only know from a blood test." },
-      { "color": "coral",  "icon": "heart-pulse","headline": "Main cause",  "body": "Of heart attacks and most strokes. LDL is the strongest modifiable risk factor we know." },
-      { "color": "gold",   "icon": "users",     "headline": "Genes count", "body": "Familial high cholesterol affects roughly 1 in 200 people — many never know until a heart attack." },
-      { "color": "green",  "icon": "shield",    "headline": "Statins work","body": "Decades of evidence: statins cut heart attacks and strokes by a third or more in people at risk." }
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "headline": "Cwaka",
+        "body": "I-cholesterol ephezulu ayinazo iimpawu. Wazi kuphela kuvavanyo lwegazi."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Owona nobangela",
+        "body": "Ukuhlaselwa yintliziyo kunye nokubetha okuninzi. I-LDL ngoyena mngcipheko unamandla oguquguqukayo esiwaziyo."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "headline": "Ubalo lwemfuza",
+        "body": "I-cholesterol ephezulu yosapho ichaphazela malunga ne-1 kubantu abangama-200 - abaninzi abanakuze bazi de kube sisifo sentliziyo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Statins ziyasebenza",
+        "body": "Ubungqina obungamashumi eminyaka: ii-statins zinqumla ukuhlaselwa yintliziyo kunye nokubetha ngesithathu okanye ngaphezulu kubantu abasengozini."
+      }
     ],
     "pull_quote": {
-      "text": "Cholesterol is not just a lifestyle problem. Thin, fit, healthy-eating people can still have dangerously high cholesterol from inherited genes. Get tested — especially if anyone in your family had an early heart attack.",
-      "source": "Lipid and Atherosclerosis Society of South Africa"
+      "text": "ICholesterol asiyongxaki nje yokuphila. Abantu ababhityileyo, abasempilweni, abatya ngokusempilweni basenokuba necholesterol ephezulu eyingozi kwimizila yemfuza. Vavanya - ngakumbi ukuba nabani na kusapho lwakho waye wahlaselwa yintliziyo kwangoko.",
+      "source": "ILipid kunye ne-Atherosclerosis Society yaseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "What you might notice",
-    "lede": "For most people: nothing. High cholesterol does its damage silently over decades. The only way to know is a blood test.",
+    "heading": "Yintoni onokuyibona",
+    "lede": "Kubantu abaninzi: akukho nto. I-cholesterol ephezulu yenza umonakalo wayo ngokuthula kumashumi eminyaka. Ekuphela kwendlela yokwazi luvavanyo lwegazi.",
     "items": [
-      { "color": "orange", "icon": "eye-off",     "title": "No everyday symptoms",   "description": "Cholesterol does not make you feel anything. The first sign for many people is a heart attack or stroke in their forties or fifties." },
-      { "color": "coral",  "icon": "alert-circle","title": "Very high genetic levels","description": "Yellow patches around the eyelids or fatty bumps on the tendons (Achilles, knuckles) can be signs of familial cholesterol. A grey ring around the iris before age 45 is another." },
-      { "color": "purple", "icon": "users",       "title": "Family history is the clue","description": "Parents, siblings, or grandparents with heart attacks or strokes before 60 — especially before 50 — strongly suggests genetic high cholesterol." }
+      {
+        "color": "orange",
+        "icon": "eye-off",
+        "title": "Akukho zimpawu zemihla ngemihla",
+        "description": "ICholesterol ayikwenzi uzive kwanto. Uphawu lokuqala kubantu abaninzi sisifo sentliziyo okanye istroke kumashumi amane okanye amahlanu eminyaka."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Amanqanaba emfuzo aphezulu kakhulu",
+        "description": "Amabala atyheli ajikeleze iinkophe okanye amaqhuma anamafutha kwimisipha (i-Achilles, knuckles) inokuba yimiqondiso ye-cholesterol yosapho. Iringi engwevu ejikeleze iris phambi kweminyaka engama-45 yenye."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "title": "Imbali yosapho isikhokelo",
+        "description": "Abazali, abantakwabo, okanye ootatomkhulu abanesifo senhliziyo okanye imivimbo ngaphambi kwe-60 - ngakumbi ngaphambi kwe-50 - icebisa ngamandla i-cholesterol ephezulu yemfuza."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Only overweight people get high cholesterol.",                         "fact": "Thin people get high cholesterol too — often from genetics. Body shape is not a reliable signal. Only a blood test is." },
-      { "myth": "Eggs are bad for cholesterol.",                                       "fact": "Dietary cholesterol from eggs has a small effect on blood cholesterol for most people. Saturated fats and trans fats matter more." },
-      { "myth": "Statins cause memory loss.",                                          "fact": "Large studies have not found a link. Statins occasionally cause muscle aches — tell your clinic if so, alternatives exist." },
-      { "myth": "If I exercise, I do not need to worry about diet.",                   "fact": "Exercise mostly raises HDL (good cholesterol) but has only a small effect on LDL. Diet, weight, and medication matter more for LDL." }
+      {
+        "myth": "Kuphela ngabantu abatyebe kakhulu abafumana icholesterol ephezulu.",
+        "fact": "Abantu ababhityileyo nabo bafumana i-cholesterol ephezulu - rhoqo kwimfuzo. Ubume bomzimba ayisiphawuli esithembekileyo. Kuphela luvavanyo lwegazi."
+      },
+      {
+        "myth": "Amaqanda ayingozi kwi-cholesterol.",
+        "fact": "I-cholesterol yokutya esuka kumaqanda inefuthe elincinci kwi-cholesterol yegazi kubantu abaninzi. Amafutha ahluthayo kunye namafutha e-trans abaluleke ngakumbi."
+      },
+      {
+        "myth": "I-Statins ibangela ukulahleka kwememori.",
+        "fact": "Izifundo ezinkulu azifumananga ikhonkco. I-Statins ngamanye amaxesha ibangela ukuqaqamba kwezihlunu - xelela ikliniki yakho ukuba kunjalo, zikhona ezinye iindlela."
+      },
+      {
+        "myth": "Ukuba ndiyajima, akuyomfuneko ukuba ndizikhathaze ngokutya.",
+        "fact": "Ukwenza umthambo ubukhulu becala kunyusa iHDL (icholesterol elungileyo) kodwa kunempembelelo encinane kuphela kwiLDL. Ukutya, ubunzima, kunye namayeza abaluleke ngakumbi kwi-LDL."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to lower your numbers",
-    "lede": "Cholesterol responds well to a combination of diet, weight, exercise, and medication where needed. Most people can move their numbers significantly within months.",
+    "heading": "Uwathoba njani amanani akho",
+    "lede": "I-cholesterol isabela kakuhle kwindibaniselwano yokutya, ubunzima, umthambo, kunye namayeza apho kuyimfuneko. Abantu abaninzi banokuhambisa amanani abo kakhulu kwiinyanga nje.",
     "items": [
-      { "color": "green",  "icon": "leaf",         "title": "Mediterranean-style eating","description": "Vegetables, legumes, whole grains, nuts, fish, olive oil. Limit red meat, butter, full-cream dairy, fried foods, and processed meats." },
-      { "color": "coral",  "icon": "x-circle",     "title": "Cut trans fats entirely",    "description": "Hidden in many baked goods, margarines, and fried takeaways. Read labels — anything with 'partially hydrogenated oils' is out." },
-      { "color": "purple", "icon": "activity",     "title": "Move every day",             "description": "Exercise raises HDL (the good kind) and helps weight. Even brisk walking 30 minutes a day makes a measurable difference." },
-      { "color": "gold",   "icon": "pill",         "title": "Statins where indicated",    "description": "If your risk is high, or you have familial cholesterol, statins are the most effective treatment we have. Free at clinics." }
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Ukutya kweMeditera",
+        "description": "Imifuno, iimbotyi, iinkozo ezipheleleyo, amandongomane, intlanzi, ioli yeoli. Nciphisa inyama ebomvu, ibhotolo, ideri egcwele ikhrimu, ukutya okuqhotsiweyo, kunye nenyama egayiweyo."
+      },
+      {
+        "color": "coral",
+        "icon": "x-circle",
+        "title": "Sika amafutha e-trans ngokupheleleyo",
+        "description": "Ifihlwe kwizinto ezininzi ezibhakiweyo, iimajarini, kunye nezinto ezithathwayo eziqhotsiweyo. Funda iilebhile - nantoni na 'eneoyile ye-hydrogenated' iphumile."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hambisa yonke imihla",
+        "description": "Ukuzivocavoca kuphakamisa i-HDL (uhlobo oluhle) kwaye kunceda ubunzima. Nokuhamba ngokukhawuleza imizuzu engama-30 ngosuku kwenza umahluko onokumetwa."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "title": "Statins apho kubonisiwe",
+        "description": "Ukuba umngcipheko wakho uphezulu, okanye une-cholesterol yosapho, i-statins lolona nyango lusebenzayo esinalo. Zisimahla kwiikliniki."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "Get a lipid panel",                            "description": "A simple fasting blood test measures total cholesterol, LDL, HDL, and triglycerides. Free at every government clinic from age 40 — or earlier with family history." },
-      { "title": "Know your numbers",                            "description": "Write them down. LDL under 3.0 is generally the goal — under 1.8 if you already have heart disease or diabetes. Targets are personal — ask your clinic." },
-      { "title": "If high — start with food and movement",      "description": "Most people can drop LDL by 10–15% with diet and exercise alone. Give it three to six months before assuming medication is needed." },
-      { "title": "If medication is recommended — start it",     "description": "Statins work best taken every day, long term. Skipping doses cancels most of the benefit. Side effects are uncommon and usually manageable." },
-      { "title": "Recheck every 12 months",                     "description": "Once stable, an annual lipid panel checks progress and adjusts treatment if needed. Bring previous results to compare." }
+      {
+        "title": "Fumana ipaneli yelipid",
+        "description": "Uvavanyo olulula lwegazi lokuzila ukulinganisa i-cholesterol epheleleyo, i-LDL, i-HDL, kunye ne-triglycerides. Isimahla kuyo yonke ikliniki karhulumente ukusukela kwiminyaka engama-40 ubudala - okanye ngaphambili ngembali yosapho."
+      },
+      {
+        "title": "Zazi iinombolo zakho",
+        "description": "Zibhale phantsi. I-LDL phantsi kwe-3.0 ngokubanzi injongo - phantsi kwe-1.8 ukuba sele unesifo senhliziyo okanye isifo seswekile. Obekujoliswe kuko zezakho — buza ikliniki yakho."
+      },
+      {
+        "title": "Ukuba iphakamileyo - qalisa ngokutya kunye nokunyakaza",
+        "description": "Uninzi lwabantu lunokuyihlisa i-LDL nge-10–15% ngokutya nangokujima kuphela. Nika iinyanga ezintathu ukuya kwezintandathu phambi kokuba kuthathwe ukuba amayeza ayafuneka."
+      },
+      {
+        "title": "Ukuba iyeza liyacetyiswa - liqalise",
+        "description": "I-Statins isebenza kakuhle ngokuthathwa yonke imihla, ixesha elide. Ukutsiba iidosi kurhoxisa uninzi lwenzuzo. Iziphumo ebezingalindelekanga aziqhelekanga kwaye zihlala zilawuleka."
+      },
+      {
+        "title": "Phinda ujonge rhoqo kwiinyanga ezili-12",
+        "description": "Xa izinzile, iphaneli ye-lipid yonyaka ihlola inkqubela phambili kwaye ilungelelanise unyango ukuba luyimfuneko. Yiza neziphumo zangaphambili ukuze uthelekise."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to start",
-    "lede": "Cholesterol care is free at South African public clinics. The hardest part is getting the first test — once you have a number, the path forward is clear.",
+    "heading": "Uqale phi",
+    "lede": "Ukhathalelo lweCholesterol lusimahla kwiikliniki zikarhulumente zaseMzantsi Afrika. Eyona nto inzima kukufumana uvavanyo lokuqala - wakuba unenombolo, indlela eya phambili icacile.",
     "helplines": [
-      { "name": "Find your nearest clinic",       "description": "Every clinic offers free cholesterol testing and free statins where prescribed", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
-      { "name": "Heart and Stroke Foundation SA", "description": "Free risk calculators, dietary guidance, and support",                              "meta": "Mon–Fri 08:00–16:30",                       "phone": "0860000254", "phone_display": "0860 000 254",  "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Iklinikhi nganye ibonelela ngovavanyo lwasimahla lwe-cholesterol kunye neestatins zasimahla apho kumiselwe khona",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-Heart and Stroke Foundation SA",
+        "description": "Iikhatyhuleyitha zomngcipheko zasimahla, isikhokelo sokutya, kunye nenkxaso",
+        "meta": "Mvulo–Fri 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
     ]
   }
 }

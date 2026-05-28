@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "Red Cross War Memorial Children's Hospital",
-    "WHO Child Health",
-    "National Department of Health",
-    "South African Paediatric Association"
+    "Isibhedlele saBantwana soMnqamlezo oBomvu",
+    "Impilo Yabantwana ye-WHO",
+    "ISebe lezeMpilo leSizwe",
+    "Umbutho waBantwana waseMzantsi Afrika"
   ],
   "urgent": {
     "heading": "Bona ikliniki okanye isibhedlele ngokukhawuleza ukuba",
@@ -68,7 +68,7 @@
     ],
     "pull_quote": {
       "text": "Musa ukuleqa ithemometha. Jonga umntwana wakho. Umntwana odlala, osela, kwaye onamadiyapa amanzi wenza kakuhle — nokuba ifiva iphezulu. Umntwana othambileyo, onamehlo angakhanyi, udinga uncedo — nokuba ifiva ithambile.",
-      "source": "Red Cross War Memorial Children's Hospital"
+      "source": "Isibhedlele saBantwana soMnqamlezo oBomvu"
     }
   },
   "signs": {
@@ -142,7 +142,7 @@
         "link": "/clinic-finder"
       },
       {
-        "name": "Childline SA",
+        "name": "I-Childline SA",
         "description": "Umnxeba wasimahla weeyure ezingama-24 wezempilo nentlalontle yabantwana",
         "meta": "Simahla kuyo nayiphi na ifowuni · iiyure ezingama-24",
         "phone": "116",
@@ -152,8 +152,3 @@
     ]
   }
 }
-
-
-
-
-

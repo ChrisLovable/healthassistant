@@ -8,10 +8,10 @@
   "next_review": "2026-11-21",
   "reviewer": "Ilindele ukuphononongwa kweklinikhi",
   "sources": [
-    "National Department of Health",
-    "WHO Child Health",
-    "NICD",
-    "UNICEF South Africa"
+    "ISebe lezeMpilo leSizwe",
+    "Impilo Yabantwana ye-WHO",
+    "I-NICD",
+    "I-UNICEF yaseMzantsi Afrika"
   ],
   "urgent": {
     "heading": "Ingxamisekile — yiya ekliniki okanye esibhedlele",
@@ -68,7 +68,7 @@
     ],
     "pull_quote": {
       "text": "Umntwana angalahlekelwa ngamakhulu eemililitha zorhudo ngosuku. Yonke i-250ml yelindle elilahlekileyo kufuneka ibuyiselwe nge-250ml ye-ORS — okanye nangaphezulu. Gcina ikomityi ilungile.",
-      "source": "WHO Child Health"
+      "source": "Impilo Yabantwana ye-WHO"
     }
   },
   "signs": {
@@ -188,7 +188,7 @@
         "link": "/clinic-finder"
       },
       {
-        "name": "Childline SA",
+        "name": "I-Childline SA",
         "description": "Umnxeba wasimahla weeyure ezingama-24 wezempilo nentlalontle yabantwana",
         "meta": "Simahla kuyo nayiphi na ifowuni · iiyure ezingama-24",
         "phone": "116",
@@ -198,8 +198,3 @@
     ]
   }
 }
-
-
-
-
-

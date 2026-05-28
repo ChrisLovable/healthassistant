@@ -1,91 +1,173 @@
 {
   "slug": "headache-migraine",
   "group_slug": "pain",
-  "name": "Headache & migraine",
-  "tagline": "Most are not dangerous. Some are. Know the signs.",
+  "name": "Intloko kunye ne-migraine",
+  "tagline": "Uninzi alunabungozi. Abanye banjalo. Yazi imiqondiso.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["Migraine Action SA", "WHO", "South African Headache Society", "National Department of Health"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Migraine Action SA",
+    "I-WHO",
+    "Umbutho waseMzantsi Afrika oneentloko ezibuhlungu",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "urgent": {
-    "heading": "Go to hospital now if",
-    "primary_message": "Most headaches are not dangerous. But certain warning signs can mean a stroke, brain bleed, or meningitis. Don't wait — go.",
+    "heading": "Yiya esibhedlele ngoku ukuba",
+    "primary_message": "Uninzi lweentloko aziyingozi. Kodwa iimpawu ezithile ezilumkisayo zinokuthetha ukubetha, ukopha kwengqondo, okanye i-meningitis. Musa ukulinda - hamba.",
     "phone": "10177",
     "phone_display": "Tsalela umnxeba ku-10177",
     "red_flags": [
-      "Sudden 'thunderclap' headache — worst headache of your life, comes on in seconds",
-      "Headache with fever and stiff neck or rash",
-      "Headache with confusion, slurred speech, or weakness on one side",
-      "Headache after a head injury, especially with vomiting or drowsiness",
-      "New headache that wakes you from sleep, or worsens when bending or lying down",
-      "First-ever severe headache after age 50",
-      "Headache with seizures, vision loss, or loss of consciousness"
+      "Intloko ebuhlungu ngesiquphe - eyona ntloko imbi ebomini bakho, iza ngemizuzwana",
+      "Intloko ebuhlungu kunye nomkhuhlane kunye nentamo eqinile okanye i-rash",
+      "Intloko ebuhlungu ngokudideka, intetho engacacanga, okanye ubuthathaka kwicala elinye",
+      "Intloko emva kokulimala entloko, ngakumbi ngokugabha okanye ukozela",
+      "Intloko entsha ekuvusa ebuthongweni, okanye iba mandundu xa ugoba okanye ulele phantsi",
+      "Intloko yokuqala ebuhlungu emva kweminyaka engama-50",
+      "Intloko ebuhlungu ngokuxhuzula, ukulahlekelwa ngumbono, okanye ukulahlekelwa yingqondo"
     ]
   },
-
   "what_is_it": {
-    "heading": "Headache and migraine in plain terms",
-    "lede": "Most headaches are tension headaches — caused by tight muscles, stress, dehydration, or poor sleep. Migraine is different — a neurological condition where the brain becomes hypersensitive, often with severe pain, nausea, and sensitivity to light and sound.",
+    "heading": "Intloko kunye ne-migraine ngokwemiqathango ecacileyo",
+    "lede": "Uninzi lweentloko ziintloko ezixineneyo-ezibangelwa zizihlunu eziqinileyo, uxinzelelo, ukuphelelwa ngamanzi emzimbeni, okanye ukungalali kakuhle. I-Migraine yahlukile-imeko ye-neurological apho ingqondo iba yi-hypersensitive, kaninzi kunye neentlungu ezibuhlungu, isicaphucaphu, kunye novakalelo ekukhanyeni kunye nesandi.",
     "paragraphs": [
-      "Tension headaches feel like a tight band around the head, on both sides, dull and steady. Migraines usually pulse on one side, last 4–72 hours, and force you to lie down in a dark room. Cluster headaches are rarer — intense, brief, around one eye.",
-      "Most headaches resolve with rest, fluids, and simple painkillers. Frequent or severe headaches need a doctor — not to find a tumour (these are rare) but to find a better treatment than you currently have. Migraine especially has many effective treatments people don't know about."
+      "Iintloko ezibuhlungu zivakala ngathi zibambene entloko, macala omabini, zibuthuntu kwaye azipheli. I-Migraines idla ngokubetha kwicala elinye, igqibe iiyure ezi-4-72, kwaye ikunyanzele ukuba ulale phantsi kwigumbi elimnyama. Iintloko zeCluster zinqabile - ziqatha, zimfutshane, zijikeleze iliso elinye.",
+      "Uninzi lweentloko zixazulula ngokuphumla, ulwelo, kunye neentlungu ezilula. Iintloko ezihlala qho okanye eziqatha zifuna ugqirha - hayi ukufumana ithumba (ezi zinqabile) kodwa ukufumana unyango olungcono kunolo unalo ngoku. I-Migraine ingakumbi inonyango oluninzi olusebenzayo abantu abangalwaziyo."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "users",        "headline": "Very common",      "body": "Around 12% of South Africans have migraine. Tension headaches affect almost everyone occasionally." },
-      { "color": "green",  "icon": "check-circle", "headline": "Treatable",         "body": "Migraine has effective treatments — both for stopping attacks and preventing them. If yours isn't well controlled, better options exist." },
-      { "color": "coral",  "icon": "alert-circle", "headline": "Painkiller overuse","body": "Taking simple painkillers more than 2–3 days a week can actually cause more headaches. Talk to a doctor about this — common and treatable." },
-      { "color": "gold",   "icon": "shield",       "headline": "Mostly not serious","body": "Brain tumours and serious causes are rare. Red flags above mark when to worry — for everything else, it is almost always benign." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Ixhaphake kakhulu",
+        "body": "Malunga ne-12% yabemi boMzantsi Afrika bane-migraine. Iintloko ezibuhlungu zichaphazela phantse wonke umntu ngamaxesha athile."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Iyanyangeka",
+        "body": "I-Migraine inonyango olusebenzayo - zombini ukumisa ukuhlaselwa kunye nokuthintela. Ukuba eyakho ayilawulwa kakuhle, kukho iinketho ezingcono."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Ukusetyenziswa kakhulu kwePainkiller",
+        "body": "Ukuthatha i-painkillers ezilula ngaphezu kweentsuku ezi-2-3 ngeveki ngokwenene kunokubangela intloko ebuhlungu. Thetha nogqirha malunga nale nto - eqhelekileyo kwaye iyanyangeka."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ubukhulu becala ayikho serious",
+        "body": "Amathumba ebuchotsheni kunye nezizathu ezinzulu zinqabile. Iiflegi ezibomvu ngasentla ziphawula xa kufuneka ukhathazeke - kuyo yonke enye into, isoloko ilungile."
+      }
     ],
     "pull_quote": {
-      "text": "A migraine is not 'just a bad headache'. It is a neurological event that can leave a person unable to work, drive, or care for children for hours or days. It deserves real treatment.",
-      "source": "South African Headache Society"
+      "text": "I-migraine 'ayisiyontloko nje embi'. Sisiganeko semithambo-luvo esinokushiya umntu engakwazi ukusebenza, ukuqhuba, okanye ukunyamekela abantwana iiyure okanye iintsuku. Ifuna unyango lokwenene.",
+      "source": "Umbutho waseMzantsi Afrika oneentloko ezibuhlungu"
     }
   },
-
   "signs": {
-    "heading": "Telling them apart",
-    "lede": "Different headaches respond to different treatments — identifying yours helps you treat it.",
+    "heading": "Ebaxelela bahlukane",
+    "lede": "Iintloko ezahlukeneyo ziphendula kunyango olwahlukileyo - ukuchonga olwakho kukunceda ulunyange.",
     "items": [
-      { "color": "green",  "icon": "circle",        "title": "Tension headache",   "description": "Tight band around the head, both sides, dull and steady. Mild to moderate. No nausea. Often from stress, poor sleep, dehydration, eye strain, or bad posture." },
-      { "color": "purple", "icon": "alert-circle",  "title": "Migraine",           "description": "Throbbing pain often on one side, moderate to severe. Often with nausea, vomiting, light and sound sensitivity. Lasts 4–72 hours. May follow visual aura (zigzags, blind spot)." },
-      { "color": "coral",  "icon": "zap",           "title": "Cluster headache",    "description": "Sudden, severe, drilling pain around one eye. Eye watering, nasal congestion on same side. Brief (15 min – 3 hours) but multiple attacks per day for weeks. Needs specialist treatment." }
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Uxinzelelo lwentloko",
+        "description": "Ibhanti eqinileyo ejikeleze intloko, macala omabini, ibuthuntu kwaye izinzile. Iphakathi ukuya phakathi. Akukho sicaphucaphu. Ngokufuthi ngenxa yoxinezeleko, ukungalali kakuhle, ukuphelelwa ngamanzi emzimbeni, ukutsala nzima kwamehlo, okanye imeko embi."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "I-Migraine",
+        "description": "Iintlungu ezibetha rhoqo kwicala elinye, ziphakathi ukuya kumandundu. Kumaxesha amaninzi kukho isicaphucaphu, ukugabha, ukukhanya kunye novakalelo lwesandi. Ihlala iiyure ezingama-4-72. Isenokulandela i-visual aura (i-zigzags, indawo eyimfama)."
+      },
+      {
+        "color": "coral",
+        "icon": "zap",
+        "title": "Intloko yeCluster",
+        "description": "Ngesiquphe, iintlungu ezinzima, zokomba ezijikeleze iliso elinye. Ukunkcenkceshela kwamehlo, ukuxinana kweempumlo kwicala elinye. Ngokufutshane (i-15 min - iiyure ze-3) kodwa uhlaselo oluninzi ngosuku kwiiveki. Ifuna unyango lwengcali."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "Migraine is just a bad headache.",                                  "fact": "Migraine is a neurological condition that involves changes in brain electrical activity, blood flow, and inflammation. The headache is one symptom of many. It deserves to be taken seriously." },
-      { "myth": "If painkillers don't help, nothing will.",                            "fact": "Migraine-specific treatments — triptans, gepants, and others — work when ordinary painkillers don't. Preventer medications can cut migraine frequency in half. Ask your doctor." },
-      { "myth": "Frequent headaches mean a tumour.",                                  "fact": "Brain tumours are rare and usually cause specific patterns — worse in mornings, vomiting, neurological symptoms. Most frequent headaches are migraine, tension, or medication-overuse — not tumour." },
-      { "myth": "Real men just push through headaches.",                              "fact": "Migraine affects people of all genders. Ignoring it doesn't make it less neurological. Treatment exists — using it is sensible, not weak." }
+      {
+        "myth": "I-Migraine yintloko nje embi.",
+        "fact": "I-Migraine yimeko ye-neurological ebandakanya utshintsho kumsebenzi wombane wengqondo, ukuhamba kwegazi kunye nokuvuvukala. Intloko ebuhlungu yolunye uphawu lwabaninzi. Ifanele ukuthathelwa ingqalelo."
+      },
+      {
+        "myth": "Ukuba iipilisi zentlungu azincedi, akukho nto iya kwenza.",
+        "fact": "I-Migraine-specific treatments-triptans, gepants, kunye nezinye-zisebenza xa iintlungu eziqhelekileyo zingasebenzi. Amayeza okuthintela anokunqumla i-migraine frequency kwisiqingatha. Buza ugqirha wakho."
+      },
+      {
+        "myth": "Ukuqaqanjelwa yintloko rhoqo kuthetha ithumba.",
+        "fact": "Amathumba ebuchotsheni anqabile kwaye ngokuqhelekileyo abangela iipatheni ezithile - zimbi kakhulu kusasa, ukuhlanza, iimpawu ze-neurological. Uninzi lweentloko ezihlala zihleli zi-migraine, uxinzelelo, okanye ukusebenzisa kakhulu amayeza - hayi ithumba."
+      },
+      {
+        "myth": "Amadoda okwenene atyhala nje ngeentloko.",
+        "fact": "I-Migraine ichaphazela abantu bazo zonke izini. Ukungayinaki akuyenzi imithambo-luvo ingaphantsi. Unyango lukhona - ukulusebenzisa kunengqiqo, alukho buthathaka."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "For occasional tension headache",          "description": "Paracetamol or ibuprofen as directed. Hydrate. Rest in a quiet, dim room. Address triggers — sleep, screen time, stress, eye strain." },
-      { "title": "For migraine — act early",                  "description": "Take pain relief and rest as soon as you notice the migraine starting. Triptans (sumatriptan) work much better at the first sign than when the pain peaks. Talk to a clinic about prescription options." },
-      { "title": "Keep a headache diary",                     "description": "Date, time, type, severity, what helped, possible triggers. Two months of notes will show patterns. Bring the diary to the doctor — far more useful than describing from memory." },
-      { "title": "If you take painkillers most days — see a doctor","description": "Painkiller-overuse headache is common and reversible. Counterintuitively, the treatment is to stop the painkiller. A doctor can help you do this safely." },
-      { "title": "If red flags appear — go to hospital",     "description": "Sudden severe headache, headache with fever/stiff neck/rash, headache with confusion or weakness — these need urgent assessment." }
+      {
+        "title": "Ngentloko ebuhlungu ngamaxesha athile",
+        "description": "Paracetamol okanye ibuprofen njengoko kuyalelwe. Hydrate. Phumla kwigumbi elizolileyo, elimfiliba. Izinto ezibangela idilesi-ubuthongo, ixesha lesikrini, uxinzelelo, uxinzelelo lwamehlo."
+      },
+      {
+        "title": "Nge-migraine - yenza kwangoko",
+        "description": "Thatha isiqabu kwiintlungu kwaye uphumle ngokukhawuleza xa ubona i-migraine iqala. I-Triptans (sumatriptan) isebenza ngcono kakhulu kuphawu lokuqala kunokuba intlungu iphezulu. Thetha neklinikhi malunga nokukhethwa kwamayeza kagqirha."
+      },
+      {
+        "title": "Gcina idayari yentloko",
+        "description": "Umhla, ixesha, uhlobo, ubukhali, yintoni encedileyo, izinto ezinokubangela ukuba kwenzeke. Iinyanga ezimbini zamanqaku ziya kubonisa iipateni. Zisa idayari kugqirha-iluncedo kakhulu kunokuchaza ngokusuka kwinkumbulo."
+      },
+      {
+        "title": "Ukuba uthatha iipilisi zeentlungu iintsuku ezininzi - bonana nogqirha",
+        "description": "I-Painkiller-overuse headache ixhaphakile kwaye ibuyiselwa umva. Ngokuchaseneyo, unyango kukumisa i-painkiller. Ugqirha unokukunceda ukuba wenze oku ngokukhuselekileyo."
+      },
+      {
+        "title": "Ukuba iiflegi ezibomvu zivela - yiya esibhedlele",
+        "description": "Intloko ebuhlungu ngesiquphe, intloko ebuhlungu enomkhuhlane/ukuqina kwentamo/irhashalala, intloko ebuhlungu ngokubhideka okanye ubuthathaka — ezi zinto zifuna uvavanyo olukhawulezileyo."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "Most headaches can be managed at clinic level. Persistent migraine benefits from neurology referral — available through the public system.",
+    "heading": "Masiye phi",
+    "lede": "Uninzi lweentloko ezibuhlungu zinokulawuleka kwinqanaba lasekliniki. Inzuzo eqhubekayo ye-migraine evela kwi-neurology referral - ekhoyo ngenkqubo yoluntu.",
     "helplines": [
-      { "name": "Emergency ambulance",      "description": "For thunderclap headache, headache with neurological signs",     "meta": "Free · 24 hours",                          "phone": "10177", "phone_display": "10177",         "primary": true },
-      { "name": "Find your nearest clinic", "description": "Free assessment, painkillers, and migraine prescription",       "meta": "No appointment · no medical aid required", "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
-      { "name": "Any local pharmacy",        "description": "Over-the-counter paracetamol and ibuprofen for occasional use",  "meta": "No prescription needed for OTC",          "phone": null,    "phone_display": "Visit a pharmacy","primary": false }
+      {
+        "name": "I-ambulensi kaxakeka",
+        "description": "Ngentloko yokuduma, intloko ebuhlungu eneempawu zemithambo-luvo",
+        "meta": "Mahala · 24 iiyure",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwamahhala, i-painkillers, kunye nomyalelo we-migraine",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Nayiphi na ikhemesti yendawo",
+        "description": "Kwi-counter-the-counter paracetamol kunye ne-ibuprofen ukuze zisetyenziswe ngamaxesha athile",
+        "meta": "Akukho myalelo ufunekayo we-OTC",
+        "phone": null,
+        "phone_display": "Ndwendwela ikhemesti",
+        "primary": false
+      }
     ]
   }
 }

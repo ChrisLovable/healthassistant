@@ -1,101 +1,195 @@
 {
   "slug": "covid-19",
   "group_slug": "infectious",
-  "name": "COVID-19",
-  "tagline": "What to do today. Long COVID. Vaccines.",
+  "name": "I-COVID 19",
+  "tagline": "Yintoni omawuyenze namhlanje. I-COVID ende. Isitofu.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Pending clinical review",
-  "sources": ["NICD", "WHO", "National Department of Health", "SA Medical Research Council"],
-
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-NICD",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe",
+    "IBhunga loPhando lwezoNyango loMzantsi Afrika"
+  ],
   "what_is_it": {
-    "heading": "COVID-19 in plain terms",
-    "lede": "COVID-19 is caused by the SARS-CoV-2 virus. By 2026 it has become endemic — it circulates year-round, with seasonal waves. Most cases are now mild, but the virus still kills vulnerable people.",
+    "heading": "I-COVID-19 ngokwemiqathango ecacileyo",
+    "lede": "I-COVID-19 ibangelwa yintsholongwane ye-SARS-CoV-2. Ngo-2026 sele iyinto eqhelekileyo - ijikeleza unyaka wonke, kunye namaza onyaka. Uninzi lweemeko ngoku zithambile, kodwa intsholongwane isabulala abantu abasesichengeni.",
     "paragraphs": [
-      "Most South Africans have either had COVID-19 or been vaccinated. Combined immunity has made the disease milder for most. New variants still appear, and the elderly, immunocompromised, and unvaccinated remain at higher risk of severe illness.",
-      "Long COVID — symptoms lasting months after infection — affects a meaningful proportion of people who recover from acute infection. Fatigue, breathlessness, brain fog, and chest pain are common. Reducing the number of times you get infected reduces your long COVID risk."
+      "Uninzi lwabemi boMzantsi Afrika bakhe bane-COVID-19 okanye baye bagonywa. Ukunganyangeki okudityanisiweyo kwenze ukuba isifo sibe buthathaka kuninzi. Ukwahluka okutsha kusavela, kwaye abantu abadala, abangakhuselekanga, kunye nabangagonywanga bahlala besengozini enkulu yokugula kakhulu.",
+      "I-COVID ende-impawu ezihlala iinyanga emva kosulelo-ichaphazela inani elinentsingiselo labantu abachachayo kusulelo oluqatha. Ukudinwa, ukuphefumla, inkungu yobuchopho, neentlungu zesifuba zixhaphakile. Ukunciphisa inani lamaxesha owasulelwa ngalo kunciphisa umngcipheko wakho omude we-COVID."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "purple", "icon": "refresh-cw",    "headline": "Endemic",       "body": "COVID is now a permanent part of life. Seasonal waves continue. Boosters help reduce severity, not stop infection entirely." },
-      { "color": "coral",  "icon": "battery-low",   "headline": "Long COVID",    "body": "Roughly 10–20% of infections lead to symptoms lasting months. Each reinfection adds risk — fewer infections is better." },
-      { "color": "gold",   "icon": "syringe",       "headline": "Free vaccines","body": "All COVID vaccines and updated boosters remain free at government clinics. Recommended yearly for high-risk groups." },
-      { "color": "green",  "icon": "home",          "headline": "Mostly home care","body": "Most cases need rest, fluids, and time. Antivirals exist for high-risk groups — see a clinic within 5 days of symptoms." }
+      {
+        "color": "purple",
+        "icon": "refresh-cw",
+        "headline": "Sisifo esihlala sikhona",
+        "body": "I-COVID ngoku iyinxalenye esisigxina yobomi. Amaza onyaka ayaqhubeka. Ii-boosters zinceda ukunciphisa ubungqongqo, hayi ukuyeka usulelo ngokupheleleyo."
+      },
+      {
+        "color": "coral",
+        "icon": "battery-low",
+        "headline": "I-COVID ende",
+        "body": "Phantse i-10-20% yosulelo lukhokelela kwiimpawu ezihlala iinyanga. Ukosuleleka kwakhona ngalunye kongeza umngcipheko - usulelo olumbalwa lungcono."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Izitofu zokugonya zasimahla",
+        "body": "Zonke izitofu zokugonyela i-COVID kunye nezincedisi ezihlaziyiweyo zihlala zisimahla kwiikliniki zikarhulumente. Icetyiswa minyaka le kumaqela asemngciphekweni omkhulu."
+      },
+      {
+        "color": "green",
+        "icon": "home",
+        "headline": "Ikakhulu ukhathalelo lwasekhaya",
+        "body": "Iimeko ezininzi zifuna ukuphumla, ulwelo kunye nexesha. Ii-antivirals zikhona kumaqela asemngciphekweni omkhulu - bona ikliniki phakathi kweentsuku ezi-5 zeempawu."
+      }
     ],
     "pull_quote": {
-      "text": "The pandemic phase is over. COVID-19 is not. Treat it like flu — vaccinate, ventilate, stay home when sick, and protect the vulnerable around you.",
-      "source": "WHO"
+      "text": "Isigaba sobhubhane siphelile. I-COVID-19 ayikho. Yiphathe njengomkhuhlane-gonya, khupha umoya, hlala ekhaya xa ugula, kwaye ukhusele abo basesichengeni abakungqongileyo.",
+      "source": "I-WHO"
     }
   },
-
   "signs": {
-    "heading": "What COVID looks like now",
-    "lede": "Most current COVID cases look like a cold or mild flu. The classic loss of taste and smell from earlier waves is now less common.",
+    "heading": "Ijongeka njani i-COVID ngoku",
+    "lede": "Uninzi lweemeko ze-COVID zangoku zikhangeleka ngathi ngumkhuhlane obandayo okanye opholileyo. Ilahleko yakudala yencasa kunye nevumba elivela kumaza angaphambili ngoku ayiqhelekanga.",
     "items": [
-      { "color": "orange", "icon": "thermometer",  "title": "Common symptoms",     "description": "Sore throat, runny nose, cough, headache, fatigue, mild fever, body aches. Often mistaken for flu or a cold." },
-      { "color": "purple", "icon": "wind",         "title": "Less common now",     "description": "Loss of taste or smell, severe shortness of breath, chest pain. Still possible — especially in unvaccinated people." },
-      { "color": "coral",  "icon": "alert-circle", "title": "Get medical help if", "description": "Difficulty breathing, chest pain, confusion, bluish lips, persistent vomiting, or symptoms worsening after initial improvement." }
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Iimpawu eziqhelekileyo",
+        "description": "Umqala obuhlungu, impumlo ebuhlungu, ukhohlokhohlo, intloko ebuhlungu, ukudinwa, umkhuhlane ongephi, umzimba obuhlungu. Idla ngokuphazamana nomkhuhlane okanye umkhuhlane."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ayiqhelekanga ngoku",
+        "description": "Ukulahleka kwencasa okanye iphunga, ukuphefumula okunzima, intlungu yesifuba. Kusenokwenzeka - ngakumbi kubantu abangagonywanga."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Fumana uncedo lwezonyango ukuba",
+        "description": "Ubunzima bokuphefumla, iintlungu zesifuba, ukudideka, imilebe eluhlaza, ukuhlanza okuzingileyo, okanye iimpawu eziba mandundu emva kokuphuculwa kokuqala."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "How COVID spreads",
+    "heading": "Isasazeka njani i-COVID",
     "yes": [
-      "Breathing in tiny droplets and aerosols from infected people",
-      "Close prolonged contact in poorly ventilated indoor spaces",
-      "Touching contaminated surfaces, then touching face (less common than airborne)",
-      "From someone who is infected but does not yet feel sick"
+      "Ukuphefumla amathontsi amancinci kunye ne-aerosols evela kubantu abosulelekileyo",
+      "Vala uqhagamshelo olude kwiindawo zangaphakathi ezingangeni moya kakuhle",
+      "Ukuchukumisa umphezulu ongcolisekileyo, emva koko ubambe ubuso (ixhaphake kakhulu kunomoya)",
+      "Kumntu owosulelekileyo kodwa ongekaziva egula"
     ],
     "no": [
-      "Outdoor casual contact (rare unless very close and prolonged)",
-      "Food and water",
-      "Mosquito or insect bites",
-      "Pets and animals (rare and not significant for human spread)"
+      "Uqhagamshelwano oluqhelekileyo lwangaphandle (lunqabile ngaphandle kokuba lusondele kakhulu kwaye lude)",
+      "Ukutya kunye namanzi",
+      "Ingcongconi okanye izinambuzane",
+      "Izilwanyana zasekhaya kunye nezilwanyana (zinqabile kwaye azibalulekanga ekusasazeni kwabantu)"
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "COVID is over. We don't need to think about it anymore.",         "fact": "COVID is endemic, not gone. It still kills vulnerable people and causes long-term complications. Routine sense matters — not panic." },
-      { "myth": "If I had COVID once, I am immune.",                                "fact": "Immunity from past infection fades within months and varies by variant. Reinfection is common. Vaccination plus past infection gives the strongest protection." },
-      { "myth": "The vaccine is more dangerous than the disease.",                  "fact": "Years of global data show vaccines reduce severe illness, hospitalisation, and death. Serious vaccine side effects are rare and far less common than serious COVID complications." },
-      { "myth": "Long COVID is psychological — it is not real.",                    "fact": "Long COVID is well-documented physically — biomarkers, organ damage, immune changes. It is not in the patient's head. Treatment is improving." }
+      {
+        "myth": "I-COVID iphelile. Akusekho mfuneko yokuba sicinge ngayo kwakhona.",
+        "fact": "I-COVID igqugqisile, ayihambanga. Isababulala abantu abasesichengeni kwaye ibangela iingxaki zexesha elide. Ingqiqo yesiqhelo ibalulekile - hayi ukuphakuzela."
+      },
+      {
+        "myth": "Ukuba bendine-COVID kube kanye, andikhuselekanga.",
+        "fact": "Ukungakhuseleki kusulelo oludlulileyo kuyaphela kwiinyanga kwaye kuyahluka ngokohluka. Ukosuleleka kwakhona kuqhelekile. Ugonyo kunye nosulelo oludlulileyo lunika ukhuseleko oluluqilima."
+      },
+      {
+        "myth": "Isitofu sokugonya siyingozi ngakumbi kunesi sifo.",
+        "fact": "Iminyaka yedatha yehlabathi ibonisa izitofu zokugonya zinciphisa ukugula kakhulu, ukulaliswa esibhedlele kunye nokufa. Iziphumo ezibi kakhulu zesitofu sokugonya zinqabile kwaye zinqabile kakhulu kuneengxaki ezimandundu ze-COVID."
+      },
+      {
+        "myth": "I-COVID ende yengqondo - ayiyonyani.",
+        "fact": "I-COVID ende ibhalwe kakuhle ngokwasemzimbeni - ii-biomarkers, ukonakala kwamalungu, utshintsho lomzimba. Akukho ntloko yomguli. Unyango luyaphucuka."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to protect yourself and others",
-    "lede": "Most prevention is now routine — like flu. The high-risk groups still benefit most from active precautions.",
+    "heading": "Indlela yokuzikhusela wena kunye nabanye",
+    "lede": "Uninzi lothintelo luyinto yesiqhelo ngoku - njengomkhuhlane. Amaqela asemngciphekweni omkhulu asazuza kakhulu kumanyathelo okhuseleko asebenzayo.",
     "items": [
-      { "color": "green",  "icon": "syringe", "title": "Stay up to date on boosters","description": "Annual COVID boosters are recommended for over-50s, immunocompromised, chronic illness, and healthcare workers. Free at clinics." },
-      { "color": "purple", "icon": "wind",    "title": "Ventilation",                 "description": "Open windows. Move social gatherings outside when possible. Indoor air quality is the biggest single factor in COVID spread." },
-      { "color": "orange", "icon": "user",    "title": "Mask in high-risk settings", "description": "Hospitals, clinics, crowded indoor public transport during waves. Especially if you live with someone vulnerable." },
-      { "color": "gold",   "icon": "home",    "title": "Stay home when sick",         "description": "Whether it is COVID, flu, or anything else — staying home protects the people around you. Test if you have access." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Hlala usexesheni kwii-boosters",
+        "description": "Ii-boosters ze-COVID zonyaka ziyacetyiswa kubantu abangaphezu kweminyaka engama-50, abagonywanga, ukugula okungapheliyo, kunye nabasebenzi bezempilo. Zisimahla kwiikliniki."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ukungenisa umoya",
+        "description": "Vula iifestile. Zikhuphele ngaphandle iindibano zokuzonwabisa xa kunokwenzeka. Umgangatho womoya wangaphakathi yeyona nto inkulu ekusasazeni kwe-COVID."
+      },
+      {
+        "color": "orange",
+        "icon": "user",
+        "title": "Imaski kwiindawo ezinomngcipheko ophezulu",
+        "description": "Izibhedlele, iiklinikhi, izithuthi zikawonke-wonke ezixinene ngaphakathi ngexesha lamaza. Ingakumbi ukuba uhlala nomntu osengozini."
+      },
+      {
+        "color": "gold",
+        "icon": "home",
+        "title": "Hlala ekhaya xa ugula",
+        "description": "Nokuba yi-COVID, umkhuhlane, okanye nantoni na eyenye- ukuhlala ekhaya kukhusela abantu abakungqongileyo. Vavanya ukuba unofikelelo."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "What to do",
+    "heading": "Kwenziwe ntoni",
     "items": [
-      { "title": "Test if you have access",            "description": "Rapid antigen tests are available at most pharmacies. Knowing helps you protect others and decide if you are high-risk for antivirals." },
-      { "title": "Rest, fluids, paracetamol",          "description": "Same as flu. Sleep, hydrate, manage fever and aches with paracetamol or ibuprofen." },
-      { "title": "Isolate while infectious",           "description": "Stay home for at least 5 days from symptom start. Mask around household members. Avoid visiting elderly or immunocompromised relatives." },
-      { "title": "If high-risk — see a clinic early", "description": "Over 60, pregnant, chronic illness, immunocompromised? Antiviral medication (Paxlovid) works best within 5 days of symptoms. Ask early." },
-      { "title": "Watch for long COVID",                "description": "Symptoms beyond 4 weeks — fatigue, brain fog, breathlessness, chest pain — deserve medical assessment. Treatment options exist." }
+      {
+        "title": "Vavanya ukuba unofikelelo",
+        "description": "Iimvavanyo ze-antigen ezikhawulezayo ziyafumaneka kwiikhemesti ezininzi. Ukwazi kukunceda ukukhusela abanye kwaye uthathe isigqibo sokuba usengozini enkulu na kwii-antivirals."
+      },
+      {
+        "title": "Ukuphumla, ulwelo, iparacetamol",
+        "description": "Kuyafana nomkhuhlane. Lala, hydrate, lawula umkhuhlane kunye neentlungu ngeparacetamol okanye ibuprofen."
+      },
+      {
+        "title": "Yiba yedwa ngelixa usulelo",
+        "description": "Hlala ekhaya ubuncinane iintsuku ezi-5 ukusuka ekuqaleni kweempawu. Imaski ejikeleze amalungu osapho. Kuphephe ukutyelela abantu abadala okanye izalamane ezibuthathaka."
+      },
+      {
+        "title": "Ukuba usengozini enkulu - bonana ekliniki kwangoko",
+        "description": "Ngaphezu kwama-60, ukhulelwe, ukugula okungapheliyo, i-immunocompromised? Iyeza le-Antiviral (Paxlovid) lisebenza kakuhle kwiintsuku ze-5 zeempawu. Buza kwangethuba."
+      },
+      {
+        "title": "Bukela ixesha elide le-COVID",
+        "description": "Iimpawu ezingaphaya kweeveki ze-4 - ukudinwa, inkungu yengqondo, ukuphefumla, intlungu yesifuba - zifanelwe ukuhlolwa ngugqirha. Zikhona iindlela zonyango."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to go",
-    "lede": "COVID care is integrated into normal clinic services. No special hotlines needed — your usual clinic or pharmacy can help.",
+    "heading": "Masiye phi",
+    "lede": "Ukhathalelo lwe-COVID ludityaniswe kwiinkonzo zeklinikhi eziqhelekileyo. Akukho minxeba ikhethekileyo ifunekayo - ikliniki yakho yesiqhelo okanye ikhemesti ingakunceda.",
     "helplines": [
-      { "name": "Find your nearest clinic", "description": "Free COVID vaccines, boosters, and assessment for severe symptoms", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic",  "primary": true, "link": "/clinic-finder" },
-      { "name": "NICD Hotline",             "description": "Information on current COVID variants and surveillance",            "meta": "Mon–Fri 08:00–16:00",                       "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Izitofu zokugonya ze-COVID zasimahla, ezomeleza, kunye novavanyo lweempawu eziqatha",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi kwiiyantlukwano zangoku ze-COVID kunye nokucupha",
+        "meta": "Mvulo–Fri 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
     ]
   }
 }

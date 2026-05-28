@@ -1,101 +1,195 @@
 {
   "slug": "high-blood-pressure",
   "group_slug": "chronic-lifestyle",
-  "name": "High blood pressure",
-  "tagline": "The silent killer — 1 in 3 SA adults.",
+  "name": "Igazi elonyukayo",
+  "tagline": "Umbulali othuleyo - 1 kwaba-3 abadala base-SA.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
   "reviewer": "Pending clinical review",
-  "sources": ["Heart and Stroke Foundation SA", "South African Hypertension Society", "WHO", "National Department of Health"],
-
+  "sources": [
+    "I-Heart and Stroke Foundation SA",
+    "Umbutho woxinzelelo lwegazi waseMzantsi Afrika",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
+  ],
   "urgent": {
     "heading": "Tsalela umnxeba ku-10177 okanye uye ngqo esibhedlele ukuba",
-    "primary_message": "A hypertensive crisis (BP above 180/120 with symptoms) is an emergency. Don't wait — it can cause a stroke or heart attack.",
+    "primary_message": "Ingxaki yoxinzelelo lwegazi (BP ngaphezu kwe-180/120 eneempawu) yimeko engxamisekileyo. Musa ukulinda - kunokubangela isifo okanye isifo sentliziyo.",
     "phone": "10177",
     "phone_display": "Tsalela umnxeba ku-10177",
     "red_flags": [
-      "BP reading above 180/120 together with symptoms",
-      "Severe headache with vision problems or dizziness",
-      "Chest pain or shortness of breath",
-      "Sudden weakness, numbness, or confusion (may be a stroke)",
-      "Nausea, vomiting, or severe anxiety with high BP",
-      "A nosebleed that won't stop together with a high BP reading",
-      "Blood in the urine or sudden loss of bladder control"
+      "Ukufundwa kweBP ngaphezulu kwe-180/120 kunye neempawu",
+      "Intloko ebuhlungu eneengxaki zombono okanye isiyezi",
+      "Intlungu yesifuba okanye ukuphefumula okufutshane",
+      "Ubuthathaka ngequbuliso, ukuba ndindisholo, okanye ukudideka (kusenokuba sistrowuku)",
+      "Isicaphucaphu, ukugabha, okanye ukuxhalaba kakhulu ngeBP ephezulu",
+      "Ukopha ngeempumlo ezingayi kuyeka kunye nokufundwa kweBP ephezulu",
+      "Igazi kumchamo okanye ukulahleka ngokukhawuleza kolawulo lwesinyi"
     ]
   },
-
   "what_is_it": {
-    "heading": "Blood pressure in plain terms",
-    "lede": "Blood pressure is the force of blood pushing against the walls of your arteries. When that force stays too high for too long, it damages the arteries and the organs they supply — silently, over years.",
+    "heading": "Uxinzelelo lwegazi ngokwemiqathango ecacileyo",
+    "lede": "Uxinzelelo lwegazi ngamandla egazi elityhala kwiindonga zemithambo yakho. Xa loo mandla ehlala ephezulu kakhulu ixesha elide, yonakalisa imithambo kunye namalungu anikezelayo - ngokuthula, kwiminyaka.",
     "paragraphs": [
-      "A normal reading is around 120/80. High blood pressure (hypertension) is generally 140/90 or higher, measured on more than one occasion. The first number is the pressure when the heart beats, the second is the pressure between beats.",
-      "Most people with high blood pressure feel completely well. The damage builds quietly in the background — to the heart, brain, kidneys, and eyes — until something serious like a stroke or heart attack happens. That is why every adult needs regular checks, even if you feel fine."
+      "Ufundo oluqhelekileyo lumalunga ne-120/80. Uxinzelelo lwegazi oluphezulu (uxinzelelo lwegazi) ngokuqhelekileyo luyi-140/90 okanye ngaphezulu, lulinganiswa ngaphezu kwesihlandlo esinye. Inombolo yokuqala luxinzelelo xa intliziyo ibetha, okwesibini luxinzelelo phakathi kweebhithi.",
+      "Abantu abaninzi abanoxinzelelo lwegazi baziva bephile qete. Umonakalo wakha ngokuthula ngasemva-kwintliziyo, ingqondo, izintso, kunye namehlo-de kube yinto enzulu efana ne-stroke okanye ukuhlaselwa yintliziyo. Yiyo loo nto wonke umntu omdala efuna ukujongwa rhoqo, nokuba uziva uphilile."
     ]
   },
-
   "facts": {
-    "heading": "Four things worth knowing",
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
     "items": [
-      { "color": "coral",  "icon": "users",   "headline": "1 in 3",     "body": "South African adults have high blood pressure. Most do not know." },
-      { "color": "purple", "icon": "eye-off", "headline": "Silent",     "body": "Usually no symptoms until damage is done. Only a reading tells you the truth." },
-      { "color": "gold",   "icon": "shield",  "headline": "Treatable",  "body": "Free check-ups and free medication at every clinic. Most cases controlled with one daily tablet." },
-      { "color": "green",  "icon": "heart",   "headline": "Big payoff", "body": "Lowering blood pressure cuts stroke risk by up to 40% and heart attack risk by up to 25%." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 ku3",
+        "body": "Abantu abadala baseMzantsi Afrika banoxinzelelo lwegazi oluphezulu. Abaninzi abazi."
+      },
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "headline": "Cwaka",
+        "body": "Ngokuqhelekileyo akukho zimpawu de kwenziwe umonakalo. Kukufunda kuphela okukuxelela inyaniso."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Iyanyangeka",
+        "body": "Ukuhlolwa simahla kunye namayeza asimahla kuzo zonke iikliniki. Uninzi lweemeko zilawulwa ngethebhulethi enye yemihla ngemihla."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Intlawulo enkulu",
+        "body": "Ukunciphisa uxinzelelo lwegazi kunciphisa umngcipheko we-stroke ukuya kuthi ga kwi-40% kunye nomngcipheko wokuhlaselwa yintliziyo ukuya kuma-25%."
+      }
     ],
     "pull_quote": {
-      "text": "If you have not had your blood pressure checked in the last year, do it this month. It takes 30 seconds. It can add 10 years to your life.",
-      "source": "South African Hypertension Society"
+      "text": "Ukuba awukhange uhlolwe uxinzelelo lwegazi kunyaka ophelileyo, yenze kule nyanga. Kuthatha imizuzwana engama-30. Inokongeza iminyaka eli-10 kubomi bakho.",
+      "source": "Umbutho woxinzelelo lwegazi waseMzantsi Afrika"
     }
   },
-
   "signs": {
-    "heading": "What you might feel — and what you usually don't",
-    "lede": "High blood pressure is called the silent killer for a reason. Most people feel completely normal. The only reliable sign is the reading itself.",
+    "heading": "Into onokuthi uzive - kunye nento oqhele ukuyenza",
+    "lede": "Uxinzelelo lwegazi oluphezulu lubizwa ngokuba ngumbulali othuleyo ngesizathu. Abantu abaninzi baziva beqhelekile ngokupheleleyo. Uphawu oluthembekileyo kuphela kukufunda ngokwalo.",
     "items": [
-      { "color": "orange", "icon": "eye-off",      "title": "Usually — nothing",              "description": "Most people with high blood pressure have no symptoms at all. Many find out only when they have a stroke or heart attack." },
-      { "color": "purple", "icon": "alert-circle", "title": "When readings are very high",    "description": "Severe headaches, blurred vision, chest pain, shortness of breath, or nosebleeds can occur — but only at dangerous levels. These are emergencies." },
-      { "color": "gold",   "icon": "activity",     "title": "Trust the machine, not feelings","description": "Symptoms cannot tell you your blood pressure. Even people with severe hypertension often feel perfectly fine. Only a reading is the truth." }
+      {
+        "color": "orange",
+        "icon": "eye-off",
+        "title": "Ngokuqhelekileyo - akukho nto",
+        "description": "Abantu abaninzi abanoxinzelelo lwegazi abanazo kwaphela iimpawu. Abaninzi bafumanisa kuphela xa benestroke okanye isifo sentliziyo."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Xa ufundo luphezulu kakhulu",
+        "description": "Iintloko ezibuhlungu, umbono ophazamisayo, intlungu yesifuba, ukuphefumula okufutshane, okanye ukuphuma kweempumlo kunokwenzeka - kodwa kuphela kumanqanaba ayingozi. Ezi ziimeko zikaxakeka."
+      },
+      {
+        "color": "gold",
+        "icon": "activity",
+        "title": "Thembela kumatshini, hayi iimvakalelo",
+        "description": "Iimpawu azikwazi ukukuxelela uxinzelelo lwegazi lakho. Nabantu abanoxinzelelo olukhulu loxinzelelo lwegazi baziva bephile qete. Kuphela kukufunda inyaniso."
+      }
     ]
   },
-
   "myths": {
-    "heading": "What is true and what is not",
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
-      { "myth": "If I felt high blood pressure, I would know.",                          "fact": "You almost certainly would not. Hypertension is silent in most people. The only way to know is to measure." },
-      { "myth": "I only need to worry about salt if I add it at the table.",            "fact": "Most salt we eat is hidden — in bread, processed meats, soup powders, takeaways, even some cheese. The shaker is a small part." },
-      { "myth": "Once my blood pressure is normal, I can stop the tablets.",            "fact": "Your blood pressure is normal because of the tablets. Stop them, and it climbs back up. Hypertension is managed, not cured." },
-      { "myth": "Blood pressure medication has terrible side effects.",                 "fact": "Modern medications are well tolerated by most people. If yours causes problems, tell your clinic — there are many alternatives." }
+      {
+        "myth": "Ukuba bendinoxinzelelo lwegazi, bendizokwazi.",
+        "fact": "Ngokuqinisekileyo awufuni. Uxinzelelo lwegazi luthe cwaka kubantu abaninzi. Ekuphela kwendlela yokwazi kukulinganisa."
+      },
+      {
+        "myth": "Kufuneka ndizikhathaze ngetyuwa kuphela ukuba ndiyigalele etafileni.",
+        "fact": "Ityuwa eninzi esiyityayo ifihliwe - kwisonka, kwinyama ecutshungulwayo, umgubo wesobho, i-takeaways, kunye nenye itshizi. I-shaker inxalenye encinci."
+      },
+      {
+        "myth": "Xa uxinzelelo lwegazi luqhelekile, ndiyakwazi ukumisa iipilisi.",
+        "fact": "Uxinzelelo lwegazi lwakho luqhelekile ngenxa yeepilisi. Banqande, kwaye iphinde inyukele phezulu. Uxinzelelo lwegazi luyalawulwa, alunyangeki."
+      },
+      {
+        "myth": "Amayeza oxinzelelo lwegazi aneziphumo ebezingalindelekanga ezibi.",
+        "fact": "Amayeza anamhlanje anyanyezelwa kakuhle ngabantu abaninzi. Ukuba eyakho ibangela iingxaki, xelela ikliniki yakho - zininzi iindlela ongakhetha kuzo."
+      }
     ]
   },
-
   "prevention": {
-    "heading": "How to keep your numbers down",
-    "lede": "Even small lifestyle changes can drop blood pressure by 5–10 points. Most people on treatment can lower their dose with consistent lifestyle work alongside.",
+    "heading": "Ungawagcina njani amanani akho phantsi",
+    "lede": "Nokuba utshintsho oluncinci lwendlela yokuphila lunokwehlisa uxinzelelo lwegazi ngamanqaku angama-5-10. Uninzi lwabantu abakunyango banokuthoba idosi kunye nendlela yokuphila engaguqukiyo besebenza ecaleni kwabo.",
     "items": [
-      { "color": "green",  "icon": "leaf",         "title": "Less salt",       "description": "Cook with herbs, lemon, garlic, spices. Read labels — anything over 1.5g salt per 100g is high. Aim for under 5g of salt per day total." },
-      { "color": "purple", "icon": "activity",     "title": "Move every day",  "description": "30 minutes of brisk walking, 5 days a week, lowers blood pressure measurably within weeks. Free, available everywhere." },
-      { "color": "orange", "icon": "scale",        "title": "Healthy weight",  "description": "Losing even 5 kg can drop blood pressure significantly. Focus on slow, steady changes — not crash diets." },
-      { "color": "gold",   "icon": "check-circle", "title": "Check regularly", "description": "Every adult should have blood pressure measured at least yearly — more often if borderline or over 50. Free at every clinic and most pharmacies." }
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Ityuwa encinci",
+        "description": "Pheka kunye nemifuno, i-lemon, igalikhi, iziqholo. Funda iilebhile - nantoni na engaphezu kwe-1.5g yetyuwa nge-100g iphezulu. Zimisele ukuba ngaphantsi kwe-5g yetyuwa ngosuku xa iyonke."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hambisa yonke imihla",
+        "description": "Imizuzu engama-30 yokuhamba ngokukhawuleza, iintsuku ezi-5 ngeveki, yehlisa uxinzelelo lwegazi ngokulinganiswayo kwiiveki nje ezimbalwa. Isimahla, ifumaneka kuyo yonke indawo."
+      },
+      {
+        "color": "orange",
+        "icon": "scale",
+        "title": "Ubunzima obunempilo",
+        "description": "Ukuphulukana ne-5 kg ​​kunokwehlisa uxinzelelo lwegazi kakhulu. Gxininisa kutshintsho olucothayo, oluzinzileyo - hayi izidlo eziphazamisekileyo."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Jonga rhoqo",
+        "description": "Wonke umntu omdala kufuneka abe noxinzelelo lwegazi ubuncinane ngonyaka - rhoqo ukuba umgca womda okanye ngaphezulu kwama-50. Isimahla kwikliniki nganye nakwiikhemesti ezininzi."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Your next steps",
+    "heading": "Amanyathelo akho alandelayo",
     "items": [
-      { "title": "If you have never been checked, or it has been over a year", "description": "Walk into any government clinic or pharmacy and ask. Two minutes. No appointment. Free." },
-      { "title": "If your reading is high once",                                "description": "Have it checked again over the next 1–2 weeks. A single high reading is not a diagnosis — but it is a reason to confirm." },
-      { "title": "If you are diagnosed",                                       "description": "Start medication as prescribed. Take it every day at the same time. Skipping doses lets pressure spike up and down — worse than steady high pressure." },
-      { "title": "If you feel fine but have hypertension",                     "description": "Do not stop your medication. The point of treatment is to feel fine while keeping the numbers safe. Continue exactly as prescribed." },
-      { "title": "Track your numbers",                                         "description": "Buy a home cuff if you can (around R400 at most pharmacies). Take a reading once or twice a week. Bring the log to clinic visits." }
+      {
+        "title": "Ukuba awuzange uhlolwe, okanye sele kudlule unyaka",
+        "description": "Ngena kuyo nayiphi na iklinikhi karhulumente okanye ikhemesti kwaye ubuze. Imizuzu emibini. Akukho dinga. Mahala."
+      },
+      {
+        "title": "Ukuba ukufunda kwakho kuphezulu kanye",
+        "description": "Yiphinde ijongwe kwakhona kwiiveki ezi-1 ukuya kwezi-2 ezizayo. Ukufundwa okuphezulu okukodwa akusiyo isifo - kodwa sisizathu sokuqinisekisa."
+      },
+      {
+        "title": "Ukuba ufunyanisiwe",
+        "description": "Qala amayeza njengoko kuchaziwe. Thatha yonke imihla ngexesha elifanayo. Ukutsiba iidosi kuvumela uxinzelelo lunyuke kwaye luhle - lubi ngakumbi kunoxinzelelo oluphezulu oluzinzileyo."
+      },
+      {
+        "title": "Ukuba uziva uphilile kodwa unehypertension",
+        "description": "Musa ukuyeka amayeza akho. Inqaku lonyango kukuziva ulungile ngelixa ugcina amanani ekhuselekile. Qhubeka kanye njengoko kumiselweyo."
+      },
+      {
+        "title": "Landela amanani akho",
+        "description": "Thenga icuff yekhaya ukuba unako (malunga nama-R400 kwiikhemesti ezininzi). Funda kanye okanye kabini ngeveki. Yiza nelog kutyelelo lwasekliniki."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Where to start",
-    "lede": "Blood pressure care is one of the things South African public clinics do very well. Walk in. No appointment needed.",
+    "heading": "Uqale phi",
+    "lede": "Ukhathalelo loxinzelelo lwegazi yenye yezinto ezenza kakuhle kakhulu iikliniki zoluntu zaseMzantsi Afrika. Ngena ngaphakathi. Akukho dinga lifunekayo.",
     "helplines": [
-      { "name": "Find your nearest clinic",        "description": "Every government clinic offers free blood pressure checks and free first-line medication", "meta": "No appointment · no medical aid required · ID helpful", "phone": null,         "phone_display": "Find a clinic",  "primary": true, "link": "/clinic-finder" },
-      { "name": "Heart and Stroke Foundation SA",  "description": "Information, support, and free risk-assessment tools",                                       "meta": "Mon–Fri 08:00–16:30",                                    "phone": "0860000254", "phone_display": "0860 000 254",   "primary": false }
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ikliniki nganye karhulumente ibonelela ngokujonga uxinzelelo lwegazi simahla kunye namayeza odidi lokuqala asimahla",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo · Isazisi siluncedo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-Heart and Stroke Foundation SA",
+        "description": "Ulwazi, inkxaso, kunye nezixhobo simahla zovavanyo lomngcipheko",
+        "meta": "Mvulo–Fri 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
     ]
   }
 }
