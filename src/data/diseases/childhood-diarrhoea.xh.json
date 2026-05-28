@@ -1,0 +1,205 @@
+{
+  "slug": "childhood-diarrhoea",
+  "group_slug": "child-baby",
+  "name": "Urhudo ebantwaneni",
+  "tagline": "i-ORS isindisa ubomi. Yazi iimpawu zokuphelelwa ngamanzi emzimbeni.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "National Department of Health",
+    "WHO Child Health",
+    "NICD",
+    "UNICEF South Africa"
+  ],
+  "urgent": {
+    "heading": "Ingxamisekile — yiya ekliniki okanye esibhedlele",
+    "primary_message": "Ukuphelelwa ngamanzi emzimbeni kumntwana omncinci kunokubulala ngaphakathi kweeyure. Ukuba ubona ezi mpawu, musa ukulinda. Yiya.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Umntwana unxaniwe kakhulu kodwa akakwazi ukusela",
+      "Amehlo angene ngaphakathi, umlomo womile, akukho nyembezi xa ekhala",
+      "Indawo ethambileyo entloko yosana ingene ngaphakathi",
+      "Umchamo mncinci kakhulu okanye awukho iiyure ezi-6 okanye ngaphezulu",
+      "Ukozela kakhulu — umntwana uyozela, kunzima ukumvusa okanye akaphenduli",
+      "Igazi kurhudo",
+      "Ifiva ephezulu (ngaphezu kwe-39Â°C) kunye norhudo",
+      "Ukugabha okuthintela ukugcina naluphi na ulwelo emzimbeni",
+      "Urhudo oluhlala ngaphezu kweentsuku ezisi-7"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Urhudo ebantwaneni ngamazwi alula",
+    "lede": "Urhudo lithetha ilindle elithambileyo nelinamanzi — amaxesha amathathu okanye ngaphezulu kwiiyure ezingama-24. Kubantwana abancinci, ingozi ayisiyilo rhudo ngokwalo. Kukuphelelwa ngamanzi emzimbeni okulandelayo.",
+    "paragraphs": [
+      "Imizimba yabantwana mincinci kwaye baphelelwa ngamanzi ngokukhawuleza. Umntwana olahlekelwe ngamanzi amaninzi uba buthathaka, emva koko ozele, emva koko abe kwimeko embi kakhulu — ngamanye amaxesha ngaphakathi kweeyure. Urhudo lusengomnye woonobangela abaphambili bokusweleka kwabantwana baseMzantsi Afrika abangaphantsi kweminyaka emi-5.",
+      "Uninzi lorhudo ebantwaneni lubangelwa ziintsholongwane kwaye luphela kwiintsuku ezi-3–5. Unyango oluphambili kukubuyisela ulwelo olulahlekileyo — i-ORS yeyona ndlela iphambili. Isimahla kuzo zonke iikliniki. Isindise izigidi zabantwana kwihlabathi."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Umbulali ophambili",
+        "body": "Isifo sorhudo sisengomnye woonobangela abaphambili bokusweleka kwabantwana baseMzantsi Afrika abangaphantsi kweminyaka emi-5 — phantse rhoqo ngenxa yokuphelelwa ngamanzi emzimbeni."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "headline": "i-ORS isindisa ubomi",
+        "body": "I-Oral Rehydration Solution ithintela kwaye inyange uninzi lokuphelelwa ngamanzi emzimbeni. Isimahla kuyo yonke ikliniki. Ixabiso liphantsi, ilula, iyasebenza."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Isitofu se-rotavirus",
+        "body": "Isitofu sasimahla sabantwana eMzantsi Afrika sithintela oyena nobangela uxhaphakileyo worhudo olunzima. Sinikwa kwiiveki ezi-6 ne-14. Musa ukusitsiba."
+      },
+      {
+        "color": "green",
+        "icon": "x-circle",
+        "headline": "Akukho antibiotics",
+        "body": "Uninzi lorhudo lubangelwa ziintsholongwane. Ii-antibiotic azincedi — kwaye zinokwenza ezinye iintlobo zibe mandundu. Musa ukuzicela; cela i-ORS."
+      }
+    ],
+    "pull_quote": {
+      "text": "Umntwana angalahlekelwa ngamakhulu eemililitha zorhudo ngosuku. Yonke i-250ml yelindle elilahlekileyo kufuneka ibuyiselwe nge-250ml ye-ORS — okanye nangaphezulu. Gcina ikomityi ilungile.",
+      "source": "WHO Child Health"
+    }
+  },
+  "signs": {
+    "heading": "Ungalubona njani ukuphelelwa ngamanzi emzimbeni",
+    "lede": "Ukuphelelwa ngamanzi emzimbeni kukhula ngamanyathelo. Ukukubamba kwinqanaba 'lokunxanwa' kugcina umntwana engangeni esibhedlele.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Kuthambile — kunokunyangwa ekhaya",
+        "description": "Umntwana unxaniwe, usela ngomdla, akasadlali kangako, umchamo umnyama kancinci kodwa amadiyapa asemanzi. Nika i-ORS, ubisi lwebele okanye amanzi acocekileyo."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Phakathi — yiya ekliniki",
+        "description": "Umntwana unxaniwe kakhulu, umlomo womile, amadiyapa mancinci amanzi, akaphumli okanye uyacaphuka, amehlo angena ngaphakathi, ulusu lubuyela kancinci xa lucinezelwe. Ikliniki — hayi isibhedlele okwangoku."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Kunzima — isibhedlele ngoku",
+        "description": "Umntwana ubuthathaka kakhulu ukuba asele, uyozela okanye akaphenduli, akukho nyembezi, akukho madiyapa manzi iiyure ezi-6 okanye ngaphezulu, indawo ethambileyo entloko yosana ingene ngaphakathi. Le yimeko engxamisekileyo."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Urhudo ebantwaneni lusasazeka njani",
+    "yes": [
+      "Indlela ye-faecal-oral — imiqathango encinci yelindle ingena ekutyeni, ezandleni okanye emanzini",
+      "Amanzi angcolileyo kwiindawo ezingenawo amanzi akhuselekileyo",
+      "Izandla ezingahlanjwanga emva kwendlu yangasese okanye ukutshintsha idiyapa",
+      "Ukwabelana ngeethoyi, iipacifier okanye iibhotile kwiindawo zokugcina abantwana",
+      "Ukutya okonakeleyo okanye okungaphekwanga kakuhle"
+    ],
+    "no": [
+      "Ukukhula kwamazinyo — nangona le ntsomi ixhaphakile",
+      "Ukuphuma kwamazinyo amatsha",
+      "Ukuncancisa — ubisi lwebele lukhusela ngokwenene kurhudo",
+      "Ukutya okunezinongo kancinci (kubantwana abadala)"
+    ]
+  },
+  "prevention": {
+    "heading": "Ungamkhusela njani umntwana wakho",
+    "lede": "Uninzi lorhudo ebantwaneni lunokuthintelwa ngezitofu, amanzi acocekileyo kunye nokuhlamba izandla kakuhle. Kufanelekile umzamo omncinci wemihla ngemihla.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Isitofu se-rotavirus",
+        "description": "Isitofu sasimahla sabantwana eMzantsi Afrika kwiiveki ezi-6 ne-14. Sithintela oyena nobangela uxhaphakileyo worhudo olunzima ebantwaneni. Ungaze usitsibe."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Izandla ezicocekileyo, amanzi acocekileyo",
+        "description": "Hlamba izandla ngesepha phambi kokutya, emva kwendlu yangasese, emva kokutshintsha idiyapa. Sebenzisa amanzi akhuselekileyo okusela nokupheka. Wabilise ukuba awuqinisekanga."
+      },
+      {
+        "color": "orange",
+        "icon": "heart",
+        "title": "Ncancisa ukuba uyakwazi",
+        "description": "Ubisi lwebele luqulethe izikhuseli ezikhusela kurhudo. Ukuncancisa kuphela kwiinyanga ezi-6 sesinye sezikhuselo ezomeleleyo."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Ukhuseleko lokutya",
+        "description": "Pheka inyama ngokupheleleyo, faka okushiyekileyo efrijini ngokukhawuleza, hlamba iziqhamo nemifuno. Musa ukunika abantwana abancinci kakhulu ubisi olungapasteurizwanga okanye amaqanda angaphekwanga kakuhle."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze",
+    "items": [
+      {
+        "title": "Qalisa i-ORS kwilindle lokuqala elithambileyo",
+        "description": "Xuba isachet enye kwi-1 litre yamanzi acocekileyo (okanye njengoko ipakethi isitsho). Nika imiselo emincinci rhoqo emva kwelindle ngalinye — 50–100ml kubantwana abangaphantsi kweminyaka emi-2, 100–200ml kubantwana abadala."
+      },
+      {
+        "title": "Qhubeka nokuncancisa okanye ukunika ifomula",
+        "description": "Musa ukuyeka ukuncancisa ngexesha lorhudo — ubisi lwebele luyakhusela. Qhubeka nefomula. Iintsana zidinga ukutya kwazo okuqhelekileyo kunye ne-ORS eyongezelelekileyo."
+      },
+      {
+        "title": "Nika izongezo ze-zinc",
+        "description": "Zisimahla kwiikliniki kunye ne-ORS. I-zinc inciphisa ixesha lorhudo nge-25% kwaye inciphisa ubunzima balo. Nika iintsuku ezi-10–14 njengoko ucebisiwe."
+      },
+      {
+        "title": "Jonga iimpawu zokuphelelwa ngamanzi emzimbeni",
+        "description": "Jonga amadiyapa amanzi, iinyembezi xa ekhala, nokuba uphaphile. Cinezelisa kancinci ulusu lwesisu — kufuneka lubuye ngokukhawuleza. Ukuba kukho into engalunganga, yiya ekliniki."
+      },
+      {
+        "title": "Yiya ekliniki okanye esibhedlele ukuba iba mandundu",
+        "description": "Ukuphelelwa ngamanzi phakathi — ikliniki. Ukuphelelwa ngamanzi kakhulu — isibhedlele. Musa ukuzithandabuza. Unyango (ulwelo lwe-IV) lukhawuleza kwaye lusindisa ubomi."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Apho omawuye khona",
+    "lede": "Unyango lorhudo ebantwaneni lolunye lweenkqubo ezomeleleyo zempilo yoluntu eMzantsi Afrika. i-ORS yasimahla, izitofu zasimahla, unyango lwasimahla esibhedlele ukuba luyafuneka. Lusebenzise kwangoko.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Ukuphelelwa ngamanzi kakhulu kumntwana",
+        "meta": "Simahla · iiyure ezingama-24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana ikliniki ekufutshane nawe",
+        "description": "i-ORS yasimahla, i-zinc kunye novavanyo lwabantwana abagulayo",
+        "meta": "Akukho appointment · akukho medical aid ifunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Umnxeba wasimahla weeyure ezingama-24 wezempilo nentlalontle yabantwana",
+        "meta": "Simahla kuyo nayiphi na ifowuni · iiyure ezingama-24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}
+
+
+
+
+

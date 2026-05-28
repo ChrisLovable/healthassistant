@@ -1,0 +1,159 @@
+{
+  "slug": "anxiety",
+  "group_slug": "mental-health",
+  "name": "Angs",
+  "tagline": "Meer as bekommernis. Daar is tegnieke en hulp wat help.",
+  "hero_image": "/images/diseases/hero-anxiety.webp",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "SADAG",
+    "WHO",
+    "South African Society of Psychiatrists",
+    "National Department of Health Mental Health Directorate"
+  ],
+  "what_is_it": {
+    "heading": "Angs in eenvoudige terme",
+    "lede": "Angs is wat jy voel wanneer jou liggaam se alarmstelsel te dikwels, te hard, of sonder werklike gevaar afgaan. Almal voel soms angstig. ’n Angsversteuring is wanneer dit in die pad van normale lewe kom.",
+    "paragraphs": [
+      "Daar is baie soorte: algemene angs (konstante bekommernis), paniekaanvalle (skielike golwe van intense vrees), sosiale angs (vrees vir veroordeling), spesifieke fobies, PTSV ná trauma. Hulle oorvleuel en deel behandelingsbeginsels.",
+      "Angs het ’n sterk fisiese komponent — bonsende hart, sweet, kortasem, duiseligheid, naarheid, bewing. Die liggaam voel asof dit in gevaar is selfs wanneer die verstand weet dit is nie. Dit is werklik, nie 'alles in jou kop' nie. Dit is behandelbaar."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Mees algemeen",
+        "body": "Angsversteurings is die mees algemene groep geestesgesondheidstoestande ter wêreld. Ongeveer 1 uit 5 Suid-Afrikaners ervaar een op ’n stadium."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Behandelbaar",
+        "body": "Kognitiewe Gedragsterapie (KGT), medisyne, en lewenstyl-veranderinge werk baie goed vir die meeste mense. Jy hoef nie daarmee saam te leef nie."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Ook fisies",
+        "body": "Angs word in die liggaam gevoel — hart bons, kortasem, duiseligheid. Mense dink dikwels hulle kry ’n hartaanval. Om dit te herken vir wat dit is, help."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "Gratis hulp",
+        "body": "SADAG en LifeLine bied gratis angs-berading. Klinieke verskaf gratis assessering en behandeling. Hulp is nader as wat jy dink."
+      }
+    ],
+    "pull_quote": {
+      "text": "Angs is nie ’n teken van swakheid nie. Dit is ’n teken dat jou alarmstelsel oortyd werk. Die goeie nuus: alarmstelsels kan heropgelei word.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Hoe angs lyk",
+    "lede": "Angs verskyn op drie hoof maniere — in die liggaam, in die verstand, en in gedrag. Jy merk waarskynlik van elkeen op.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "In die liggaam",
+        "description": "Bonsende hart, vinnige asemhaling of gevoel dat jy nie asem kan kry nie, sweet, bewing, naarheid of omgekrapte maag, duiseligheid, borsbenoudheid, tinteling, warm gloede of koue rillings."
+      },
+      {
+        "color": "orange",
+        "icon": "cloud",
+        "title": "In die verstand",
+        "description": "Konstante bekommernis — selfs oor klein dinge, gevoel van vrees, verstand wat jaag, verwag die ergste, kan nie konsentreer nie, indringende 'wat as'-gedagtes, sukkel om te slaap."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "In gedrag",
+        "description": "Vermy situasies wat jou angstig maak, het konstant gerusstelling nodig, kontroleer en herkontroleer, prikkelbaarheid, onttrek van mense, gebruik alkohol of middels om te kalmeer."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Angs is net te veel bekommer. Hou op oordink.",
+        "fact": "Angsversteurings behels werklike veranderinge in brein en liggaam — nie net denkpatrone nie. Om iemand te sê 'hou net op bekommer' is soos om ’n diabeet te sê 'reguleer net jou suiker'. Dit werk nie."
+      },
+      {
+        "myth": "Angs-medisyne is verslawend en maak jou ’n zombie.",
+        "fact": "Moderne angs-medisyne (veral SSRI's) is nie verslawend nie. Dit maak die alarmstelsel stil genoeg dat terapie en hanteringsvaardighede kan werk. Dit verander nie wie jy is nie."
+      },
+      {
+        "myth": "As jy dit nie kan sien nie, is dit nie werklik nie.",
+        "fact": "Angs is ’n mediese toestand met meetbare veranderinge in breinchemie, harttempo, en hormoonvlakke. Die feit dat ander dit nie kan sien nie, beteken nie dit gebeur nie."
+      },
+      {
+        "myth": "Sodra jy angs het, het jy dit vir die lewe.",
+        "fact": "Die meeste mense wat gepaste behandeling vir angs kry, sien aansienlike verbetering en baie herstel volledig. Selfs erge angs reageer op terapie en medisyne wanneer dit ’n kans gegee word."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Leer die asemhalings-herstel",
+        "description": "Wanneer angs styg: asem in vir 4 tellings, hou vir 4, uit vir 6. Die langer uitasem kalmeer die senuweestelsel. Gebruik dit tydens paniek — dit werk binne ’n minuut."
+      },
+      {
+        "title": "Benoem dit wanneer jy dit voel",
+        "description": "Om te sê 'dit is angs, nie ’n hartaanval nie' help om die liggaam se alarm van werklike gevaar te skei. Verminder die paniek-oor-paniek-spiraal."
+      },
+      {
+        "title": "Sny kafeïen as jy kan",
+        "description": "Kafeïen boots angs-simptome direk na — bonsende hart, senuweeagtigheid. Baie mense sien groot verbeterings in 2–3 weke van terugsny of stop."
+      },
+      {
+        "title": "Gaan kliniek toe vir assessering",
+        "description": "Staatsklinieke bied gratis geestesgesondheidsassessering. Praat met die geestesgesondheidsverpleegkundige. KGT-gebaseerde hulp en medisyne indien nodig is gratis."
+      },
+      {
+        "title": "As dit spesifiek paniekaanvalle is",
+        "description": "Lees op oor paniekaanval-bestuur — om die patroon te ken (piek in 10 min, nooit skadelik, gaan altyd verby) neem die meeste van die vrees uit hulle."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Wie om te bel",
+    "lede": "Angs reageer baie goed op behandeling. Die moeilikste deel is om die eerste keer uit te reik. SADAG en LifeLine maak dit makliker — gratis, vertroulik, geen oordeel.",
+    "helplines": [
+      {
+        "name": "SADAG Geestesgesondheidslyn",
+        "description": "Gratis, vertroulike berading vir angs, paniek, en stres",
+        "meta": "Gratis · 24 uur · opgeleide beraders",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "LifeLine Suider-Afrika",
+        "description": "Gratis berading, emosionele steun, trauma",
+        "meta": "24 uur · gratis vanaf enige foon",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis geestesgesondheidsassessering en behandeling indien nodig",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}

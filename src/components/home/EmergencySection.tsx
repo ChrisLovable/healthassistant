@@ -1,6 +1,8 @@
 "use client";
 
 import { Phone, Ambulance } from "lucide-react";
+import { useLang } from "@/lib/i18n/provider";
+import { t } from "@/lib/i18n/translations";
 
 const EMERGENCY_NUMBERS = [
   {
@@ -32,6 +34,35 @@ const EMERGENCY_NUMBERS = [
 ];
 
 export function EmergencySection() {
+  const { lang } = useLang();
+  const labels = {
+    en: {
+      gov: "Government Ambulance",
+      netcare: "Netcare 911",
+      er24: "ER24",
+      mobile: "Emergency (Mobile)",
+    },
+    af: {
+      gov: "Regeringsambulans",
+      netcare: "Netcare 911",
+      er24: "ER24",
+      mobile: "Noodgeval (Selfoon)",
+    },
+    xh: {
+      gov: "I-ambulensi kaRhulumente",
+      netcare: "Netcare 911",
+      er24: "ER24",
+      mobile: "Ungxamiseko (Ifowuni)",
+    },
+    zu: {
+      gov: "Government Ambulance",
+      netcare: "Netcare 911",
+      er24: "ER24",
+      mobile: "Emergency (Mobile)",
+    },
+  } as const;
+  const L = labels[lang];
+
   return (
     <section className="px-4 py-4">
       <div className="bg-red-50 border border-red-200 rounded-2xl p-4">
@@ -40,8 +71,8 @@ export function EmergencySection() {
             <Ambulance size={16} className="text-white" />
           </div>
           <div>
-            <h2 className="font-serif font-bold text-[15px] text-red-900">Emergency ambulance</h2>
-            <p className="text-[10px] text-red-700">Tap to call immediately</p>
+            <h2 className="font-serif font-bold text-[15px] text-red-900">{t("emergencySection.title", lang)}</h2>
+            <p className="text-[10px] text-red-700">{t("emergencySection.subtitle", lang)}</p>
           </div>
         </div>
 
@@ -59,13 +90,15 @@ export function EmergencySection() {
                 <Phone size={18} />
               </div>
               <span className="font-bold text-[14px] text-[var(--text)]">{item.number}</span>
-              <span className="text-[10px] text-[var(--text-muted)] text-center leading-tight">{item.name}</span>
+              <span className="text-[10px] text-[var(--text-muted)] text-center leading-tight">
+                {item.number === "10177" ? L.gov : item.number === "082 911" ? L.netcare : item.number === "084 124" ? L.er24 : L.mobile}
+              </span>
             </a>
           ))}
         </div>
 
         <p className="text-[10px] text-red-700 mt-3 text-center leading-relaxed">
-          Call <strong>10177</strong> for free government ambulance. <strong>112</strong> works from any mobile, even without airtime.
+          {t("emergencySection.footerBefore", lang)} <strong>10177</strong> {t("emergencySection.footerMiddle", lang)} <strong>112</strong> {t("emergencySection.footerAfter", lang)}
         </p>
       </div>
     </section>

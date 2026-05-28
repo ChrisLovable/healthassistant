@@ -6,16 +6,20 @@
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["National Department of Health", "Saving Mothers Report", "WHO", "South African Society of Obstetricians and Gynaecologists"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "National Department of Health",
+    "Saving Mothers Report",
+    "WHO",
+    "South African Society of Obstetricians and Gynaecologists"
+  ],
   "urgent": {
     "heading": "Gaan hospitaal toe nou as",
     "primary_message": "Swangerskap-gevaartekens kan die verskil tussen lewe en dood beteken — vir moeder of baba. Moenie wag nie. Moenie twyfel nie. Gaan.",
     "phone": "10177",
     "phone_display": "Bel 10177",
     "red_flags": [
-      "Swaar bloeding uit die vagina — meer as 'n normale periode",
+      "Swaar bloeding uit die vagina — meer as ’n normale periode",
       "Erge buik- of rugpyn wat nie verlig nie",
       "Erge hoofpyn met wasige sig of sien van kolletjies",
       "Skielike erge swelling van gesig, hande of voete",
@@ -25,58 +29,124 @@
       "Braking wat nie stop nie"
     ]
   },
-
   "what_is_it": {
     "heading": "Hoekom dit saak maak",
-    "lede": "Swangerskap is in die algemeen veilig in Suid-Afrika, maar moeder-sterftes is steeds te algemeen — en die meeste is voorkombaar. Om die gevaartekens te ken en vinnig te reageer, red lewens.",
+    "lede": "Swangerskap is in die algemeen veilig in Suid-Afrika, maar moedersterftes is steeds te algemeen — en die meeste is voorkombaar. Om die gevaartekens te ken en vinnig te reageer, red lewens.",
     "paragraphs": [
-      "Suid-Afrika verloor meer as 1,000 vroue per jaar tydens swangerskap of geboorte. Die Saving Mothers-verslag wys dat die meeste sterftes voorkombare oorsake het — bloeding, hoë bloeddruk, infeksie, komplikasies van vooraf-bestaande siektes. Baie sterftes gebeur omdat waarskuwings afgemaak is, of sorg vertraag is.",
+      "Suid-Afrika verloor meer as 1,000 vroue per jaar tydens swangerskap of geboorte. Die Saving Mothers-verslag wys dat die meeste sterftes voorkombare oorsake het — bloeding, hoë bloeddruk, infeksie, komplikasies van voorafbestaande siektes. Baie sterftes gebeur omdat waarskuwings afgemaak is, of sorg vertraag is.",
       "Jy hoef nie te weet wat verkeerd is nie. Jy moet net erken dat iets verkeerd is, en hospitaal toe kom. Gratis obstetriese sorg is beskikbaar by elke staatshospitaal. Vertrou jou instink — as iets verkeerd voel, is dit waarskynlik."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "alert-triangle","headline": "1,000+",          "body": "Suid-Afrikaanse vroue sterf elke jaar tydens swangerskap of geboorte. Die oorgrote meerderheid van hierdie sterftes is voorkombaar." },
-      { "color": "purple", "icon": "message-circle","headline": "MomConnect",      "body": "Gratis WhatsApp swangerskap-ondersteuning van NDoH in alle SA-tale. Stuur 'Hi' na 079 631 2456 om te registreer." },
-      { "color": "gold",   "icon": "shield",        "headline": "Gratis sorg",     "body": "Alle voorgeboortelike besoeke, geboorte en obstetriese noodgevalle is gratis by elke staatshospitaal en kliniek." },
-      { "color": "green",  "icon": "check-circle", "headline": "Vertrou jouself","body": "As iets verkeerd voel — gaan in. Gesondheidswerkers sien jou liewer vir niks as om iets ernstig te misluk." }
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "1,000+",
+        "body": "Suid-Afrikaanse vroue sterf elke jaar tydens swangerskap of geboorte. Die oorgrote meerderheid van hierdie sterftes is voorkombaar."
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "headline": "MomConnect",
+        "body": "Gratis WhatsApp swangerskap-ondersteuning van NDoH in alle SA-tale. Stuur 'Hi' na 079 631 2456 om te registreer."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Gratis sorg",
+        "body": "Alle voorgeboortelike besoeke, geboorte en obstetriese noodgevalle is gratis by elke staatshospitaal en kliniek."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Vertrou jouself",
+        "body": "As iets verkeerd voel — gaan in. Gesondheidswerkers sien jou liewer vir niks as om iets ernstigs mis te kyk."
+      }
     ],
     "pull_quote": {
-      "text": "Elke moeder-sterfte het 'n storie agter dit van waarskuwings wat afgemaak of misluk is. As jy swanger en bekommerd is, is die regte antwoord altyd om ondersoek te word. Altyd.",
+      "text": "Elke moedersterfte het ’n storie agter dit van waarskuwingstekens wat afgemaak of misgekyk is. As jy swanger en bekommerd is, is die regte antwoord altyd om ondersoek te word. Altyd.",
       "source": "Saving Mothers Report, South Africa"
     }
   },
-
   "signs": {
     "heading": "Waarskuwings volgens stadium van swangerskap",
     "lede": "Sommige tekens tel op enige stadium. Ander tel meer op sekere tye. By twyfel — laat jou kyk.",
     "items": [
-      { "color": "coral",  "icon": "droplet",      "title": "Eerste 12 weke",                  "description": "Swaar bloeding, erge eensydige pyn (kan ektopiese swangerskap wees — lewensgevaarlik), erge braking wat keer dat jy vloeistowwe inhou, koors bo 38°C." },
-      { "color": "orange", "icon": "alert-circle", "title": "Ná 12 weke",                       "description": "Swaar bloeding, erge hoofpyn met visieprobleme (kan voor-eklampsie wees), erge swelling, baba se bewegings verminder of stop (ná 28 weke)." },
-      { "color": "purple", "icon": "clock",        "title": "Naby of by termyn (ná 37 weke)",  "description": "Reëlmatige weë, water breek, bloeding, verminderde fetale beweging, erge hoofpyn of buikpyn. Moenie tuis probeer tyd hou nie — gaan in." }
+      {
+        "color": "coral",
+        "icon": "droplet",
+        "title": "Eerste 12 weke",
+        "description": "Swaar bloeding, erge eensydige pyn (kan ektopiese swangerskap wees — lewensgevaarlik), erge braking wat keer dat jy vloeistowwe inhou, koors bo 38°C."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Ná 12 weke",
+        "description": "Swaar bloeding, erge hoofpyn met sigprobleme (kan voor-eklampsie wees), erge swelling, baba se bewegings verminder of stop (ná 28 weke)."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "Naby of by termyn (ná 37 weke)",
+        "description": "Reëlmatige weë, water breek, bloeding, verminderde fetale beweging, erge hoofpyn of buikpyn. Moenie tuis probeer tyd hou nie — gaan in."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "By 'n gevaarteken — gaan hospitaal toe",            "description": "Moenie self ry as jy kan vermy nie. Bel 'n ambulans of laat iemand ry. Vat jou voorgeboortelike kaart of kliniekboekie saam." },
-      { "title": "Moenie simptome tuis tyd hou nie",                  "description": "Erge pyn, bloeding, of visie-veranderinge het nie tyd-hou nodig nie. Gaan in. Voor-eklampsie en ektopiese swangerskap kan binne ure dood maak." },
-      { "title": "Gaan na jou geboekte hospitaal of die naaste een",  "description": "Staatshospitale moet swanger-noodgevalle aanvaar, ongeag waar jy gebook is. Vat jou rekords saam as jy hulle het." },
-      { "title": "Indien onseker — boodskap MomConnect",               "description": "Gratis WhatsApp-ondersteuning — stuur 'Hi' na 079 631 2456. Jou kliniek kan ook adviseer of 'n teken hospitaal nodig het. By twyfel, kies hospitaal." },
-      { "title": "Bywoon elke voorgeboortelike besoek",                "description": "Die meeste gevaartekens word vroeg by roetine voorgeboortelike besoeke gevang. Gratis by elke kliniek. Die skedule voorkom noodgevalle." }
+      {
+        "title": "By ’n gevaarteken — gaan hospitaal toe",
+        "description": "Moenie self ry as jy kan vermy nie. Bel ’n ambulans of laat iemand ry. Vat jou voorgeboortelike kaart of kliniekboekie saam."
+      },
+      {
+        "title": "Moenie by die huis wag en kyk hoe lank dit aanhou nie",
+        "description": "Erge pyn, bloeding, of visie-veranderinge het nie tyd-hou nodig nie. Gaan in. Voor-eklampsie en ektopiese swangerskap kan binne ure dood maak."
+      },
+      {
+        "title": "Gaan na jou geboekte hospitaal of die naaste een",
+        "description": "Staatshospitale moet swanger-noodgevalle aanvaar, ongeag waar jy gebook is. Vat jou rekords saam as jy hulle het."
+      },
+      {
+        "title": "Indien onseker — boodskap MomConnect",
+        "description": "Gratis WhatsApp-ondersteuning — stuur 'Hi' na 079 631 2456. Jou kliniek kan ook adviseer of ’n teken hospitaal nodig het. By twyfel, kies hospitaal."
+      },
+      {
+        "title": "Bywoon elke voorgeboortelike besoek",
+        "description": "Die meeste gevaartekens word vroeg by roetine voorgeboortelike besoeke gevang. Gratis by elke kliniek. Die skedule voorkom noodgevalle."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
-    "lede": "Swangerskap-noodgevalle benodig hospitaal, nie kliniek nie. Gaan na 'n staatshospitaal met obstetriese dienste — Tygerberg, Charlotte Maxeke, Steve Biko, King Edward, en ander regoor die land.",
+    "lede": "Swangerskap-noodgevalle benodig hospitaal, nie kliniek nie. Gaan na ’n staatshospitaal met obstetriese dienste — Tygerberg, Charlotte Maxeke, Steve Biko, King Edward, en ander regoor die land.",
     "helplines": [
-      { "name": "Noodambulans",        "description": "Regerings-nooddiens",                              "meta": "Gratis · 24 uur · sê 'swangerskap-noodgeval'", "phone": "10177",      "phone_display": "10177",                "primary": true },
-      { "name": "Noodlyn (selfoon)",    "description": "Bereik enige nooddiens vanaf 'n selfoon",          "meta": "Gratis vanaf enige selfoon · 24 uur",          "phone": "112",        "phone_display": "112",                  "primary": true },
-      { "name": "MomConnect",            "description": "Gratis swangerskap-ondersteuning en advies via WhatsApp", "meta": "Alle SA-tale · NDoH",                    "phone": "0796312456", "phone_display": "WhatsApp 079 631 2456","primary": false }
+      {
+        "name": "Noodambulans",
+        "description": "Regerings-nooddiens",
+        "meta": "Gratis · 24 uur · sê 'swangerskap-noodgeval'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Noodlyn (selfoon)",
+        "description": "Bereik enige nooddiens vanaf ’n selfoon",
+        "meta": "Gratis vanaf enige selfoon · 24 uur",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "MomConnect",
+        "description": "Gratis swangerskap-ondersteuning en advies via WhatsApp",
+        "meta": "Alle SA-tale · NDoH",
+        "phone": "0796312456",
+        "phone_display": "WhatsApp 079 631 2456",
+        "primary": false
+      }
     ]
   }
 }

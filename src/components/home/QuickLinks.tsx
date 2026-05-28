@@ -1,38 +1,29 @@
 import Link from "next/link";
-import { MapPin, Hospital, Pill, Stethoscope } from "lucide-react";
+import { Pill, Stethoscope } from "lucide-react";
+import { getLang } from "@/lib/i18n/lang-server";
+import { t } from "@/lib/i18n/translations";
 
 const QUICK_LINKS = [
   {
-    href: "/clinic-finder?type=clinic",
-    label: "Find clinic",
+    href: "/clinic-finder?type=medical",
+    key: "quickLinks.nearestMedicalFacility",
     icon: Stethoscope,
     color: "#16A085",
   },
   {
-    href: "/clinic-finder?type=hospital",
-    label: "Find hospital",
-    icon: Hospital,
-    color: "#2980B9",
-  },
-  {
     href: "/clinic-finder?type=pharmacy",
-    label: "Find pharmacy",
+    key: "quickLinks.nearestPharmacy",
     icon: Pill,
     color: "#8E44AD",
   },
-  {
-    href: "/clinic-finder?type=emergency",
-    label: "Emergency room",
-    icon: MapPin,
-    color: "#C0392B",
-  },
-];
+] as const;
 
-export function QuickLinks() {
+export async function QuickLinks() {
+  const lang = await getLang();
   return (
     <section className="px-4 py-2">
-      <h2 className="font-serif font-bold text-[15px] text-[var(--text)] mb-2">Find nearby</h2>
-      <div className="grid grid-cols-4 gap-2">
+      <h2 className="font-serif font-bold text-[15px] text-[var(--text)] mb-2">{t("quickLinks.title", lang)}</h2>
+      <div className="grid grid-cols-2 gap-2">
         {QUICK_LINKS.map((link) => {
           const Icon = link.icon;
           return (
@@ -51,7 +42,7 @@ export function QuickLinks() {
                 <Icon size={18} />
               </div>
               <span className="text-[10px] font-medium text-[var(--text)] text-center leading-tight">
-                {link.label}
+                {t(link.key, lang)}
               </span>
             </Link>
           );

@@ -7,24 +7,27 @@
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
   "reviewer": "Dr [Naam], MBChB",
-  "sources": ["CANSA", "WHO", "National Department of Health", "Pink Drive"],
-
+  "sources": [
+    "CANSA",
+    "WHO",
+    "National Department of Health",
+    "Pink Drive"
+  ],
   "urgent": {
     "heading": "Gaan kliniek toe gou as jy enige van hierdie merk",
-    "primary_message": "Borskanker is nie 'n ambulans-noodgeval nie — maar hierdie tekens regverdig 'n vroeë kliniek-besoek. Vroeë diagnose maak 'n groot verskil aan oorlewing.",
+    "primary_message": "Borskanker is nie ’n ambulans-noodgeval nie — maar hierdie tekens regverdig ’n vroeë kliniek-besoek. Vroeë diagnose maak ’n groot verskil aan oorlewing.",
     "phone": null,
     "phone_display": "Vind 'n kliniek",
     "red_flags": [
-      "'n Knop in die bors of armholte — veral hard, onreëlmatig, of nie-beweegbaar",
+      "’n Knop in die bors of armholte — veral hard, onreëlmatig, of nie-beweegbaar",
       "Bloed of helder vloeistof uit die tepel",
-      "Tepel wat skielik na binne draai (gepoot)",
-      "Vel op die bors wat ingedeuk, kruisig, of soos 'n lemoenskil lyk",
+      "Tepel wat skielik na binne trek",
+      "Vel op die bors wat ingedeuk, geplooid of soos ’n lemoenskil lyk",
       "Skerp pyn in een bors wat nie met die siklus saam beweeg nie",
       "Onverklaarde verandering in bors-grootte of -vorm",
       "Skubbe, uitslag, of rooi area rondom die tepel"
     ]
   },
-
   "what_is_it": {
     "heading": "Borskanker in eenvoudige terme",
     "lede": "Borskanker is wanneer selle in die bors-weefsel ongekontroleerd begin groei. Dit kan in die melkkanale of melkkliere begin. Vroeg gevang is dit een van die mees-behandelbare kankers — vyf-jaar oorlewing oor 90% by vroeë stadiums.",
@@ -33,70 +36,168 @@
       "Die belangrikste enkele faktor in oorlewing is hoe vroeg dit gevang word. Bewussyn van eie borste — om hulle elke maand te voel — plus mammogramme by hoë-risiko ouderdomme is hoe ons dit vroeg vang."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "users",         "headline": "1 uit 27",          "body": "SA vroue sal borskanker kry. Een uit 8 in baie westerse lande. SA syfers styg vinnig in stedelike vroue." },
-      { "color": "purple", "icon": "calendar",     "headline": "Maandelikse selfondersoek","body": "Voel jou borste een keer per maand, dieselfde tyd in jou siklus. Leer hoe hulle voel sodat veranderinge opval." },
-      { "color": "gold",   "icon": "check-circle", "headline": "Vroeg = 90%+",      "body": "Stadium 1 borskanker het oor 90% vyf-jaar oorlewing. Stadium 4 onder 30%. Die verskil is vroeë diagnose." },
-      { "color": "green",  "icon": "user",          "headline": "Mans ook",          "body": "Borskanker by mans is selde maar werklik — ongeveer 1% van gevalle. Mans kry dit dikwels later omdat hulle nie kyk nie. As 'n knop, gaan dokter toe." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 uit 27",
+        "body": "SA vroue sal borskanker kry. Een uit 8 in baie westerse lande. SA syfers styg vinnig in stedelike vroue."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Maandelikse selfondersoek",
+        "body": "Voel jou borste een keer per maand, dieselfde tyd in jou siklus. Leer hoe hulle voel sodat veranderinge opval."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Vroeg = 90%+",
+        "body": "Stadium 1 borskanker het oor 90% vyf-jaar oorlewing. Stadium 4 onder 30%. Die verskil is vroeë diagnose."
+      },
+      {
+        "color": "green",
+        "icon": "user",
+        "headline": "Mans ook",
+        "body": "Borskanker by mans is selde maar werklik — ongeveer 1% van gevalle. Mans kry dit dikwels later omdat hulle nie kyk nie. As ’n knop, gaan dokter toe."
+      }
     ],
     "pull_quote": {
-      "text": "Die meeste knoppe wat vroue in hul borste vind is goedaardig — sists, vesel-ophopings, hormoon-veranderinge. Maar geen knop kan op gevoel alleen veilig vertroulik geword nie. Elke nuwe knop verdien 'n dokter se assessering.",
+      "text": "Die meeste knoppe wat vroue in hul borste vind is goedaardig — siste, veselagtige knoppe, hormoon-veranderinge. Maar geen knop kan veilig net op gevoel beoordeel word nie. Elke nuwe knop verdien ’n dokter se assessering.",
       "source": "CANSA"
     }
   },
-
   "signs": {
     "heading": "Tekens om voor te kyk",
-    "lede": "Borskanker wys nie altyd 'n knop nie. Hier is alle tekens om voor te kyk by jou maandelikse selfondersoek.",
+    "lede": "Borskanker wys nie altyd ’n knop nie. Hier is alle tekens om voor te kyk by jou maandelikse selfondersoek.",
     "items": [
-      { "color": "orange", "icon": "circle",        "title": "Voelbare knoppe",      "description": "Enige nuwe knop in die bors of armholte — veral een wat hard is, onreëlmatig vorm, of nie beweeg as jy daaroor druk nie. Pyn is nie 'n betroubare onderskeier nie." },
-      { "color": "purple", "icon": "droplet",       "title": "Tepel-veranderinge",    "description": "Helder of bloederige vloeistof uit een tepel (sonder borsvoeding). Tepel wat skielik na binne draai. Skubbe, uitslag, of pyn rondom die tepel." },
-      { "color": "coral",  "icon": "alert-circle",  "title": "Vel-veranderinge",      "description": "Vel wat ingedruk, gerimpel, of soos 'n lemoenskil lyk. Rooi, warm, of swelling van 'n area. Onverklaarde verandering in bors-grootte of -vorm." }
+      {
+        "color": "orange",
+        "icon": "circle",
+        "title": "Voelbare knoppe",
+        "description": "Enige nuwe knop in die bors of armholte — veral een wat hard is, onreëlmatig vorm, of nie beweeg as jy daaroor druk nie. Pyn is nie ’n betroubare onderskeier nie."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Tepel-veranderinge",
+        "description": "Helder of bloederige vloeistof uit een tepel (sonder borsvoeding). Tepel wat skielik na binne trek. Skubbe, uitslag, of pyn rondom die tepel."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Vel-veranderinge",
+        "description": "Vel wat ingedruk, gerimpel, of soos ’n lemoenskil lyk. Rooi, warm, of swelling van ’n area. Onverklaarde verandering in bors-grootte of -vorm."
+      }
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "Borskanker is altyd erfelik — as my ma dit nie gehad het nie, is ek veilig.","fact": "Slegs 5–10% van borskankers is erfelik. Die meeste pasiënte het geen familiegeskiedenis nie. Alle vroue is op risiko." },
-      { "myth": "Borssalfies, anti-perspirante, en BH-drade veroorsaak borskanker.",          "fact": "Hierdie is onderstaande mites. Decades van studies wys geen verband nie. Veiligheid is wel-getoets." },
-      { "myth": "'n Knop wat seer is, is nie kanker nie.",                                     "fact": "Pyn is nie 'n betroubare teken nie. Sommige kanker-knoppe is pynvol; baie goedaardige knoppe is pynloos. Pyn alleen kan nie kanker uitsluit nie." },
-      { "myth": "Mammogramme veroorsaak meer skade as goed weens straling.",                   "fact": "Mammogramme gebruik baie lae stralingsdosisse. Die voordeel van vroeë diagnose (lewensreddend) oortref die straling-risiko aansienlik vir vroue van geskikte ouderdom." }
+      {
+        "myth": "Borskanker is altyd erfelik — as my ma dit nie gehad het nie, is ek veilig.",
+        "fact": "Slegs 5–10% van borskankers is erfelik. Die meeste pasiënte het geen familiegeskiedenis nie. Alle vroue is op risiko."
+      },
+      {
+        "myth": "Borssalfies, anti-perspirante, en BH-drade veroorsaak borskanker.",
+        "fact": "Hierdie is onderstaande mites. Dekades se studies wys geen verband nie. Veiligheid is wel-getoets."
+      },
+      {
+        "myth": "’n Knop wat seer is, is nie kanker nie.",
+        "fact": "Pyn is nie ’n betroubare teken nie. Sommige kanker-knoppe is pynvol; baie goedaardige knoppe is pynloos. Pyn alleen kan nie kanker uitsluit nie."
+      },
+      {
+        "myth": "Mammogramme veroorsaak meer skade as goed weens straling.",
+        "fact": "Mammogramme gebruik baie lae stralingsdosisse. Die voordeel van vroeë diagnose (lewensreddend) oortref die straling-risiko aansienlik vir vroue van geskikte ouderdom."
+      }
     ]
   },
-
   "prevention": {
     "heading": "Hoe om jou risiko te verlaag en vroeg te vang",
     "lede": "Sommige risikofaktore kan jy nie verander nie (geslag, ouderdom, genetika). Dit wat jy wel kan doen — hier.",
     "items": [
-      { "color": "green",  "icon": "calendar",     "title": "Maandelikse selfondersoek",   "description": "Voel jou borste een keer per maand, 7–10 dae ná jou periode begin (mees gelyke punt in die siklus). Leer wat normaal vir jou is." },
-      { "color": "purple", "icon": "scale",         "title": "Gesonde gewig",                 "description": "Oorgewig na menopouse verhoog borskanker-risiko. Hou 'n gesonde gewig deur dieet en oefening." },
-      { "color": "orange", "icon": "activity",     "title": "Aktief bly",                    "description": "Gereelde oefening (150 min per week) verlaag borskanker-risiko met 10–20%. Wandel tel. Konsekwent is beter as intens." },
-      { "color": "gold",   "icon": "x-circle",      "title": "Beperk alkohol",                "description": "Selfs lae alkoholgebruik styg borskanker-risiko effe. Vroue wat meer as 1 drankie per dag drink, het 'n duideliker verhoogde risiko." }
+      {
+        "color": "green",
+        "icon": "calendar",
+        "title": "Maandelikse selfondersoek",
+        "description": "Voel jou borste een keer per maand, 7–10 dae ná jou periode begin (mees gelyke punt in die siklus). Leer wat normaal vir jou is."
+      },
+      {
+        "color": "purple",
+        "icon": "scale",
+        "title": "Gesonde gewig",
+        "description": "Oorgewig na menopouse verhoog borskanker-risiko. Hou ’n gesonde gewig deur dieet en oefening."
+      },
+      {
+        "color": "orange",
+        "icon": "activity",
+        "title": "Aktief bly",
+        "description": "Gereelde oefening (150 min per week) verlaag borskanker-risiko met 10–20%. Wandel tel. Konsekwent is beter as intens."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Beperk alkohol",
+        "description": "Selfs lae alkoholgebruik styg borskanker-risiko effe. Vroue wat meer as 1 drankie per dag drink, het ’n duideliker verhoogde risiko."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "Begin maandelikse selfondersoek nou",            "description": "Vroue 20+ behoort hul borste maandeliks te voel. Leer die tegniek by 'n kliniek of CANSA-aanlyn. Een keer per maand, een minuut, lewensreddend." },
-      { "title": "Vir vroue 40+ — vra oor mammogramme",            "description": "Skerming-mammogramme elke 2 jaar vanaf 40 (of 50, afhanklik van riglyne en risiko). Pink Drive-mobielklinieke en groot hospitale bied dit. Sommige gratis, sommige bekostigbaar." },
-      { "title": "By 'n knop — gaan kliniek toe gou",              "description": "Moenie 'wag en kyk' nie. Most knoppe is goedaardig — maar dit moet uitgesluit word. Klinieke verwys vir ultraklank of mammogram as nodig." },
-      { "title": "Hoë-risiko? Vra oor BRCA-toetsing",               "description": "Familiegeskiedenis van borskanker of eierstokkanker, of Asjkenazies-Joodse herkoms, regverdig genetiese toetse. Sommige beskikbaar in SA." },
-      { "title": "By diagnose — moenie wag, moenie alleen wees",   "description": "Verwysing na 'n bors-eenheid by 'n groot hospitaal. CANSA help met navigasie, ondersteuningsgroepe, en finansiële advies. Jy hoef nie alleen deur dit te gaan nie." }
+      {
+        "title": "Begin maandelikse selfondersoek nou",
+        "description": "Vroue 20+ behoort hul borste maandeliks te voel. Leer die tegniek by ’n kliniek of CANSA-aanlyn. Een keer per maand, een minuut, lewensreddend."
+      },
+      {
+        "title": "Vir vroue 40+ — vra oor mammogramme",
+        "description": "Siftingsmammogramme elke 2 jaar vanaf 40 (of 50, afhanklik van riglyne en risiko). Pink Drive-mobielklinieke en groot hospitale bied dit. Sommige gratis, sommige bekostigbaar."
+      },
+      {
+        "title": "By ’n knop — gaan kliniek toe gou",
+        "description": "Moenie 'wag en kyk' nie. Most knoppe is goedaardig — maar dit moet uitgesluit word. Klinieke verwys vir ultraklank of mammogram as nodig."
+      },
+      {
+        "title": "Hoë-risiko? Vra oor BRCA-toetsing",
+        "description": "Familiegeskiedenis van borskanker of eierstokkanker, of Asjkenazies-Joodse herkoms, regverdig genetiese toetse. Sommige beskikbaar in SA."
+      },
+      {
+        "title": "By diagnose — moenie wag, moenie alleen wees",
+        "description": "Verwysing na ’n bors-eenheid by ’n groot hospitaal. CANSA help met navigasie, ondersteuningsgroepe, en finansiële advies. Jy hoef nie alleen deur dit te gaan nie."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
-    "lede": "Borskanker-behandeling in SA bestaan op alle vlakke — van gratis kliniek-assessering tot gespesialiseerde bors-eenhede. Vroeg-vang is wat die meeste lewens red.",
+    "lede": "Borskanker-behandeling in SA bestaan op alle vlakke — van gratis kliniek-assessering tot gespesialiseerde bors-eenhede. Vroeë opsporing is wat die meeste lewens red.",
     "helplines": [
-      { "name": "Vind jou naaste kliniek",   "description": "Gratis bors-ondersoek en verwysings",                   "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true,  "link": "/clinic-finder" },
-      { "name": "CANSA-hulplyn",              "description": "Kanker-inligting, ondersteuningsgroepe, navigasie",      "meta": "Ma–Vr 08:00–16:30 · gratis",                "phone": "0800226622", "phone_display": "0800 22 66 22",  "primary": true },
-      { "name": "Pink Drive",                 "description": "Vroue-kanker-bewustheid, mobiele mammogramme",           "meta": "Mobiele klinieke en gemeenskapsprogramme",  "phone": "0867465374", "phone_display": "086 PINKDRIVE",  "primary": false }
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis bors-ondersoek en verwysings",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "CANSA-hulplyn",
+        "description": "Kanker-inligting, ondersteuningsgroepe, navigasie",
+        "meta": "Ma–Vr 08:00–16:30 · gratis",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "Pink Drive",
+        "description": "Vroue-kanker-bewustheid, mobiele mammogramme",
+        "meta": "Mobiele klinieke en gemeenskapsprogramme",
+        "phone": "0867465374",
+        "phone_display": "086 PINKDRIVE",
+        "primary": false
+      }
     ]
   }
 }

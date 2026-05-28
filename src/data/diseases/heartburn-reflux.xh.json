@@ -1,0 +1,86 @@
+{
+  "slug": "heartburn-reflux",
+  "group_slug": "pain",
+  "name": "Heartburn & reflux",
+  "tagline": "Common. Treatable. When it is something more.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["South African Gastroenterology Society", "WHO", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "Heartburn and reflux in plain terms",
+    "lede": "Heartburn is a burning feeling in the chest or throat caused by stomach acid flowing backwards into the food pipe. When it happens often, it is called GORD (gastro-oesophageal reflux disease).",
+    "paragraphs": [
+      "The valve between the stomach and food pipe is meant to stay closed. When it relaxes too often or too long, acid escapes upwards. Result: a hot, burning sensation behind the breastbone — often after meals, often worse lying down.",
+      "Occasional heartburn after a big meal is normal. Heartburn that happens twice a week or more, or that wakes you at night, deserves attention. It can damage the food pipe over years. The good news: lifestyle changes plus simple medications work very well for most people."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "1 in 4",        "body": "South Africans experience heartburn at least once a week. Far more have it occasionally. It is very common." },
+      { "color": "green",  "icon": "check-circle", "headline": "Treatable",     "body": "Lifestyle changes plus simple medication (PPIs like omeprazole) work very well. Most people get significant relief within 2 weeks." },
+      { "color": "coral",  "icon": "alert-circle", "headline": "Can mimic heart","body": "Severe heartburn can feel like a heart attack. When in doubt — especially with sweating, breathlessness, jaw or arm pain — assume heart and Tsalela umnxeba ku-10177." },
+      { "color": "gold",   "icon": "shield",       "headline": "Watch for red flags","body": "Difficulty swallowing, weight loss, vomiting blood, black stools — these are not heartburn. See a doctor without delay." }
+    ],
+    "pull_quote": {
+      "text": "If you are taking heartburn medication every day for more than a few weeks, get a proper assessment. Long-term acid reflux can damage the food pipe and rarely lead to cancer — both preventable with the right care.",
+      "source": "South African Gastroenterology Society"
+    }
+  },
+
+  "signs": {
+    "heading": "What to look out for",
+    "lede": "Heartburn has a typical pattern — but some symptoms warn of something more serious.",
+    "items": [
+      { "color": "green",  "icon": "circle",       "title": "Typical heartburn",    "description": "Burning behind the breastbone, often after meals. Sour or bitter taste at the back of the throat. Worse lying down, bending, or after big or fatty meals. Relief from antacids." },
+      { "color": "orange", "icon": "alert-circle", "title": "Reflux features",      "description": "Acid coming up into the throat or mouth, especially at night. Persistent cough or hoarseness. Sometimes wheezing or asthma-like symptoms. Worse with weight gain or pregnancy." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Red flags — see a doctor","description": "Difficulty or painful swallowing, food sticking, weight loss, vomiting blood, black tarry stools, severe chest pain — possible heart attack. None of these are 'just heartburn'." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Milk soothes heartburn.",                                                      "fact": "Milk briefly buffers acid, then often makes things worse — milk fat causes more acid release. Use antacids designed for the job (e.g. Gaviscon)." },
+      { "myth": "Reflux is just discomfort — it doesn't cause real damage.",                   "fact": "Years of untreated reflux can damage the food pipe lining (oesophagitis), cause narrowing, and rarely lead to a precancerous condition. Worth treating, not just enduring." },
+      { "myth": "Heartburn is always after eating spicy food.",                                   "fact": "Common triggers vary: coffee, fatty foods, chocolate, alcohol, peppermint, citrus, large meals, late eating. Different people have different triggers. A food diary helps." },
+      { "myth": "If I lose weight, the heartburn will magically go.",                            "fact": "Weight loss does help significantly, especially around the waist. But many slim people have reflux too — and weight isn't the only factor. Combine weight management with other changes." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Daily habits that help",
+    "lede": "Lifestyle changes are often more powerful than medication for mild to moderate reflux. Worth trying for 4 weeks before settling on pills forever.",
+    "items": [
+      { "color": "green",  "icon": "utensils", "title": "Smaller meals, eat slowly",         "description": "Big meals overfill the stomach and push acid up. Try smaller portions, eat slowly, don't go back for seconds at the same sitting." },
+      { "color": "purple", "icon": "clock",    "title": "Don't eat within 3 hours of bed",  "description": "Lying down with a full stomach is a recipe for night reflux. Last meal at least 3 hours before bed. Light snack only if needed." },
+      { "color": "orange", "icon": "bed",      "title": "Raise the head of the bed",         "description": "Put 10–15cm blocks under the headboard legs (not just extra pillows — these bend the neck). Gravity keeps acid down at night." },
+      { "color": "gold",   "icon": "x-circle", "title": "Cut your triggers",                  "description": "Common: coffee, alcohol, fatty foods, chocolate, peppermint, citrus, spicy food, smoking, tight waistbands. Stop smoking entirely — it weakens the valve directly." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Try lifestyle changes for 4 weeks",                "description": "Smaller meals, no late eating, raised bed, identify triggers. About half of people get major relief from these alone — no medication needed." },
+      { "title": "Try over-the-counter antacids for occasional",     "description": "Gaviscon, Rennies, or similar work quickly for occasional episodes. Available at any pharmacy. Don't use them every day — that's a sign you need a different approach." },
+      { "title": "If symptoms 2+ times a week — see a clinic",       "description": "PPIs (omeprazole, esomeprazole) used for 4–8 weeks are often very effective. Free at government clinics. Don't take them forever without medical review." },
+      { "title": "If red flags appear — go without delay",          "description": "Difficulty swallowing, weight loss, vomiting blood, black stools — these need urgent assessment, sometimes endoscopy. Don't try over-the-counter treatment for these." },
+      { "title": "If chest pain — assume heart first",               "description": "Heart attack and heartburn can feel similar. With sweating, breathlessness, jaw or arm pain, or any uncertainty — Tsalela umnxeba ku-10177. Better safe." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Most reflux can be managed at clinic level. Persistent symptoms or red flags benefit from specialist referral.",
+    "helplines": [
+      { "name": "Emergency ambulance",      "description": "If chest pain might be a heart attack",                          "meta": "Free · 24 hours",                          "phone": "10177", "phone_display": "10177",         "primary": true },
+      { "name": "Find your nearest clinic", "description": "Free assessment, lifestyle advice, and prescription treatment", "meta": "No appointment · no medical aid required", "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "Any local pharmacy",        "description": "Over-the-counter antacids for occasional use",                  "meta": "No prescription needed for OTC",          "phone": null,    "phone_display": "Visit a pharmacy","primary": false }
+    ]
+  }
+}

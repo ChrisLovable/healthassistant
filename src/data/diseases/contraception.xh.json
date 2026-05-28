@@ -1,0 +1,75 @@
+{
+  "slug": "contraception",
+  "group_slug": "womens-health",
+  "name": "Contraception",
+  "tagline": "Your options. What's free. What suits your life.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["National Department of Health", "Marie Stopes South Africa", "WHO", "FPAofSA"],
+
+  "what_is_it": {
+    "heading": "Contraception in plain terms",
+    "lede": "Contraception lets you choose when and if you have children. South Africa offers a wide range of methods — most are free at government clinics. Different methods suit different lives.",
+    "paragraphs": [
+      "There is no 'best' method — only the best for you right now. Choices depend on your age, health, plans for children, partner situation, and lifestyle. The right method is one you'll actually use consistently.",
+      "All government clinics provide contraception free of charge. You don't need to involve your partner, parents (from age 12), or anyone else. Confidentiality is protected by South African law — healthcare workers cannot share your contraceptive choices without your permission."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "shield",        "headline": "All free",        "body": "Pills, injections, implants, IUDs, condoms — all available free at every government clinic." },
+      { "color": "green",  "icon": "check-circle", "headline": "Many options",     "body": "Daily pills, monthly injections, 3-monthly injections, implants lasting 3 years, IUDs lasting up to 10 years." },
+      { "color": "gold",   "icon": "user",          "headline": "Confidential",   "body": "From age 12 you can access contraception privately. Healthcare workers cannot tell parents or partners without your permission." },
+      { "color": "coral",  "icon": "alert-circle",  "headline": "Emergency pill","body": "Morning-after pill works up to 5 days after sex — but the sooner the better. Free at clinics, available at most pharmacies." }
+    ],
+    "pull_quote": {
+      "text": "Only condoms protect against both pregnancy AND STIs. Hormonal methods are highly effective for pregnancy but offer no protection from infections. Double up if you can.",
+      "source": "Marie Stopes South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Which method fits your life?",
+    "lede": "There's no single right answer. Match the method to your life — and remember you can switch any time.",
+    "items": [
+      { "color": "green",  "icon": "calendar", "title": "Want long-term, low-effort",   "description": "Implant (3 years, small rod in upper arm) or IUD (3–10 years depending on type). Both are highly effective and you can forget about them once in place." },
+      { "color": "purple", "icon": "pill",     "title": "Want monthly control",          "description": "Pill (taken daily at the same time) or injection (monthly or 3-monthly). Good if you may want pregnancy in the next year or two." },
+      { "color": "gold",   "icon": "shield",   "title": "Want STI protection too",       "description": "Male or female condoms — every time, with or without other contraception. Only these protect against HIV and STIs." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Contraception causes infertility later.",                            "fact": "All reversible methods let your fertility return after stopping — usually within months. There is no long-term effect on having children later when you want them." },
+      { "myth": "You can't get pregnant on your first time, or while breastfeeding.","fact": "You absolutely can. Always use contraception if you don't want pregnancy — first time, period, or any time after birth." },
+      { "myth": "The pill protects against HIV and STIs.",                           "fact": "Hormonal contraception prevents pregnancy only. For STIs and HIV — condoms every time, or PrEP if at higher HIV risk." },
+      { "myth": "Emergency contraception is the same as abortion.",                  "fact": "Emergency contraception works before pregnancy starts — it delays ovulation. It cannot end an existing pregnancy. Termination of pregnancy is a separate, legal service." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "Go to any government clinic",                  "description": "Walk in. Ask for contraception. They'll explain options and help you choose. No appointment needed, no medical aid required." },
+      { "title": "Try a method — and switch if it doesn't fit",  "description": "Side effects with one method don't mean others will give you problems. Many women try 2 or 3 before finding the right one. Switching is free." },
+      { "title": "If you miss a pill — check the leaflet",        "description": "Different pills have different rules. Generally: take the missed pill as soon as you remember, and use condoms for 7 days as backup." },
+      { "title": "If sex without protection happens",             "description": "Emergency contraception within 5 days. Free at clinics. R30–80 at most pharmacies. The sooner the better. Doesn't replace regular contraception." },
+      { "title": "Couples — try to decide together",              "description": "Contraception works best when both partners support the choice. Many clinics offer couples counselling. Outcomes are better when you're on the same page." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Contraception is one of South Africa's best-organised public health services. Free, confidential, available to everyone from age 12.",
+    "helplines": [
+      { "name": "Find your nearest clinic",  "description": "Every government clinic provides free contraception and counselling",     "meta": "No appointment · no medical aid required · age 12+", "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
+      { "name": "Marie Stopes SA",            "description": "Counselling, contraception, reproductive health services",                  "meta": "Mon–Fri 08:00–17:00",                                "phone": "0800117785", "phone_display": "0800 11 77 85", "primary": true },
+      { "name": "loveLife youth line",        "description": "For young people — friendly, anonymous, free",                              "meta": "Mon–Fri 09:00–20:00 · Sat 09:00–18:00",             "phone": "0800121900", "phone_display": "0800 121 900",  "primary": false }
+    ]
+  }
+}

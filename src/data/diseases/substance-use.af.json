@@ -1,0 +1,173 @@
+{
+  "slug": "substance-use",
+  "group_slug": "mental-health",
+  "name": "Middelmisbruik en verslawing",
+  "tagline": "Alkohol, dwelms — hoe om dit te herken, waar om hulp te kry.",
+  "hero_image": "/images/diseases/hero-substance-use.webp",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "SANCA (South African National Council on Alcoholism and Drug Dependence)",
+    "Department of Social Development",
+    "WHO",
+    "Central Drug Authority SA"
+  ],
+  "urgent": {
+    "heading": "Dringend — bel nou as",
+    "primary_message": "Oordosis, erge onttrekking, of gedagtes van selfbesering benodig onmiddellike hulp. Moenie wag nie. Moenie alleen wees nie.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Bewusteloos, moeilik om wakker te maak, of reageer nie ná gebruik",
+      "Asemhaling baie stadig, onreëlmatig, of glad nie (veral met opioïede soos heroïen of whoonga)",
+      "Blou lippe, vingernaels, of gesig",
+      "Erge braking wat nie stop nie, veral as slaperig",
+      "Stuiptrekkings tydens onttrekking — veral van alkohol of benzodiasepiene",
+      "Erge verwarring, agitasie, hallusinasies, of koors",
+      "Gedagtes van selfbesering, selfmoord, of om iemand anders seer te maak"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Middelmisbruik in eenvoudige terme",
+    "lede": "alkohol- of dwelmgebruik raak ’n probleem wanneer dit jou gesondheid, jou verhoudings, jou werk, of jou gevoel van jouself begin skade aandoen — en wanneer jy vind dat jy nie kan stop nie, selfs wanneer jy wil.",
+    "paragraphs": [
+      "Verslawing is ’n mediese toestand, nie ’n morele mislukking nie. Die middel verander hoe die brein se belonings- en stresstelsels werk, wat voortgesette gebruik nodig laat voel net om normaal te voel. Dit is hoekom wilskrag alleen dikwels nie genoeg is nie — en hoekom behandeling saak maak.",
+      "In Suid-Afrika veroorsaak alkohol verreweg die meeste skade, gevolg deur metamfetamien (tik, veral in die Wes-Kaap), dagga, heroïen en 'whoonga'/nyaope (heroïen-gebaseerde straatdwelms), en voorskrifmedisyne. Die pad uit is anders vir elkeen, maar hulle begin almal met dieselfde stap — om uit te reik."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Mediese toestand",
+        "body": "Verslawing is ’n erkende mediese toestand wat breinveranderinge behels. Behandeling werk — herstel is werklik."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Algemeen",
+        "body": "Ongeveer 1 uit 5 Suid-Afrikaners sal op ’n stadium met ’n alkohol- of dwelmgebruik-versteuring sukkel. Jy is ver van alleen."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "SANCA is gratis",
+        "body": "SANCA bedryf gratis assessering- en behandelingsentrums regoor Suid-Afrika. Detoks, berading, en rehabilitasie — geen mediese fonds nodig."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Onttrekking is werklik",
+        "body": "Alkohol- en benzodiasepien-onttrekking kan lewensgevaarlik wees — moenie ooit alleen koud-kalkoen ophou nie. Mediese detoks is veiliger en gratis by die meeste klinieke."
+      }
+    ],
+    "pull_quote": {
+      "text": "Herstel gaan nie oor wilskrag nie. Dit gaan oor die regte hulp op die regte tyd. Die persoon wat een keer vir hulp vra, is nie dieselfde persoon wat dit alleen gedra het nie — hulle is reeds dapperder.",
+      "source": "SANCA"
+    }
+  },
+  "signs": {
+    "heading": "Tekens dat gebruik ’n probleem geword het",
+    "lede": "alkohol- of dwelmgebruik is op ’n spektrum — van gebruik, tot misbruik, tot afhanklikheid. Jy hoef nie op die bodem te wees om vir hulp te vra nie. Vroeër is makliker.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "trending-up",
+        "title": "Het meer nodig",
+        "description": "Gebruik meer as voorheen vir dieselfde effek. Drink vroeër in die dag. Gebruik wanneer alleen, of die heel eerste ding in die oggend. Versteek die hoeveelheid van ander."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Kan nie stop nie",
+        "description": "Probeer terugsny en misluk. Beloftes aan jouself of ander wat jy nie kan hou nie. Gebruik selfs wanneer jy weet dit veroorsaak skade aan jou gesondheid, gesin, of werk."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "Onttrekkingsimptome",
+        "description": "Voel siek (bewerasies, sweet, naarheid, angs) wanneer jy ’n paar uur nie gebruik het nie. Gebruik net om normaal te voel, nie om hoog te voel nie. ’n Duidelike teken dat die liggaam aangepas het."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Verslawing is ’n morele mislukking of swakheid.",
+        "fact": "Dekades se breinnavorsing wys verslawing behels werklike veranderinge aan breinbane — beloning, stres, besluitneming. Dit is ’n mediese toestand wat op behandeling reageer, nie ’n karaktergebrek nie."
+      },
+      {
+        "myth": "Jy moet die bodem tref voordat behandeling kan werk.",
+        "fact": "Vroeër is makliker. Mense wat hulp kry terwyl hulle nog werk, nog in die gesin, nog funksioneel is, het veel hoër hersteltempo's as dié wat wag tot alles verloor is."
+      },
+      {
+        "myth": "Ek behoort dit op my eie te kan los. Om vir hulp te vra beteken ek het misluk.",
+        "fact": "Die meeste mense wat van verslawing herstel, kry professionele hulp. Om dit alleen te probeer het ’n veel laer suksessyfer. Om vir hulp te vra is die mees effektiewe enkele ding wat jy kan doen."
+      },
+      {
+        "myth": "Eens ’n verslaafde, altyd ’n verslaafde.",
+        "fact": "Herstel is werklik en blywend vir baie mense. Die breinveranderinge van alkohol- of dwelmgebruik kan met tyd en behandeling genees. Miljoene mense het hul lewens herbou."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Jou volgende stappe",
+    "items": [
+      {
+        "title": "Bel SANCA — gratis assessering en verwysing",
+        "description": "0861 472 622 verbind jou met die SANCA-tak naaste aan jou. Hulle luister, assesseer, verwys na gratis behandeling. Geen oordeel."
+      },
+      {
+        "title": "Moenie alkohol alleen probeer detoks nie",
+        "description": "Erge alkohol-onttrekking kan stuiptrekkings en selfs dood veroorsaak. As jy elke dag swaar drink, praat met ’n kliniek voor jy stop. Mediese detoks is gratis en veel veiliger."
+      },
+      {
+        "title": "As jy opioïede gebruik — weet van oordosis",
+        "description": "Heroïen, whoonga, en voorskrif-pynstillers kan asemhaling stop. Moenie ooit alleen gebruik as jy kan vermy nie. Naloksoon keer ’n oordosis om — vra SANCA waar om dit te kry."
+      },
+      {
+        "title": "Vertel een persoon wat jy vertrou",
+        "description": "’n Familielid, vriend, geloofsleier, dokter — wie jy ook al die meeste vertrou. Om dit een keer hardop te sê breek die geheimhouding wat dit aan die gang hou."
+      },
+      {
+        "title": "As iemand wat jy liefhet gebruik",
+        "description": "Praat uit besorgdheid, nie dreigement nie. 'Ek het jou lief en ek is bekommerd' is kragtiger as 'jy moet ophou'. SANCA help ook gesinne — nie net gebruikers nie."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "alkohol- of dwelmgebruik-behandeling in Suid-Afrika is meer toeganklik as wat die meeste mense besef. SANCA-takke bestaan in elke groot sentrum. Staatsklinieke bied mediese detoks. Hulp is nader as wat jy dink.",
+    "helplines": [
+      {
+        "name": "SANCA",
+        "description": "Gratis assessering, detoks, berading, en rehab-verwysing",
+        "meta": "Ma–Vr 08:00–16:30 · takke landwyd",
+        "phone": "0861472622",
+        "phone_display": "0861 472 622",
+        "primary": true
+      },
+      {
+        "name": "Middelmisbruiklyn (DSD)",
+        "description": "Gratis 24-uur Departement van Maatskaplike Ontwikkeling-lyn",
+        "meta": "Gratis · 24 uur · alle SA-tale",
+        "phone": "0800121314",
+        "phone_display": "0800 12 13 14",
+        "primary": true
+      },
+      {
+        "name": "SADAG Geestesgesondheidslyn",
+        "description": "Vir dubbel-diagnose, depressie en alkohol- of dwelmgebruik saam",
+        "meta": "Gratis · 24 uur",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": false
+      }
+    ]
+  }
+}

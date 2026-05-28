@@ -1,0 +1,183 @@
+{
+  "slug": "heart-attack",
+  "group_slug": "emergency-signs",
+  "name": "Ihlaselo lentliziyo",
+  "tagline": "Intlungu yesifuba engadluliyo — tsalela umnxeba ngoku.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "South African Heart Association",
+    "WHO",
+    "American Heart Association"
+  ],
+  "urgent": {
+    "heading": "Ingxamisekile — tsalela umnxeba ngoku",
+    "primary_message": "Biza i-ambulensi ngoko nangoko. Hlafuna i-aspirin enye ukuba ikhona. Musa ukuziqhubela.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Intlungu, uxinzelelo, ukuqinana okanye ukucinezeleka esifubeni — okuhlala ngaphezu kwemizuzu embalwa",
+      "Intlungu esasazeka engalweni (rhoqo ekhohlo), emhlathini, entanyeni, emqolo okanye esiswini",
+      "Ukuphelelwa ngumoya ngesiquphe, nokuba kukho okanye akukho ntlungu yesifuba",
+      "Ukubila okubandayo, isicaphucaphu okanye ukugabha",
+      "Ubuthathaka obukhulu ngesiquphe, isiyezi okanye ukuwa isiqaqa",
+      "Kwabasetyhini: ukudinwa okungaqhelekanga, intlungu efana nokungagayeki kakuhle, okanye intlungu yomqolo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ihlaselo lentliziyo ngamazwi alula",
+    "lede": "Ihlaselo lentliziyo lenzeka xa ukuhamba kwegazi kwinxalenye yesihlunu sentliziyo kuvaleka ngesiquphe. Isihlunu siqala ukufa ngemizuzu.",
+    "paragraphs": [
+      "Uninzi lwehlaselo lentliziyo lubangelwa lihlwili elibumba phezu kweplakhi enamafutha ngaphakathi komthambo wentliziyo. Ukuvaleka kuthintela ioksijini ukuba ifike kwisihlunu sentliziyo. Okukhona umthambo uhlala uvaliwe, kokukhona kusifa isihlunu esininzi.",
+      "Unyango lwangoku esibhedlele lunokuvula umthambo ovaliweyo lusindise enye inxalenye yentliziyo — kodwa kuphela ukuba ufika ngokukhawuleza. Umzuzu ngamnye wokulibazisa uthetha umonakalo osisigxina ngakumbi."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Ixesha = isihlunu",
+        "body": "Umzuzu ngamnye womthambo ovaliweyo uthetha isihlunu sentliziyo esilahlekayo. Unyango kwiiyure zokuqala lunokusindisa uninzi lwaso."
+      },
+      {
+        "color": "purple",
+        "icon": "heart-pulse",
+        "headline": "Umbulali ophambili",
+        "body": "Izifo zentliziyo nemithambo yegazi zezona zikhokelela ekufeni okubangelwa zizifo ezingosuleliyo eMzantsi Afrika."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Azisoloko zifana kwabasetyhini",
+        "body": "Abasetyhini basenokungabi nentlungu yesifuba eqhelekileyo — endaweni yoko babe nokudinwa, intlungu yomhlathi, isicaphucaphu okanye ukuphelelwa ngumoya. Ezi mpawu kulula ukuzijongela phantsi."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Kunokuthintelwa kakhulu",
+        "body": "Ukutshaya, uxinzelelo lwegazi oluphezulu, isifo seswekile, i-cholesterol ephezulu, ukungasebenzi komzimba nokutyeba ziqhuba uninzi lohlaselo lwentliziyo. Zonke zinokulawulwa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uninzi lwabantu abasweleka ngenxa yohlaselo lwentliziyo basweleka bengakafiki esibhedlele — ngokuqhelekileyo kuba belindile, benethemba lokuba kuza kudlula. Ukuba awuqinisekanga, tsalela umnxeba.",
+      "source": "South African Heart Association"
+    }
+  },
+  "signs": {
+    "heading": "Into onokuyiva",
+    "lede": "Iimpawu zohlaselo lwentliziyo azisoloko zibonakala ngendlela enkulu. Iimpawu ezithambileyo kodwa ezingapheliyo zisafuna ingqwalasela engxamisekileyo.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Intlungu okanye uxinzelelo esifubeni",
+        "description": "Uvakalelo olunzima, olucinezelayo, oluqinayo okanye olutshisayo embindini wesifuba. Luhlala ngaphezu kwemizuzu embalwa, okanye luye lubuye."
+      },
+      {
+        "color": "orange",
+        "icon": "git-branch",
+        "title": "Intlungu esasazeka ngaphandle",
+        "description": "Intlungu okanye ukungabikho kwemvakalelo engalweni (rhoqo ekhohlo), emhlathini, entanyeni, emqolo okanye phezulu esiswini. Inokwenzeka ngaphandle kwentlungu yesifuba."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ukuphelelwa ngumoya",
+        "description": "Ubunzima bokuphefumla ngesiquphe, ngamanye amaxesha lolona phawu lodwa. Kuxhaphake ngakumbi kwabasetyhini, abantu abadala, nakubantu abanesifo seswekile."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Ukubila, isicaphucaphu, isiyezi",
+        "description": "Ukubila okubandayo nokuncamathelayo, isicaphucaphu okanye ukugabha, ubuthathaka ngesiquphe okanye ukuwa isiqaqa. Kudla ngokuhamba neempawu ezingentla."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani nengeyonyani",
+    "items": [
+      {
+        "myth": "Ihlaselo lentliziyo lihlala lithetha intlungu enkulu yesifuba.",
+        "fact": "Uhlaselo oluninzi lwentliziyo luqala ngokungonwabi okuncinci luze lukhule kancinci. Abasetyhini, abantu abadala nabantu abanesifo seswekile badla ngokuba neempawu ezingaqhelekanga."
+      },
+      {
+        "myth": "Ukuba ndimncinci kwaye ndomelele, andinakuhlaselwa yintliziyo.",
+        "fact": "Uhlaselo lwentliziyo kubantu abatsha baseMzantsi Afrika luyanda — luqhutywa kukutshaya, i-vaping, ukusetyenziswa kweziyobisi, imbali yosapho neengxaki ze-cholesterol ezingafunyaniswanga."
+      },
+      {
+        "myth": "Ukungagayeki kakuhle okungadluliyo kukungagayeki nje.",
+        "fact": "Intlungu efana ne-heartburn ehlala ixesha elide, ebuyayo, ehamba nokubila okanye ukuphelelwa ngumoya, okanye evakala yahlukile kwesiqhelo — kufuneka ihlolwe."
+      },
+      {
+        "myth": "Ndiza kulinda iyure ndibone ukuba iyadlula.",
+        "fact": "Ukulinda sesona sizathu sikhulu sokuba abantu basweleke ngenxa yohlaselo lwentliziyo. Ukuba awuqinisekanga ngaphezu kwemizuzu eli-10 — biza i-ambulensi."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze — umzuzu okrokrela uhlaselo lwentliziyo",
+    "items": [
+      {
+        "title": "Tsalela umnxeba ku-10177 okanye ku-112 ngoko nangoko",
+        "description": "Yithi 'ndikrokrela uhlaselo lwentliziyo'. Abeparamedic baqala unyango kwi-ambulensi baze bakuse kwisibhedlele esikwaziyo ukunyanga iingxaki zentliziyo."
+      },
+      {
+        "title": "Hlafuna i-aspirin eqhelekileyo enye (300 mg) ukuba ikhona",
+        "description": "Ukuhlafuna — hayi ukuyiginya iphelele — kungenisa i-aspirin egazini ngokukhawuleza. Musa ukuyithatha ukuba uyayaliwa, usebenzisa amayeza anciphisa ukujiya kwegazi, okanye usandula ukopha."
+      },
+      {
+        "title": "Hlala phantsi uphumle. Khulula iimpahla eziqinileyo",
+        "description": "Hlala kakuhle. Musa ukulala tyaba ukuba ukuphefumla kunzima. Zama ukuzola — uloyiko lwandisa umthwalo entliziyweni."
+      },
+      {
+        "title": "Musa ukuziqhubela",
+        "description": "Ukuba uyawa isiqaqa uqhuba, ungafa kwaye wenzakalise nabanye. Linda i-ambulensi — abeparamedic baphethe izixhobo zokusindisa ubomi."
+      },
+      {
+        "title": "Vula ucango ukuze abeparamedic bangene",
+        "description": "Qinisekisa ukuba banokufika kuwe ngokukhawuleza. Ukuba uwedwa, yiya kwindawo apho umntu anokukufumana khona."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ngubani omawumfowunele ngoku",
+    "lede": "Uhlaselo lwentliziyo olukrokrelwayo yimeko engxamisekileyo. Musa ukulinda, musa ukuqhuba, musa 'ukubona ukuba kuza kuhamba njani'.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Inkonzo karhulumente yezonyango ezingxamisekileyo",
+        "meta": "Simahla · iiyure ezingama-24 · yithi 'heart attack'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Uncedo olungxamisekileyo (iselula)",
+        "description": "Ifikelela kuyo nayiphi na inkonzo yongxamiseko xa utsalela umnxeba ngeselula",
+        "meta": "Simahla kuyo nayiphi na iselula · iiyure ezingama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Ulwazi, iingcebiso zokuthintela, nenkxaso kwabasindileyo",
+        "meta": "Mvulo–Lwesihlanu 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}
+
+
+
+
+
+

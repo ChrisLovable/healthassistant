@@ -1,22 +1,26 @@
 {
   "slug": "diabetes",
-  "group_slug": "chronic",
+  "group_slug": "chronic-lifestyle",
   "name": "Diabetes",
   "tagline": "Suikersiekte. Behandelbaar. Vroeg vang verander alles.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["Diabetes South Africa", "WHO", "National Department of Health", "International Diabetes Federation"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Diabetes South Africa",
+    "WHO",
+    "National Department of Health",
+    "International Diabetes Federation"
+  ],
   "urgent": {
-    "heading": "Bel 10177 of gaan reguit hospitaal toe as",
+    "heading": "Bel 10177 of gaan dadelik na die hospitaal as",
     "primary_message": "Baie hoë of baie lae bloedsuiker kan binne ure lewensgevaarlik raak. Hierdie tekens beteken — moenie wag nie.",
     "phone": "10177",
     "phone_display": "Bel 10177",
     "red_flags": [
       "Buitengewone dors saam met vinnige asemhaling — kan diabetiese ketoasidose (DKA) wees",
-      "Vrugte- of nagellak-asem (tipies vir DKA)",
+      "Asem wat vrugtig ruik of soos naellak ruik (tipies vir DKA)",
       "Erge naarheid en braking saam met buikpyn",
       "Verwarring, slaperigheid, of moeilikheid om wakker te word",
       "Lae bloedsuiker — bewing, sweet, verwarring wat nie verbeter met suiker nie",
@@ -24,7 +28,6 @@
       "Voet of been wat skielik infeksie of swart vlek wys (diabetiese voet)"
     ]
   },
-
   "what_is_it": {
     "heading": "Diabetes in eenvoudige terme",
     "lede": "Diabetes is wanneer jou liggaam sukkel om bloedsuiker (glukose) te beheer. Dit kan twee maniere gebeur: die liggaam maak nie genoeg insulien nie (Tipe 1), of die liggaam reageer nie behoorlik op insulien nie (Tipe 2 — verreweg die mees algemene).",
@@ -33,70 +36,168 @@
       "Die goeie nuus: Tipe 2 diabetes is grootliks voorkombaar deur lewenstyl, en wel-behandelde diabetes kan jare van komplikasies vermy. Toetse is gratis by klinieke. Insulien, pille, en monitering ook."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "users",         "headline": "4+ miljoen",      "body": "Suid-Afrikaners het diabetes — baie nog ongediagnoseer. Dit is een van die top oorsake van blindheid, nierfalen en amputasies in SA." },
-      { "color": "purple", "icon": "alert-circle",  "headline": "Tipe 2 = leefstyl","body": "Tipe 2 diabetes het sterk lewenstyl-bydraes — gewig, voedsel, oefening. Voorkombaar by die meeste. Vroeë opsporing maak 'n verskil." },
-      { "color": "gold",   "icon": "syringe",       "headline": "Insulien red",     "body": "Tipe 1 diabetes vereis lewenslang insulien. Sonder dit binne dae fataal. Met dit — normale lewensverwagting." },
-      { "color": "green",  "icon": "check-circle", "headline": "Beheerbaar",      "body": "Met die regte behandeling, dieet en gereelde toetse kan diabete jare van komplikasies vermy. Vroeg vang en behandel is alles." }
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "4+ miljoen",
+        "body": "Suid-Afrikaners het diabetes — baie nog ongediagnoseer. Dit is een van die top oorsake van blindheid, nierversaking en amputasies in SA."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "headline": "Tipe 2 = leefstyl",
+        "body": "Tipe 2 diabetes het sterk lewenstyl-bydraes — gewig, voedsel, oefening. Voorkombaar by die meeste. Vroeë opsporing maak ’n verskil."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Insulien red",
+        "body": "Tipe 1 diabetes vereis lewenslang insulien. Sonder dit binne dae fataal. Met dit — normale lewensverwagting."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Beheerbaar",
+        "body": "Met die regte behandeling, dieet en gereelde toetse kan diabete jare van komplikasies vermy. Vroeg vang en behandel is alles."
+      }
     ],
     "pull_quote": {
-      "text": "Suid-Afrika het meer mense met onbekende diabetes as met behandelde diabetes. Een eenvoudige bloedtoets by die kliniek kan 'n lewe verander.",
+      "text": "Suid-Afrika het meer mense met onbekende diabetes as met behandelde diabetes. Een eenvoudige bloedtoets by die kliniek kan ’n lewe verander.",
       "source": "Diabetes South Africa"
     }
   },
-
   "signs": {
     "heading": "Tekens om voor te kyk",
     "lede": "Diabetes ontwikkel dikwels stadig. Hierdie simptome wys op te hoë bloedsuiker — kry getoets as jy hulle herken.",
     "items": [
-      { "color": "purple", "icon": "droplet",       "title": "Klassieke tekens",        "description": "Buitengewone dors, baie urinering (veral snags), onverklaarde gewigsverlies, vermoeidheid uit niks, wasige sig." },
-      { "color": "orange", "icon": "alert-circle",  "title": "Stadige tekens (Tipe 2)", "description": "Snitte en seer wat lank vat om te genees, gereelde infeksies (vaginaal, blaas, vel), gevoelloosheid of tinteling in voete, donker patches op nek of armholtes." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Krisis-tekens",           "description": "Vrugte-asem, vinnige asemhaling, erge naarheid en buikpyn, verwarring of slaperigheid — kan DKA wees. Hospitaalsaak." }
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Klassieke tekens",
+        "description": "Buitengewone dors, baie urinering (veral snags), onverklaarde gewigsverlies, vermoeidheid uit niks, wasige sig."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Stadige tekens (Tipe 2)",
+        "description": "Snitte en seer wat lank vat om te genees, gereelde infeksies (vaginaal, blaas, vel), gevoelloosheid of tinteling in voete, donker patches op nek of armholtes."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Krisis-tekens",
+        "description": "Vrugte-asem, vinnige asemhaling, erge naarheid en buikpyn, verwarring of slaperigheid — kan DKA wees. Dit moet dringend in die hospitaal behandel word."
+      }
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "As ek nie suiker eet nie, sal ek nie diabetes kry nie.",                          "fact": "Diabetes is meer kompleks as net suiker. Totale dieet, gewig, geneties, en aktiwiteit speel almal 'n rol. Maar gerafineerde suiker (en koeldrank) sny terug — dit help vir alle drie van die voor- en behandeling." },
-      { "myth": "Diabetes is nie regtig erg nie — net 'n bietjie suiker.",                          "fact": "Onbehandelde diabetes is een van die top oorsake van blindheid, nierfalen, hartsiekte en amputasies in SA. Dit is 'n ernstige toestand wat behandel moet word." },
-      { "myth": "Diabetes is geneesbaar deur kruie of dieet alleen.",                                "fact": "Tipe 1 vereis lewenslang insulien — geen alternatief nie. Tipe 2 kan met dieet en gewigverlies dramaties verbeter en soms in remissie gaan — maar moenie pille stop sonder dokter nie." },
-      { "myth": "Insulien beteken jou diabetes is uit beheer.",                                      "fact": "Insulien is 'n hulpmiddel, nie 'n straf nie. Baie Tipe 2 diabete het uiteindelik insulien nodig — dit beteken die pankreas is moeg, nie dat hulle gefaal het nie." }
+      {
+        "myth": "As ek nie suiker eet nie, sal ek nie diabetes kry nie.",
+        "fact": "Diabetes is meer kompleks as net suiker. Totale dieet, gewig, geneties, en aktiwiteit speel almal ’n rol. Maar gerafineerde suiker (en koeldrank) sny terug — dit help vir alle drie van die voor- en behandeling."
+      },
+      {
+        "myth": "Diabetes is nie regtig erg nie — net ’n bietjie suiker.",
+        "fact": "Onbehandelde diabetes is een van die top oorsake van blindheid, nierversaking, hartsiekte en amputasies in SA. Dit is ’n ernstige toestand wat behandel moet word."
+      },
+      {
+        "myth": "Diabetes is geneesbaar deur kruie of dieet alleen.",
+        "fact": "Tipe 1 vereis lewenslang insulien — geen alternatief nie. Tipe 2 kan met dieet en gewigverlies dramaties verbeter en soms in remissie gaan — maar moenie pille stop sonder dokter nie."
+      },
+      {
+        "myth": "Insulien beteken jou diabetes is uit beheer.",
+        "fact": "Insulien is ’n hulpmiddel, nie ’n straf nie. Baie Tipe 2 diabete het uiteindelik insulien nodig — dit beteken die pankreas is moeg, nie dat hulle gefaal het nie."
+      }
     ]
   },
-
   "prevention": {
     "heading": "Hoe om Tipe 2 diabetes te voorkom",
     "lede": "Tipe 1 diabetes kan nie voorkom word nie. Tipe 2 — wel. Hierdie maatreëls help, ongeag jou familiegeskiedenis.",
     "items": [
-      { "color": "green",  "icon": "scale",     "title": "Hou 'n gesonde gewig",      "description": "Selfs 5–10% gewigsverlies kan diabetes-risiko halveer. Middel-vet (rondom die maag) is die belangrikste." },
-      { "color": "purple", "icon": "activity",  "title": "Beweeg elke dag",            "description": "150 minute matige aktiwiteit per week (vinnige stap reeds genoeg). Verlaag bloedsuiker direk. Spier gebruik glukose uit bloed." },
-      { "color": "orange", "icon": "utensils",  "title": "Eet egte kos",                "description": "Groente, peulplante, neute, volgraan, gesonde proteïene. Minder verwerkte kos, witbrood, soet koeldrank en sappe. Beperk gerafineerde suiker." },
-      { "color": "gold",   "icon": "x-circle",  "title": "Stop rook",                   "description": "Rokers het 'n hoër kans om diabetes te kry en kry meer komplikasies. Een van die mees impakvolle dinge wat jy kan doen." }
+      {
+        "color": "green",
+        "icon": "scale",
+        "title": "Hou ’n gesonde gewig",
+        "description": "Selfs 5–10% gewigsverlies kan diabetes-risiko halveer. Middel-vet (rondom die maag) is die belangrikste."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Beweeg elke dag",
+        "description": "150 minute matige aktiwiteit per week (vinnige stap reeds genoeg). Verlaag bloedsuiker direk. Spier gebruik glukose uit bloed."
+      },
+      {
+        "color": "orange",
+        "icon": "utensils",
+        "title": "Eet egte kos",
+        "description": "Groente, peulplante, neute, volgraan, gesonde proteïene. Minder verwerkte kos, witbrood, soet koeldrank en sappe. Beperk gerafineerde suiker."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Stop rook",
+        "description": "Rokers het ’n hoër kans om diabetes te kry en kry meer komplikasies. Een van die mees impakvolle dinge wat jy kan doen."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "Toets jou bloedsuiker — selfs as jy goed voel",        "description": "Gratis by enige kliniek. Vinger-prik vir vinnige toets. As verhoog, doen 'n HbA1c-toets (gemiddelde oor 3 maande)." },
-      { "title": "As gediagnoseer — onderwys is sleutel",                "description": "Kry die diabeteseopvoeder by die kliniek. Leer hoe om bloedsuiker te toets, wanneer en wat te eet, hoe om medisyne te neem." },
-      { "title": "Drink medikasie elke dag",                              "description": "Pille (metformien is gewoonlik eerste) of insulien moet elke dag geneem word — selfs op goeie dae. Vergeet kan bloedsuiker laat styg." },
-      { "title": "Toets en kyk na jou voete",                            "description": "Diabetes beskadig voet-senuwees. Kyk na jou voete daagliks vir snitte, blaas, swelling. Selfs klein wonde kan ernstige infeksies word." },
-      { "title": "Jaarlikse oog- en niertoetse",                          "description": "Diabetes kan stil oë en niere beskadig. Jaarlikse oogondersoek en urinetoets vang skade voor dit erg word." }
+      {
+        "title": "Toets jou bloedsuiker — selfs as jy goed voel",
+        "description": "Gratis by enige kliniek. Vinger-prik vir vinnige toets. As verhoog, doen ’n HbA1c-toets (gemiddelde oor 3 maande)."
+      },
+      {
+        "title": "As gediagnoseer — onderwys is sleutel",
+        "description": "Kry die diabeteseopvoeder by die kliniek. Leer hoe om bloedsuiker te toets, wanneer en wat te eet, hoe om medisyne te neem."
+      },
+      {
+        "title": "Drink medikasie elke dag",
+        "description": "Pille (metformien is gewoonlik eerste) of insulien moet elke dag geneem word — selfs op goeie dae. Vergeet kan bloedsuiker laat styg."
+      },
+      {
+        "title": "Toets en kyk na jou voete",
+        "description": "Diabetes beskadig voet-senuwees. Kyk na jou voete daagliks vir snitte, blaas, swelling. Selfs klein wonde kan ernstige infeksies word."
+      },
+      {
+        "title": "Jaarlikse oog- en niertoetse",
+        "description": "Diabetes kan stil oë en niere beskadig. Jaarlikse oogondersoek en urinetoets vang skade voor dit erg word."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
     "lede": "Diabetes-sorg in SA is een van die sterker dele van die openbare stelsel. Toetse, pille, insulien, monitering — alles gratis by klinieke.",
     "helplines": [
-      { "name": "Noodambulans",            "description": "By DKA of erge lae bloedsuiker",                          "meta": "Gratis · 24 uur",                          "phone": "10177", "phone_display": "10177", "primary": true },
-      { "name": "Vind jou naaste kliniek",  "description": "Gratis bloedsuiker-toetse, pille en insulien",             "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,    "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
-      { "name": "Diabetes SA",              "description": "Inligting, ondersteuningsgroepe, opvoeding",                 "meta": "Ma–Vr 08:00–16:30",                        "phone": "0116923830", "phone_display": "011 692 3830", "primary": false }
+      {
+        "name": "Noodambulans",
+        "description": "By DKA of erge lae bloedsuiker",
+        "meta": "Gratis · 24 uur",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis bloedsuiker-toetse, pille en insulien",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Diabetes SA",
+        "description": "Inligting, ondersteuningsgroepe, opvoeding",
+        "meta": "Ma–Vr 08:00–16:30",
+        "phone": "0116923830",
+        "phone_display": "011 692 3830",
+        "primary": false
+      }
     ]
   }
 }

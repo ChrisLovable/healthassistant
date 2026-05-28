@@ -1,0 +1,180 @@
+{
+  "slug": "acne",
+  "group_slug": "skin",
+  "name": "Aknee",
+  "tagline": "Behandelbaar. Moenie druk of krap nie. Sien ’n dokter vir erge aknee.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Dermatological Society of South Africa",
+    "American Academy of Dermatology",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Aknee in gewone taal",
+    "lede": "Aknee gebeur wanneer olie en dooie velselle porieë verstop. Soms raak die verstopte porie ontsteek deur normale velbakterieë — dan kry jy rooi, seer puisies. Dit word nie veroorsaak deur vuil te wees nie.",
+    "paragraphs": [
+      "Aknee is die algemeenste by tieners omdat hormonale veranderinge olieproduksie verhoog. Maar volwassenes kry dit ook — veral vroue in hul 20’s en 30’s, dikwels langs die kakebeen. Ongeveer 85% van Suid-Afrikaners kry aknee op ’n stadium.",
+      "Ligte aknee reageer gewoonlik op oor-die-toonbank behandeling en goeie velgewoontes. Matige tot ernstige aknee — veral met siste, littekens of pyn — moet deur ’n dokter behandel word. Doeltreffende voorskrifbehandelings bestaan. Onbehandelde ernstige aknee kan permanente littekens laat en selfbeeld vir jare be’nvloed."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "85%",
+        "body": "Van Suid-Afrikaners kry aknee op ’n stadium. Dit is een van die algemeenste veltoestande in die wêreld."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Behandelbaar",
+        "body": "Selfs ernstige aknee reageer op moderne behandeling. Hoe vroeër jy begin, hoe minder littekens bly oor."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Moenie druk nie",
+        "body": "Druk, krap en harde skrop maak aknee erger en veroorsaak permanente littekens. Dis die moeilikste gewoonte om te breek — en die belangrikste."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Dis nie jou skuld nie",
+        "body": "Aknee word nie veroorsaak deur vuil te wees, sjokolade te eet, of iets wat jy verkeerd gedoen het nie. Dit is meestal hormone en genetika."
+      }
+    ],
+    "pull_quote": {
+      "text": "Die sterkste enkele stap in aknee-behandeling is om vroeg te begin — voordat littekens vorm. As oor-die-toonbank behandeling ná 8 weke nie werk nie, sien ’n dokter.",
+      "source": "Dermatological Society of South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Soorte aknee — en hoe ernstig dit is",
+    "lede": "Aknee wissel van ’n paar puisies tot diep, pynlike siste. Die tipe maak saak, want dit bepaal die behandeling.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Lig — swartkoppies en witkoppies",
+        "description": "Klein knoppe met min inflammasie. Reageer gewoonlik op goeie velsorg en oor-die-toonbank produkte. Probeer eers bensoïelperoksied of salisielsuur."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Matig — rooi, ontsteekte puisies",
+        "description": "Rooi papules en pustules op gesig, bors en rug. Probeer oor-die-toonbank behandeling vir 8 weke. As daar geen verbetering is nie — sien ’n dokter. Voorskrifbehandeling werk beter."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Ernstig — siste en littekens",
+        "description": "Diep, pynlike knoppe wat weke lank bly. Laat littekens. Sien so gou moontlik ’n dokter. Isotretinoïen (Roaccutane) is baie doeltreffend hiervoor."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Sjokolade, olierige kos en suiker veroorsaak aknee.",
+        "fact": "Die bewyse is swak en verskil tussen mense. Hoë-suiker/hoë-suiwel eetpatrone kan aknee by sommige vererger, maar veroorsaak dit nie op hul eie nie. Hormone en genetika speel ’n groter rol."
+      },
+      {
+        "myth": "Was jou gesig meer — dan gaan dit opklaar.",
+        "fact": "Te veel was droog en irriteer die vel, wat aknee erger maak. ’n Sagte reiniger twee keer per dag is genoeg. Harde skrop vererger inflammasie en rooiheid."
+      },
+      {
+        "myth": "Tandepasta, suurlemoensap en koeksoda werk as tuisbehandeling.",
+        "fact": "Almal kan die vel irriteer of brand en littekens vererger. Gebruik regte aknee-produkte — bensoïelperoksied, salisielsuur, retinoïede — wat veilig ontwerp is vir die vel."
+      },
+      {
+        "myth": "Sonbrand help om aknee skoon te maak.",
+        "fact": "Son kan die vel tydelik uitdroog, sodat puisies minder sigbaar lyk. Op die lang termyn vererger sonskade littekens en laat die vel vinniger verouder. Behandel die aknee — beskerm jou vel."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Daaglikse gewoontes wat help",
+    "lede": "Jy kan nie aknee heeltemal voorkom nie — maar jy kan opvlamings verminder, behandeling ondersteun, en littekens voorkom.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Sagte reiniger twee keer per dag",
+        "description": "Oggend en aand — watergebaseerd en sonder geur. Moenie skrop nie. Moenie staafseep of harde skropmiddels op aknee-geneigde vel gebruik nie."
+      },
+      {
+        "color": "purple",
+        "icon": "sun",
+        "title": "Nie-komedogeniese SPF elke dag",
+        "description": "Sonbeskerming is belangrik, ook met aknee. Soek ‘nie-komedogenies’ (verstop nie porieë nie) op die etiket. Meeste groot handelsmerke het dit."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "Moenie druk of krap nie",
+        "description": "Druk stoot inflammasie dieper en verander puisies in littekens. Die merk van ’n gedrukte puisie kan 6 maande hou. ’n Puisie wat jy uitlos se merk verdwyn dikwels binne 2 weke."
+      },
+      {
+        "color": "gold",
+        "icon": "watch",
+        "title": "Gee behandeling 8 weke",
+        "description": "Aknee-behandeling neem 6–12 weke om volle effek te wys. Moenie elke paar dae oorslaan of verander nie. Hou by een plan en evalueer by 8 weke."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Begin met oor-die-toonbank vir ligte aknee",
+        "description": "Bensoïelperoksied 2,5%-gel of ’n salisielsuur-was. Gebruik een keer per dag vir ’n week, dan twee keer as jou vel dit verdra. Beskikbaar by enige apteek sonder voorskrif."
+      },
+      {
+        "title": "As daar ná 8 weke geen verbetering is nie — sien ’n dokter",
+        "description": "Gratis by enige staatskliniek. Voorskrif topiese retinoïede en antibiotika werk baie beter as oor-die-toonbank produkte vir matige aknee."
+      },
+      {
+        "title": "As dit ernstig is of littekens laat — kry vinnig hulp",
+        "description": "Ernstige sistiese aknee kan permanente littekens laat. Behandeling soos isotretinoïen (Roaccutane) is baie doeltreffend. Staatsklinieke kan na ’n dermatoloog verwys."
+      },
+      {
+        "title": "Behandel die hele area, nie net individuele puisies nie",
+        "description": "Smeer behandeling dun oor die hele geaffekteerde area, nie net op aktiewe puisies nie. Dit help om nuwe opvlammings te voorkom."
+      },
+      {
+        "title": "Beskerm jou vel teen die son",
+        "description": "Aknee-behandeling maak die vel sonsensitief. Gebruik daagliks nie-komedogeniese SPF 30+. Son vererger ook donker merke ná vorige puisies."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waar om hulp te kry",
+    "lede": "Die meeste aknee kan tuis of by ’n primêre gesondheidskliniek behandel word. Ernstige aknee baat by verwysing na ’n dermatoloog — beskikbaar in die openbare stelsel.",
+    "helplines": [
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis aknee-assessering en voorskrifbehandeling",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Enige plaaslike apteek",
+        "description": "Oor-die-toonbank bensoïelperoksied, salisielsuur, retinoïedrome",
+        "meta": "Geen voorskrif nodig vir OTC-produkte",
+        "phone": null,
+        "phone_display": "Besoek 'n apteek",
+        "primary": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "eczema",
+  "group_slug": "skin",
+  "name": "Ekseem",
+  "tagline": "Jeukende, droë vel. Bevogtig. Bestuur veroorsakers.",
+  "hero_image": "/images/diseases/hero-eczema.webp",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Allergy Foundation South Africa",
+    "Dermatological Society of South Africa",
+    "WHO",
+    "National Eczema Association"
+  ],
+  "what_is_it": {
+    "heading": "Ekseem in eenvoudige terme",
+    "lede": "Ekseem (ook atopiese dermatitis genoem) is ’n langtermyn-veltoestand waar die vel-versperring nie vog goed vashou nie en maklik geïrriteer raak. Die resultaat: droë, jeukende, ontsteekte kolle — soms erg opgevlam, soms kalm.",
+    "paragraphs": [
+      "Ekseem begin gewoonlik in die kinderjare — ongeveer 1 uit 5 SA kinders het dit. Baie verbeter met ouderdom, al kan dit op enige punt terugkeer. Volwasse-aanvang ekseem is ook algemeen. Dit loop dikwels saam met asma, hooikoors, of voedselallergieë — die 'atopiese drietal'.",
+      "Ekseem is nie aansteeklik nie. Dit word nie veroorsaak deur vuil te wees of swak higiëne nie. Die vel-versperring in ekseem is net geneties anders — meer poreus, meer reaktief. Die goeie nuus: met daaglikse bevogtiging en veroorsaker-bestuur hou die meeste mense dit goed onder beheer."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 uit 5",
+        "body": "Suid-Afrikaanse kinders het ekseem. Baie verbeter met ouderdom. Volwasse-ekseem is ook algemeen."
+      },
+      {
+        "color": "green",
+        "icon": "droplet",
+        "headline": "Vogroom wen",
+        "body": "Daaglikse bevogtiging — selfs wanneer die vel fyn lyk — is die enkele kragtigste ekseem-behandeling. Slaan ’n paar dae oor en die opvlam kom terug."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Nie aansteeklik",
+        "body": "Jy kan nie ekseem opdoen nie. Dit word nie deur vuil of higiëne veroorsaak nie. Dit is ’n genetiese vel-versperring-kwessie, dikwels met ’n allergiese komponent."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Steroïedrome werk",
+        "body": "Topiese steroïede tydens opvlamings is veilig wanneer korrek gebruik. Hulle kalmeer die ontsteking sodat die vel kan genees."
+      }
+    ],
+    "pull_quote": {
+      "text": "Die meeste ekseem word goed beheer met twee eenvoudige stappe: bevogtig twee keer per dag elke dag, en gebruik ’n steroïedroom wanneer dit opvlam. Die fout wat die meeste mense maak is om die vogroom te stop wanneer die vel fyn lyk.",
+      "source": "Allergy Foundation South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Hoe ekseem lyk",
+    "lede": "Ekseem verskyn op tipiese plekke en het tipiese patrone. Die voorkoms kan verskil op verskillende veltone — op donker vel kan dit grys, pers, of donkerder bruin lyk eerder as die handboek-rooi.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "circle",
+        "title": "Babas en jong kinders",
+        "description": "Wange, kopvel, en buitekant van arms en bene. Rooi (of donkerder, op swart vel), droë, dikwels korserige kolle. Baie jeukerig — babas krap selfs in hul slaap."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Ouer kinders en volwassenes",
+        "description": "Velplooie — binne elmboë, agter knieë, polse, nek, enkels. Kolle van verdikte, skilferige, jeukende vel. Hande en ooglede algemeen by volwassenes."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Wanneer om bekommerd te wees — infeksie",
+        "description": "As kolle nat, geel-korserig, baie pynvol raak, of vinnig versprei — dit mag geïnfekteer wees. Benodig kliniek-assessering vir antibiotika of antivirale behandeling."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Steroïedrome sal my vel beskadig.",
+        "fact": "Korrek gebruik vir kort kursusse tydens opvlamings, is topiese steroïede veilig en effektief. Om hulle te vermy veroorsaak meer skade — chroniese onbeheerde ekseem verdik vel en veroorsaak infeksie."
+      },
+      {
+        "myth": "Ekseem word veroorsaak deur iets in die dieet.",
+        "fact": "Werklike voedselallergieë veroorsaak wel ekseem by sommige kinders — maar die meeste ekseem is nie voedsel-gedrewe nie. Vermy eliminasie-diëte sonder mediese advies; dit kan werklike voedingskade veroorsaak."
+      },
+      {
+        "myth": "As jy genoeg krap, kan jy dit uitkrap.",
+        "fact": "Krap beskadig die vel-versperring verder, stel meer jeuk-chemikalieë vry, en skep ’n bose jeuk-krap-siklus. Koue kompresse, vogroom, en antihistamiene help — krap nie."
+      },
+      {
+        "myth": "Kinders groei altyd uit ekseem uit.",
+        "fact": "Baie doen, maar baie nie. Selfs dié wat 'uitgroei' kan opvlamings as volwassenes hê. Lewenslange velsorg-gewoontes — sagte reinigers, daaglikse vogroom — is die moeite werd om vroeg te bou."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Daaglikse gewoontes wat opvlamings weghou",
+    "lede": "Ekseem-bestuur gaan meestal oor daaglikse velsorg — klein gewoontes wat die volgende opvlam voorkom.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Bevogtig twee keer per dag, elke dag",
+        "description": "Dik reukvrye vogroom binne 3 minute ná bad seël vog in. Hou aan selfs wanneer vel fyn lyk — dit is wat die volgende opvlam voorkom."
+      },
+      {
+        "color": "purple",
+        "icon": "shower",
+        "title": "Louwarm kort baddens of storte",
+        "description": "Warm water stroop die vel. Gebruik louwarm water, reukvrye wassel (nie gewone seep nie), 5–10 minute maksimum. Pat droog — moenie vryf nie."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ken en vermy jou veroorsakers",
+        "description": "Algemene veroorsakers: hitte en sweet, wol en sintetiese materiale, harde seep en wasmiddels, stres, allergene (troeteldiere, stof). Hou ’n opvlam-dagboek om jou snellers op te spoor."
+      },
+      {
+        "color": "gold",
+        "icon": "snowflake",
+        "title": "Koel, kalm slaapkamer",
+        "description": "Hitte en sweet vererger nag-jeuk. Hou die slaapkamer koel, gebruik katoen-lakens, en moenie kinders oortoedraai nie. Koeler is kalmer."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen wanneer dit opvlam",
+    "items": [
+      {
+        "title": "Smeer steroïedroom vir aktiewe opvlamings",
+        "description": "Beskikbaar by klinieke — gewoonlik hidrokortisoon (lig) vir gesig en babas, sterker vir die liggaam. Gebruik dun op rooi kolle twee keer per dag tot kalm. Dan stop."
+      },
+      {
+        "title": "Hou aan bevogtig — selfs oor die steroïed",
+        "description": "Smeer vogroom 30 minute ná die steroïed, of op ander tye. Die vogroom ondersteun genesing — moenie stop omdat jy steroïed gebruik nie."
+      },
+      {
+        "title": "Neem ’n antihistamien vir erge jeuk",
+        "description": "Setirisien of loratadien help met jeuk, veral snags. Beskikbaar oor-die-toonbank by enige apteek. Veral nuttig vir kinders wat in hul slaap krap."
+      },
+      {
+        "title": "As vel nat of geïnfekteer raak — gaan kliniek toe",
+        "description": "Geel korsering, pynvolle verspreiding, koors — mag ’n bakteriese infeksie (staf) of ekseem herpetikum (viraal, ernstiger) wees. Benodig vinnig behandeling."
+      },
+      {
+        "title": "Vir erge of moeilik-beheerbare ekseem",
+        "description": "Staatsklinieke kan na ’n dermatoloog verwys. Nuwe behandelings soos dupilumab (biologiese inspuiting) het erge ekseem in onlangse jare getransformeer."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Die meeste ekseem word goed bestuur op kliniek-vlak. Erge gevalle baat by ’n dermatoloog-verwysing — beskikbaar deur die openbare stelsel.",
+    "helplines": [
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis ekseem-assessering, vogrome, en steroïedrome",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Allergy Foundation SA",
+        "description": "Inligting, ondersteuning, en allergoloog-verwysing",
+        "meta": "Ma–Vr 08:30–16:30",
+        "phone": "0214474360",
+        "phone_display": "021 447 4360",
+        "primary": true
+      }
+    ]
+  }
+}

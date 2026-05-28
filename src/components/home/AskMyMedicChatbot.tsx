@@ -25,8 +25,6 @@ export function AskMyMedicChatbot() {
   const chunksRef = useRef<Blob[]>([]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  const prompts = [t("chatbot.prompt1", lang), t("chatbot.prompt2", lang), t("chatbot.prompt3", lang)];
-
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
@@ -48,6 +46,7 @@ export function AskMyMedicChatbot() {
         body: JSON.stringify({
           message: text.trim(),
           history: messages,
+          lang,
         }),
       });
 
@@ -59,11 +58,11 @@ export function AskMyMedicChatbot() {
         setMessages((prev) => [...prev, { role: "assistant", content: data.message }]);
       }
     } catch {
-      setError("Failed to send message. Please try again.");
+      setError(t("chatbot.error.send", lang));
     } finally {
       setSending(false);
     }
-  }, [messages, sending]);
+  }, [messages, sending, lang]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -95,7 +94,7 @@ export function AskMyMedicChatbot() {
         stream.getTracks().forEach((track) => track.stop());
 
         if (chunksRef.current.length === 0) {
-          setError("No audio recorded");
+          setError(t("chatbot.error.noAudio", lang));
           return;
         }
 
@@ -103,7 +102,7 @@ export function AskMyMedicChatbot() {
         chunksRef.current = [];
 
         if (audioBlob.size < 1000) {
-          setError("Recording too short");
+          setError(t("chatbot.error.tooShort", lang));
           return;
         }
 
@@ -111,6 +110,7 @@ export function AskMyMedicChatbot() {
         try {
           const formData = new FormData();
           formData.append("audio", audioBlob, "recording.webm");
+          formData.append("lang", lang);
 
           const response = await fetch("/api/transcribe", {
             method: "POST",
@@ -125,7 +125,7 @@ export function AskMyMedicChatbot() {
             setInput((prev) => (prev ? `${prev} ${data.text}` : data.text));
           }
         } catch {
-          setError("Failed to transcribe");
+          setError(t("chatbot.error.transcribe", lang));
         } finally {
           setTranscribing(false);
         }
@@ -135,12 +135,12 @@ export function AskMyMedicChatbot() {
       setRecording(true);
     } catch (err) {
       if (err instanceof DOMException && err.name === "NotAllowedError") {
-        setError("Microphone access denied");
+        setError(t("chatbot.error.micDenied", lang));
       } else {
-        setError("Could not start recording");
+        setError(t("chatbot.error.recordFail", lang));
       }
     }
-  }, []);
+  }, [lang]);
 
   const stopRecording = useCallback(() => {
     if (mediaRecorderRef.current && mediaRecorderRef.current.state !== "inactive") {
@@ -171,9 +171,10 @@ export function AskMyMedicChatbot() {
           <div className="flex-1">
             <h2 className="font-serif font-bold text-[16px] text-[var(--text)] leading-tight">{t("chatbot.title", lang)}</h2>
             <p className="text-[10px] text-[var(--text-muted)]">{t("chatbot.subtitle", lang)}</p>
+            <p className="text-[10px] text-[var(--text-soft)] mt-1 leading-relaxed">{t("chatbot.disclaimer", lang)}</p>
           </div>
           {isOpen && messages.length > 0 && (
-            <button onClick={clearChat} className="text-[var(--text-soft)] hover:text-[var(--text)] p-1" aria-label="Clear chat">
+            <button onClick={clearChat} className="text-[var(--text-soft)] hover:text-[var(--text)] p-1" aria-label={t("chatbot.clearChat", lang)}>
               <X size={16} />
             </button>
           )}
@@ -208,15 +209,6 @@ export function AskMyMedicChatbot() {
           </div>
         )}
 
-        {/* Quick prompts - only show when no messages */}
-        {messages.length === 0 && (
-          <div className="flex flex-wrap gap-1.5 mb-3">
-            {prompts.map(p => (
-              <button key={p} onClick={() => sendMessage(p)} className="text-[11px] text-[var(--text)] bg-[var(--surface-warm)] border border-[var(--border)] px-2.5 py-1 rounded-full hover:bg-white hover:shadow-sm transition-all">{p}</button>
-            ))}
-          </div>
-        )}
-
         {/* Input form */}
         <form onSubmit={handleSubmit} className="relative">
           <input 
@@ -232,7 +224,7 @@ export function AskMyMedicChatbot() {
               type="button"
               onClick={handleMicClick} 
               disabled={transcribing || sending}
-              aria-label={recording ? "Stop recording" : "Voice input"}
+              aria-label={recording ? t("chatbot.aria.stopRec", lang) : t("chatbot.aria.voice", lang)}
               className={`w-8 h-8 rounded-full grid place-items-center transition-all ${
                 transcribing 
                   ? "bg-[var(--surface-warm)] text-[var(--text-muted)]" 
@@ -252,7 +244,7 @@ export function AskMyMedicChatbot() {
             <button 
               type="submit"
               disabled={!input.trim() || sending} 
-              aria-label="Send"
+              aria-label={t("chatbot.aria.send", lang)}
               className="w-8 h-8 rounded-full grid place-items-center disabled:opacity-30 transition-opacity"
               style={{ background: "radial-gradient(circle at 30% 25%, #B069CC, #8E44AD 50%, #5B2C72)", color: "white", boxShadow: "0 4px 10px rgba(142,68,173,0.4), inset 0 1px 2px rgba(255,255,255,0.3)" }}
             >
@@ -266,7 +258,7 @@ export function AskMyMedicChatbot() {
         )}
 
         {recording && (
-          <p className="text-[11px] text-red-500 mt-2 text-center animate-pulse">Recording... tap stop when done</p>
+          <p className="text-[11px] text-red-500 mt-2 text-center animate-pulse">{t("chatbot.recording", lang)}</p>
         )}
 
         {/* Emergency notice */}
@@ -275,13 +267,11 @@ export function AskMyMedicChatbot() {
             <div className="flex items-start gap-2">
               <Phone size={14} className="text-red-600 flex-shrink-0 mt-0.5" />
               <p className="text-[10px] text-red-700 leading-relaxed">
-                <strong>Emergency?</strong> Call <a href="tel:10177" className="underline font-bold">10177</a> (ambulance) or <a href="tel:112" className="underline font-bold">112</a> (mobile). MyMedic cannot handle emergencies.
+                <strong>{t("chatbot.emergencyTitle", lang)}</strong> {t("chatbot.emergencyPrefix", lang)} <a href="tel:10177" className="underline font-bold">10177</a> {t("chatbot.emergencyMiddle", lang)} <a href="tel:112" className="underline font-bold">112</a> {t("chatbot.emergencySuffix", lang)}
               </p>
             </div>
           </div>
         )}
-
-        <p className="text-[10px] text-[var(--text-soft)] mt-3 text-center leading-relaxed">{t("chatbot.disclaimer", lang)}</p>
       </div>
     </section>
   );

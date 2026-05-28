@@ -1,0 +1,174 @@
+{
+  "slug": "depression",
+  "group_slug": "mental-health",
+  "name": "Depressie",
+  "tagline": "Werklik. Algemeen. Behandelbaar. Jy is nie alleen nie.",
+  "hero_image": "/images/diseases/hero-depression.webp",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "SADAG (South African Depression and Anxiety Group)",
+    "WHO",
+    "National Department of Health Mental Health Directorate",
+    "South African Society of Psychiatrists"
+  ],
+  "urgent": {
+    "heading": "Praat met iemand nou",
+    "primary_message": "As jy daaraan dink om jou lewe te beëindig, of om jouself seer te maak — reik asseblief uit. Gratis, vertroulike ondersteuning is nou beskikbaar. Jy hoef nie in ’n krisis te wees om te bel nie.",
+    "phone": "0800567567",
+    "phone_display": "SADAG 0800 567 567",
+    "red_flags": [
+      "Gedagtes om jou lewe te beëindig, of dat ander beter daaraan toe sou wees sonder jou",
+      "Voel heeltemal gevoelloos, hol, of afgesny van jouself",
+      "Gee betekenisvolle besittings weg of sê totsiens",
+      "Erge onttrekking van almal en alles",
+      "Hoor stemme, sien dinge wat ander nie sien nie, of voel diep onwerklik",
+      "Onvermoë om vir jouself te sorg — nie eet, was, of uit die bed kom vir dae nie",
+      "Skielike kalmte ná ’n lang depressie — dit kan ’n waarskuwing wees, nie ’n herstel nie"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Depressie in eenvoudige terme",
+    "lede": "Depressie is ’n werklike mediese toestand — nie swakheid, nie ’n slegte houding, nie 'net hartseer' nie. Dit verander hoe die brein werk, hoe die liggaam voel, en hoe alles lyk. En dit is behandelbaar.",
+    "paragraphs": [
+      "Almal voel soms hartseer. Depressie is anders. Dit is ’n volgehoue swaarte — aanhoudende lae bui, verlies van belangstelling in dinge wat jy geniet het, uitputting wat slaap nie regmaak nie, gevoelens van waardeloosheid of hopeloosheid. Dit duur weke of maande, nie ure of dae nie.",
+      "Depressie raak ongeveer 1 uit 6 Suid-Afrikaners in hul leeftyd. Dit loop in families. Dit kan deur stres, siekte, verlies, hormonale veranderinge, of niks in die besonder veroorsaak word. Met behandeling — terapie, medisyne, of albei — word die meeste mense aansienlik beter. Baie herstel volledig."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 uit 6",
+        "body": "Suid-Afrikaners sal depressie in hul leeftyd ervaar. Dit is een van die mees algemene mediese toestande wat daar is."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Behandelbaar",
+        "body": "Ongeveer 80% van mense met depressie word aansienlik beter met behandeling. Baie herstel volledig. Hulp werk."
+      },
+      {
+        "color": "coral",
+        "icon": "phone",
+        "headline": "SADAG is gratis",
+        "body": "0800 567 567 is die gratis Suid-Afrikaanse selfmoordkrisislyn — beraders opgelei om te luister, in baie tale, 24 uur."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Nie swakheid",
+        "body": "Depressie is ’n mediese toestand wat veranderinge in breinchemie behels. Om iemand te sê om 'reg te ruk' is soos om ’n diabeet te sê om harder insulien te maak. Dit werk nie."
+      }
+    ],
+    "pull_quote": {
+      "text": "Om vir hulp uit te reik is nie swakheid nie. Dit is een van die dapperste, moeilikste dinge wat ’n depressiewe persoon kan doen. As jy daaraan dink — maak die oproep. Die persoon aan die ander kant is gereed.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Hoe depressie lyk",
+    "lede": "Depressie lyk anders by verskillende mense. Sommige tekens is emosioneel, sommige fisies, sommige sosiaal. Twee weke van hierdie simptome die grootste deel van die dag is die drempel om ernstig op te neem.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "cloud",
+        "title": "Emosioneel",
+        "description": "Aanhoudende hartseer of leegheid, hopeloosheid, voel waardeloos of skuldig, prikkelbaarheid of woede (dikwels by mans gemis), verlies van belangstelling in dinge wat jy geniet het."
+      },
+      {
+        "color": "orange",
+        "icon": "battery-low",
+        "title": "Fisies",
+        "description": "Uitputting wat slaap nie regmaak nie, veranderinge in eetlus (dikwels minder of meer eet as gewoonlik), pyne, stadiger beweging of spraak, slaapversteuring — óf te veel óf onvermoë om te slaap."
+      },
+      {
+        "color": "coral",
+        "icon": "user-x",
+        "title": "Sosiaal en kognitief",
+        "description": "Onttrekking van vriende en familie, sukkel om besluite te neem of te konsentreer, aanhoudende gedagtes van selfbesering of dood. Hierdie gedagtes is algemeen by depressie — en ’n rede om vir hulp uit te reik, nie om verder te isoleer nie."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Depressie is net swakheid — jy behoort jouself te kan regruk.",
+        "fact": "Depressie is ’n werklike mediese toestand wat veranderinge in breinchemie behels. Om iemand met depressie te sê om 'op te ruk' is soos om ’n diabeet te sê om harder insulien te maak. Dit werk nie en dit verneder hulle."
+      },
+      {
+        "myth": "Antidepressante is verslawend en verander wie jy is.",
+        "fact": "Moderne antidepressante is nie verslawend nie — al moet hulle stadig verminder word wanneer jy stop. Hulle verander nie jou persoonlikheid nie. Hulle lig die mis sodat jy weer jouself kan wees."
+      },
+      {
+        "myth": "Depressie in Afrika is net ’n Westerse diagnose.",
+        "fact": "Depressie kom oral op aarde voor, in elke kultuur, teen soortgelyke koerse. Hoe dit homself wys kan verskil (meer liggaamsimptome in sommige kulture), maar die onderliggende toestand is universeel — en net so behandelbaar."
+      },
+      {
+        "myth": "Om oor selfmoord te praat maak dit meer waarskynlik om te gebeur.",
+        "fact": "Die teenoorgestelde is waar. Om te vra 'het jy gedagtes van selfmoord' wys omgee en skep ruimte om hulp te kry. Stilte en vermyding is wat dinge erger maak."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Jou volgende stappe",
+    "items": [
+      {
+        "title": "As jy in ’n krisis is — bel SADAG nou",
+        "description": "0800 567 567 is gratis vanaf enige foon, 24 uur. Beraders is opgelei om te luister. Jy hoef nie 'genoeg in ’n krisis' te wees nie — tel net op."
+      },
+      {
+        "title": "As jy kan — vertel een persoon",
+        "description": "’n Vriend, familielid, geloofsleier, bestuurder. Om dit een keer hardop te sê breek die ergste van die isolasie. Jy hoef dit nie perfek te verduidelik nie."
+      },
+      {
+        "title": "Gaan kliniek toe vir assessering",
+        "description": "Staatsklinieke bied gratis geestesgesondheidsassessering en behandeling. Vra vir die 'geestesgesondheidsverpleegkundige' of dokter. Antidepressante is gratis by klinieke indien nodig."
+      },
+      {
+        "title": "As jy daaglikse dinge kan bestuur",
+        "description": "Kry oggend-sonlig, stap as jy kan, eet gereelde klein maaltye selfs sonder eetlus, slaap op ’n roetine. Niks hiervan genees depressie nie — maar dit help behandeling werk."
+      },
+      {
+        "title": "As iemand wat jy liefhet depressie het",
+        "description": "Luister sonder om reg te maak. Moenie sê 'wees vrolik' of 'ander het dit erger' nie. Sê wel 'ek is hier, ek sien jou, wat sal help'. Moedig hulle aan om saam SADAG te bel."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Wie om nou te bel",
+    "lede": "Suid-Afrika het gratis, vertroulike geestesgesondheidsondersteuning beskikbaar 24 uur per dag. Jy het nie ’n mediese fonds, ’n ID, of ’n verwysing nodig nie. Net ’n foon.",
+    "helplines": [
+      {
+        "name": "SADAG Selfmoordkrisislyn",
+        "description": "Gratis, vertroulike krisisberading in verskeie SA-tale",
+        "meta": "Gratis · 24 uur · opgeleide beraders",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "LifeLine Suider-Afrika",
+        "description": "Gratis berading, trauma, mishandeling, emosionele steun",
+        "meta": "24 uur · gratis vanaf enige foon",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis geestesgesondheidsassessering en medisyne indien nodig",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}

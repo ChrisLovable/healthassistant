@@ -2,102 +2,202 @@
   "slug": "flu",
   "group_slug": "infectious",
   "name": "Griep",
-  "tagline": "Erger as 'n koue. Vaksien-voorkombaar. Sien dokter as erg.",
+  "tagline": "Erger as verkoue. kan deur inenting voorkom word. Sien dokter as erg.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["NICD", "WHO", "National Department of Health"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "NICD",
+    "WHO",
+    "National Department of Health"
+  ],
   "what_is_it": {
     "heading": "Griep in eenvoudige terme",
-    "lede": "Griep (influensa) is 'n virusinfeksie wat die boonste lugweë aanval. Anders as 'n koue kom griep skielik en hou jou gewoonlik in die bed vir 'n week. Vir gesonde mense is dit ellendig maar oorleefbaar. Vir bejaardes, swangeres en mense met chroniese siektes kan dit lewensgevaarlik wees.",
+    "lede": "Griep (influensa) is ’n virusinfeksie wat die boonste lugweë aanval. Anders as verkoue kom griep skielik en hou jou gewoonlik in die bed vir ’n week. Vir gesonde mense is dit ellendig maar oorleefbaar. Vir bejaardes, swangeres en mense met chroniese siektes kan dit lewensgevaarlik wees.",
     "paragraphs": [
-      "Suid-Afrika kry 'n griep-seisoen elke jaar tussen Mei en September. Die virus muteer voortdurend, daarom word die vaksien jaarliks aangepas — een vorige jaar se inenting beskerm nie genoeg in 'n nuwe seisoen nie.",
+      "Suid-Afrika kry ’n griepseisoen elke jaar tussen Mei en September. Die virus muteer voortdurend, daarom word die inenting jaarliks aangepas — een vorige jaar se inenting beskerm nie genoeg in ’n nuwe seisoen nie.",
       "Vir die meeste mense behandel griep self met rus, vloeistowwe en pyn-stillers. Antivirale medisyne (oseltamivir) kan help by hoë-risiko pasiënte as binne 48 uur begin. Komplikasies — veral longontsteking — is wat dood maak."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "purple", "icon": "wind",          "headline": "Nie 'n koue",      "body": "Griep kom skielik, met hoë koors en heel-liggaam-spierpyn. 'n Koue ontwikkel stadig en is meestal in die kop en keel." },
-      { "color": "coral",  "icon": "alert-triangle","headline": "Hoë risiko",     "body": "Bejaardes, swangeres, klein kinders, en mense met diabetes/asma/HIV kan ernstige griepkomplikasies kry. Inenting is veral belangrik vir hulle." },
-      { "color": "gold",   "icon": "syringe",       "headline": "Vaksien jaarliks", "body": "Griep-inenting elke Maart-April voor die seisoen. Gratis vir hoë-risikogroepe by klinieke. R150–250 by apteke vir ander." },
-      { "color": "green",  "icon": "check-circle", "headline": "Selfbeperkend",   "body": "Vir gesonde volwassenes herstel griep gewoonlik in 5–7 dae met rus en vloeistowwe. Geen antibiotika nodig nie (dit is 'n virus)." }
+      {
+        "color": "purple",
+        "icon": "wind",
+        "headline": "Nie ’n verkoue nie",
+        "body": "Griep kom skielik, met hoë koors en spierpyn oor die hele liggaam. ’n Verkoue ontwikkel stadig en is meestal in die kop en keel."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Hoë risiko",
+        "body": "Bejaardes, swangeres, klein kinders, en mense met diabetes/asma/HIV kan ernstige griepkomplikasies kry. Inenting is veral belangrik vir hulle."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "inenting jaarliks",
+        "body": "Griep-inenting elke Maart-April voor die seisoen. Gratis vir hoë-risikogroepe by klinieke. R150–250 by apteke vir ander."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Selfbeperkend",
+        "body": "Vir gesonde volwassenes herstel griep gewoonlik in 5–7 dae met rus en vloeistowwe. Geen antibiotika nodig nie (dit is ’n virus)."
+      }
     ],
     "pull_quote": {
-      "text": "Die griepvaksien voorkom nie alle griep nie — maar dit verminder die kans dat jy hospitaal toe gaan met aansienlik. Vir 'n bejaarde of swanger vrou kan dit die verskil tussen 'n moeilike week en 'n ICU-besoek wees.",
+      "text": "Die griepinenting voorkom nie alle griep nie — maar dit verminder die kans op hospitalisasie aansienlik. Vir ’n bejaarde of swanger vrou kan dit die verskil wees tussen ’n moeilike week en ’n opname in intensiewe sorg.",
       "source": "NICD"
     }
   },
-
   "signs": {
-    "heading": "Hoe om griep van 'n koue te onderskei",
+    "heading": "Hoe om griep van ’n verkoue te onderskei",
     "lede": "Twee verkoue-tipe siektes wat anders behandel word. Die pas en intensiteit van die simptome maak die verskil.",
     "items": [
-      { "color": "green",  "icon": "circle",        "title": "Koue — stadig en lig", "description": "Geleidelike loopneus, nies, ligte keelseer. Effe vermoeid. Selde koors. Werk-kan-doen-mits-jy-rus styl. Herstel in 3–5 dae." },
-      { "color": "orange", "icon": "alert-circle",  "title": "Griep — skielik en erg","description": "Skielike hoë koors (38°C+), erge spierpyn, ekstreme moegheid, droë hoes, koue rillings, hoofpyn. Hou jou in die bed vir dae. Herstel in 5–10 dae." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Krisis-tekens",       "description": "Erge kortasem, borspyn, blou lippe, hoë koors wat nie val nie, verwarring, of kind wat nie kan drink of wakker bly nie. Hospitaal toe." }
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Verkoue — stadig en lig",
+        "description": "Geleidelike loopneus, nies, ligte keelseer. Effe vermoeid. Selde koors. Werk-kan-doen-mits-jy-rus styl. Herstel in 3–5 dae."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Griep — skielik en erg",
+        "description": "Skielike hoë koors (38°C+), erge spierpyn, ekstreme moegheid, droë hoes, koue rillings, hoofpyn. Hou jou in die bed vir dae. Herstel in 5–10 dae."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Krisis-tekens",
+        "description": "Erge kortasem, borspyn, blou lippe, hoë koors wat nie val nie, verwarring, of kind wat nie kan drink of wakker bly nie. Hospitaal toe."
+      }
     ]
   },
-
   "spreads": {
     "heading": "Hoe griep versprei",
     "yes": [
       "Druppels van hoes en nies wat in die lug hang",
       "Oppervlakke wat met geïnfekteerde druppels besmet is — deurhandvatsels, telefone, sleutels",
-      "Direkte kontak met 'n geïnfekteerde persoon — hand skud, soene",
+      "Direkte kontak met ’n geïnfekteerde persoon — hand skud, soene",
       "Klein, geslote ruimtes met swak ventilasie",
-      "Mense is aansteeklik 'n dag vóór simptome verskyn en tot 7 dae daarna"
+      "Mense is aansteeklik ’n dag vóór simptome verskyn en tot 7 dae daarna"
     ],
     "no": [
-      "Koue weer alleen (rondom-faktore help, maar veroorsaak nie griep nie)",
+      "Koue weer alleen (omgewingsfaktore help, maar veroorsaak nie griep nie)",
       "Reën-buiteland",
       "Voedsel of water",
       "Insekbyte"
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "Die griep-inenting kan griep veroorsaak.",                                    "fact": "Die griep-inenting bevat geen lewendige virus nie. Mense voel soms vermoeid of het effe koors ná die spuit — dit is die immuunstelsel se reaksie, nie griep nie." },
-      { "myth": "As ek gesond is, het ek nie 'n griepvaksien nodig nie.",                      "fact": "Gesonde mense oorleef gewoonlik griep — maar versprei dit aan kwesbaarder mense. Inenting beskerm jou én jou kinders, ouers, kollegas." },
-      { "myth": "Antibiotika sal my griep gou regmaak.",                                        "fact": "Antibiotika werk slegs teen bakterieë. Griep is 'n virus. Antibiotika onnodig neem kweek weerstandige bakterieë vir later." },
-      { "myth": "As ek begin het met simptome, is dit te laat vir die vaksien.",                "fact": "As jy reeds griep het, sal die vaksien dié episode nie genees nie — maar dit is nooit te laat vir die seisoen as 'n geheel nie. Daar is dikwels nog blootstellings later." }
+      {
+        "myth": "Die griep-inenting kan griep veroorsaak.",
+        "fact": "Die griep-inenting bevat geen lewendige virus nie. Mense voel soms vermoeid of het effe koors ná die spuit — dit is die immuunstelsel se reaksie, nie griep nie."
+      },
+      {
+        "myth": "As ek gesond is, het ek nie ’n griepinenting nodig nie.",
+        "fact": "Gesonde mense oorleef gewoonlik griep — maar versprei dit aan kwesbaarder mense. Inenting beskerm jou én jou kinders, ouers, kollegas."
+      },
+      {
+        "myth": "Antibiotika sal my griep gou regmaak.",
+        "fact": "Antibiotika werk slegs teen bakterieë. Griep is ’n virus. Antibiotika onnodig neem kweek weerstandige bakterieë vir later."
+      },
+      {
+        "myth": "As ek begin het met simptome, is dit te laat vir die inenting.",
+        "fact": "As jy reeds griep het, sal die inenting dié episode nie genees nie — maar dit is nooit te laat vir die seisoen as ’n geheel nie. Daar is dikwels nog blootstellings later."
+      }
     ]
   },
-
   "prevention": {
     "heading": "Hoe om griep te vermy",
-    "lede": "Jaarlikse vaksien plus basiese higiëne is die mees-effektiewe kombinasie. Veral belangrik voor en tydens die seisoen (Mei–September).",
+    "lede": "Jaarlikse inenting plus basiese higiëne is die mees effektiewe kombinasie. Veral belangrik voor en tydens die seisoen (Mei–September).",
     "items": [
-      { "color": "green",  "icon": "syringe",  "title": "Jaarlikse vaksien (Mrt–Apr)", "description": "Voor die seisoen begin. Gratis vir hoë-risikogroepe by klinieke. Werk binne 2 weke. Verlaag risiko aansienlik." },
-      { "color": "purple", "icon": "droplet",   "title": "Was hande gereeld",            "description": "Veral ná hoes, nies, of openbare plekke. Seep en water vir 20 sekondes — die meeste effektief teen druppelinfeksies." },
-      { "color": "orange", "icon": "wind",       "title": "Vermy menigtes tydens seisoen","description": "Veral as jy hoë-risiko is. Sluitende ruimtes met swak ventilasie versprei griep maklik. Maak vensters oop waar moontlik." },
-      { "color": "gold",   "icon": "user-x",     "title": "Bly tuis as siek",             "description": "Beskerm kollegas, vriende en familie. As jy koors het, bly tuis tot 24 uur ná die koors weg is (sonder pille)." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Jaarlikse inenting (Mrt–Apr)",
+        "description": "Voor die seisoen begin. Gratis vir hoë-risikogroepe by klinieke. Werk binne 2 weke. Verlaag risiko aansienlik."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Was hande gereeld",
+        "description": "Veral ná hoes, nies, of openbare plekke. Seep en water vir 20 sekondes — die meeste effektief teen druppelinfeksies."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Vermy menigtes tydens seisoen",
+        "description": "Veral as jy hoë-risiko is. Sluitende ruimtes met swak ventilasie versprei griep maklik. Maak vensters oop waar moontlik."
+      },
+      {
+        "color": "gold",
+        "icon": "user-x",
+        "title": "Bly tuis as siek",
+        "description": "Beskerm kollegas, vriende en familie. As jy koors het, bly tuis tot 24 uur ná die koors weg is (sonder pille)."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "Rus en drink baie vloeistof",                "description": "Water, sop, kruietee. Vermy alkohol en kafeïen tydens herstel. Slaap soveel as wat jy kan — slaap is wanneer die immuunstelsel werk." },
-      { "title": "Paracetamol of ibuprofen vir simptome",     "description": "Vir koors, hoofpyn, en spierpyn. Volg dosering op die bottel. Moenie aspirien gee aan kinders onder 16 nie (Reye-sindroom-risiko)." },
-      { "title": "Hoë-risiko? Sien dokter vroeg",              "description": "Bejaardes, swangeres, chroniese siektes — gaan binne 48 uur kliniek toe. Antivirale medisyne kan help, maar werk net vroeg." },
-      { "title": "Bly weg van werk en skool",                  "description": "Tot 24 uur ná die koors weg is. Anders versprei jy dit aan ander, en jy vertraag jou eie herstel." },
-      { "title": "Hospitaal toe by krisis-tekens",              "description": "Kortasem, borspyn, blou lippe, verwarring, of (by kinders) vinnige asemhaling, drink-weiering, of slaperigheid. Bel 10177." }
+      {
+        "title": "Rus en drink baie vloeistof",
+        "description": "Water, sop, kruietee. Vermy alkohol en kafeïen tydens herstel. Slaap soveel as wat jy kan — slaap is wanneer die immuunstelsel werk."
+      },
+      {
+        "title": "Paracetamol of ibuprofen vir simptome",
+        "description": "Vir koors, hoofpyn, en spierpyn. Volg dosering op die bottel. Moenie aspirien gee aan kinders onder 16 nie (Reye-sindroom-risiko)."
+      },
+      {
+        "title": "Hoë-risiko? Sien dokter vroeg",
+        "description": "Bejaardes, swangeres, chroniese siektes — gaan binne 48 uur kliniek toe. Antivirale medisyne kan help, maar werk net vroeg."
+      },
+      {
+        "title": "Bly weg van werk en skool",
+        "description": "Tot 24 uur ná die koors weg is. Anders versprei jy dit aan ander, en jy vertraag jou eie herstel."
+      },
+      {
+        "title": "Hospitaal toe by krisis-tekens",
+        "description": "Kortasem, borspyn, blou lippe, verwarring, of (by kinders) vinnige asemhaling, drink-weiering, of slaperigheid. Bel 10177."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
     "lede": "Vir die meeste mense — rus tuis is genoeg. Vir hoë-risiko mense, en by krisistekens, gaan kliniek of hospitaal toe.",
     "helplines": [
-      { "name": "Noodambulans",            "description": "Vir erge griepkomplikasies",                    "meta": "Gratis · 24 uur",                          "phone": "10177",      "phone_display": "10177",         "primary": true },
-      { "name": "Vind jou naaste kliniek",  "description": "Griepvaksiene en assessering",                   "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
-      { "name": "NICD-lyn",                 "description": "Griep-seisoen advies, vaksiene-inligting",        "meta": "Ma–Vr 08:00–16:00",                        "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+      {
+        "name": "Noodambulans",
+        "description": "Vir erge griepkomplikasies",
+        "meta": "Gratis · 24 uur",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Griepinentings en beoordeling",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "NICD-lyn",
+        "description": "griepseisoen advies, inentingsinligting",
+        "meta": "Ma–Vr 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
     ]
   }
 }

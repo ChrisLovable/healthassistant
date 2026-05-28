@@ -1,80 +1,177 @@
 {
   "slug": "heart-attack",
-  "group_slug": "emergency",
+  "group_slug": "emergency-signs",
   "name": "Hartaanval",
-  "tagline": "Borspyn met sweet, kortasem? Bel 10177.",
-  "read_time_minutes": 3,
+  "tagline": "Borspyn wat nie weggaan nie — bel nou.",
+  "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["Heart and Stroke Foundation SA", "WHO", "National Department of Health"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "South African Heart Association",
+    "WHO",
+    "American Heart Association"
+  ],
   "urgent": {
-    "heading": "Bel 10177 dadelik as jy enige van hierdie het",
-    "primary_message": "'n Hartaanval is 'n noodgeval. Elke minuut sonder bloedtoevoer beskadig hartspier permanent. Bel die ambulans nou — moenie self ry nie.",
+    "heading": "Dringend — bel nou",
+    "primary_message": "Bel dadelik ’n ambulans. Kou een aspirien as jy dit het. Moenie self bestuur nie.",
     "phone": "10177",
     "phone_display": "Bel 10177",
     "red_flags": [
-      "Borspyn of -druk — voel soos 'n swaar gewig op die bors",
-      "Pyn wat versprei na die arm (gewoonlik links), kaak, nek, rug, of maag",
-      "Skielike kortasem — selfs sonder borspyn",
-      "Koue sweet, naarheid, of swymeling",
-      "Vermoeidheid uit niks — veral by vroue, ouer mense, en diabete",
-      "Pyn wat nie weggaan met rus nie en langer as 10 minute hou",
-      "Skielike duiseligheid of flou voel saam met borspyn"
+      "Borspyn, druk, styfheid of knypende gevoel — langer as ’n paar minute",
+      "Pyn wat uitstraal na die arm (dikwels links), kakebeen, nek, rug of maag",
+      "Skielike kortasem, met of sonder borspyn",
+      "Koue sweet, naarheid of braking",
+      "Skielike erge swakheid, duiseligheid of floute",
+      "By vroue: ongewone moegheid, spysvertering-agtige pyn of rugpyn"
     ]
   },
-
   "what_is_it": {
-    "heading": "Hartaanval in eenvoudige terme",
-    "lede": "'n Hartaanval gebeur wanneer 'n bloedvat wat die hartspier voed verstop raak — gewoonlik deur 'n bloedstolsel op 'n cholesterolophoping. Sonder bloed begin daardie deel van die hartspier binne minute sterf.",
+    "heading": "Hartaanval in gewone taal",
+    "lede": "’n Hartaanval gebeur wanneer bloedvloei na ’n deel van die hartspier skielik geblokkeer word. Die spier begin binne minute doodgaan.",
     "paragraphs": [
-      "Hartsiekte is een van die top oorsake van dood in Suid-Afrika, en die syfers styg. Die meeste hartaanvalle is voorkombaar — beheer bloeddruk en cholesterol, moenie rook nie, beweeg, eet gesonde voedsel.",
-      "Die behandeling is om die verstopte bloedvat so vinnig moontlik weer oop te maak — óf met klontoplossende medisyne óf met 'n hartkatetisasie. Beide werk beter hoe gouer hulle gegee word. 'Tyd is hartspier.'"
+      "Die meeste hartaanvalle word veroorsaak deur ’n bloedklont wat op ’n vetplaat in ’n kransslagaar vorm. Die blokkasie ontneem die hartspier van suurstof. Hoe langer die slagaar toe bly, hoe meer spier sterf.",
+      "Moderne hospitaalbehandeling kan die geblokkeerde slagaar oopmaak en die res van die hart red — maar net as jy vinnig daar kom. Elke minuut se vertraging beteken meer permanente skade."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "clock",        "headline": "Tyd is spier",       "body": "Elke minuut sonder behandeling sterf hartspier permanent af. Vinnige hospitaalbehandeling red die spier en jou lewe." },
-      { "color": "purple", "icon": "users",        "headline": "Vroue lyk anders",   "body": "Vroue, ouer mense en diabete kry dikwels nie die klassieke 'olifant-op-die-bors' nie. Vermoeidheid, naarheid, kortasem alleen kan tekens wees." },
-      { "color": "gold",   "icon": "shield",       "headline": "Voorkombaar",         "body": "Hoë bloeddruk, hoë cholesterol, rook, swaar drink, oorgewig, geen oefening, diabetes — al hierdie verhoog die risiko. Almal is behandelbaar." },
-      { "color": "green",  "icon": "check-circle", "headline": "Oorleefbaar",        "body": "Met vinnige hospitaalsorg oorleef die meeste mense hul eerste hartaanval. Hoe vinniger jy daar is, hoe beter." }
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Tyd = hartspier",
+        "body": "Elke minuut met ’n geblokkeerde slagaar beteken meer verlies van hartspier. Behandeling in die eerste ure kan die meeste red."
+      },
+      {
+        "color": "purple",
+        "icon": "heart-pulse",
+        "headline": "Grootste moordenaar",
+        "body": "Kardiovaskulêre siekte is die grootste oorsaak van nie-oordraagbare sterftes in Suid-Afrika."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Nie altyd tipies by vroue nie",
+        "body": "Vroue het dikwels minder klassieke borspyn — eerder moegheid, kakebeenpyn, naarheid of kortasem. Hierdie tekens word maklik misgekyk."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Grootliks voorkombaar",
+        "body": "Rook, hoë bloeddruk, diabetes, hoë cholesterol, onaktiwiteit en vetsug dryf die meeste hartaanvalle. Alles is bestuurbaar."
+      }
     ],
     "pull_quote": {
-      "text": "Die mees kritieke ding wat jy kan doen as jy dink jy het 'n hartaanval is om nie te dink dit gaan beter raak nie. Die helfte van hartaanvalsterftes gebeur voor die persoon by die hospitaal kom — meestal omdat hulle gewag het.",
-      "source": "Heart and Stroke Foundation South Africa"
+      "text": "Die meeste mense wat aan ’n hartaanval sterf, sterf voordat hulle die hospitaal bereik — meestal omdat hulle gewag het en gehoop het dit gaan verby. As jy onseker is, bel.",
+      "source": "South African Heart Association"
     }
   },
-
   "signs": {
-    "heading": "Wat 'n hartaanval voel soos",
-    "lede": "Die klassieke borspyn is nie altyd daar nie. Wees veral versigtig as die simptome onverklaarbaar opduik en nie weggaan nie.",
+    "heading": "Wat jy kan voel",
+    "lede": "Hartaanvalsimptome is nie altyd dramaties nie. Ligte maar aanhoudende simptome moet steeds dringend aandag kry.",
     "items": [
-      { "color": "coral",  "icon": "alert-triangle","title": "Klassieke tekens",       "description": "Druk of swaar gevoel midde-bors. Pyn versprei na linkerarm, kaak, nek of rug. Koue sweet, naarheid, kortasem, gevoel van naderende ondergang." },
-      { "color": "orange", "icon": "alert-circle",  "title": "Minder voor die hand",   "description": "By vroue en diabete: skielike ekstreme vermoeidheid, indigestion-tipe pyn boontoe, naarheid en braking, kortasem sonder borspyn, ligkop." },
-      { "color": "purple", "icon": "info",          "title": "Verwarring met indigestion","description": "Maagsuur en hartaanval kan dieselfde voel. As die simptome volg na oefening, emosie, of swaar maaltyd, en duur langer as 10 minute — neem dit as 'n hart-noodgeval." }
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Borspyn of druk",
+        "description": "’n Swaar, knypende, stywe of brandende gevoel in die middel van die bors. Dit hou langer as ’n paar minute aan, of kom en gaan."
+      },
+      {
+        "color": "orange",
+        "icon": "git-branch",
+        "title": "Pyn wat uitstraal",
+        "description": "Pyn of gevoelloosheid in die arm (dikwels links), kakebeen, nek, rug of boonste maag. Dit kan ook sonder borspyn voorkom."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Kortasem",
+        "description": "Skielike moeilikheid om asem te haal, soms die enigste teken. Dit is meer algemeen by vroue, ouer volwassenes en mense met diabetes."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Sweet, naarheid, duiseligheid",
+        "description": "Koue klam sweet, naarheid of braking, skielike swakheid of floute. Dit kom dikwels saam met die tekens hierbo."
+      }
     ]
   },
-
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "’n Hartaanval beteken altyd erge, dramatiese borspyn.",
+        "fact": "Baie hartaanvalle begin met ligte ongemak en bou stadig op. Vroue, ouer volwassenes en mense met diabetes het dikwels minder tipiese simptome."
+      },
+      {
+        "myth": "As ek jonk en fiks is, kan ek nie ’n hartaanval kry nie.",
+        "fact": "Hartaanvalle by jong Suid-Afrikaners neem toe — gedryf deur rook, vaping, dwelmgebruik, familiegeskiedenis en ongediagnoseerde cholesterolprobleme."
+      },
+      {
+        "myth": "As ‘indigestie’ nie weggaan nie, is dit net indigestie.",
+        "fact": "Pyn soos sooibrand wat aanhou, terugkom, saam met sweet of kortasem kom, of anders as normaal voel, moet dringend ondersoek word."
+      },
+      {
+        "myth": "Ek wag eers ’n uur om te kyk of dit weggaan.",
+        "fact": "Wag is die grootste rede waarom mense aan hartaanvalle sterf. As jy langer as 10 minute onseker is — bel die ambulans."
+      }
+    ]
+  },
   "action_steps": {
-    "heading": "Wat om te doen",
+    "heading": "Wat om te doen — sodra jy ’n hartaanval vermoed",
     "items": [
-      { "title": "Bel 10177 dadelik",                              "description": "Sê 'verdagte hartaanval'. Ambulansse het toerusting om die hartritme te monitor en behandeling onderweg te begin. Moenie self ry nie." },
-      { "title": "Kou een aspirien (300mg) — as jy nie allergies is",      "description": "Asetilsalisielsuur dun die bloed en help die klontvorming stop. Een gewone 300mg-tablet, gekou (nie gesluk nie) terwyl jy vir die ambulans wag." },
-      { "title": "Rus reguit — moenie loop of beweeg nie",         "description": "Sit of lê neer in die mees gemaklike posisie. Hoe minder beweging, hoe minder werk hoef die hart te doen." },
-      { "title": "Wees gereed om CPR te doen",                      "description": "As die persoon ineenstort of ophou asemhaal: begin borskompressies — hard, vinnig, midde-bors (100–120 per minuut). Die 10177-operateur kan jou lei." },
-      { "title": "Moenie wag om seker te wees nie",                  "description": "Die meeste mense wat sterf aan hartaanvalle het te lank gewag — getwyfel, gehoop dit is iets minder ernstig. Bel die ambulans en laat hulle besluit." }
+      {
+        "title": "Bel 10177 of 112 dadelik",
+        "description": "Sê ‘verdagte hartaanval’. Paramedici begin behandeling in die ambulans en neem jou na ’n hartgeskikte hospitaal."
+      },
+      {
+        "title": "Kou een gewone aspirien (300 mg) as beskikbaar",
+        "description": "Deur te kou — nie heel af te sluk nie — kom aspirien vinniger in die bloed. Moenie neem as jy allergies is, bloedverdunners gebruik of onlangs gebloei het nie."
+      },
+      {
+        "title": "Sit en rus. Maak stywe klere los",
+        "description": "Sit gemaklik. Moenie plat lê as asemhaling moeilik is nie. Bly kalm — paniek plaas ekstra spanning op die hart."
+      },
+      {
+        "title": "Moenie self bestuur nie",
+        "description": "As jy agter die stuur ineenstort, kan jy en ander sterf. Wag vir die ambulans — paramedici het lewensreddende toerusting."
+      },
+      {
+        "title": "Maak die deur oop vir paramedici",
+        "description": "Maak seker hulle kan jou vinnig bereik. As jy alleen is, beweeg na ’n plek waar iemand jou kan kry."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Waarheen om te gaan",
-    "lede": "Hartaanval is 'n hospitaal-noodgeval, nie 'n kliniek-een nie. Gaan reguit na 'n hospitaal met 'n noodafdeling — Tygerberg, Groote Schuur, Steve Biko, en groot regionale hospitale almal kan hartaanvalle hanteer.",
+    "heading": "Wie om nou te bel",
+    "lede": "’n Verdagte hartaanval is ’n noodgeval. Moenie wag, moenie self ry, moenie ‘kyk hoe dit gaan’ nie.",
     "helplines": [
-      { "name": "Noodambulans",       "description": "Regerings-nooddiens",                            "meta": "Gratis · 24 uur · sê 'verdagte hartaanval'", "phone": "10177", "phone_display": "10177", "primary": true },
-      { "name": "Noodlyn (selfoon)",   "description": "Bereik enige nooddiens vanaf 'n selfoon",        "meta": "Gratis vanaf enige selfoon · 24 uur",         "phone": "112",   "phone_display": "112",   "primary": true }
+      {
+        "name": "Noodambulans",
+        "description": "Regerings-nood mediese diens",
+        "meta": "Gratis · 24 uur · sê ‘hartaanval’",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Noodgeval (selfoon)",
+        "description": "Verbind met enige nooddienste vanaf ’n selfoon",
+        "meta": "Gratis vanaf enige selfoon · 24 uur",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Inligting, voorkomingsadvies en ondersteuning vir oorlewendes",
+        "meta": "Ma–Vr 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
     ]
   }
 }

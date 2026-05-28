@@ -1,0 +1,174 @@
+{
+  "slug": "asthma-children",
+  "group_slug": "child-baby",
+  "name": "Umbefu ebantwaneni",
+  "tagline": "Izinto ezibangela, i-inhalers, izicwangciso zesikolo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Umbutho waBantwana waseMzantsi Afrika",
+    "Inkqubo yeSizwe yeMfundo yeMbefu yoMzantsi Afrika",
+    "Inyathelo leHlabathi leMbefu (GINA)",
+    "I-WHO"
+  ],
+  "urgent": {
+    "heading": "Ungxamisekile - fowuna ngoku",
+    "primary_message": "Sebenzisa i-blue reliver inhaler kunye ne-spacer. Ukuba akukho phuculo kwimizuzu eyi-10-tsalela umnxeba u-10177.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Ukuphefumla kakhulu ukuthetha izivakalisi ezipheleleyo, okanye ukukhala",
+      "Imilebe, iinzipho, okanye ubuso bujika bubhlowu okanye bungwevu",
+      "Ulusu lufunxa phakathi okanye ngaphantsi kweembambo ngomphefumlo ngamnye",
+      "I-reliever inhaler ayincedi kwaphela",
+      "Ukozela, ukubhideka, okanye ukudinwa kukuphefumla",
+      "Ukhohlokhohlo olunzima kakhulu umntwana akakwazi ukuyeka okanye ukulala",
+      "Isifuba esithe cwaka - umoya uyayeka kuba umoya uphantsi kakhulu"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Isifuba somoya sabantwana ngokwemigaqo ecacileyo",
+    "lede": "I-asthma kuxa imigudu yomoya emiphungeni iba novakalelo kwaye idumbe - iyaqina kwaye ikhuphe i-mucus ekuphenduleni izinto ezibangela ukuba kube nzima kumntwana ukuphefumla.",
+    "paragraphs": [
+      "Isifuba somoya sabantwana sesinye sezona meko zixhaphakileyo ezingapheliyo kubantwana baseMzantsi Afrika - malunga nomntwana om-1 kwabali-10. Iimpawu zinokuza kwaye zihambe. Ngonyango olululo, uninzi lwabantwana abane-asthma banokuphila, badlale imidlalo, kwaye balale ngokuqhelekileyo.",
+      "Abantwana abanesifo sombefu badla ngokufuna iindidi ezimbini zamayeza: isixhobo sokuphefumla (esidla ngokuba luhlaza okwesibhakabhaka) ngexesha lohlaselo, kunye nesithinteli sokuphefumla (esidla ngokuba mdaka) esisetyenziswa yonke imihla ukugcina iindlela zomoya zizolile. Umthinteli nguye ogcina umntwana ephuma esibhedlele - nokuba uziva ephilile."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku10",
+        "body": "Abantwana baseMzantsi Afrika banesifo sombefu - uninzi lwabo abakhange lufunyanwe, ingakumbi abo banokhohlokhohlo olungapheliyo ebusuku."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Iinhalers ezimbini",
+        "body": "I-Blue reliever yokuhlaselwa, i-brown preventer yonke imihla. Umthinteli nguye olawula esi sifo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Ngalo lonke ixesha",
+        "body": "Abantwana kufuneka bahlale besebenzisa i-spacer kunye ne-inhaler yabo. Iphinda kabini isixa samayeza afikelela emiphungeni."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Izinto ezibangelayo ziyahluka",
+        "body": "Izinto eziqhelekileyo ezibangela: ukubanda kwentsholongwane, uthuli, umsi, i-pet dander, umoya obandayo, umthambo. Ukwazi izinto ezibangela umntwana wakho akwazi ukuthintela ukuhlaselwa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uninzi lohlaselo lwesifuba somntwana olubi ngokwaneleyo esibhedlele lwalunokuthintelwa ngokusetyenziswa kwe-inhaler yokuthintela yonke imihla. Musa ukuyiyeka ngenxa yokuba umntwana uziva ephilile—yiloo nto ekumele ukuba yenziwe.",
+      "source": "Inyathelo leHlabathi leSifo soMbefu"
+    }
+  },
+  "signs": {
+    "heading": "Iimpawu eziqhelekileyo ze-asthma yobuntwana",
+    "lede": "Umbefu awusoloko ukhangeleka ngathi uyatswina. Ebantwaneni ngakumbi, ukhohlokhohlo olomileyo oluthatha ixesha elide - ngakumbi ebusuku okanye ngokwenza umthambo - luhlala luphawu lweenyanga ngaphambi kokuxilongwa.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukhohlokhohlo olungasukiyo",
+        "description": "Ngokukodwa ebusuku, kusasa, okanye ngokubaleka nokudlala. Olona phawu luxhaphakileyo ebantwaneni - kaninzi abaphoswa ziinyanga 'njengomkhuhlane omane ubuya'."
+      },
+      {
+        "color": "coral",
+        "icon": "activity",
+        "title": "Ukuphefumla okanye ukuphefumla okungxolayo",
+        "description": "Isandi somlozi, ngakumbi xa uphefumlela ngaphandle. Ngamanye amaxesha kuphela ngexesha lokubanda, ngamanye amaxesha kunye naluphi na ukunyamezela."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Ukuphefumula okufutshane, isifuba esiqinileyo",
+        "description": "Umntwana uhlala e-PE, akakwazi ukuhlala noontanga bakhe, ukhalaza ukuba isifuba siziva siqinile okanye 'sibuhlungu'. Kufanelekile ukuphandwa."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
+    "items": [
+      {
+        "myth": "Abantwana basoloko bekhuliswa sisifuba.",
+        "fact": "Abaninzi bayayenza—kodwa abaninzi abakwenzi oko. Nokuba iimpawu zihleli, ubuntununtunu bomoya bunokubuya nangabuphi na ubudala. Gcina isithinteli sihamba njengoko kumiselweyo, nokuba kulungile."
+      },
+      {
+        "myth": "Iinhalers zesteroid ziyadodobalisa ukukhula.",
+        "fact": "Idosi kwizithinteli eziphefumlelweyo iphantsi kakhulu kwaye isebenza kwindawo emiphungeni. Nasiphi na impembelelo encinci ekukhuleni ayinabungozi kakhulu kunesifuba esilawulwa kakubi. I-Oral steroids ngexesha lohlaselo inefuthe elingakumbi-yiyo ke loo nto kubalulekile ukuthintela."
+      },
+      {
+        "myth": "Umbefu kuthetha ukuba akukho mdlalo.",
+        "fact": "Isifuba somoya esilawulwa kakuhle akufuneki sithintele ezemidlalo. Iimbaleki ezininzi zeOlimpiki zinesifuba. Ukuba umntwana wakho akakwazi ukuhambisana noontanga bakhe, isifo sombefu asilawuleki — thetha nekliniki."
+      },
+      {
+        "myth": "Sifuna i-inhaler kuphela xa begula.",
+        "fact": "I-blue reliever yeyeentsuku zokugula. Isithinteli esimdaka kufuneka sisetyenziswe yonke imihla - nokuba kulungile. Ukuyitsiba kuvumela ukuvuvukala kwakhe, okukhokelela ekuhlaselweni."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Kwenziwe ntoni",
+    "items": [
+      {
+        "title": "Fumana isicwangciso sokusebenza sombefu ekliniki",
+        "description": "Isicwangciso esibhaliweyo sikuxelela ngokuthe ngqo into omawuyenze kwinqanaba ngalinye - eluhlaza (elungileyo), etyheli (eya iba mandundu), ebomvu (engxamisekileyo). Isimahla, isayinwe ngugqirha wakho okanye umongikazi."
+      },
+      {
+        "title": "Ngalo lonke ixesha sebenzisa i-spacer kunye ne-inhaler",
+        "description": "I-Spaces iphinda kabini inani lamayeza afikelela emiphungeni. Zisimahla kwiikliniki. Musa ukuvumela umntwana ukuba asebenzise i-inhaler ngaphandle kweyodwa."
+      },
+      {
+        "title": "Nika isithinteli yonke imihla, lonke ixesha lonyaka",
+        "description": "Umkhuseli weBrown (okanye inhaler edibeneyo) kabini ngosuku, yonke imihla. Naxa umntwana eziva ephilile. Nasehlotyeni. Ukutsiba ngoyena nobangela wohlaselo."
+      },
+      {
+        "title": "Zazi izinto ezibangela umntwana wakho acinge",
+        "description": "Gcina amanqaku kwizinto ezizisa iimpawu. Ezona ziqhelekileyo: iintsholongwane ezibandayo, uthuli, umsi (kuquka ibraai), iikati, izinja, umoya obandayo, umthambo. Nciphisa into onokuyenza."
+      },
+      {
+        "title": "Xelela isikolo kunye nokhathalelo lwasemva",
+        "description": "Banike ikopi yesicwangciso sokusebenza kunye ne-spare reliever inhaler nge-spacer. Uninzi lwezikolo luyawamkela la maxwebhu nje ukuba amaphepha asayiniwe."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Masiye phi",
+    "lede": "Isifuba somoya sabantwana siyanyangeka ngokupheleleyo kwinkqubo karhulumente yaseMzantsi Afrika. Iinhalers, izikhewu, kunye nezicwangciso zokwenza zonke zisimahla kwiikliniki.",
+    "helplines": [
+      {
+        "name": "I-ambulensi kaxakeka",
+        "description": "Inkonzo karhulumente yonyango olungxamisekileyo",
+        "meta": "Mahala · iiyure ezingama-24 · yithi 'ukuhlasela kwesifuba esiqatha'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Ii-inhalers zasimahla, i-spacers, kunye nezicwangciso zesenzo se-asthma",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "I-Childline SA",
+        "description": "Impilo yomntwana yeyure ezingama-24 yasimahla kunye nomgca wentlalontle",
+        "meta": "Isimahla kuyo nayiphi na ifowuni · iiyure ezingama-24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}
+

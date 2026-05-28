@@ -6,8 +6,24 @@
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Name], MBChB",
+  "reviewer": "Pending clinical review",
   "sources": ["Heart and Stroke Foundation SA", "South African Hypertension Society", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Call 10177 or go straight to hospital if",
+    "primary_message": "A hypertensive crisis (BP above 180/120 with symptoms) is an emergency. Don't wait — it can cause a stroke or heart attack.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "BP reading above 180/120 together with symptoms",
+      "Severe headache with vision problems or dizziness",
+      "Chest pain or shortness of breath",
+      "Sudden weakness, numbness, or confusion (may be a stroke)",
+      "Nausea, vomiting, or severe anxiety with high BP",
+      "A nosebleed that won't stop together with a high BP reading",
+      "Blood in the urine or sudden loss of bladder control"
+    ]
+  },
 
   "what_is_it": {
     "heading": "Blood pressure in plain terms",

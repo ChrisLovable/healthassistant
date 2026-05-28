@@ -9,6 +9,8 @@ export async function POST(request: NextRequest) {
   try {
     const formData = await request.formData();
     const audioFile = formData.get("audio") as File | null;
+    const lang = (formData.get("lang") as string) || "en";
+    const languageCode = lang === "af" ? "afr" : "eng";
 
     if (!audioFile) {
       return NextResponse.json({ error: "No audio file provided" }, { status: 400 });
@@ -17,6 +19,7 @@ export async function POST(request: NextRequest) {
     const elevenLabsFormData = new FormData();
     elevenLabsFormData.append("file", audioFile, "audio.webm");
     elevenLabsFormData.append("model_id", "scribe_v1");
+    elevenLabsFormData.append("language_code", languageCode);
 
     const response = await fetch("https://api.elevenlabs.io/v1/speech-to-text", {
       method: "POST",

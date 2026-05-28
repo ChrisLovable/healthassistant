@@ -1,48 +1,426 @@
 {
   "groups": {
-    "emergency-signs":      { "af": { "name": "Noodtekens",                  "tagline": "Weet wat om in die eerste minute te doen." } },
-    "chronic-lifestyle":    { "af": { "name": "Chroniese leefstyl siektes",  "tagline": "Langtermyn toestande wat jy kan bestuur." } },
-    "infectious":           { "af": { "name": "Aansteeklike siektes",        "tagline": "Wat versprei, hoe om jouself te beskerm." } },
-    "womens-health":        { "af": { "name": "Vrouegesondheid",             "tagline": "Sorg in elke lewensfase." } },
-    "mens-health":          { "af": { "name": "Mannegesondheid",             "tagline": "Waaroor mans dikwels nie vra nie." } },
-    "child-baby":           { "af": { "name": "Kinder- en babagesondheid",   "tagline": "Wanneer om bekommerd te wees, wanneer om te wag." } },
-    "mental-health":        { "af": { "name": "Geestesgesondheid",           "tagline": "Jy is nie alleen nie. Hulp bestaan." } },
-    "skin-allergy":         { "af": { "name": "Vel en allergie",             "tagline": "Algemeen, behandelbaar, dikwels misverstaan." } },
-    "pain-everyday":        { "af": { "name": "Pyn en alledaagse probleme",  "tagline": "Die klagtes wat jou na die apteek bring." } },
-    "prevention-screening": { "af": { "name": "Voorkoming en sifting",       "tagline": "Vang dit vroeg. Bly voor." } }
+    "emergency-signs": {
+      "af": {
+        "name": "Noodtekens",
+        "tagline": "Weet wat om in die eerste minute te doen."
+      },
+      "xh": {
+        "name": "Iimpawu zongxamiseko",
+        "tagline": "Yazi into omawuyenze kwimizuzu yokuqala."
+      }
+    },
+    "chronic-lifestyle": {
+      "af": {
+        "name": "Chroniese leefstylsiektes",
+        "tagline": "Langtermyn toestande wat jy kan bestuur."
+      },
+      "xh": {
+        "name": "Izifo zexesha elide nezendlela yokuphila",
+        "tagline": "Iimeko zexesha elide onokuzilawula."
+      }
+    },
+    "infectious": {
+      "af": {
+        "name": "Aansteeklike siektes",
+        "tagline": "Wat versprei, hoe om jouself te beskerm."
+      },
+      "xh": {
+        "name": "Izifo ezosulelayo",
+        "tagline": "Yintoni esasazekayo nendlela yokuzikhusela."
+      }
+    },
+    "womens-health": {
+      "af": {
+        "name": "Vrouegesondheid",
+        "tagline": "Sorg in elke lewensfase."
+      },
+      "xh": {
+        "name": "Impilo yabasetyhini",
+        "tagline": "Unonophelo kuwo onke amanqanaba obomi."
+      }
+    },
+    "mens-health": {
+      "af": {
+        "name": "Mannegesondheid",
+        "tagline": "Waaroor mans dikwels nie vra nie."
+      },
+      "xh": {
+        "name": "Impilo yamadoda",
+        "tagline": "Izinto amadoda ahlala engazibuziyo."
+      }
+    },
+    "child-baby": {
+      "af": {
+        "name": "Kinder- en babagesondheid",
+        "tagline": "Wanneer om bekommerd te wees, wanneer om te wag."
+      },
+      "xh": {
+        "name": "Impilo yabantwana neentsana",
+        "tagline": "Nini ekufuneka uxhalabile, nini unokulinda."
+      }
+    },
+    "mental-health": {
+      "af": {
+        "name": "Geestesgesondheid",
+        "tagline": "Jy is nie alleen nie. Hulp bestaan."
+      },
+      "xh": {
+        "name": "Impilo yengqondo",
+        "tagline": "Awuwedwa. Uncedo lukhona."
+      }
+    },
+    "skin-allergy": {
+      "af": {
+        "name": "Vel en allergie",
+        "tagline": "Algemeen, behandelbaar, dikwels misverstaan."
+      },
+      "xh": {
+        "name": "Ulusu ne-allergy",
+        "tagline": "Kuqhelekile, kuyanyangeka, kuhlala kungaqondwa kakuhle."
+      }
+    },
+    "pain-everyday": {
+      "af": {
+        "name": "Pyn en alledaagse probleme",
+        "tagline": "Die klagtes wat jou na die apteek bring."
+      },
+      "xh": {
+        "name": "Iintlungu neengxaki zemihla ngemihla",
+        "tagline": "Ezi zikhalazo zikusa kwifama."
+      }
+    },
+    "prevention-screening": {
+      "af": {
+        "name": "Voorkoming en sifting",
+        "tagline": "Vang dit vroeg. Bly voor."
+      },
+      "xh": {
+        "name": "Uthintelo novavanyo",
+        "tagline": "Kubambe kusenesikhathi. Hlala ukhuselekile."
+      }
+    }
   },
   "diseases": {
-    "stroke":                   { "af": { "name": "Beroerte",                                  "tagline": "FAST tekens. Elke minuut tel." } },
-    "heart-attack":             { "af": { "name": "Hartaanval",                                "tagline": "Borspyn wat nie weggaan nie — bel nou." } },
-    "severe-allergic-reaction": { "af": { "name": "Ernstige allergiese reaksie (anafilakse)",  "tagline": "Swelling, asemhalingsprobleme — noodgeval." } },
-    "asthma-attack":            { "af": { "name": "Asma-aanval",                               "tagline": "Fluit wat nie verlig nie — tree vinnig op." } },
-    "meningitis":               { "af": { "name": "Meningitis",                                "tagline": "Stywe nek, erge hoofpyn, pers uitslag." } },
-    "high-blood-pressure":      { "af": { "name": "Hoë bloeddruk",                             "tagline": "Die stille moordenaar — 1 uit 3 SA volwassenes." } },
-    "diabetes":                 { "af": { "name": "Suikersiekte",                              "tagline": "Vinnigste-groeiende chroniese siekte in SA." } },
-    "high-cholesterol":         { "af": { "name": "Hoë cholesterol",                           "tagline": "Wat die syfers beteken vir jou hart." } },
-    "hiv":                      { "af": { "name": "MIV",                                       "tagline": "Toets, behandel, onbespeurbaar. Leef 'n vol lewe." } },
-    "tb":                       { "af": { "name": "TB (Tuberkulose)",                          "tagline": "Hoes vir 2+ weke? Toets vandag — behandeling is gratis." } },
-    "stis":                     { "af": { "name": "SOI's (seksueel oordraagbare infeksies)",   "tagline": "Algemeen, behandelbaar — gaan toets." } },
-    "flu":                      { "af": { "name": "Griep (influensa)",                         "tagline": "Wanneer om te rus. Wanneer om jou dokter te bel." } },
-    "covid-19":                 { "af": { "name": "COVID-19",                                  "tagline": "Wat om vandag te doen. Lang COVID. Entstowwe." } },
-    "pneumonia":                { "af": { "name": "Longontsteking",                            "tagline": "Top moordenaar van onder-5's en oor-65's." } },
-    "cervical-cancer-hpv":      { "af": { "name": "Servikale kanker & MPV",                    "tagline": "Voorkombaar met entstof en sifting." } },
-    "breast-cancer":            { "af": { "name": "Borskanker en knoppe",                      "tagline": "Selfondersoek, sifting, en wat om te doen as jy 'n knop vind." } },
-    "pregnancy-danger-signs":   { "af": { "name": "Swangerskap gevaartekens",                  "tagline": "Bloeding, erge pyn, geen beweging — wanneer om in te gaan." } },
-    "contraception":            { "af": { "name": "Voorbehoeding",                             "tagline": "Jou opsies. Wat is gratis. Wat pas by jou lewe." } },
-    "prostate-problems":        { "af": { "name": "Prostaatprobleme",                          "tagline": "Algemeen na 50. Die meeste is behandelbaar." } },
-    "childhood-diarrhoea":      { "af": { "name": "Kinderdiarree",                             "tagline": "ORS red lewens. Ken die tekens van dehidrasie." } },
-    "child-fever":              { "af": { "name": "Kinderkoors",                               "tagline": "Wanneer dit normaal is. Wanneer dit nie is nie." } },
-    "vaccinations":             { "af": { "name": "Kinderinentings",                           "tagline": "Die gratis SA-skedule. Elke spuit tel." } },
-    "asthma-children":          { "af": { "name": "Asma by kinders",                           "tagline": "Snellers, inasemers, skoolplanne." } },
-    "depression":               { "af": { "name": "Depressie",                                 "tagline": "Werklik. Algemeen. Behandelbaar. Jy is nie alleen nie." } },
-    "anxiety":                  { "af": { "name": "Angs",                                      "tagline": "Meer as bekommernis. Daar is gereedskap wat help." } },
-    "substance-use":            { "af": { "name": "Substansgebruik en verslawing",             "tagline": "Alkohol, dwelms — hoe om dit te herken, waar om hulp te kry." } },
-    "acne":                     { "af": { "name": "Aknee",                                     "tagline": "Wat werk. Wat dit erger maak." } },
-    "eczema":                   { "af": { "name": "Ekseem",                                    "tagline": "Snellers en hoe om die jeuksiklus te breek." } },
-    "fungal-skin":              { "af": { "name": "Swam-velinfeksies",                         "tagline": "Ringwurm, atletevoet, sproei — maklik om te behandel." } },
-    "headache-migraine":        { "af": { "name": "Hoofpyn & migraine",                        "tagline": "Wanneer dit spanning is. Wanneer dit 'n rooi vlag is." } },
-    "heartburn-reflux":         { "af": { "name": "Sooibrand & oorsuur",                       "tagline": "Algemeen — maar soms 'n waarskuwingsteken." } },
-    "uti":                      { "af": { "name": "Urineweginfeksie (UWI)",                    "tagline": "Brand, dringendheid, behandel vroeg." } }
+    "stroke": {
+      "af": {
+        "name": "Beroerte",
+        "tagline": "FAST tekens. Elke minuut tel."
+      },
+      "xh": {
+        "name": "Istroke",
+        "tagline": "Iimpawu ze-FAST. Umzuzu ngamnye ubalulekile."
+      }
+    },
+    "heart-attack": {
+      "af": {
+        "name": "Hartaanval",
+        "tagline": "Borspyn wat nie weggaan nie — bel nou."
+      },
+      "xh": {
+        "name": "Uhlaselo lwentliziyo",
+        "tagline": "Intlungu yesifuba engapheliyo — tsalela umnxeba ngoku."
+      }
+    },
+    "severe-allergic-reaction": {
+      "af": {
+        "name": "Ernstige allergiese reaksie (anafilakse)",
+        "tagline": "Swelling, asemhalingsprobleme — noodgeval."
+      },
+      "xh": {
+        "name": "Ukusabela okukhulu kwe-allergy (anafilaksisi)",
+        "tagline": "Ukudumba, ukuphefumla nzima — ungxamiseko."
+      }
+    },
+    "asthma-attack": {
+      "af": {
+        "name": "Asma-aanval",
+        "tagline": "Fluit wat nie verlig nie — tree vinnig op."
+      },
+      "xh": {
+        "name": "Uhlaselo lwe-asthma",
+        "tagline": "Ukutswina okungapheliyo — thatha inyathelo ngokukhawuleza."
+      }
+    },
+    "meningitis": {
+      "af": {
+        "name": "Meningitis",
+        "tagline": "Stywe nek, erge hoofpyn, pers uitslag."
+      },
+      "xh": {
+        "name": "Imeningitis",
+        "tagline": "Intamo eqinileyo, intloko ebuhlungu kakhulu, urhashalala omfusa."
+      }
+    },
+    "high-blood-pressure": {
+      "af": {
+        "name": "Hoë bloeddruk",
+        "tagline": "Die stille moordenaar — 1 uit 3 SA volwassenes."
+      },
+      "xh": {
+        "name": "Uxinzelelo lwegazi oluphezulu",
+        "tagline": "Umbulali othe cwaka — 1 kwabayi-3 abadala eMzantsi Afrika."
+      }
+    },
+    "diabetes": {
+      "af": {
+        "name": "Suikersiekte",
+        "tagline": "Vinnigste-groeiende chroniese siekte in SA."
+      },
+      "xh": {
+        "name": "Iswekile",
+        "tagline": "Esinye sezifo ezikhula ngokukhawuleza eMzantsi Afrika."
+      }
+    },
+    "high-cholesterol": {
+      "af": {
+        "name": "Hoë cholesterol",
+        "tagline": "Wat die syfers beteken vir jou hart."
+      },
+      "xh": {
+        "name": "I-cholesterol ephezulu",
+        "tagline": "Intsingiselo yamanani entliziyweni yakho."
+      }
+    },
+    "hiv": {
+      "af": {
+        "name": "HIV",
+        "tagline": "Toets, behandel, onopspoorbaar. Leef 'n vol lewe."
+      },
+      "xh": {
+        "name": "I-HIV",
+        "tagline": "Vavanya, nyanga, ungabonakali. Phila ubomi obupheleleyo."
+      }
+    },
+    "tb": {
+      "af": {
+        "name": "TB (Tuberkulose)",
+        "tagline": "Hoes vir 2+ weke? Toets vandag — behandeling is gratis."
+      },
+      "xh": {
+        "name": "I-TB (Isifo sephepha)",
+        "tagline": "Ukhohlela iiveki ezi-2 nangaphezulu? Vavanya namhlanje — unyango lwasimahla."
+      }
+    },
+    "stis": {
+      "af": {
+        "name": "SOI's (seksueel oordraagbare infeksies)",
+        "tagline": "Algemeen, behandelbaar — gaan toets."
+      },
+      "xh": {
+        "name": "Ii-STI (izifo ezosulela ngesondo)",
+        "tagline": "Ziqhelekile, ziyanyangeka — yiya kuvavanywa."
+      }
+    },
+    "flu": {
+      "af": {
+        "name": "Griep (influensa)",
+        "tagline": "Wanneer om te rus. Wanneer om jou dokter te bel."
+      },
+      "xh": {
+        "name": "Umkhuhlane (influenza)",
+        "tagline": "Nini ukuphumla. Nini ukubiza ugqirha."
+      }
+    },
+    "covid-19": {
+      "af": {
+        "name": "COVID-19",
+        "tagline": "Wat om vandag te doen. Lang COVID. Entstowwe."
+      },
+      "xh": {
+        "name": "I-COVID-19",
+        "tagline": "Into omawuyenze namhlanje. I-Long COVID. Izitofu."
+      }
+    },
+    "pneumonia": {
+      "af": {
+        "name": "Longontsteking",
+        "tagline": "Top moordenaar van onder-5's en oor-65's."
+      },
+      "xh": {
+        "name": "Inyumoniya",
+        "tagline": "Umbulali ophambili kubantwana abangaphantsi kwe-5 nakubantu abangaphezulu kwe-65."
+      }
+    },
+    "cervical-cancer-hpv": {
+      "af": {
+        "name": "Servikale kanker & HPV",
+        "tagline": "Voorkombaar met entstof en sifting."
+      },
+      "xh": {
+        "name": "Umhlaza womlomo wesibeleko ne-HPV",
+        "tagline": "Kungathintelwa ngesitofu novavanyo."
+      }
+    },
+    "breast-cancer": {
+      "af": {
+        "name": "Borskanker en knoppe",
+        "tagline": "Selfondersoek, sifting, en wat om te doen as jy 'n knop vind."
+      },
+      "xh": {
+        "name": "Umhlaza wamabele namaqhuma",
+        "tagline": "Ukuzihlola, uvavanyo, nento omawuyenze xa ufumana iqhuma."
+      }
+    },
+    "pregnancy-danger-signs": {
+      "af": {
+        "name": "Swangerskap gevaartekens",
+        "tagline": "Bloeding, erge pyn, geen beweging — wanneer om in te gaan."
+      },
+      "xh": {
+        "name": "Iimpawu eziyingozi zokukhulelwa",
+        "tagline": "Ukopha, intlungu enkulu, ukungahambi komntwana — nini ukuya esibhedlele."
+      }
+    },
+    "contraception": {
+      "af": {
+        "name": "Voorbehoeding",
+        "tagline": "Jou opsies. Wat is gratis. Wat pas by jou lewe."
+      },
+      "xh": {
+        "name": "Ucwangciso lokukhulelwa",
+        "tagline": "Iinketho zakho. Okusimahla. Okwenza ebomini bakho."
+      }
+    },
+    "prostate-problems": {
+      "af": {
+        "name": "Prostaatprobleme",
+        "tagline": "Algemeen na 50. Die meeste is behandelbaar."
+      },
+      "xh": {
+        "name": "Iingxaki ze-prostate",
+        "tagline": "Kuqhelekile emva kweminyaka engama-50. Uninzi luyanyangeka."
+      }
+    },
+    "childhood-diarrhoea": {
+      "af": {
+        "name": "Kinderdiarree",
+        "tagline": "ORS red lewens. Ken die tekens van dehidrasie."
+      },
+      "xh": {
+        "name": "Urhudo lwabantwana",
+        "tagline": "i-ORS isindisa ubomi. Yazi iimpawu zokuphelelwa ngamanzi emzimbeni."
+      }
+    },
+    "child-fever": {
+      "af": {
+        "name": "Kinderkoors",
+        "tagline": "Wanneer dit normaal is. Wanneer dit nie is nie."
+      },
+      "xh": {
+        "name": "Ifiva yomntwana",
+        "tagline": "Nini iqhelekile. Nini ingaqhelekanga."
+      }
+    },
+    "vaccinations": {
+      "af": {
+        "name": "Kinderinentings",
+        "tagline": "Die gratis SA-skedule. Elke spuit tel."
+      },
+      "xh": {
+        "name": "Izitofu zabantwana",
+        "tagline": "Ishedyuli yasimahla yaseMzantsi Afrika. Inaliti nganye ibalulekile."
+      }
+    },
+    "asthma-children": {
+      "af": {
+        "name": "Asma by kinders",
+        "tagline": "Snellers, pompies, skoolplanne."
+      },
+      "xh": {
+        "name": "I-asthma ebantwaneni",
+        "tagline": "Izinto ezivusayo, iimpompo, izicwangciso zesikolo."
+      }
+    },
+    "depression": {
+      "af": {
+        "name": "Depressie",
+        "tagline": "Werklik. Algemeen. Behandelbaar. Jy is nie alleen nie."
+      },
+      "xh": {
+        "name": "Uxinzelelo lwengqondo (depression)",
+        "tagline": "Lukhona ngenene. Luqhelekile. Luyanyangeka. Awuwedwa."
+      }
+    },
+    "anxiety": {
+      "af": {
+        "name": "Angs",
+        "tagline": "Meer as bekommernis. Daar is gereedskap wat help."
+      },
+      "xh": {
+        "name": "Uxhalaba",
+        "tagline": "Lungaphezulu kokukhathazeka. Zikhona iindlela ezancedayo."
+      }
+    },
+    "substance-use": {
+      "af": {
+        "name": "Substansgebruik en verslawing",
+        "tagline": "Alkohol, dwelms — hoe om dit te herken, waar om hulp te kry."
+      },
+      "xh": {
+        "name": "Ukusetyenziswa kwezinto nokuxhomekeka",
+        "tagline": "Utywala, iziyobisi — indlela yokukuqaphela nendawo yokufumana uncedo."
+      }
+    },
+    "acne": {
+      "af": {
+        "name": "Aknee",
+        "tagline": "Wat werk. Wat dit erger maak."
+      },
+      "xh": {
+        "name": "I-acne",
+        "tagline": "Yintoni esebenzayo. Yintoni eyenza ibe mandundu."
+      }
+    },
+    "eczema": {
+      "af": {
+        "name": "Ekseem",
+        "tagline": "Snellers en hoe om die jeuksiklus te breek."
+      },
+      "xh": {
+        "name": "I-eczema",
+        "tagline": "Izinto ezivusayo nendlela yokuyeka umjikelo wokurhawuzelela."
+      }
+    },
+    "fungal-skin": {
+      "af": {
+        "name": "Swam-velinfeksies",
+        "tagline": "Ringwurm, atletevoet, liesskimmel — maklik om te behandel."
+      },
+      "xh": {
+        "name": "Izifo zolusu lwefungus",
+        "tagline": "Ringworm, athlete’s foot, jock itch — kulula ukuzinyanga."
+      }
+    },
+    "headache-migraine": {
+      "af": {
+        "name": "Hoofpyn & migraine",
+        "tagline": "Wanneer dit spanning is. Wanneer dit 'n rooi vlag is."
+      },
+      "xh": {
+        "name": "Intloko ebuhlungu ne-migraine",
+        "tagline": "Nini sisithintelo. Nini luphawu olubomvu."
+      }
+    },
+    "heartburn-reflux": {
+      "af": {
+        "name": "Sooibrand & oorsuur",
+        "tagline": "Algemeen — maar soms 'n waarskuwingsteken."
+      },
+      "xh": {
+        "name": "Ukutsha kwesifuba ne-acid reflux",
+        "tagline": "Kuqhelekile — kodwa ngamanye amaxesha luphawu lwesilumkiso."
+      }
+    },
+    "uti": {
+      "af": {
+        "name": "Urineweginfeksie (UWI)",
+        "tagline": "Brand, dringendheid, behandel vroeg."
+      },
+      "xh": {
+        "name": "Usulelo lomchamo (UTI)",
+        "tagline": "Ukutsha, ukuhamba rhoqo, nyanga kwangoko."
+      }
+    }
   }
 }

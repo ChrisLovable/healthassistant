@@ -1,0 +1,205 @@
+{
+  "slug": "hiv",
+  "group_slug": "infectious",
+  "name": "HIV",
+  "tagline": "Toets, behandel, onopspoorbaar. Leef ’n vol lewe.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "National Department of Health",
+    "South African National AIDS Council",
+    "UNAIDS",
+    "WHO",
+    "NICD"
+  ],
+  "what_is_it": {
+    "heading": "HIV in gewone taal",
+    "lede": "HIV staan vir Human Immunodeficiency Virus. Dit val die liggaam se verdedigingstelsel aan — spesifiek ’n soort witbloedsel wat die CD4-sel genoem word.",
+    "paragraphs": [
+      "Sonder behandeling kan HIV die immuunstelsel oor jare verswak totdat die liggaam nie meer infeksies kan beveg nie. Daardie gevorderde stadium word VIGS genoem. Met behandeling bly HIV onder beheer, bly die immuunstelsel sterk, en leef mense vol, normale lewens.",
+      "HIV is nie meer ’n doodsvonnis nie. In Suid-Afrika is behandeling gratis by elke staatskliniek, en die meeste mense op behandeling kan verwag om net so lank te leef soos enigiemand anders."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "7,8 miljoen",
+        "body": "Suid-Afrikaners leef met HIV — meer as enige ander land in die wêreld."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Gratis",
+        "body": "Behandeling is gratis by elke staatskliniek. Geen mediese fonds nodig nie."
+      },
+      {
+        "color": "green",
+        "icon": "check",
+        "headline": "O = O",
+        "body": "Onopspoorbaar is onoordraagbaar. Op doeltreffende behandeling kan jy nie HIV oordra nie."
+      },
+      {
+        "color": "coral",
+        "icon": "baby",
+        "headline": "HIV-vrye babas",
+        "body": "Swanger vroue op behandeling kan HIV-negatiewe babas hê. PMTCT werk."
+      }
+    ],
+    "pull_quote": {
+      "text": "Toetsing is die enigste manier om jou status te ken. Simptome kan jou nie sê nie. Baie mense met HIV voel jare lank heeltemal gesond.",
+      "source": "South African National AIDS Council"
+    }
+  },
+  "signs": {
+    "heading": "Wat jy kan opmerk",
+    "lede": "HIV het dikwels glad nie simptome nie, vir jare. Dit is wat dit gevaarlik maak — en hoekom toetsing belangriker is as om te wag om siek te voel.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Vroë tekens (2–4 weke ná blootstelling)",
+        "description": "Koors, seer keel, geswelde kliere in die nek of oksels, moegheid, uitslag, lyfpyne. Voel dikwels soos griep en gaan vanself weg."
+      },
+      {
+        "color": "coral",
+        "icon": "trending-down",
+        "title": "Latere tekens (sonder behandeling)",
+        "description": "Gereelde infeksies, onverklaarbare gewigsverlies, aanhoudende diarree, nagsweet, wit kolle in die mond, veluitslag wat nie genees nie."
+      },
+      {
+        "color": "purple",
+        "icon": "info",
+        "title": "Die eerlike waarheid",
+        "description": "Jy kan nie aan hoe jy voel sien of jy HIV het nie. Laat jou toets. Dit is vinnig, gratis en vertroulik."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Wat versprei HIV — en wat nie",
+    "yes": [
+      "Onbeskermde seks (vaginaal, anaal of oraal)",
+      "Naalde of spuite deel",
+      "Moeder na baba tydens geboorte of borsvoeding (voorkombaar met behandeling)",
+      "Bloed-tot-bloed kontak deur ’n oop wond"
+    ],
+    "no": [
+      "Drukkies, soene of hande vashou",
+      "Kos, drankies, borde of eetgerei deel",
+      "Muskiet- of insekbyte",
+      "Toilette, swembaddens of storte",
+      "Hoes, nies of sweet"
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "As jy HIV het, kan jy nie ’n normale lewe hê nie.",
+        "fact": "Op behandeling leef mense met HIV net so lank soos enigiemand anders, werk, maak kinders groot en reis vryelik."
+      },
+      {
+        "myth": "Jy kan HIV kry deur ’n glas te deel of te soen.",
+        "fact": "HIV versprei nie deur speeksel, sweet of gewone kontak nie. Net sekere liggaamsvloeistowwe dra die virus."
+      },
+      {
+        "myth": "Kondome werk nie regtig teen HIV nie.",
+        "fact": "As dit elke keer reg gebruik word, is kondome hoogs doeltreffend om HIV te voorkom."
+      },
+      {
+        "myth": "HIV-positiewe ouers kan nie HIV-negatiewe kinders hê nie.",
+        "fact": "Met die PMTCT-program kan byna elke baba HIV-vry gebore word, selfs as een of albei ouers HIV het."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Hoe om jouself te beskerm",
+    "lede": "Suid-Afrika het van die sterkste HIV-voorkomingsprogramme ter wêreld. Die meeste is gratis. Hier is wat werk.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Kondome",
+        "description": "Gebruik elke keer een. Gratis beskikbaar by klinieke, apteke en selfs sommige vulstasies. Vroulike kondome is ook gratis."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "PrEP",
+        "description": "’n Daaglikse pil wat HIV voorkom. Hoogs doeltreffend. Gratis beskikbaar by klinieke vir mense met ’n hoër risiko."
+      },
+      {
+        "color": "orange",
+        "icon": "clock",
+        "title": "PEP (binne 72 uur)",
+        "description": "As jy dink jy is pas blootgestel — kom binne 72 uur by ’n kliniek. Noodpille kan keer dat HIV vastrapplek kry."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Ken jou status",
+        "description": "Toets elke 6–12 maande as jy seksueel aktief is. Paartjies kan saam toets. Uitslae binne 15 minute."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Jou volgende stappe",
+    "items": [
+      {
+        "title": "As jy dink jy is pas blootgestel",
+        "description": "Gaan binne 72 uur na ’n kliniek of nood-eenheid en vra vir PEP. Hoe vroeër hoe beter — binne 24 uur is die beste."
+      },
+      {
+        "title": "As jy nie in die laaste jaar getoets is nie",
+        "description": "Laat jou toets. Dit is gratis, vinnig en vertroulik. By die meeste klinieke is geen afspraak nodig nie. Neem ’n maat saam as jy kan."
+      },
+      {
+        "title": "As jy positief toets",
+        "description": "Begin dadelik met behandeling. Dit is gratis. Behandeling werk die beste as dit vroeg begin word — daar is geen voordeel om te wag nie."
+      },
+      {
+        "title": "As jy op behandeling is",
+        "description": "Neem jou medisyne elke dag, op dieselfde tyd. Slaan nooit oor nie. As newe-effekte jou pla, praat met jou kliniek."
+      },
+      {
+        "title": "As jy swanger is",
+        "description": "Laat jou so vroeg moontlik toets. As jy positief is, voorkom die PMTCT-program byna altyd oordrag na die baba."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Wie om te bel, waarheen om te gaan",
+    "lede": "Jy hoef dit nie alleen uit te pluis nie. Hierdie dienste is gratis, vertroulik en nou beskikbaar.",
+    "helplines": [
+      {
+        "name": "National AIDS Helpline",
+        "description": "Gratis, vertroulik, 24 uur per dag",
+        "meta": "Berading · verwysing vir toetsing · ondersteuning met behandeling",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "loveLife youth line",
+        "description": "Vir jongmense · gratis, vriendelik en anoniem",
+        "meta": "Ma–Vr 09:00–20:00 · Sa 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Elke staatskliniek bied gratis HIV-toetsing en behandeling",
+        "meta": "Geen afspraak · geen mediese fonds nodig · ID help",
+        "phone": null,
+        "phone_display": "Vind ’n kliniek",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}

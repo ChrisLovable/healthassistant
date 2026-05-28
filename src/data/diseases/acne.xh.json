@@ -1,0 +1,181 @@
+{
+  "slug": "acne",
+  "group_slug": "skin",
+  "name": "I-acne",
+  "tagline": "Iyanyangeka. Musa ukukhetha. Bona ugqirha ukuze ufumane ubunzima.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "Umbutho weDermatological waseMzantsi Afrika",
+    "I-American Academy yeDermatology",
+    "I-WHO",
+    "ISebe lezeMpilo leSizwe"
+  ],
+  "what_is_it": {
+    "heading": "I-acne ngokwemiqathango ecacileyo",
+    "lede": "I-acne yinto eyenzekayo xa ioli kunye neeseli zesikhumba ezifileyo zivala iipores. Ngamanye amaxesha i-pore evaliweyo ivuvukala yintsholongwane yesiqhelo yolusu - kulapho ufumana amabala abomvu, abuhlungu. Ayibangelwa kukungcola.",
+    "paragraphs": [
+      "I-acne ixhaphake kakhulu kulutsha ngenxa yokuba utshintsho lwamahomoni lunyusa imveliso yeoli. Kodwa abantu abadala nabo bayayifumana - ngakumbi abafazi abakwiminyaka yabo yama-20 kunye nama-30, rhoqo ecaleni komhlathi. Malunga nama-85% abemi boMzantsi Afrika baya kuba namaqhakuva ngaxa lithile.",
+      "I-acne ethambileyo idla ngokuphendula kunyango lwe-counter-the-counter kunye nemikhwa elungileyo yolusu. Amaqhakuva aphakathi ukuya kobukhali - ngakumbi ngamaqhakuva, amanxeba, okanye iintlungu - ifuna ugqirha. Unyango olusebenzayo lwamayeza lukhona. I-acne enganyangwayo inokushiya amanxeba asisigxina kwaye ichaphazele ukuzithemba iminyaka."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "85%",
+        "body": "Kubemi boMzantsi Afrika bafumana amaqhakuva ngaxa lithile. Yenye yezona meko zixhaphakileyo zolusu ehlabathini."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Iyanyangeka",
+        "body": "Nokuba i-acne enzima iphendula kunyango lwanamhlanje. Okukhona uqala kwangethuba, kokukhona kuncipha ukonakala kuya kufuneka uhlale naso."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Musa ukukhetha",
+        "body": "Ukukha, ukukhama, kunye nokukhuhla rhabaxa kwenza amaqhakuva abe mandundu kwaye abangele amanxeba angapheliyo. Umkhwa onzima wokuqhawula - kwaye eyona nto ibalulekileyo."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ayilotyala lakho",
+        "body": "I-acne ayibangelwa kukungcola, ukutya itshokolethi, okanye nantoni na oyenzileyo. Ubukhulu becala ngamahomoni kunye nemfuzo."
+      }
+    ],
+    "pull_quote": {
+      "text": "Elona nyathelo linamandla lokunyanga amaqhakuva kukuqala kwangethuba - phambi kokuba kuqalise ukonakala. Ukuba unyango olufumaneka ngaphandle kwekhawuntara alusebenzi emva kweeveki ezisi-8, bonana nogqirha.",
+      "source": "Umbutho weDermatological waseMzantsi Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Iintlobo ze-acne - kwaye zinzulu kangakanani",
+    "lede": "I-acne iqala kwiindawo ezimbalwa ukuya kwi-cysts enzulu, ebuhlungu. Uhlobo lubalulekile kuba lutshintsha unyango.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Mild - blackheads kunye whiteheads",
+        "description": "Amaqhuma amancinci ngaphandle kokuvuvukala okuninzi. Ngokuqhelekileyo iphendula kwi-skincare elungileyo kunye neemveliso ze-counter-the-counter. Zama i-benzoyl peroxide okanye i-salicylic acid kuqala."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Imodareyitha - ebomvu, amabala avuthayo",
+        "description": "Iipapule ezibomvu kunye neepustules ebusweni, isifuba, umqolo. Zama unyango lwe-over-the-counter kwiiveki ezisi-8. Ukuba akukho phuculo - bonana nogqirha. Iinketho zamayeza zisebenza ngcono."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Emandundu - cysts kunye scarring",
+        "description": "Amaqhuma anzulu, abuhlungu ahlala iiveki. Ushiya amanxeba. Bona ugqirha ngokukhawuleza. I-Isotretinoin (i-Roaccutane) isebenza kakhulu kule nto."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
+    "items": [
+      {
+        "myth": "Itshokholethi, ukutya okunamafutha, kunye neswekile kubangela amaqhakuva.",
+        "fact": "Ubungqina bubuthathaka kwaye buhluka phakathi kwabantu. Ukutya okuneswekile eninzi/ubisi oluphezulu kunokuwenza mandundu amaqhakuva kwezinye, kodwa akubangeli oko. IiHormones kunye ne-genetics zibaluleke kakhulu."
+      },
+      {
+        "myth": "Hlamba ubuso bakho ngakumbi - oko kuya kulungisa.",
+        "fact": "Ukuhlamba kakhulu kuyayomisa kwaye kuyacaphukisa ulusu, okwenza amaqhakuva abe mandundu. Isicoci esithambileyo kabini ngemini kwanele. Izikhuhla ezirhabaxa zitshisa ulusu kwaye zibebomvu kakhulu."
+      },
+      {
+        "myth": "Intlama yamazinyo, ijusi yelamuni, kunye nebicarb zisebenza njengonyango lwasekhaya.",
+        "fact": "Zonke zinokulucaphukisa okanye lutshise ulusu kwaye lube mandundu ukonakala. Sebenzisa iimveliso ezifanelekileyo ze-acne - i-benzoyl peroxide, i-salicylic acid, i-retinoids - eyenzelwe ukusebenza ngokukhuselekileyo."
+      },
+      {
+        "myth": "Ukwalukwa kuphelisa i-acne.",
+        "fact": "Ukwaluka kunokomisa ulusu okwethutyana, okwenza amabala angabonakali. Ixesha elide, umonakalo welanga ubangela ukonakala kwaye udala ulusu lwakho. Nyanga i-acne - khusela ulusu lwakho."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Imikhwa yemihla ngemihla eluncedo",
+    "lede": "Awukwazi ukukhusela ngokupheleleyo i-acne - kodwa unokunciphisa ukuvutha, ukuxhasa unyango, kunye nokukhusela izibazi.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Isicoci esithambileyo kabini ngosuku",
+        "description": "Ekuseni nangokuhlwa - esekelwe emanzini, engenavumba. Musa ukukhuhla. Musa ukusebenzisa isepha yebha okanye izikhuhla ezirhabaxa kwisikhumba esine-acne."
+      },
+      {
+        "color": "purple",
+        "icon": "sun",
+        "title": "I-SPF engekho-comedogenic yonke imihla",
+        "description": "Ukhuseleko lwelanga lubalulekile nakwi-acne. Jonga i-'non-comedogenic' (ayiyi kuvala iipores) kwileyibhile. Uninzi lweempawu eziphambili zinezi."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "Musa ukukhetha - musa ukucudisa",
+        "description": "Ukuchola kulutyhalela ngakumbi usulelo kwaye kuguqula amabala abe ziva. Uphawu olusuka kwindawo ekhethiweyo lunokuhlala iinyanga ezi-6. Uphawu olusuka kwindawo esekhohlo-kodwa-mhlawumbi iiveki ezi-2."
+      },
+      {
+        "color": "gold",
+        "icon": "watch",
+        "title": "Nika unyango iiveki ezisi-8",
+        "description": "Unyango lwe-acne luthatha iiveki ezi-6-12 ukubonisa isiphumo esipheleleyo. Musa ukutshintsha rhoqo emva kweentsuku ezimbalwa. Qhubeka nendlela enye kwaye ugwebe ngamanqaku eeveki ezisi-8."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Kwenziwe ntoni",
+    "items": [
+      {
+        "title": "Qala nge-over-the-counter ye-acne ephakathi",
+        "description": "Benzoyl peroxide 2.5% gel okanye salicylic acid ukuhlamba. Sebenzisa kanye ngosuku ngeveki, emva koko kabini ukuba ukunyamezela. Ifumaneka kuyo nayiphi na ikhemesti ngaphandle kwencwadi kagqirha."
+      },
+      {
+        "title": "Ukuba akukho phuculo emva kweeveki ezi-8 - bonana nogqirha",
+        "description": "Isimahla kuyo nayiphi na ikliniki karhulumente. I-retinoids ye-topical retinoids kunye ne-antibiotics isebenza ngcono kakhulu kune-OTC ye-acne ephakathi."
+      },
+      {
+        "title": "Ukuba kubi kakhulu okanye kukho amanxeba - bona kungekudala",
+        "description": "I-cystic acne enzima inokushiya amanxeba asisigxina. Unyango olufana ne-isotretinoin (i-Roaccutane) lusebenza kakhulu. Iiklinikhi zikarhulumente zinokubhekisa kugqirha wesikhumba."
+      },
+      {
+        "title": "Phatha yonke indawo, hayi amabala kuphela",
+        "description": "Faka unyango kancinci kwindawo echaphazelekayo - hayi nje kwiindawo ezizimeleyo. Inqanda ukuqhawuka okulandelayo endaweni yokubamba."
+      },
+      {
+        "title": "Khusela ulusu lwakho elangeni",
+        "description": "Unyango lwe-acne lwenza ulusu lube nelanga. Sebenzisa non-comedogenic SPF 30+ yonke imihla. Ilanga kwakhona lenza mandundu amanqaku amnyama ashiywe ngamabala adlulileyo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Masiye phi",
+    "lede": "Uninzi lwamaqhakuva lunokunyangwa ekhaya okanye kwikliniki yokhathalelo lokuqala. Izibonelelo ezibukhali ze-acne ekugqithisweni kwe-dermatology-ifumaneka ngenkqubo yoluntu.",
+    "helplines": [
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwe-acne lwamahhala kunye nonyango lonyango",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Nayiphi na ikhemesti yendawo",
+        "description": "Kwi-counter-the-counter benzoyl peroxide, i-salicylic acid, i-retinoid creams",
+        "meta": "Akukho myalelo ufunekayo kwiimveliso ze-OTC",
+        "phone": null,
+        "phone_display": "Ndwendwela ikhemesti",
+        "primary": false
+      }
+    ]
+  }
+}
+

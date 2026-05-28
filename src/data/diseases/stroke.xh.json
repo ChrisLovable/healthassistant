@@ -1,0 +1,183 @@
+{
+  "slug": "stroke",
+  "group_slug": "emergency-signs",
+  "name": "Istroke",
+  "tagline": "Iimpawu ze-FAST. Umzuzu ngamnye ubalulekile.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "WHO",
+    "National Department of Health",
+    "American Stroke Association"
+  ],
+  "urgent": {
+    "heading": "Ingxamisekile — tsalela umnxeba ngoku",
+    "primary_message": "Biza i-ambulensi ngoko nangoko. Qaphela ixesha kanye apho iimpawu ziqale khona.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Icala elinye lobuso liyawa — mcele ancume",
+      "Ubuthathaka bengalo kwicala elinye — mcele aphakamise iingalo zombini",
+      "Intetho iyaxakaniseka okanye ayiqhelekanga — mcele aphinde isivakalisi",
+      "Intloko ebuhlungu kakhulu ngesiquphe ngaphandle kwesizathu esaziwayo",
+      "Ukuphulukana nokubona ngesiquphe kwiliso elinye okanye omabini",
+      "Ukudideka ngesiquphe okanye ingxaki yokuqonda"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Istroke ngamazwi alula",
+    "lede": "Istroke yenzeka xa ukuhamba kwegazi kwinxalenye yobuchopho kumiswa ngesiquphe. Iiseli zobuchopho ziqala ukufa ngemizuzu.",
+    "paragraphs": [
+      "Uninzi lwee-stroke lwenzeka xa ihlwili legazi livala umthambo wegazi ebuchotsheni. Ezinye zenzeka xa umthambo uqhuma igazi livuze. Zombini ziimeko ezingxamisekileyo kwaye zisenokubonakala zifana ngaphandle — akunakwenzeka ukwazi ukuba yeyiphi ngaphandle kovavanyo esibhedlele.",
+      "Okukhona istroke sinyangwa ngokukhawuleza, kokukhona inxalenye enkulu yobuchopho ingasindiswa. Amayeza aqhekeza amahlwili asebenza kakhulu kwiiyure zokuqala ezimbalwa. Emva koko umonakalo uba sisigxina. Yiyo loo nto imizuzu ibalulekile."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Imizuzu ibalulekile",
+        "body": "Malunga nezigidi ezi-2 zeeseli zobuchopho ziyafa ngomzuzu ngamnye ngexesha le-stroke. Ixesha liqala kuphawu lokuqala."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "headline": "80 000+",
+        "body": "Abantu baseMzantsi Afrika abangaphezu kwama-80 000 bafumana istroke minyaka le. Sisizathu esikhulu sokukhubazeka nokusweleka kwabantu abadala."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Sinokuthintelwa",
+        "body": "Uninzi lwee-stroke lunxulumene noxinzelelo lwegazi oluphezulu, ukutshaya, isifo seswekile nokutya — zonke ezi zinto zinokulawulwa."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Ukuchacha kunokwenzeka",
+        "body": "Ukwenza into kwiyure yokuqala kunika elona thuba lihle lokuchacha ngokupheleleyo. Izibhedlele zinezonyango ezixhomekeke kakhulu kwixesha."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukuba ukrokrela istroke, musa ukulinda ubone ukuba kuza kuhamba njani. Biza i-ambulensi. Nokuba iimpawu ziyadlula ngokwazo — naloo nto luphawu lwesilumkiso.",
+      "source": "Heart and Stroke Foundation SA"
+    }
+  },
+  "signs": {
+    "heading": "Uvavanyo lwe-FAST",
+    "lede": "Iimpawu zestroke ziqala ngesiquphe. Okukhona uzibona ngokukhawuleza, kokukhona inxalenye enkulu yobuchopho ingasindiswa. Khumbula u-FAST.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "smile",
+        "title": "F — Ubuso buyawa",
+        "description": "Mcele ancume. Ngaba icala elinye lomlomo okanye lobuso liyawa, nokuba kancinci?"
+      },
+      {
+        "color": "orange",
+        "icon": "trending-down",
+        "title": "A — Ubuthathaka bengalo",
+        "description": "Mcele aphakamise iingalo zombini. Ngaba enye iyehla okanye ivakala ingathi ayinamdla? Ngaba angazibamba zombini phezulu ngokulinganayo?"
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "title": "S — Ingxaki yokuthetha",
+        "description": "Mcele aphinde isivakalisi esilula. Ngaba intetho yakhe iyaxakaniseka, ayiqhelekanga okanye kunzima ukuyiqonda?"
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "title": "T — Ixesha lokutsalela umnxeba",
+        "description": "Ukuba ubona naluphi na olu phawu, Tsalela umnxeba ku-10177 ngoko nangoko. Qaphela ixesha kanye apho iimpawu ziqale khona."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani nengeyonyani",
+    "items": [
+      {
+        "myth": "Istroke senzeka kubantu abadala kuphela.",
+        "fact": "Istroke sinokwenzeka nakweyiphi na iminyaka. Malunga ne-1 kwezine zee-stroke zenzeka kubantu abangaphantsi kweminyaka engama-65, kwaye liyanda inani labantu abatsha abalichaphazelekayo."
+      },
+      {
+        "myth": "Ukuba iimpawu zidlula ngokukhawuleza, ibingeyiyo istroke yokwenene.",
+        "fact": "Isiqendu esifutshane (TIA okanye 'mini-stroke') sisilumkiso esikhulu. Malunga ne-1 kwabathathu abane-TIA baya kuba nestroke esipheleleyo — abaninzi kwiiyure ezingama-48."
+      },
+      {
+        "myth": "Kungcono ndimqhubele esibhedlele ngokwam — kukhawuleza kunokulinda i-ambulensi.",
+        "fact": "Abeparamedic baqala unyango kwi-ambulensi baze bamse kwisibhedlele esikwaziyo ukunyanga istroke. Ukuziqhubela okanye ukumqhuba kunokuchitha ixesha elibalulekileyo kwaye kuyingozi."
+      },
+      {
+        "myth": "I-aspirin iza kunceda ngexesha le-stroke.",
+        "fact": "Musa ukunika i-aspirin xa ukrokrela istroke. Ukuba sisifo sokopha ebuchotsheni, i-aspirin ingayenza mandundu. Biza i-ambulensi ulinde."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze — umzuzu okrokrela istroke",
+    "items": [
+      {
+        "title": "Tsalela umnxeba ku-10177 okanye ku-112 ngoko nangoko",
+        "description": "Yitsho ngokucacileyo igama elithi 'stroke'. Abeparamedic baya kubeka imeko phambili baze bakuse kwisibhedlele esikwaziyo ukunyanga istroke."
+      },
+      {
+        "title": "Qaphela ixesha kanye apho iimpawu ziqale khona",
+        "description": "Oku kugqiba ukuba zeziphi iindlela zonyango ezinokwenzeka. Nokuba lixesha eliqikelelweyo liyanceda iqela lasesibhedlele."
+      },
+      {
+        "title": "Musa ukunika ukutya, amanzi okanye iyeza",
+        "description": "Umntu usenokuba nengxaki yokuginya. Musa ukumnika nantoni na ngomlomo — kuquka ne-aspirin."
+      },
+      {
+        "title": "Ukuba akaphaphamanga, mlalise ngecala",
+        "description": "Indawo yokuchacha igcina indlela yomoya ivulekile. Ukuba uyaphaphama, mgcine ekhululekile kwaye umqinisekise."
+      },
+      {
+        "title": "Hlala naye de kufike abeparamedic",
+        "description": "Jonga ukuphefumla kwakhe. Lungela ukwenza i-CPR ukuba uyeka ukuphefumla. Vula ucango ukuze abeparamedic bakwazi ukungena."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ngubani omawumfowunele ngoku",
+    "lede": "Istroke esikrokrelwayo yimeko engxamisekileyo. tsalela umnxeba ngoku. Musa ukuziqhubela okanye ukulinda ukuba iimpawu zidlule ngokwazo.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Inkonzo karhulumente yezonyango ezingxamisekileyo",
+        "meta": "Simahla · iiyure ezingama-24 · yithi 'stroke'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Uncedo olungxamisekileyo (iselula)",
+        "description": "Ifikelela kuyo nayiphi na inkonzo yongxamiseko xa utsalela umnxeba ngeselula",
+        "meta": "Simahla kuyo nayiphi na iselula · iiyure ezingama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Ulwazi, inkxaso kunye nokudluliselwa kwiinkonzo zokubuyisela emva kwe-stroke",
+        "meta": "Mvulo–Lwesihlanu 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}
+
+
+
+
+
+

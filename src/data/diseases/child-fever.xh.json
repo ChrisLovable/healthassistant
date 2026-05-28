@@ -1,0 +1,159 @@
+{
+  "slug": "child-fever",
+  "group_slug": "child-baby",
+  "name": "Ifiva emntwaneni",
+  "tagline": "Xa iqhelekile. Xa ingaqhelekanga.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "Red Cross War Memorial Children's Hospital",
+    "WHO Child Health",
+    "National Department of Health",
+    "South African Paediatric Association"
+  ],
+  "urgent": {
+    "heading": "Bona ikliniki okanye isibhedlele ngokukhawuleza ukuba",
+    "primary_message": "Uninzi lweefiva zabantwana aluyongozi. Kodwa ezi mpawu ziyatshintsha imeko — yiya ekliniki okanye esibhedlele.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Usana olungaphantsi kweenyanga ezi-3 lunayo nayiphi na ifiva (38Â°C okanye ngaphezulu)",
+      "Ifiva engaphezu kwe-40Â°C kumntwana nakweyiphi na iminyaka",
+      "Ifiva ehlala ngaphezu kweentsuku ezi-3",
+      "Ubunzima bokuphefumla okanye ukuphefumla ngokukhawuleza",
+      "urhashalala engapheliyo xa icinezelwa ngeglasi",
+      "Intamo eqinileyo, intloko ebuhlungu kakhulu okanye ukunganyamezeli ukukhanya",
+      "Ukozela, kunzima ukumvusa okanye uthule ngendlela engaqhelekanga",
+      "Ukugabha okungapheliyo okanye akukho mchamo iiyure ezi-8 okanye ngaphezulu",
+      "Ukuxhuzula — nokuba kufutshane, kufuna ukuhlolwa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ifiva ngamazwi alula",
+    "lede": "Ifiva bubushushu bomzimba obungaphezu kwe-38Â°C. Ayisosifo — yindlela umzimba olwa ngayo nosulelo. Uninzi lweefiva zabantwana luyanceda kwaye aluyongozi ngokwalo.",
+    "paragraphs": [
+      "Ifiva inceda amajoni omzimba asebenze nzima ngokuchasene neentsholongwane neebhaktiriya. Ubushushu ngokwalo aludli ngokulimaza umntwana — nokuba buphakame, abutshi ubuchopho (olu luloyiko oluqhelekileyo kodwa ayisiyiyo indlela ifiva eyenzakalisa ngayo umzimba). Okubalulekileyo kukuba ibangelwa yintoni kunye nokuba umntwana ubonakala njani.",
+      "Umntwana one-39Â°C kodwa ebonakala eqhelekile unokungakhathazi kangako kunomntwana one-38Â°C kodwa ethambile, engafuni ukutya okanye eziphatha ngendlela engaqhelekanga. Thembela kwindlela umntwana abonakala ngayo ngaphezu kwenani kwithemometha. Ukuba awuqinisekanga, mhlolise."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Idla ngokuba Kulungile",
+        "body": "Uninzi lweefiva zabantwana lubangelwa ziintsholongwane, luhlala iintsuku ezi-2–3, luze luphele ngaphandle konyango. Ifiva ngokwayo ayisoloko iyingxaki."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Ngaphantsi kweenyanga ezi-3",
+        "body": "Iintsana ezingaphantsi kweenyanga ezi-3 ezinayo nayiphi na ifiva zidinga ukuhlolwa ngokukhawuleza. Amajoni azo omzimba akakavuthwa kwaye usulelo lunokuba nzima."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "headline": "Jonga umntwana",
+        "body": "Indlela umntwana abonakala ngayo naziphatha ngayo ibaluleke ngaphezu kwenani kwithemometha. Umntwana ophilayo onefiva ephezulu akakhathazi njengomntwana othambileyo onefiva ethambileyo."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "headline": "Akukho antibiotics",
+        "body": "Ii-antibiotic azinyangi iintsholongwane. Uninzi lweefiva zabantwana lubangelwa ziintsholongwane — ii-antibiotic azincedi kwaye zinokubangela iziphumo ebezingalindelekanga."
+      }
+    ],
+    "pull_quote": {
+      "text": "Musa ukuleqa ithemometha. Jonga umntwana wakho. Umntwana odlala, osela, kwaye onamadiyapa amanzi wenza kakuhle — nokuba ifiva iphezulu. Umntwana othambileyo, onamehlo angakhanyi, udinga uncedo — nokuba ifiva ithambile.",
+      "source": "Red Cross War Memorial Children's Hospital"
+    }
+  },
+  "signs": {
+    "heading": "Ungazi njani ukuba inzima",
+    "lede": "Ifiva ngokwayo ayisiyiyo ingozi. Jonga umfanekiso wonke — indlela umntwana aziphatha ngayo, ukuphefumla, ulwelo kunye nezinye iimpawu.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Mhlawumbi kulungile",
+        "description": "Umntwana uyaphendula (uyadlala, uyancuma, uyabukela), usela ulwelo, unamadiyapa amanzi, akukho rhashalala, akukho ngxaki yokuphefumla. Ifiva ingaba phezulu kodwa umntwana ubonakala njengesiqhelo."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Jonga ngononophelo",
+        "description": "Umntwana uthule ngokungaqhelekanga, akadlali njengesiqhelo, akatyi kakuhle, ifiva ihlala iiyure ezingama-24–48, urhashalala ethambileyo. Ayisiyongxamiseko kodwa kufanelekile ukuya ekliniki ukuba iyaqhubeka okanye iba mandundu."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Fumana uncedo ngoku",
+        "description": "Umntwana uthambile okanye akaphenduli, uphefumla ngokukhawuleza okanye ngomzamo, urhashalala engapheliyo phantsi kweglasi, intamo eqinileyo, wala lonke ulwelo, akukho mchamo iiyure ezi-8 okanye ngaphezulu, ukuxhuzula, okanye naluphi na usana olungaphantsi kweenyanga ezi-3 olunayo nayiphi na ifiva."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze",
+    "items": [
+      {
+        "title": "Mncedise anxibe kancinci — gcina igumbi likhululekile",
+        "description": "Impahla elula, ingubo elula ukuba uyangcangcazela. Musa ukumgquma ngeengubo ezinzima okanye ukumsongele — oku kunyusa ubushushu bomzimba ngakumbi."
+      },
+      {
+        "title": "Nikeza ulwelo rhoqo",
+        "description": "Ubisi lwebele, ifomula, amanzi, i-ORS. Iimali ezincinci, rhoqo. Jonga amadiyapa amanzi — luphawu lokuba unamanzi aneleyo."
+      },
+      {
+        "title": "I-paracetamol okanye i-ibuprofen kuphela ukuze akhululeke",
+        "description": "Hayi ngenxa yenani kwithemometha — kuphela ukuba umntwana ubonakala engonwabanga. Landela idosi esekelwe kubunzima ebhotileni. Musa ukudibanisa i-paracetamol ne-ibuprofen ngaphandle kwengcebiso yezonyango."
+      },
+      {
+        "title": "Musa ukumhlamba ngamanzi abandayo okanye ngotywala",
+        "description": "Oku akukhululekanga kwaye kungabangela ukungcangcazela, nto leyo enyusa ubushushu. Amanzi afudumeleyo kancinci alungile ukuba umntwana uyawafuna."
+      },
+      {
+        "title": "Thembela kwimvakalelo yakho",
+        "description": "Ukuba kukho into evakala ingalunganga — nokuba awukwazi ukuyichaza — yiya ekliniki. Abazali babona utshintsho oluncinci olubalulekileyo. Abasebenzi bezempilo bakhetha ukuba uzise umntwana kungenanto kunokuba baphoswe yinto."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Apho omawuye khona",
+    "lede": "Uninzi lweefiva zabantwana lunokulawulwa ekhaya. Ukwazi ukuba nini ukunyusa inqanaba lolona lwazi lubalulekileyo — kwaye iikliniki ziyakwamkela abazali abakhathazekileyo.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Kubantwana abagula kakhulu",
+        "meta": "Simahla · iiyure ezingama-24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana ikliniki ekufutshane nawe",
+        "description": "Uvavanyo lwasimahla lwabantwana abagulayo, akukho appointment ifunekayo",
+        "meta": "Akukho appointment · akukho medical aid ifunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Umnxeba wasimahla weeyure ezingama-24 wezempilo nentlalontle yabantwana",
+        "meta": "Simahla kuyo nayiphi na ifowuni · iiyure ezingama-24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}
+
+
+
+
+

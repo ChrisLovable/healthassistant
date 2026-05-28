@@ -1,0 +1,85 @@
+{
+  "slug": "eczema",
+  "group_slug": "skin",
+  "name": "Eczema",
+  "tagline": "Itchy, dry skin. Moisturise. Manage triggers.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["Allergy Foundation South Africa", "Dermatological Society of South Africa", "WHO", "National Eczema Association"],
+
+  "what_is_it": {
+    "heading": "Eczema in plain terms",
+    "lede": "Eczema (also called atopic dermatitis) is a long-term skin condition where the skin barrier doesn't hold moisture well and gets easily irritated. The result: dry, itchy, inflamed patches — sometimes flaring badly, sometimes calm.",
+    "paragraphs": [
+      "Eczema usually starts in childhood — about 1 in 5 South African children have it. Many improve with age, though it can return at any point. Adult-onset eczema is also common. It often runs alongside asthma, hay fever, or food allergies — the 'atopic triad'.",
+      "Eczema is not contagious. It is not caused by being dirty or by poor hygiene. The skin barrier in eczema is just genetically different — more porous, more reactive. The good news: with daily moisturising and trigger management, most people keep it well controlled."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "1 in 5",          "body": "South African children have eczema. Many improve with age. Adult eczema is common too." },
+      { "color": "green",  "icon": "droplet",     "headline": "Moisturiser wins","body": "Daily moisturising — even when skin looks fine — is the single most powerful eczema treatment. Skip a few days and the flare comes back." },
+      { "color": "gold",   "icon": "shield",      "headline": "Not contagious",   "body": "You cannot catch eczema. It is not caused by dirt or hygiene. It is a genetic skin barrier issue, often with allergic component." },
+      { "color": "coral",  "icon": "alert-circle","headline": "Steroid creams work","body": "Topical steroids during flares are safe when used correctly. They calm the inflammation so the skin can heal." }
+    ],
+    "pull_quote": {
+      "text": "Most eczema is well controlled with two simple steps: moisturise twice a day every day, and use a steroid cream when flaring. The mistake most people make is stopping the moisturiser when the skin looks fine.",
+      "source": "Allergy Foundation South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "What eczema looks like",
+    "lede": "Eczema shows up in typical places and has typical patterns. The look can differ on different skin tones — on darker skin it can appear grey, purple, or darker brown rather than the textbook red.",
+    "items": [
+      { "color": "orange", "icon": "circle",       "title": "Babies and young children", "description": "Cheeks, scalp, and outer arms and legs. Red (or darker, on Black skin), dry, often crusty patches. Very itchy — babies scratch even in their sleep." },
+      { "color": "purple", "icon": "user",         "title": "Older children and adults", "description": "Skin folds — inside elbows, behind knees, wrists, neck, ankles. Patches of thickened, scaly, itchy skin. Hands and eyelids common in adults." },
+      { "color": "coral",  "icon": "alert-circle", "title": "When to worry — infection",  "description": "If patches become weepy, yellow-crusted, very painful, or spread fast — it may be infected. Needs clinic assessment for antibiotics or antiviral treatment." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Steroid creams will damage my skin.",                         "fact": "Used correctly for short courses during flares, topical steroids are safe and effective. Avoiding them causes more harm — chronic uncontrolled eczema thickens skin and causes infection." },
+      { "myth": "Eczema is caused by something in the diet.",                  "fact": "True food allergies do trigger eczema in some children — but most eczema is not food-driven. Avoid elimination diets without medical advice; they can cause real nutritional harm." },
+      { "myth": "If you scratch enough, you can scratch it out.",              "fact": "Scratching damages the skin barrier further, releases more itch chemicals, and creates a vicious itch-scratch cycle. Cold compresses, moisturiser, and antihistamines help — scratching doesn't." },
+      { "myth": "Children always grow out of eczema.",                          "fact": "Many do, but many don't. Even those who 'grow out' can have flares as adults. Lifelong skin care habits — gentle cleansers, daily moisturiser — are worth building early." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Daily habits that keep flares away",
+    "lede": "Eczema management is mostly about daily skin care — small habits that prevent the next flare.",
+    "items": [
+      { "color": "green",  "icon": "droplet",    "title": "Moisturise twice a day, every day","description": "Thick fragrance-free moisturiser within 3 minutes of bathing seals in water. Continue even when skin looks fine — this is what prevents the next flare." },
+      { "color": "purple", "icon": "shower",     "title": "Lukewarm short baths or showers", "description": "Hot water strips the skin. Use lukewarm water, fragrance-free wash (not regular soap), 5–10 minutes maximum. Pat dry — don't rub." },
+      { "color": "orange", "icon": "wind",        "title": "Know and avoid your triggers",    "description": "Common triggers: heat and sweat, wool and synthetic fabrics, harsh soaps and detergents, stress, allergens (pets, dust). Keep a flare diary to spot yours." },
+      { "color": "gold",   "icon": "snowflake",  "title": "Cool, calm bedroom",               "description": "Heat and sweat worsen night-time itch. Keep the bedroom cool, use cotton sheets, and don't over-bundle children. Cooler is calmer." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do when it flares",
+    "items": [
+      { "title": "Apply steroid cream for active flares",       "description": "Available from clinics — usually hydrocortisone (mild) for face and babies, stronger for body. Use thinly on red patches twice a day until calm. Then stop." },
+      { "title": "Keep moisturising — even over the steroid",   "description": "Apply moisturiser 30 minutes after the steroid, or at other times. The moisturiser supports healing — don't stop because you're using steroid." },
+      { "title": "Take an antihistamine for severe itch",        "description": "Cetirizine or loratadine help with itch, especially at night. Available over the counter at any pharmacy. Particularly useful for children who scratch in their sleep." },
+      { "title": "If skin becomes weepy or infected — go to clinic","description": "Yellow crusting, painful spreading, fever — may be a bacterial infection (staph) or eczema herpeticum (viral, more serious). Needs treatment quickly." },
+      { "title": "For severe or hard-to-control eczema",          "description": "Government clinics can refer to a dermatologist. New treatments like dupilumab (biologic injection) have transformed severe eczema in recent years." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Most eczema is well managed at clinic level. Severe cases benefit from dermatology referral — available through the public system.",
+    "helplines": [
+      { "name": "Find your nearest clinic",   "description": "Free eczema assessment, moisturisers, and steroid creams",   "meta": "No appointment · no medical aid required", "phone": null,        "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "Allergy Foundation SA",       "description": "Information, support, and allergist referral",                "meta": "Mon–Fri 08:30–16:30",                       "phone": "0214474360","phone_display": "021 447 4360",   "primary": true }
+    ]
+  }
+}

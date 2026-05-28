@@ -2,7 +2,7 @@ import { AlertTriangle, Phone } from "lucide-react";
 import { getLang } from "@/lib/i18n/lang-server";
 import { t } from "@/lib/i18n/translations";
 
-interface Props { data: { heading: string; primary_message: string; phone: string; phone_display: string; red_flags: string[] }; }
+interface Props { data: { heading: string; primary_message: string; phone: string | null; phone_display: string; red_flags: string[] }; }
 
 export async function UrgentSection({ data }: Props) {
   const lang = await getLang();
@@ -30,10 +30,17 @@ export async function UrgentSection({ data }: Props) {
           ))}
         </ul>
 
-        <a href={`tel:${data.phone}`} className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white text-[#8B2018] font-bold text-[15px] shadow-lg">
-          <Phone size={18} />
-          {data.phone_display}
-        </a>
+        {data.phone ? (
+          <a href={`tel:${data.phone}`} className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white text-[#8B2018] font-bold text-[15px] shadow-lg">
+            <Phone size={18} />
+            {data.phone_display}
+          </a>
+        ) : (
+          <p className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white text-[#8B2018] font-bold text-[15px] shadow-lg">
+            <Phone size={18} />
+            {data.phone_display}
+          </p>
+        )}
       </div>
     </section>
   );

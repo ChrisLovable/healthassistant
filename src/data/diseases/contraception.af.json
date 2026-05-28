@@ -6,70 +6,153 @@
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["National Department of Health", "Marie Stopes South Africa", "WHO", "FPAofSA"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "National Department of Health",
+    "Marie Stopes South Africa",
+    "WHO",
+    "FPAofSA"
+  ],
   "what_is_it": {
     "heading": "Voorbehoeding in eenvoudige terme",
-    "lede": "Voorbehoeding (kontrasepsie) laat jou besluit wanneer en of jy kinders kry. Suid-Afrika bied 'n wye reeks metodes — die meeste gratis by staatsklinieke. Verskillende metodes pas verskillende lewens.",
+    "lede": "Voorbehoeding (kontrasepsie) laat jou besluit wanneer en of jy kinders kry. Suid-Afrika bied ’n wye reeks metodes — die meeste gratis by staatsklinieke. Verskillende metodes pas verskillende lewens.",
     "paragraphs": [
       "Daar is geen 'beste' metode nie — net die beste vir jou op die oomblik. Keuses hang af van jou ouderdom, gesondheid, planne vir kinders, maat-situasie, en lewenstyl. Die regte metode is een wat jy konsekwent sal gebruik.",
       "Alle staatsklinieke verskaf voorbehoeding gratis. Jy hoef nie jou maat, ouers (vanaf 12 jaar), of enige ander persoon te betrek nie. Vertroulikheid is deur SA-wet beskerm — gesondheidswerkers mag nie jou voorbehoedingskeuses sonder jou toestemming deel nie."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "purple", "icon": "shield",        "headline": "Alles gratis",      "body": "Pille, inspuitings, inplantings, IUD's, kondome — alles gratis beskikbaar by elke staatskliniek." },
-      { "color": "green",  "icon": "check-circle", "headline": "Baie opsies",       "body": "Daaglikse pille, maandelikse inspuitings, 3-maandelikse inspuitings, inplantings vir 3 jaar, IUD's tot 10 jaar." },
-      { "color": "gold",   "icon": "user",          "headline": "Vertroulik",        "body": "Vanaf 12 jaar kan jy voorbehoeding privaat kry. Gesondheidswerkers mag nie ouers of maats sonder jou toestemming vertel nie." },
-      { "color": "coral",  "icon": "alert-circle",  "headline": "Noodpil",           "body": "Die noodpil (die-dag-na-pil) werk tot 5 dae ná seks — maar hoe gouer hoe beter. Gratis by klinieke, beskikbaar by die meeste apteke." }
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Alles gratis",
+        "body": "Pille, inspuitings, inplantings, IUD's, kondome — alles gratis beskikbaar by elke staatskliniek."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Baie opsies",
+        "body": "Daaglikse pille, maandelikse inspuitings, 3-maandelikse inspuitings, inplantings vir 3 jaar, IUD's tot 10 jaar."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "headline": "Vertroulik",
+        "body": "Vanaf 12 jaar kan jy voorbehoeding privaat kry. Gesondheidswerkers mag nie ouers of maats sonder jou toestemming vertel nie."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Noodpil",
+        "body": "Die noodpil (die-dag-na-pil) werk tot 5 dae ná seks — maar hoe gouer hoe beter. Gratis by klinieke, beskikbaar by die meeste apteke."
+      }
     ],
     "pull_quote": {
       "text": "Slegs kondome beskerm teen beide swangerskap EN SOI's. Hormonale metodes is hoogs effektief vir swangerskap, maar bied geen beskerming teen infeksies nie. Verdubbel as jy kan.",
       "source": "Marie Stopes South Africa"
     }
   },
-
   "signs": {
     "heading": "Watter metode pas jou lewe?",
     "lede": "Daar is nie een regte antwoord nie. Pas die metode by jou lewe — en onthou jy kan enige tyd verander.",
     "items": [
-      { "color": "green",  "icon": "calendar", "title": "Wil langtermyn, min-moeite",      "description": "Inplanting (3 jaar, klein stafie in die bo-arm) of IUD (3–10 jaar afhanklik van tipe). Albei hoogs effektief en jy kan vergeet daarvan sodra dit ingesit is." },
-      { "color": "purple", "icon": "pill",     "title": "Wil maandelikse beheer",           "description": "Pil (daagliks dieselfde tyd) of inspuiting (maandeliks of 3-maandeliks). Goed as jy dalk binne 'n jaar of twee swangerskap wil hê." },
-      { "color": "gold",   "icon": "shield",   "title": "Wil ook SOI-beskerming",            "description": "Manlike of vroulike kondome — elke keer, met of sonder ander voorbehoeding. Slegs kondome beskerm teen HIV en SOI's." }
+      {
+        "color": "green",
+        "icon": "calendar",
+        "title": "Wil langtermyn, min-moeite",
+        "description": "Inplanting (3 jaar, klein stafie in die bo-arm) of IUD (3–10 jaar afhanklik van tipe). Albei hoogs effektief en jy kan vergeet daarvan sodra dit ingesit is."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "Wil maandelikse beheer",
+        "description": "Pil (daagliks dieselfde tyd) of inspuiting (maandeliks of 3-maandeliks). Goed as jy dalk binne ’n jaar of twee swangerskap wil hê."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Wil ook SOI-beskerming",
+        "description": "Manlike of vroulike kondome — elke keer, met of sonder ander voorbehoeding. Slegs kondome beskerm teen HIV en SOI's."
+      }
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "Voorbehoeding veroorsaak later onvrugbaarheid.",                                "fact": "Alle omkeerbare metodes laat jou vrugbaarheid terugkom ná jy stop — gewoonlik binne maande. Daar is geen langtermyn-effek op kinders kry later nie." },
-      { "myth": "Jy kan nie eerste keer of tydens borsvoeding swanger raak nie.",               "fact": "Jy kan absoluut. Gebruik altyd voorbehoeding as jy nie swangerskap wil hê nie — eerste keer, periode, of enige tyd ná geboorte." },
-      { "myth": "Die pil beskerm teen HIV en SOI's.",                                              "fact": "Hormonale voorbehoeding voorkom slegs swangerskap. Vir SOI's en HIV — kondome elke keer, of PrEP as op hoër HIV-risiko." },
-      { "myth": "Noodvoorbehoeding is dieselfde as aborsie.",                                     "fact": "Noodvoorbehoeding werk voor swangerskap begin — dit vertraag ovulasie. Dit kan nie 'n bestaande swangerskap beëindig nie. Beëindiging van swangerskap is 'n aparte, wettige diens." }
+      {
+        "myth": "Voorbehoeding veroorsaak later onvrugbaarheid.",
+        "fact": "Alle omkeerbare metodes laat jou vrugbaarheid terugkom ná jy stop — gewoonlik binne maande. Daar is geen langtermyn-effek op kinders kry later nie."
+      },
+      {
+        "myth": "Jy kan nie eerste keer of tydens borsvoeding swanger raak nie.",
+        "fact": "Jy kan absoluut. Gebruik altyd voorbehoeding as jy nie swangerskap wil hê nie — eerste keer, periode, of enige tyd ná geboorte."
+      },
+      {
+        "myth": "Die pil beskerm teen HIV en SOI's.",
+        "fact": "Hormonale voorbehoeding voorkom slegs swangerskap. Vir SOI's en HIV — kondome elke keer, of PrEP as op hoër HIV-risiko."
+      },
+      {
+        "myth": "Noodvoorbehoeding is dieselfde as aborsie.",
+        "fact": "Noodvoorbehoeding werk voor swangerskap begin — dit vertraag ovulasie. Dit kan nie ’n bestaande swangerskap beëindig nie. Beëindiging van swangerskap is ’n aparte, wettige diens."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Jou volgende stappe",
     "items": [
-      { "title": "Gaan na enige staatskliniek",                  "description": "Loop in. Vra vir voorbehoeding. Hulle sal opsies verduidelik en jou help kies. Geen afspraak nodig, geen mediese fonds nodig." },
-      { "title": "Probeer 'n metode — en verander as dit nie pas nie","description": "Newe-effekte met een metode beteken nie dat ander vir jou probleme sal gee nie. Baie vroue probeer 2 of 3 voordat hulle die regte een vind. Oorskakel is gratis." },
-      { "title": "As jy 'n pil mis — kyk die pamflet",            "description": "Verskillende pille het verskillende reëls. Algemeen: neem die gemiste pil sodra jy onthou, en gebruik kondome vir 7 dae as rugsteun." },
-      { "title": "As seks sonder beskerming gebeur",              "description": "Noodvoorbehoeding binne 5 dae. Gratis by klinieke. R30–80 by die meeste apteke. Hoe gouer hoe beter. Vervang nie roetine-voorbehoeding nie." },
-      { "title": "Pare — probeer saam besluit",                   "description": "Voorbehoeding werk die beste wanneer beide maats die keuse ondersteun. Baie klinieke bied paartjie-berading. Beter uitkomste wanneer julle op dieselfde bladsy is." }
+      {
+        "title": "Gaan na enige staatskliniek",
+        "description": "Loop in. Vra vir voorbehoeding. Hulle sal opsies verduidelik en jou help kies. Geen afspraak nodig, geen mediese fonds nodig."
+      },
+      {
+        "title": "Probeer ’n metode — en verander as dit nie pas nie",
+        "description": "Newe-effekte met een metode beteken nie dat ander vir jou probleme sal gee nie. Baie vroue probeer 2 of 3 voordat hulle die regte een vind. Oorskakel is gratis."
+      },
+      {
+        "title": "As jy ’n pil mis — kyk die pamflet",
+        "description": "Verskillende pille het verskillende reëls. Algemeen: neem die gemiste pil sodra jy onthou, en gebruik kondome vir 7 dae as rugsteun."
+      },
+      {
+        "title": "As seks sonder beskerming gebeur",
+        "description": "Noodvoorbehoeding binne 5 dae. Gratis by klinieke. R30–80 by die meeste apteke. Hoe gouer hoe beter. Vervang nie roetine-voorbehoeding nie."
+      },
+      {
+        "title": "Pare — probeer saam besluit",
+        "description": "Voorbehoeding werk die beste wanneer beide maats die keuse ondersteun. Baie klinieke bied paartjie-berading. Beter uitkomste wanneer julle op dieselfde bladsy is."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
     "lede": "Voorbehoeding is een van Suid-Afrika se beter-georganiseerde openbare gesondheidsdienste. Gratis, vertroulik, beskikbaar vir almal vanaf 12 jaar.",
     "helplines": [
-      { "name": "Vind jou naaste kliniek",  "description": "Elke staatskliniek bied gratis voorbehoeding en berading",  "meta": "Geen afspraak · geen mediese fonds nodig · 12+", "phone": null,         "phone_display": "Vind 'n kliniek", "primary": true,  "link": "/clinic-finder" },
-      { "name": "Marie Stopes SA",           "description": "Berading, voorbehoeding, reproduktiewe gesondheidsdienste",  "meta": "Ma–Vr 08:00–17:00",                              "phone": "0800117785", "phone_display": "0800 11 77 85",  "primary": true },
-      { "name": "loveLife-jeuglyn",          "description": "Vir jongmense — vriendelik, anoniem, gratis",                "meta": "Ma–Vr 09:00–20:00 · Sa 09:00–18:00",            "phone": "0800121900", "phone_display": "0800 121 900",   "primary": false }
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Elke staatskliniek bied gratis voorbehoeding en berading",
+        "meta": "Geen afspraak · geen mediese fonds nodig · 12+",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Marie Stopes SA",
+        "description": "Berading, voorbehoeding, reproduktiewe gesondheidsdienste",
+        "meta": "Ma–Vr 08:00–17:00",
+        "phone": "0800117785",
+        "phone_display": "0800 11 77 85",
+        "primary": true
+      },
+      {
+        "name": "loveLife-jeuglyn",
+        "description": "Vir jongmense — vriendelik, anoniem, gratis",
+        "meta": "Ma–Vr 09:00–20:00 · Sa 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
     ]
   }
 }

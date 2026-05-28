@@ -6,42 +6,84 @@
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["NICD", "WHO", "National Department of Health", "Society for the Study of STIs SA"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "NICD",
+    "WHO",
+    "National Department of Health",
+    "Society for the Study of STIs SA"
+  ],
   "what_is_it": {
     "heading": "SOI's in eenvoudige terme",
-    "lede": "Seksueel oordraagbare infeksies word deur seks oorgedra — onbeskermde vaginale, anale of orale seks. Sommige is virusse (HIV, herpes, HPV), ander bakterieë (gonorree, sifilis, chlamidia), ander parasiete (trichomoniase).",
+    "lede": "Seksueel oordraagbare infeksies word deur seks oorgedra — onbeskermde vaginale, anale of orale seks. Sommige is virusse (HIV, herpes, HPV), ander bakterieë (gonorree, sifilis, chlamydia), ander parasiete (trichomoniase).",
     "paragraphs": [
-      "SOI's is uiters algemeen — een uit drie sals op 'n stadium een kry. Baie wys nie simptome nie. Onbehandel kan hulle onvrugbaarheid, kanker, of ander komplikasies veroorsaak. Sommige (HIV, herpes) word lewenslank.",
+      "SOI's is uiters algemeen — een uit drie sals op ’n stadium een kry. Baie wys nie simptome nie. Onbehandel kan hulle onvrugbaarheid, kanker, of ander komplikasies veroorsaak. Sommige (HIV, herpes) word lewenslank.",
       "Die goeie nuus: meeste SOI's is maklik behandelbaar — bakteriële ene met antibiotika, virale ene met onderdrukkende behandeling. Toets is gratis by elke kliniek, en die personeel is opgelei om vertroulik te wees. Geen oordeel, geen vrae oor jou seksuele lewe nodig."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "purple", "icon": "users",         "headline": "1 uit 3",         "body": "Mense sal op 'n stadium 'n SOI kry. Algemener as wat mense dink. Niks om jou voor te skaam nie." },
-      { "color": "coral",  "icon": "alert-circle",  "headline": "Stil dikwels",     "body": "Baie SOI's wys geen simptome nie — veral chlamidia en HPV. Jy kan iemand aansteek sonder om te weet." },
-      { "color": "gold",   "icon": "shield",        "headline": "Kondome werk",     "body": "Konsekwente gebruik van kondome verminder SOI- en HIV-risiko dramaties. Gratis by elke kliniek." },
-      { "color": "green",  "icon": "check-circle", "headline": "Behandelbaar",    "body": "Meeste bakteriële SOI's word in 'n week of minder genees. Virusse word onderdruk sodat jy normaal kan leef." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 uit 3",
+        "body": "Mense sal op ’n stadium ’n SOI kry. Algemener as wat mense dink. Niks om jou voor te skaam nie."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Stil dikwels",
+        "body": "Baie SOI's wys geen simptome nie — veral chlamydia en HPV. Jy kan iemand aansteek sonder om te weet."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Kondome werk",
+        "body": "Konsekwente gebruik van kondome verminder SOI- en HIV-risiko dramaties. Gratis by elke kliniek."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Behandelbaar",
+        "body": "Meeste bakteriële SOI's word in ’n week of minder genees. Virusse word onderdruk sodat jy normaal kan leef."
+      }
     ],
     "pull_quote": {
-      "text": "Die mees algemene fout is om 'n SOI op te tel deur 'jou regterskuldig persoon' en dan nie te toets nie. Toets is gratis. Behandeling is gratis. Geen oordeel by die kliniek nie.",
+      "text": "Die mees algemene fout is om ’n SOI op te tel deur 'jou regterskuldig persoon' en dan nie te toets nie. Toets is gratis. Behandeling is gratis. Geen oordeel by die kliniek nie.",
       "source": "Society for the Study of STIs South Africa"
     }
   },
-
   "signs": {
     "heading": "Wat om voor te kyk",
-    "lede": "SOI-tekens verskil per infeksie en geslag. Baie wys glad nie tekens nie. Hierdie kombinasies regverdig 'n toets.",
+    "lede": "Die meeste SOI’s is stil. Wanneer simptome verskyn, verskil hulle na gelang van watter infeksie jy het. Dieselfde tekens kan verskillende dinge beteken — net ’n toets kan sê.",
     "items": [
-      { "color": "orange", "icon": "droplet",       "title": "Afskeiding of pyn",      "description": "Onnormale afskeiding uit vagina of penis, brand by urinering, pyn tydens seks. Algemeen by gonorree en chlamidia. Sigbaar binne dae tot weke ná blootstelling." },
-      { "color": "coral",  "icon": "alert-circle",  "title": "Swere of bultjies",      "description": "Pynlose seer (sifilis), pynvolle blasies (herpes), kleine bultjies of wratte (HPV). Geslagsdele, mond, of anus — afhangend van seks-tipe." },
-      { "color": "purple", "icon": "user-x",        "title": "Sistemiese tekens",       "description": "Koors, swelling van klier, vermoeidheid, gewigsverlies — kan tekens wees van gevorderde sifilis of nuwe HIV-infeksie. Toets dadelik." }
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ongewone afskeiding",
+        "description": "Uit die vagina, penis of anus. Dit kan troebel, geel, groen, sleg ruik, of net anders as gewoonlik wees. Algemeen by chlamidia, gonorree en trichomoniase."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Pyn of branderigheid",
+        "description": "Wanneer jy urineer, tydens seks, of in die onderbuik. Word soms vir ’n urineweginfeksie aangesien."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Swere, bultjies of uitslag",
+        "description": "Op die geslagsdele, anus, mond of hande. Dit kan pynlik wees of nie. Algemeen by herpes, sifilis en HPV."
+      },
+      {
+        "color": "gold",
+        "icon": "thermometer",
+        "title": "Minder ooglopende tekens",
+        "description": "Seer keel (orale gonorree), geswelde kliere, griepagtige siekte (akute HIV), ongewone bloeding tussen menstruasies (servikale infeksie)."
+      }
     ]
   },
-
   "spreads": {
     "heading": "Hoe SOI's versprei",
     "yes": [
@@ -59,46 +101,111 @@
       "Insekbyte"
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "Net 'sleg' of 'verwoeste' mense kry SOI's.",                                   "fact": "Iemand wat seks het, kan 'n SOI kry. Dit is 'n infeksie — net soos enige ander. Geen morele kommentaar nie." },
-      { "myth": "As jy 'n SOI gehad het en behandel is, kan jy nie weer kry nie.",              "fact": "Genees beteken net die huidige infeksie is uit. Jy kan dieselfde infeksie weer kry vanaf 'n nuwe blootstelling. Daarom is voortgesette beskerming nodig." },
-      { "myth": "Orale seks is veilig — geen SOI-risiko.",                                       "fact": "Orale seks kan baie SOI's oordra: gonorree, sifilis, herpes, HPV, en selfs HIV. Beskerming (kondome, dental dams) verminder risiko." },
-      { "myth": "Ek sal weet as my maat 'n SOI het.",                                            "fact": "Baie SOI's wys geen simptome nie. Jou maat mag glad nie weet hulle is positief nie. Toets is die enigste manier om te weet." }
+      {
+        "myth": "Net 'sleg' of 'verwoeste' mense kry SOI's.",
+        "fact": "Iemand wat seks het, kan ’n SOI kry. Dit is ’n infeksie — net soos enige ander. Geen morele kommentaar nie."
+      },
+      {
+        "myth": "As jy ’n SOI gehad het en behandel is, kan jy nie weer kry nie.",
+        "fact": "Genees beteken net die huidige infeksie is uit. Jy kan dieselfde infeksie weer kry vanaf ’n nuwe blootstelling. Daarom is voortgesette beskerming nodig."
+      },
+      {
+        "myth": "Orale seks is veilig — geen SOI-risiko.",
+        "fact": "Orale seks kan baie SOI's oordra: gonorree, sifilis, herpes, HPV, en selfs HIV. Beskerming (kondome, dental dams) verminder risiko."
+      },
+      {
+        "myth": "Ek sal weet as my maat ’n SOI het.",
+        "fact": "Baie SOI's wys geen simptome nie. Jou maat mag glad nie weet hulle is positief nie. Toets is die enigste manier om te weet."
+      }
     ]
   },
-
   "prevention": {
     "heading": "Hoe om jouself en maats te beskerm",
     "lede": "Geen enkele maatreël is 100% nie — maar saam verminder hulle risiko dramaties.",
     "items": [
-      { "color": "green",  "icon": "shield",      "title": "Kondome elke keer",                "description": "Vir vaginale, anale en orale seks. Manlike en vroulike kondome. Gratis by elke kliniek, beskikbaar by apteke. Maklikste enkele beskerming." },
-      { "color": "purple", "icon": "syringe",     "title": "HPV-inenting (kinderprogram)",     "description": "Gratis vir Graad 5-meisies (en seuns in baie provinsies). Voorkom die meeste serviks- en ander HPV-kankers." },
-      { "color": "orange", "icon": "check-circle","title": "Gereelde toets",                    "description": "Selfs sonder simptome — een keer per jaar as seksueel aktief, vroeër as nuwe maat. Alle SOI-toetse gratis by kliniek." },
-      { "color": "gold",   "icon": "users",        "title": "Praat met maats",                   "description": "Open gesprekke oor SOI-status verminder risiko en bou vertroue. Toets saam voor 'n nuwe verhouding seksueel raak — gewone praktyk." }
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Kondome elke keer",
+        "description": "Vir vaginale, anale en orale seks. Manlike en vroulike kondome. Gratis by elke kliniek, beskikbaar by apteke. Maklikste enkele beskerming."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "HPV-inenting (kinderprogram)",
+        "description": "Gratis vir Graad 5-meisies (en seuns in baie provinsies). Voorkom die meeste serviks- en ander HPV-kankers."
+      },
+      {
+        "color": "orange",
+        "icon": "check-circle",
+        "title": "Gereelde toets",
+        "description": "Selfs sonder simptome — een keer per jaar as seksueel aktief, vroeër as nuwe maat. Alle SOI-toetse gratis by kliniek."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "title": "Praat met maats",
+        "description": "Open gesprekke oor SOI-status verminder risiko en bou vertroue. Toets saam voor ’n nuwe verhouding seksueel aktief raak — gewone praktyk."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "Toets gratis by enige kliniek",              "description": "Vra vir 'n SOI-paneel — toets vir die mees algemenes. Vertroulik. Geen verwysing nodig. Geen mediese fonds nodig." },
-      { "title": "As positief — begin behandeling dadelik",    "description": "Bakteriële SOI's: kort kursus antibiotika. Virale SOI's: onderdrukkende medisyne. HIV: ART vir lewe. Alles gratis." },
-      { "title": "Vertel jou maats — hulle moet ook toets",    "description": "Onaangenaam maar lewensbelangrik. Onbehandelde SOI's kan onvrugbaarheid, kanker, en oordrag aan ander baba's en maats veroorsaak. Klinieke help met partner-kennisgewing as nodig." },
-      { "title": "Voltooi die volle antibiotika-kursus",        "description": "Selfs as simptome verbeter. Vroeg afdraai veroorsaak weerstandige bakterieë. Wag tot die hele kursus klaar is voor jy weer seks het." },
-      { "title": "Vermy seks tot die infeksie weg is",          "description": "Of gebruik kondome streng. Sommige SOI's bly aansteeklik selfs ná simptome verdwyn. Vra die kliniek hoe lank om te wag." }
+      {
+        "title": "Toets gratis by enige kliniek",
+        "description": "Vra vir ’n SOI-paneel — toets vir die mees algemenes. Vertroulik. Geen verwysing nodig. Geen mediese fonds nodig."
+      },
+      {
+        "title": "As positief — begin behandeling dadelik",
+        "description": "Bakteriële SOI's: kort kursus antibiotika. Virale SOI's: onderdrukkende medisyne. HIV: ART vir lewe. Alles gratis."
+      },
+      {
+        "title": "Vertel jou maats — hulle moet ook toets",
+        "description": "Onaangenaam maar lewensbelangrik. Onbehandelde SOI's kan onvrugbaarheid, kanker, en oordrag aan ander baba's en maats veroorsaak. Klinieke help met partner-kennisgewing as nodig."
+      },
+      {
+        "title": "Voltooi die volle antibiotika-kursus",
+        "description": "Selfs as simptome verbeter. behandeling vroeg staak veroorsaak weerstandige bakterieë. Wag tot die hele kursus klaar is voor jy weer seks het."
+      },
+      {
+        "title": "Vermy seks tot die infeksie weg is",
+        "description": "Of gebruik kondome streng. Sommige SOI's bly aansteeklik selfs ná simptome verdwyn. Vra die kliniek hoe lank om te wag."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
     "lede": "SOI-toetse en behandeling in SA is volkome gratis, vertroulik, en algemeen beskikbaar. Klinieke hanteer hierdie elke dag — niks oor jou geskiedenis sal hulle skrik nie.",
     "helplines": [
-      { "name": "Vind jou naaste kliniek", "description": "Gratis SOI-toets en behandeling, vertroulik",         "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,        "phone_display": "Vind 'n kliniek", "primary": true,  "link": "/clinic-finder" },
-      { "name": "Nasionale HIV- en SOI-lyn","description": "Inligting, ondersteuning, en kliniek-verwysing",       "meta": "Gratis · Ma–Vr 07:30–20:00",              "phone": "0800012322","phone_display": "0800 012 322",   "primary": true },
-      { "name": "loveLife-jeuglyn",        "description": "Vir jongmense — vriendelik, anoniem, gratis",         "meta": "Ma–Vr 09:00–20:00 · Sa 09:00–18:00",      "phone": "0800121900","phone_display": "0800 121 900",   "primary": false }
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis SOI-toets en behandeling, vertroulik",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Nasionale HIV- en SOI-lyn",
+        "description": "Inligting, ondersteuning, en kliniek-verwysing",
+        "meta": "Gratis · Ma–Vr 07:30–20:00",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "loveLife-jeuglyn",
+        "description": "Vir jongmense — vriendelik, anoniem, gratis",
+        "meta": "Ma–Vr 09:00–20:00 · Sa 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
     ]
   }
 }

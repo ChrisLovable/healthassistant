@@ -1,0 +1,177 @@
+{
+  "slug": "fungal-skin",
+  "group_slug": "skin",
+  "name": "Swam-velinfeksies",
+  "tagline": "Atleetvoet, ringwurm, jeuk in die liesarea. Goedkoop om te behandel.",
+  "hero_image": "/images/diseases/hero-fungal-skin.webp",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Dermatological Society of South Africa",
+    "WHO",
+    "NICD",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Swam-velinfeksies in eenvoudige terme",
+    "lede": "Swam-velinfeksies word veroorsaak deur klein onskadelike swamme wat op warm, klam dele van die liggaam leef. Wanneer hulle ooraangroei, veroorsaak hulle jeukende, skilferige, dikwels ring-vormige kolle. Irriterend maar in die algemeen maklik om te behandel.",
+    "paragraphs": [
+      "Algemene soorte: atleetvoet (tussen tone), jeuk in die liesarea (lies), ringwurm (oral — eintlik ’n swam, nie ’n wurm nie), naelswam, kopvel-ringwurm by kinders. Ten spyte van verskillende name word hulle almal deur soortgelyke swamme veroorsaak.",
+      "Die meeste reageer op oor-die-toonbank anti-swam-room vir 2–4 weke aangesmeer. Sommige — naelswam, kopvel-infeksies — benodig voorskrif-tablette. Mense met diabetes, verswakte immuunstelsels, of HIV kan erger of herhalende infeksies kry."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Baie algemeen",
+        "body": "Atleetvoet alleen raak tot 70% van volwassenes op ’n stadium. ringwurm en jeuk in die liesarea is wêreldwyd algemeen."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Maklik om te behandel",
+        "body": "Die meeste swam-velinfeksies verdwyn met oor-die-toonbank room in 2–4 weke. Goedkoop, beskikbaar by enige apteek."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Aansteeklik",
+        "body": "Swam versprei op handdoeke, stortvloere, gimnasium-matte, gedeelde skoene. Behandel dit — en moenie handdoeke of skoeisel deel tydens behandeling nie."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Hou droog",
+        "body": "Swam hou van warm, klam vel. Droog deeglik ná bad af, verander besweette sokkies en onderklere, lug skoene uit. Voorkoming gaan meestal oor droogte."
+      }
+    ],
+    "pull_quote": {
+      "text": "As ’n 'ring' op die vel nie met anti-swam-room in 4 weke opklaar nie, sien ’n dokter. Sommige ander veltoestande lyk soos ringwurm — en steroïedroom sal ’n werklike ringwurm erger maak.",
+      "source": "Dermatological Society of South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Algemene patrone",
+    "lede": "Swam-infeksies deel almal ’n jeukende, skilferige, dikwels ring-vormige voorkoms — maar waar hulle verskyn wissel.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Atleetvoet",
+        "description": "Jeukende, krakende, afdoppende vel tussen tone — veral die 4de en 5de. Kan na sole versprei. Ruik. Vererger in die somer en met besweette skoene."
+      },
+      {
+        "color": "purple",
+        "icon": "circle",
+        "title": "ringwurm (tinea corporis)",
+        "description": "Ronde rooi (of donkerder, op swart vel) skilferige kol met ’n duidelike middel — lyk soos ’n ring. Groei stadig uitwaarts. Algemeen op arms, nek, liggaam. Jeukerig."
+      },
+      {
+        "color": "coral",
+        "icon": "user",
+        "title": "jeuk in die liesarea en kopvel-ringwurm",
+        "description": "jeuk in die liesarea: rooi, jeukende uitslag in die lies-plooie — algemeen by mans, ná sweet. Kopvel-ringwurm: kolagtige haarverlies met skilfering — algemeen by kinders, benodig tablette."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Hoe swam-infeksies versprei",
+    "yes": [
+      "Direkte vel-tot-vel kontak met ’n geïnfekteerde persoon",
+      "Gedeelde handdoeke, beddegoed, klere, haarborsels",
+      "Kaalvoet loop op besmette vloere — openbare storte, gimnasium-kleedkamers, swembad-dekke",
+      "Gedeelde skoene, veral sport-toerusting",
+      "Van troeteldiere (katte en honde kan ringwurm dra)",
+      "Van besweette toerusting in gimnasiums of sport"
+    ],
+    "no": [
+      "Vlugtige kontak soos handskud of drukkies",
+      "Kos of drinkgoed deel",
+      "In dieselfde kamer wees",
+      "Lug of asem"
+    ]
+  },
+  "prevention": {
+    "heading": "Hoe om dit te vermy om dit weer te kry",
+    "lede": "Swam kom terug as toestande warm en klam bly. Klein daaglikse gewoontes voorkom die meeste herhalings.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Droog deeglik af ná was",
+        "description": "Veral tussen tone, in die lies, onder borste, in velplooie. Pat droog. ’n Droë vel is ’n onvriendelike tuiste vir swam."
+      },
+      {
+        "color": "purple",
+        "icon": "shirt",
+        "title": "Skoon katoen, verander gereeld",
+        "description": "Katoen-sokkies en -onderklere asem beter as sintetiese. Verander daagliks en ná sweet. Moenie besweette gimnasium-klere herdra nie."
+      },
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Moenie kaalvoet in die openbaar loop",
+        "description": "Openbare storte, gimnasium-kleedkamers, swembad-dekke — dra slippers of sandale. Die meeste swam-voetinfeksies kom van hierdie plekke."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Moenie handdoeke of skoene deel",
+        "description": "Selfs met familielede. As iemand ’n swam-infeksie het, gebruik aparte handdoeke totdat dit opgeklaar het."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Begin oor-die-toonbank anti-swam-room",
+        "description": "Klotrimasool of terbinafien — smeer twee keer per dag op die geaffekteerde area plus 2cm rondom. Hou aan vir 2 weke ná die uitslag opklaar om terugkeer te voorkom."
+      },
+      {
+        "title": "Hou die area droog en aan lug blootgestel",
+        "description": "Moenie verbind nie. Dra los klere. Laat die vel asemhaal. Poeier (nie room nie) in die oggend kan help in lies of voete vir sweet-absorpsie."
+      },
+      {
+        "title": "Behandel die bron",
+        "description": "Was alle handdoeke, beddegoed, en klere wat die infeksie geraak het in warm water. Gooi weg of ontsmet ou skoene as atleetvoet aanhou terugkom."
+      },
+      {
+        "title": "As nie beter in 4 weke — sien ’n dokter",
+        "description": "Sommige lyk-soos-toestande reageer nie op anti-swam nie. Naelswam en kopvel-ringwurm benodig tablette. Staatsklinieke verskaf albei gratis."
+      },
+      {
+        "title": "As jy diabetes of HIV het — gaan vroeg",
+        "description": "Swam-infeksies kan erger wees en vinniger versprei. Gaan kliniek toe by die eerste teken — moenie wag om oor-die-toonbank vir weke te probeer nie."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Die meeste swam-velinfeksies klaar op met goedkoop oor-die-toonbank room. As hulle nie wil nie, verskaf staatsklinieke gratis voorskrifbehandeling.",
+    "helplines": [
+      {
+        "name": "Enige plaaslike apteek",
+        "description": "Oor-die-toonbank anti-swam-rome — klotrimasool, terbinafien",
+        "meta": "Geen voorskrif nodig vir room",
+        "phone": null,
+        "phone_display": "Besoek 'n apteek",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis assessering en voorskrif anti-swam-behandeling indien nodig",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}

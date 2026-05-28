@@ -1,0 +1,229 @@
+{
+  "slug": "meningitis",
+  "group_slug": "emergency-signs",
+  "name": "I-meningitis",
+  "tagline": "Intamo eqinileyo, intloko ebuhlungu kakhulu, urhashalala emfusa.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "NICD (National Institute for Communicable Diseases)",
+    "WHO",
+    "National Department of Health",
+    "Meningitis Research Foundation"
+  ],
+  "urgent": {
+    "heading": "Ingxamisekile — yiya esibhedlele ngoku",
+    "primary_message": "I-meningitis yebhaktiriya ingabulala ngaphakathi kweeyure. Musa ukulinda zonke iimpawu — yiya esibhedlele ngoko nangoko.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "urhashalala ebomvu-mfusa ENGAPHELIYO xa icinezelwa ngeglasi",
+      "Intamo eqinileyo — akakwazi ukuchukumisa isilevu esifubeni",
+      "Intloko ebuhlungu kakhulu ehamba nefiva nokugabha",
+      "Ukunganyamezeli ukukhanya, izandi okanye ukubanjwa",
+      "Ukudideka, ukozela okanye ubunzima bokuvuka",
+      "Ukuxhuzula okanye ukukhala okuphezulu kosana",
+      "Indawo ethambileyo entlokweni yosana igqabhukile, kunye nefiva nokwala ukutya"
+    ]
+  },
+  "what_is_it": {
+    "heading": "I-meningitis ngamazwi alula",
+    "lede": "I-meningitis lusulelo lweemeninges — amaleko akhuselayo ajikeleze ubuchopho nomnqonqo. I-meningitis yebhaktiriya yenye yezifo ezosulelayo ezibulala ngokukhawuleza kakhulu.",
+    "paragraphs": [
+      "Uninzi lwe-meningitis lubangelwa yintsholongwane okanye ibhaktiriya. I-meningitis yentsholongwane idla ngokuba buthathaka kwaye iphile ngokwayo. I-meningitis yebhaktiriya yimeko engxamisekileyo yokwenene — inokubulala umntu osempilweni ngaphakathi kweeyure kwaye idinga ii-antibiotic ngokukhawuleza.",
+      "Ngaphandle, akunakwenzeka ukwahlula ezi ntlobo zimbini ngokuthembeka. Yiyo loo nto naliphi na ityala elikrokrelwayo kufuneka liphathwe njengebhaktiriya de kuboniswe okwahlukileyo. UMzantsi Afrika uneenkqubo zogonyo ngokuchasene neentlobo eziyingozi kakhulu."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Ibulala ngeeyure",
+        "body": "I-meningitis yebhaktiriya ingasuka kuphawu lokuqala iye ekufeni ngaphantsi kweeyure ezingama-24. Isantya sonyango sibaluleke kakhulu."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Inokuthintelwa ngogonyo",
+        "body": "Izitofu zasimahla zabantwana eMzantsi Afrika (Hib, Pneumococcal, Meningococcal) zithintela ezona ntlobo ziyingozi. Zifumane ngexesha."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "headline": "Umngcipheko kubantu abasondeleyo",
+        "body": "Isasazeka ngokukhohlela, ukuthimla, ukuncamisana okanye ukwabelana ngeziselo. Abantu abasondeleyo basenokunikwa ii-antibiotic njengokhuseleko."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Uvavanyo lweglasi",
+        "body": "Cinezela iglasi ecacileyo phezu kwerhashalala. Ukuba amachokoza awapheli phantsi koxinzelelo — yiya ngqo esibhedlele."
+      }
+    ],
+    "pull_quote": {
+      "text": "Thembela kwimvakalelo yakho. Ukuba kukho into evakala imbi kakhulu — ngakumbi emntwaneni — musa ukulinda uluhlu olupheleleyo lweempawu. Yiya esibhedlele. I-meningitis ingabulala ngaphambi kokuba zonke iimpawu zivele.",
+      "source": "Meningitis Research Foundation"
+    }
+  },
+  "signs": {
+    "heading": "Into omawuyijonge",
+    "lede": "Iimpawu zinokuqala njengeflu, zize zibe mandundu ngokukhawuleza. Iimpawu eziqhelekileyo zisenokungaveli ngolandelelwano olufanayo — okanye zingaveli kwaphela kwiintsana nabantwana abancinci.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Abantu abadala nabantwana abadala",
+        "description": "Ifiva ephezulu, intloko ebuhlungu kakhulu, intamo eqinileyo (akakwazi ukuchukumisa isilevu esifubeni), ukunganyamezeli ukukhanya, isicaphucaphu okanye ukugabha, ukudideka okanye ukozela."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "urhashalala emfusa",
+        "description": "Amachokoza amancinci abomvu-mfusa okanye amabala abonakala njengamabala okulimala. Asasazeka ngokukhawuleza. Awapheli xa ecinezelwa ngeglasi — le yimeko engxamisekileyo."
+      },
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Iintsana nabantwana abancinci",
+        "description": "Ukukhala okuphezulu okungaqhelekanga, ukwala ukutya, umzimba uthambe kakhulu okanye uqine kakhulu, indawo ethambileyo entloko igqabhukile, ulusu lunamabala okanye luphaphathekile, ifiva enezandla neenyawo ezibandayo."
+      },
+      {
+        "color": "gold",
+        "icon": "activity",
+        "title": "Izandla neenyawo ezibandayo kuqala",
+        "description": "Izandla neenyawo ziba bandayo ngelixa umzimba ushushu, intlungu enkulu emilenzeni, nolusu oluphaphathekileyo ngokungaqhelekanga zinokuba ziimpawu zokuqala phambi kwerhashalala okanye intamo eqinileyo."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "I-meningitis isasazeka njani",
+    "yes": [
+      "Ukukhohlela nokuthimla komntu ophethe ibhaktiriya",
+      "Ukuncamisana okanye unxibelelwano olusondeleyo ixesha elide",
+      "Ukwabelana ngeekomityi, iibhotile zamanzi, iicigarette okanye izixhobo zokutya",
+      "Ukuhlala kwiindawo ezixineneyo — iindawo zokuhlala zabafundi, iikampu zomkhosi, iintolongo"
+    ],
+    "no": [
+      "Unxibelelwano oluqhelekileyo njengokuxhawulana okanye ukuba kwigumbi elinye",
+      "Izihlalo zangasese, amachibi okuqubha okanye izibambo zeminyango",
+      "Iingcongconi okanye ukulunywa zizinambuzane",
+      "Izilwanyana zasekhaya nezinye izilwanyana"
+    ]
+  },
+  "prevention": {
+    "heading": "Ungazikhusela njani wena nosapho lwakho",
+    "lede": "Izitofu zikhusela kwiintlobo eziyingozi kakhulu ze-meningitis yebhaktiriya. Zisimahla kwiikliniki zikarhulumente kubantwana, kwaye ziyacetyiswa kwabanye abantu abadala abasemngciphekweni.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Izitofu zasimahla zabantwana",
+        "description": "Hib kwiiveki ezi-6, 10, 14. Pneumococcal kwiiveki ezi-6, 14, iinyanga ezi-9. Meningococcal apho kuboniswe khona. Landela ishedyuli yaseMzantsi Afrika."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "title": "Amaqela asemngciphekweni ophezulu",
+        "description": "Abafundi baseyunivesithi kwiindawo zokuhlala, abasebenzi abatsha bomkhosi, abahambi ukuya kwibhanti ye-meningitis eAfrika okanye eHajj — buza ugqirha wakho ngesitofu se-Meningococcal ACWY."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "title": "Ukuba umntu osondeleyo uyagula",
+        "description": "Amalungu endlu nabantu abasondeleyo kumntu one-meningitis yebhaktiriya badla ngokunikwa ii-antibiotic zokuthintela yiPublic Health. Zithathe — ziyasebenza."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Yazi kwangoko — yenza ngokukhawuleza",
+        "description": "Ukwazi iimpawu kusindisa ubomi. Thembela kwimvakalelo yakho. Ukuba kukho into ebonakala imbi kakhulu, yiya esibhedlele."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani nengeyonyani",
+    "items": [
+      {
+        "myth": "Ziintsana nabantwana kuphela abafumana i-meningitis.",
+        "fact": "Iintsana, abakwishumi elivisayo nabantu abatsha basemngciphekweni ophezulu, kodwa ingahlasela nakweyiphi na iminyaka. Uqhambuko kwiindawo zokuhlala zabafundi luqhelekile."
+      },
+      {
+        "myth": "Ukuba urhashalala isaphela xa ndiyicinezelile, ayisiyo meningitis.",
+        "fact": "Ekuqaleni kwe-meningitis urhashalala isenokuphela. Ukuba ezinye iimpawu zikhona — intloko ebuhlungu, ifiva, intamo eqinileyo — yiya esibhedlele nokuba kunjalo."
+      },
+      {
+        "myth": "Ii-antibiotic zakuqala ekliniki zanele.",
+        "fact": "I-meningitis yebhaktiriya idinga ii-antibiotic ezifakwa emthanjeni esibhedlele, kunye nokujongwa. Ii-antibiotic zeepilisi kuphela azonelanga."
+      },
+      {
+        "myth": "Izitofu ze-meningitis zibangela i-meningitis.",
+        "fact": "Izitofu zikhusela kwiimbangela zebhaktiriya ezixhaphakileyo. Azibangeli esi sifo. Izitofu zeshedyuli yabantwana zikhuselekile kwaye zisindisa ubomi."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze — umzuzu okrokrela i-meningitis",
+    "items": [
+      {
+        "title": "Yenza uvavanyo lweglasi",
+        "description": "Cinezela icala leglasi ecacileyo ngokuqinileyo phezu kwerhashalala. Ukuba amachokoza ahlala ebonakala ngeglasi — yiya esibhedlele ngoku."
+      },
+      {
+        "title": "Tsalela umnxeba ku-10177 okanye uye ngqo kwisebe likaxakeka",
+        "description": "Yithi 'ndikrokrela i-meningitis' xa ufika ukuze ubonwe ngoko nangoko. Musa ukulinda appointment ye-GP."
+      },
+      {
+        "title": "Qaphela ukuba iimpawu ziqale nini",
+        "description": "Ixesha libalulekile. Xelela iqela lasesibhedlele ukuba ifiva, intloko ebuhlungu, urhashalala okanye utshintsho kwindlela aziphatha ngayo luqale nini."
+      },
+      {
+        "title": "Musa ukulinda zonke iimpawu",
+        "description": "Ezona mpawu zithathu ziqhelekileyo — ifiva, intamo eqinileyo nentloko ebuhlungu — zisenokungaveli zonke kunye. Enye yazo yanele ukuba uhlolwe."
+      },
+      {
+        "title": "Xelela abantu abasondeleyo",
+        "description": "Nabani na owabelane ngendlu, ikomityi okanye ukwanga kwiveki edlulileyo kufuneka aqhagamshelane nePublic Health ukuze afumane ingcebiso. Kunganikwa ii-antibiotic zokuthintela."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ngubani omawumfowunele ngoku",
+    "lede": "I-meningitis yebhaktiriya ekrokrelwayo yenye yezifo ezimbalwa apho 'yiya esibhedlele ngoku' iyimpendulo efanelekileyo — nange-3am, nokuba awuqinisekanga.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Inkonzo karhulumente yezonyango ezingxamisekileyo",
+        "meta": "Simahla · iiyure ezingama-24 · yithi 'suspected meningitis'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Uncedo olungxamisekileyo (iselula)",
+        "description": "Ifikelela kuyo nayiphi na inkonzo yongxamiseko xa utsalela umnxeba ngeselula",
+        "meta": "Simahla kuyo nayiphi na iselula · iiyure ezingama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "NICD Hotline",
+        "description": "Ulwazi ngezifo ezosulelayo kunye nokuxela uqhambuko",
+        "meta": "Mvulo–Lwesihlanu 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}
+
+
+
+
+
+

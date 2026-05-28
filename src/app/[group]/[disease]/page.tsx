@@ -40,7 +40,7 @@ export default async function DiseasePage({ params }: PageProps) {
 
       <main>
         <DiseaseHero group={group} />
-        <DiseaseTitle name={content.name} tagline={content.tagline} lastReviewed={content.last_reviewed} readTimeMinutes={content.read_time_minutes} />
+        <DiseaseTitle name={content.name} tagline={content.tagline} />
 
         {isFallback && lang === "af" && (
           <div className="mx-4 mt-1 mb-1 p-3 bg-amber-50 border border-amber-200 rounded-xl text-[11px] text-amber-900 leading-snug">
@@ -57,7 +57,7 @@ export default async function DiseasePage({ params }: PageProps) {
         {content.prevention && <PreventionSection data={content.prevention} />}
         <ActionStepsSection data={content.action_steps} />
         <GetHelpSection data={content.get_help} />
-        <Disclaimer reviewer={content.reviewer} lastReviewed={content.last_reviewed} nextReview={content.next_review} sources={content.sources} />
+        <Disclaimer sources={content.sources} />
       </main>
     </div>
   );

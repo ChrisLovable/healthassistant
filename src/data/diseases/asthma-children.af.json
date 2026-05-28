@@ -1,0 +1,174 @@
+{
+  "slug": "asthma-children",
+  "group_slug": "child-baby",
+  "name": "Asma by kinders",
+  "tagline": "Snellers, pompies en skoolplanne.",
+  "hero_image": "/images/diseases/hero-asthma-children.webp",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "South African Paediatric Association",
+    "National Asthma Education Programme SA",
+    "Global Initiative for Asthma (GINA)",
+    "WHO"
+  ],
+  "urgent": {
+    "heading": "Dringend — bel nou",
+    "primary_message": "Gebruik die blou ontspanner-pompie met spasieerder. As daar geen verbetering binne 10 minute is nie — bel 10177.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Te kort van asem om in vol sinne te praat, of om te huil",
+      "Lippe, vingernaels, of gesig draai blou of grys",
+      "Vel suig in tussen of onder die ribbes met elke asemhaling",
+      "Ontspanner-pompie help glad nie",
+      "Slaperig, verward, of uitgeput van die asemhalingmoeite",
+      "Hoes so erg dat die kind nie kan stop of slaap nie",
+      "Stille bors — die fluitgeluid stop omdat lugvloei te laag is"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Kinder-asma in eenvoudige terme",
+    "lede": "Asma is wanneer die lugweë in die longe sensitief en ontsteek raak — hulle trek saam en maak slym in reaksie op veroorsakers, wat dit moeilik maak vir ’n kind om asem te haal.",
+    "paragraphs": [
+      "Kinder-asma is een van die mees algemene chroniese toestande by SA kinders — ongeveer 1 uit 10. Simptome kan kom en gaan. Met behoorlike behandeling kan die meeste kinders met asma normaal leef, sport speel, en slaap.",
+      "Kinders met asma het gewoonlik twee soorte medisyne nodig: ’n ontspanner-pompie (gewoonlik blou) vir tydens ’n aanval, en ’n voorkomingspompie-pompie (gewoonlik bruin) wat elke dag gebruik word om lugweë kalm te hou. Die voorkomingspompie is wat ’n kind uit die hospitaal hou — selfs wanneer hulle goed voel."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 uit 10",
+        "body": "Suid-Afrikaanse kinders het asma — baie ongediagnoseer, veral dié met aanhoudende nag-hoes."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Twee pompies",
+        "body": "Blou ontspanner vir aanvalle, bruin voorkomingspompie elke dag. Die voorkomingspompie is wat die siekte werklik beheer."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Altyd spasieerder",
+        "body": "Kinders moet altyd ’n spasieerder met hul pompie gebruik. Verdubbel die hoeveelheid medisyne wat die longe bereik."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Veroorsakers verskil",
+        "body": "Algemene veroorsakers: verkoues, stof, rook, troeteldierhare, koue lug, oefening. Om jou kind se veroorsakers te ken, help om aanvalle te voorkom."
+      }
+    ],
+    "pull_quote": {
+      "text": "Die meeste kinder-asma-aanvalle wat erg genoeg is vir hospitalisering kon voorkom geword het deur daaglikse gebruik van die voorkomingspompie-pompie. Moenie ophou omdat die kind goed voel nie — dis presies wat dit veronderstel is om te doen.",
+      "source": "Global Initiative for Asthma"
+    }
+  },
+  "signs": {
+    "heading": "Algemene tekens van kinder-asma",
+    "lede": "Asma lyk nie altyd soos fluit nie. By kinders veral is ’n langdurige droë hoes — veral snags of met oefening — dikwels die enigste teken vir maande voor diagnose.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Hoes wat nie weggaan nie",
+        "description": "Veral snags, vroeë oggend, of met hardloop en speel. Die mees algemene simptoom by kinders — dikwels maande lank gemis as 'net ’n verkoue wat aanhou terugkom'."
+      },
+      {
+        "color": "coral",
+        "icon": "activity",
+        "title": "Fluit of raserige asemhaling",
+        "description": "Fluitgeluid, veral wanneer uitasem. Soms net tydens koue, soms met enige inspanning."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Kortasem, borsbenoudheid",
+        "description": "Kind sit uit by LO, kan nie tred hou met maats nie, kla die bors voel styf of 'seer'. Die moeite werd om te ondersoek."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Kinders groei altyd uit asma uit.",
+        "fact": "Baie doen — maar baie nie. Selfs wanneer simptome bedaar, kan lugweg-sensitiwiteit op enige ouderdom terugkeer. Hou die voorkomingspompie aan soos voorgeskryf, selfs wanneer goed."
+      },
+      {
+        "myth": "Steroïed-pompies stuit groei.",
+        "fact": "Die dosis in inhaleer-voorkomingspompies is baie laag en werk plaaslik in die longe. Enige klein effek op groei is veel minder skadelik as swak-beheerde asma."
+      },
+      {
+        "myth": "Asma beteken geen sport.",
+        "fact": "Wel-beheerde asma behoort nie sport te beperk nie. Baie Olimpiese atlete het asma. As jou kind nie tred kan hou met maats nie, is die asma nie beheer nie — praat met die kliniek."
+      },
+      {
+        "myth": "Ons het net die pompie nodig wanneer hulle siek is.",
+        "fact": "Die blou ontspanner is vir siek dae. Die bruin voorkomingspompie moet elke dag gebruik word — selfs wanneer fyn. Om dit oor te slaan laat ontsteking opbou, wat lei tot aanvalle."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Kry ’n asma-aksieplan by die kliniek",
+        "description": "’n Geskrewe plan sê presies wat om te doen op elke stadium — groen (fyn), geel (vererger), rooi (noodgeval). Gratis, geteken deur jou dokter of verpleegkundige."
+      },
+      {
+        "title": "Gebruik altyd ’n spasieerder met die pompie",
+        "description": "Spasieerders verdubbel die medisyne wat die longe bereik. Gratis by klinieke. Moenie ’n kind ’n pompie sonder een laat gebruik nie."
+      },
+      {
+        "title": "Gee voorkomingspompie elke dag, elke seisoen",
+        "description": "Bruin voorkomingspompie twee keer per dag, elke dag. Selfs wanneer die kind fyn voel. Selfs in die somer. Om dit oor te slaan is die mees algemene oorsaak van aanvalle."
+      },
+      {
+        "title": "Ken jou kind se veroorsakers",
+        "description": "Hou aantekeninge van wat simptome bring. Algemene: verkoue-virusse, stof, rook (insluitend braai), katte, honde, koue lug, oefening. Verminder wat jy kan."
+      },
+      {
+        "title": "Vertel die skool en nasorg",
+        "description": "Gee hulle ’n afskrif van die aksieplan en ’n ekstra ontspanner-pompie met spasieerder. Die meeste skole aanvaar hierdie sodra papierwerk geteken is."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Kinder-asma is heeltemal behandelbaar in die SA openbare stelsel. Pompieinhalators, spasieerders, en aksieplane is almal gratis by klinieke.",
+    "helplines": [
+      {
+        "name": "Noodambulans",
+        "description": "Regerings-nooddiens",
+        "meta": "Gratis · 24 uur · sê 'erge asma-aanval'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis pompieinhalators, spasieerders, en aksieplane",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Gratis 24-uur kind-gesondheid-en-welsynslyn",
+        "meta": "Gratis vanaf enige foon · 24 uur",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "uti",
+  "group_slug": "pain",
+  "name": "Urinary tract infection (UTI)",
+  "tagline": "Common in women. Antibiotics needed. Don't ignore.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["South African Urology Association", "WHO", "National Department of Health", "NICD"],
+
+  "urgent": {
+    "heading": "Get to a clinic or hospital urgently if",
+    "primary_message": "A simple bladder infection can spread to the kidneys and bloodstream. The signs below mean the infection has progressed — it needs treatment fast.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "High fever, shivering, or sweats with UTI symptoms",
+      "Severe pain in the back or side (around the kidneys)",
+      "Nausea and vomiting that won't stop",
+      "Confusion or extreme drowsiness — especially in older people",
+      "Blood in urine (more than a small amount)",
+      "UTI symptoms in pregnancy — never wait it out",
+      "UTI symptoms in a child or baby",
+      "UTI symptoms in a man (less common, often more serious)"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "UTI in plain terms",
+    "lede": "A urinary tract infection happens when bacteria — usually from the gut — get into the urine system and multiply. Most affect the bladder (cystitis). Sometimes they reach the kidneys (pyelonephritis), which is more serious.",
+    "paragraphs": [
+      "UTIs are far more common in women because the urine tube (urethra) is shorter, so bacteria reach the bladder more easily. About half of women have at least one UTI in their lifetime. UTIs in men, children, or pregnancy are less common and need closer attention.",
+      "Most simple bladder UTIs clear quickly with a short course of antibiotics. Untreated, they can spread upwards to the kidneys, where the infection becomes much more serious — sometimes life-threatening. Don't ignore symptoms hoping they'll go."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "Half of women",    "body": "Will have at least one UTI in their lifetime. Many have several. It is one of the most common reasons for clinic visits." },
+      { "color": "green",  "icon": "check-circle", "headline": "Antibiotics work","body": "Most simple UTIs clear in 2–3 days on a short antibiotic course. Drink plenty of water alongside." },
+      { "color": "coral",  "icon": "alert-triangle","headline": "Can spread up",   "body": "Untreated UTIs can spread to the kidneys — pyelonephritis. This causes fever, back pain, and sometimes sepsis. A real emergency." },
+      { "color": "gold",   "icon": "droplet",      "headline": "Pee after sex",   "body": "Sex is a common trigger for UTIs in women. Peeing within 30 minutes flushes bacteria out. Easy daily prevention habit." }
+    ],
+    "pull_quote": {
+      "text": "Don't try to treat UTI symptoms with cranberry juice and water alone. They may help prevent future infections but won't clear an active one. Get the antibiotics — early treatment prevents kidney involvement.",
+      "source": "South African Urology Association"
+    }
+  },
+
+  "signs": {
+    "heading": "How to tell what you have",
+    "lede": "Bladder UTIs and kidney UTIs share some symptoms — but kidney UTIs add fever and back pain. The difference matters a lot.",
+    "items": [
+      { "color": "orange", "icon": "droplet",       "title": "Bladder UTI (cystitis)",       "description": "Burning when peeing, needing to pee often, urgent need to pee but only small amounts come out, cloudy or smelly urine, pelvic or lower belly discomfort. No fever." },
+      { "color": "coral",  "icon": "alert-triangle","title": "Kidney UTI (pyelonephritis)",  "description": "All of the above PLUS fever, shivering, severe pain in the back or side, nausea and vomiting. This needs urgent treatment — sometimes hospital." },
+      { "color": "purple", "icon": "alert-circle",   "title": "UTI in special groups",        "description": "Pregnancy, children, older people, and men — UTIs can be less obvious (confusion in the elderly, just irritability in babies) and more serious. Always get checked." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to lower your chances",
+    "lede": "If you get recurrent UTIs, daily habits make a real difference. Small things, done consistently.",
+    "items": [
+      { "color": "green",  "icon": "droplet",     "title": "Drink plenty of water",           "description": "Aim for 1.5–2 litres a day, more in hot weather or with exercise. Diluted urine and frequent flushing keep bacteria from multiplying." },
+      { "color": "purple", "icon": "user",        "title": "Pee when you need to",             "description": "Don't hold it. Pee fully — don't rush. Holding urine gives bacteria time to multiply in a warm, dark bladder." },
+      { "color": "orange", "icon": "shield",      "title": "Pee within 30 minutes after sex","description": "Flushes out bacteria that may have entered during sex. Probably the single most effective prevention habit for sexually active women." },
+      { "color": "gold",   "icon": "wind",        "title": "Wipe front to back",                "description": "Especially after bowel movements. Prevents gut bacteria from reaching the urine tube — the most common source of UTI bacteria." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Go to clinic for proper antibiotic",       "description": "Free at any government clinic. A urine test confirms the infection. A short antibiotic course (usually 3–5 days) clears most UTIs. Don't try to ride it out." },
+      { "title": "Drink a lot of water",                     "description": "Especially while symptoms are active. Helps flush bacteria, dilutes pain when peeing. Aim for at least 2 litres a day during the infection." },
+      { "title": "Finish the antibiotic course — even if better","description": "Most people feel better in 24–48 hours. The full course is what eliminates the bacteria and prevents return. Stopping early breeds resistance." },
+      { "title": "If fever or back pain appears — go without delay","description": "These mean the infection has reached the kidneys. Needs urgent stronger treatment — sometimes hospital. Don't wait until morning." },
+      { "title": "If you get UTIs often — see a doctor",     "description": "Recurrent UTIs (3+ a year) need investigation. There may be a treatable underlying cause, and longer-term prevention options exist." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "UTIs are one of the most common reasons people visit clinics. Treatment is free, quick, and effective — no need to suffer through.",
+    "helplines": [
+      { "name": "Emergency ambulance",      "description": "For kidney UTI with high fever, severe back pain, or vomiting", "meta": "Free · 24 hours",                          "phone": "10177", "phone_display": "10177",         "primary": true },
+      { "name": "Find your nearest clinic", "description": "Free urine test, assessment, and antibiotics",                  "meta": "No appointment · no medical aid required", "phone": null,    "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" }
+    ]
+  }
+}

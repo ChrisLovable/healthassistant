@@ -1,7 +1,7 @@
 export type Lang = "en" | "af" | "zu" | "xh";
 
 export const ALL_LANGS: Lang[] = ["en", "af", "zu", "xh"];
-export const AVAILABLE_LANGS: Lang[] = ["en", "af"]; // ZU/XH pending paid translators
+export const AVAILABLE_LANGS: Lang[] = ["en", "af", "xh"]; // ZU pending paid translators
 
 export const LANG_LABEL: Record<Lang, string> = {
   en: "EN",

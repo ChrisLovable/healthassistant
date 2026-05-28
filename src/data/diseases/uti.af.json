@@ -1,0 +1,176 @@
+{
+  "slug": "uti",
+  "group_slug": "pain",
+  "name": "Urineweginfeksie (UWI)",
+  "tagline": "Algemeen by vroue. Antibiotika nodig. Moenie ignoreer nie.",
+  "hero_image": "/images/diseases/hero-uti.webp",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "South African Urology Association",
+    "WHO",
+    "National Department of Health",
+    "NICD"
+  ],
+  "urgent": {
+    "heading": "Gaan dringend kliniek of hospitaal toe as",
+    "primary_message": "’n Eenvoudige blaasinfeksie kan na die niere en bloedstroom versprei. Die tekens hieronder beteken die infeksie het gevorder — dit benodig vinnig behandeling.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Hoë koors, rillings, of sweet saam met UWI-simptome",
+      "Erge pyn in die rug of sy (rondom die niere)",
+      "Naarheid en braking wat nie stop nie",
+      "Verwarring of uiterste slaperigheid — veral by ouer mense",
+      "Bloed in urine (meer as ’n klein bietjie)",
+      "UWI-simptome in swangerskap — moet nooit wag nie",
+      "UWI-simptome by ’n kind of baba",
+      "UWI-simptome by ’n man (minder algemeen, dikwels ernstiger)"
+    ]
+  },
+  "what_is_it": {
+    "heading": "UWI in eenvoudige terme",
+    "lede": "’n Urineweginfeksie gebeur wanneer bakterieë — gewoonlik vanaf die derm — in die urine-stelsel kom en vermeerder. Meeste raak die blaas (blaasontsteking). Soms bereik hulle die niere (pielonefritis), wat ernstiger is.",
+    "paragraphs": [
+      "UWI's is veel meer algemeen by vroue omdat die urinebuis (uretra) korter is, sodat bakterieë makliker die blaas bereik. Ongeveer die helfte van vroue het ten minste een UWI in hul leeftyd. UWI's by mans, kinders, of in swangerskap is minder algemeen en benodig nouer aandag.",
+      "Die meeste eenvoudige blaas-UWI's klaar vinnig op met ’n kort kursus antibiotika. Onbehandeld kan hulle opwaarts na die niere versprei, waar die infeksie veel ernstiger raak — soms lewensgevaarlik. Moenie simptome ignoreer in die hoop dat hulle sal weggaan nie."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Helfte van vroue",
+        "body": "Sal ten minste een UWI in hul leeftyd hê. Baie het verskeie. Dit is een van die mees algemene redes vir kliniek-besoeke."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Antibiotika werk",
+        "body": "Die meeste eenvoudige UWI's klaar op in 2–3 dae op ’n kort antibiotika-kursus. Drink baie water saam."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Kan opwaarts versprei",
+        "body": "Onbehandelde UWI's kan na die niere versprei — pielonefritis. Dit veroorsaak koors, rugpyn, en soms bloedvergiftiging. ’n Werklike noodgeval."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "headline": "Urineer ná seks",
+        "body": "Seks is ’n algemene sneller vir UWI's by vroue. Urineer binne 30 minute spoel bakterieë uit. Maklike daaglikse voorkomingsgewoonte."
+      }
+    ],
+    "pull_quote": {
+      "text": "Moenie probeer om UWI-simptome met bloubessiesap en water alleen te behandel nie. Hulle mag help om toekomstige infeksies te voorkom, maar sal nie ’n aktiewe een opklaar nie. Kry die antibiotika — vroeë behandeling voorkom nier-betrokkenheid.",
+      "source": "South African Urology Association"
+    }
+  },
+  "signs": {
+    "heading": "Hoe om te weet wat jy het",
+    "lede": "Blaas-UWI's en nierinfeksie's deel sommige simptome — maar nierinfeksie's voeg koors en rugpyn by. Die verskil maak baie saak.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Blaas-UWI (blaasontsteking)",
+        "description": "Brand wanneer jy urineer, jy moet gereeld urineer, dringende behoefte om te urineer maar net klein hoeveelhede kom uit, troebel of stinkende urine, bekken- of onderbuik-ongemak. Geen koors."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "nierinfeksie (pielonefritis)",
+        "description": "Al die bogenoemde PLUS koors, rillings, erge pyn in die rug of sy, naarheid en braking. Dit benodig dringende behandeling — soms hospitaal."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "UWI by spesiale groepe",
+        "description": "Swangerskap, kinders, ouer mense, en mans — UWI's kan minder voor die hand wees (verwarring by bejaardes, net prikkelbaarheid by babas) en ernstiger. Laat jou altyd kyk."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Hoe om jou kanse te verlaag",
+    "lede": "As jy herhalende UWI's kry, maak daaglikse gewoontes ’n werklike verskil. Klein dinge, konsekwent gedoen.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Drink baie water",
+        "description": "Mik vir 1,5–2 liter per dag, meer in warm weer of met oefening. Verdunde urine en gereelde spoel keer dat bakterieë vermeerder."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Urineer wanneer jy moet",
+        "description": "Moenie dit ophou nie. Urineer volledig — moenie jaag nie. Om urine op te hou gee bakterieë tyd om in ’n warm, donker blaas te vermeerder."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Urineer binne 30 minute ná seks",
+        "description": "Spoel bakterieë uit wat dalk tydens seks ingekom het. Waarskynlik die enkele mees effektiewe voorkomingsgewoonte vir seksueel-aktiewe vroue."
+      },
+      {
+        "color": "gold",
+        "icon": "wind",
+        "title": "Vee van voor na agter",
+        "description": "Veral ná stoelgang. Voorkom dat derm-bakterieë die urinebuis bereik — die mees algemene bron van UWI-bakterieë."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Gaan kliniek toe vir behoorlike antibiotika",
+        "description": "Gratis by enige staatskliniek. ’n Urinetoets bevestig die infeksie. ’n Kort antibiotika-kursus (gewoonlik 3–5 dae) klaar die meeste UWI's op. Moenie probeer om dit uit te wag nie."
+      },
+      {
+        "title": "Drink baie water",
+        "description": "Veral terwyl simptome aktief is. Help om bakterieë uit te spoel, verdun die pyn by urinering. Mik vir ten minste 2 liter per dag tydens die infeksie."
+      },
+      {
+        "title": "Voltooi die antibiotika-kursus — selfs as beter",
+        "description": "Die meeste mense voel beter in 24–48 uur. Die volle kursus is wat die bakterieë uitskakel en terugkeer voorkom. Om vroeg te stop kan weerstandigheid bevorder."
+      },
+      {
+        "title": "As koors of rugpyn verskyn — gaan sonder versuim",
+        "description": "Dit beteken die infeksie het die niere bereik. Benodig dringende sterker behandeling — soms hospitaal. Moenie tot die oggend wag nie."
+      },
+      {
+        "title": "As jy gereeld UWI's kry — sien ’n dokter",
+        "description": "Herhalende UWI's (3+ per jaar) benodig ondersoek. Daar mag ’n behandelbare onderliggende oorsaak wees, en langer-termyn voorkomingsopsies bestaan."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "UWI's is een van die mees algemene redes wat mense klinieke besoek. Behandeling is gratis, vinnig, en effektief — geen rede om deur te ly nie.",
+    "helplines": [
+      {
+        "name": "Noodambulans",
+        "description": "Vir nierinfeksie met hoë koors, erge rugpyn, of braking",
+        "meta": "Gratis · 24 uur",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis urinetoets, assessering, en antibiotika",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}

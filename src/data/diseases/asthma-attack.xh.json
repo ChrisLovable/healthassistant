@@ -1,0 +1,183 @@
+{
+  "slug": "asthma-attack",
+  "group_slug": "emergency-signs",
+  "name": "Uhlaselo lwe-asthma",
+  "tagline": "Ukuvutha kwesifuba okungapheliyo — yenza ngokukhawuleza.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "National Asthma Education Programme SA",
+    "Global Initiative for Asthma (GINA)",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Ingxamisekile — tsalela umnxeba ngoku",
+    "primary_message": "Sebenzisa impompo yokuphefumla (i-inhaler) eluhlaza okwesibhakabhaka yokukhulula ukuphefumla. Ukuba akukho phucuko kwimizuzu eli-10 — Tsalela umnxeba ku-10177.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Uphelelwa ngumoya kakhulu kangangokuba akakwazi ukuthetha izivakalisi ezipheleleyo",
+      "Imilebe, iinzipho okanye ubuso bujika luhlaza okwesibhakabhaka okanye bungwevu",
+      "Isifuba sitsalela ngaphakathi phakathi kweembambo ngomphefumlo ngamnye",
+      "Ipompi yokukhulula ayincedi okanye iyaphela ngaphantsi kweeyure ezi-4",
+      "Ukozela, ukudideka okanye ukudinwa ngenxa yomzamo wokuphefumla",
+      "Isifuba esithe cwaka — ukuvutha kuyayeka kuba umoya ungenelela kancinci kakhulu ukuze kuvakale isandi"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Uhlaselo lwe-asthma ngamazwi alula",
+    "lede": "Uhlaselo lwe-asthma lwenzeka xa iindlela zomoya emiphungeni ziqina ngesiquphe, zidumbe, zize zigcwale umchamo-moya — nto leyo eyenza kube nzima ukungenisa nokukhupha umoya.",
+    "paragraphs": [
+      "Uninzi lohlaselo lwe-asthma lunento eluvusayo — intsholongwane, umsi, ipollen, uthuli, umoya obandayo, umthambo okanye uxinzelelo lweemvakalelo. Izihlunu zeendlela zomoya ziyazibamba, umaleko wangaphakathi uyadumba, kuthi nomchamo-moya uvale indlela eseleyo.",
+      "Ipompi yokukhulula (idla ngokuba luhlaza okwesibhakabhaka) ikhulula izihlunu zeendlela zomoya ngemizuzu. Ukuba ayisebenzi, okanye uhlaselo luza rhoqo, umntu udinga uncedo olungxamisekileyo — uhlaselo olunzima lunokubulala."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 kwabali-10",
+        "body": "Malunga nomntwana omnye kwabali-10 eMzantsi Afrika une-asthma. Abantu abadala abaninzi banayo bengazi."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Isabulala",
+        "body": "Amakhulu abantu baseMzantsi Afrika basweleka yi-asthma minyaka le — uninzi lwezi kufa lunokuthintelwa ngonyango olufanelekileyo."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Iipompi ezimbini",
+        "body": "Ipompi eluhlaza okwesibhakabhaka yokukhulula (isetyenziswa ngexesha lohlaselo) kunye nepompi emdaka yokuthintela (isetyenziswa yonke imihla) — eyokuthintela yiyo ekugcina ungabi sengxakini."
+      },
+      {
+        "color": "green",
+        "icon": "activity",
+        "headline": "Phila ngokupheleleyo",
+        "body": "I-asthma elawulwa kakuhle akufanele ikuthintele emidlalweni, esikolweni, emsebenzini okanye ekulaleni. Ukuba iyakuthintela — unyango lwakho kufuneka luhlengahlengiswe."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukuba ufikelela kwipompi yakho yokukhulula ngaphezu kwamaxesha amabini ngeveki, i-asthma yakho ayilawulwa kakuhle. Bona ugqirha — musa ukuqhubeka nje usebenzisa eluhlaza okwesibhakabhaka.",
+      "source": "Global Initiative for Asthma"
+    }
+  },
+  "signs": {
+    "heading": "Uhlaselo lubonakala njani",
+    "lede": "Uhlaselo lwe-asthma ludla ngokwakheka ngeeyure, ngamanye amaxesha ngeentsuku. Okukhona ulunyanga kwangoko, kokukhona kulula ukulumisa.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukuvutha kwesifuba",
+        "description": "Isandi esinjengokukhalaza xa ukhupha umoya, ngamanye amaxesha nasekungeniseni umoya. Isifuba esithe cwaka kuhlaselo olunzima sithetha ukuba ukuhamba komoya kwehle kakhulu ngendlela eyingozi."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ukuphelelwa ngumoya",
+        "description": "Ukutsala nzima ukufumana umoya opheleleyo. Akakwazi ukugqiba isivakalisi ngaphandle kokuma. Isifuba sivakala siqinile."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Ukukhohlela okungayekiyo",
+        "description": "Ukukhohlela okomileyo nokungapheliyo, rhoqo kubi ebusuku okanye ekuseni kakhulu. Ngamanye amaxesha lolona phawu lodwa ebantwaneni."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "title": "Indlela umzimba omi ngayo",
+        "description": "Ugobile phambili, amagxa aphakamile, iimbambo zitsalela ngaphakathi ngomphefumlo ngamnye, ukuphefumla ngokukhawuleza, ukudinwa."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani nengeyonyani",
+    "items": [
+      {
+        "myth": "Abantwana bayakhula bayishiye i-asthma.",
+        "fact": "Abanye bayayishiya, abaninzi abayishiyi. Nokuba iimpawu ziyathamba, ubuthathaka beendlela zomoya bunokubuya nakweyiphi na iminyaka. Qhubeka nepompi yokuthintela njengoko imiselwe."
+      },
+      {
+        "myth": "Iipompi ze-steroid ziyingozi.",
+        "fact": "Ii-steroid eziphefumlelwayo kwipompi emdaka yokuthintela zidosi ephantsi kakhulu kwaye zisebenza ikakhulu emiphungeni. Zikhuseleke kakhulu kunee-steroid ezisetyenziswa ngomlomo xa uhlaselo selubi."
+      },
+      {
+        "myth": "Ukuba uyakwazi ukuthetha, uhlaselo alukho nzima.",
+        "fact": "Ukuba ukuthetha kulinganiselwe kumabinzana amafutshane — okanye amagama ambalwa — luphawu lwengozi. Isifuba esithe cwaka sibi ngakumbi, asikho ngcono."
+      },
+      {
+        "myth": "Amayeza e-asthma afuneka kuphela xa uziva uneempawu.",
+        "fact": "Ipompi yokuthintela (emdaka) kufuneka isetyenziswe yonke imihla, nokuba uziva ulungile. Ilawula ukudumba okuphantsi okubangela uhlaselo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze ngexesha lohlaselo",
+    "items": [
+      {
+        "title": "Hlala uthe nkqo. Khulula iimpahla eziqinileyo",
+        "description": "Musa ukulala phantsi. Ukuhlala uphakamile iingalo zixhaswe kwenza ukuphefumla kube lula. Zola — uloyiko lwenza ukuphefumla kube mandundu."
+      },
+      {
+        "title": "Sebenzisa ipompi eluhlaza okwesibhakabhaka — trekha kube kanye",
+        "description": "Sebenzisa ispasiyedi ukuba unayo. Linda imizuzwana engama-30 ukuya kwengama-60. Phinda ukuya kutsho kwiitrekhi ezili-10 zizonke kwimizuzu yokuqala eli-10."
+      },
+      {
+        "title": "Ukuba akukho phucuko kwimizuzu eli-10 — Tsalela umnxeba ku-10177",
+        "description": "Yithi 'uhlaselo olunzima lwe-asthma'. Qhubeka usebenzisa ipompi yokukhulula emva kwemizuzu embalwa de kufike abeparamedic."
+      },
+      {
+        "title": "Ukuba uyawa okanye ujika luhlaza — Tsalela umnxeba ngoko nangoko",
+        "description": "Musa ukulinda imizuzu eli-10. Uhlaselo olunzima lunokuba yingozi ebomini ngokukhawuleza."
+      },
+      {
+        "title": "Emva kohlaselo — bona ugqirha",
+        "description": "Naluphi na uhlaselo oludingise ngaphezu kwedosi eqhelekileyo yepompi yokukhulula luphawu lokuba isicwangciso sakho se-asthma sidinga ukulungiswa. Musa ukutsiba ulandelelo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ngubani omawumfowunele",
+    "lede": "Ukuba ipompi eluhlaza okwesibhakabhaka ayisebenzi okanye uhlaselo luyanda, fumana uncedo. I-asthma iyanyangeka.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Inkonzo karhulumente yezonyango ezingxamisekileyo",
+        "meta": "Simahla · iiyure ezingama-24 · yithi 'asthma attack'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Uncedo olungxamisekileyo (iselula)",
+        "description": "Ifikelela kuyo nayiphi na inkonzo yongxamiseko xa utsalela umnxeba ngeselula",
+        "meta": "Simahla kuyo nayiphi na iselula · iiyure ezingama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Fumana ikliniki ekufutshane nawe",
+        "description": "Yonke ikliniki karhulumente inika uvavanyo lwe-asthma kunye neepompi",
+        "meta": "Akukho appointment · akukho medical aid ifunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}
+
+
+
+
+

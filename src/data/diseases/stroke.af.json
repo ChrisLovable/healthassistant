@@ -1,81 +1,177 @@
 {
   "slug": "stroke",
-  "group_slug": "emergency",
+  "group_slug": "emergency-signs",
   "name": "Beroerte",
-  "tagline": "Skielik? Bel 10177. Tyd is brein.",
+  "tagline": "FAST-tekens. Elke minuut tel.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["Heart and Stroke Foundation SA", "WHO", "National Department of Health"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "WHO",
+    "National Department of Health",
+    "American Stroke Association"
+  ],
   "urgent": {
-    "heading": "Bel 10177 nou as jy enige van hierdie sien",
-    "primary_message": "'n Beroerte is 'n breinnoodgeval. Elke minuut sonder bloedtoevoer dood breinselle af. Bel die ambulans dadelik — moenie wag om te kyk of dit verbeter nie.",
+    "heading": "Dringend — bel nou",
+    "primary_message": "Bel dadelik ’n ambulans. Skryf die presiese tyd neer toe die simptome begin het.",
     "phone": "10177",
     "phone_display": "Bel 10177",
     "red_flags": [
-      "Skewe gesig of mond — kan nie 'n eweredige glimlag wys nie",
-      "Eensydige swakheid in arm of been — 'n arm val uit wanneer beide opgelig word",
-      "Slordige of onverstaanbare spraak, of moeilikheid om te praat",
-      "Skielike erge hoofpyn — die ergste ooit, sonder oorsaak",
-      "Skielike verwarring of moeilikheid om eenvoudige opdragte te volg",
-      "Skielike verlies van balans, koördinasie of duiseligheid",
-      "Skielike visieprobleme in een of beide oë"
+      "Een kant van die gesig hang — vra hulle om te glimlag",
+      "Swakheid in een arm — vra hulle om albei arms op te lig",
+      "Spraak is slordig of vreemd — vra hulle om ’n sin te herhaal",
+      "Skielike erge hoofpyn sonder bekende oorsaak",
+      "Skielike verlies van sig in een of albei oë",
+      "Skielike verwarring of sukkel om te verstaan"
     ]
   },
-
   "what_is_it": {
-    "heading": "Beroerte in eenvoudige terme",
-    "lede": "'n Beroerte gebeur wanneer die bloedtoevoer na 'n deel van die brein afgesny word — óf deur 'n verstopte bloedvat (iskemiese beroerte) óf deur 'n geskeurde bloedvat (bloedingsberoerte). Sonder bloed sterf breinselle binne minute.",
+    "heading": "Beroerte in gewone taal",
+    "lede": "’n Beroerte gebeur wanneer bloedvloei na ’n deel van die brein skielik afgesny word. Breinselle begin binne minute doodgaan.",
     "paragraphs": [
-      "Beroerte is een van die top oorsake van dood en blywende gestremdheid in Suid-Afrika. Die meeste beroertes is voorkombaar — hoë bloeddruk is die grootste enkele oorsaak, en is behandelbaar.",
-      "Tyd is alles. Behandelings wat 'n verstopte bloedvat oopmaak (trombolise) of die stolsel verwyder (trombektomie) werk net binne die eerste paar uur. Die vinniger by die hospitaal, hoe meer brein word gered."
+      "Die meeste beroertes gebeur wanneer ’n bloedklont ’n bloedvat in die brein blokkeer. ’n Kleiner aantal gebeur wanneer ’n bloedvat bars en bloed uitlek. Albei is noodgevalle en lyk van buite dieselfde — jy kan nie sonder ’n hospitaalskandering weet watter een dit is nie.",
+      "Hoe vinniger ’n beroerte behandel word, hoe meer van die brein kan gered word. Klontoplossende medisyne werk die beste in die eerste paar uur. Daarna word die skade permanent. Daarom tel minute."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "clock",         "headline": "Tyd is brein",     "body": "Vir elke minuut van beroerte sonder behandeling sterf miljoene breinselle. Vinnig hospitaal toe — moenie eers by die kliniek aandoen nie." },
-      { "color": "purple", "icon": "heart-pulse",  "headline": "Hoë bloeddruk",     "body": "Die enkele grootste oorsaak van beroerte in SA. Beheer dit en jy verminder beroerterisiko met die helfte." },
-      { "color": "gold",   "icon": "shield",        "headline": "Voorkombaar",      "body": "Tot 80% van beroertes is voorkombaar — beheer bloeddruk, moenie rook nie, beweeg, en behandel diabetes." },
-      { "color": "green",  "icon": "check-circle", "headline": "Behandelbaar",    "body": "Vinnige hospitaalbehandeling kan 'n beroerte stop in sy spore. Hoe vinniger jy daar is, hoe beter die uitkoms." }
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Minute tel",
+        "body": "Omtrent 2 miljoen breinselle sterf elke minuut tydens ’n beroerte. Die tyd begin by die eerste simptoom."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "headline": "80,000+",
+        "body": "Suid-Afrikaners kry elke jaar ’n beroerte. Dit is ’n hoofrede vir gestremdheid en sterfte by volwassenes."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Voorkombaar",
+        "body": "Die meeste beroertes hou verband met hoë bloeddruk, rook, diabetes en dieet — alles wat bestuur kan word."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Herstel is moontlik",
+        "body": "As jy in die eerste uur optree, is die kans op volle herstel die beste. Hospitale het tydsensitiewe behandeling."
+      }
     ],
     "pull_quote": {
-      "text": "Die beste behandeling vir 'n beroerte is dieselfde as 60 jaar gelede: kom vinnig hospitaal toe. Wat verander het, is hoe goed ons jou daar kan help — as jy betyds is.",
-      "source": "Heart and Stroke Foundation South Africa"
+      "text": "As jy ’n beroerte vermoed, moenie wag om te kyk wat gebeur nie. Bel ’n ambulans. Selfs as die simptome self verdwyn, is dit reeds ’n waarskuwingsteken.",
+      "source": "Heart and Stroke Foundation SA"
     }
   },
-
   "signs": {
-    "heading": "Hoe om 'n beroerte te herken",
-    "lede": "Die tekens kom skielik. Onthou GAST — Gesig, Arm, Spraak, Tyd. Een teken alleen is genoeg om die ambulans te bel.",
+    "heading": "Die FAST-toets",
+    "lede": "Beroertesimptome begin skielik. Hoe vinniger jy dit herken, hoe meer van die brein kan gered word. Onthou FAST.",
     "items": [
-      { "color": "coral",  "icon": "smile",   "title": "Gesig",  "description": "Vra die persoon om te glimlag. Hang een kant van die mond af? Lyk die gesig skeef? Dit is 'n beroerteteken." },
-      { "color": "orange", "icon": "arrow-down","title": "Arm",  "description": "Vra die persoon om beide arms op te lig en daar te hou vir 10 sekondes. Val een arm uit, of kan hulle nie albei optel nie? Beroerteteken." },
-      { "color": "purple", "icon": "message-circle","title": "Spraak","description": "Vra hulle om 'n eenvoudige sin te herhaal. Klink dit slordig, verward, of onverstaanbaar? Beroerteteken." },
-      { "color": "gold",   "icon": "clock",   "title": "Tyd",    "description": "As jy enige van hierdie sien — bel 10177 dadelik. Skryf op hoe laat die simptome begin het. Daardie tyd bepaal watter behandelings beskikbaar is." }
+      {
+        "color": "coral",
+        "icon": "smile",
+        "title": "F — Gesig hang",
+        "description": "Vra hulle om te glimlag. Hang een kant van die mond of gesig, al is dit net effens?"
+      },
+      {
+        "color": "orange",
+        "icon": "trending-down",
+        "title": "A — Arm swakheid",
+        "description": "Vra hulle om albei arms op te lig. Skuif een arm af of voel dit gevoelloos? Kan hulle albei ewe goed oplig?"
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "title": "S — Spraakprobleme",
+        "description": "Vra hulle om ’n eenvoudige sin te herhaal. Is die spraak slordig, vreemd of moeilik om te verstaan?"
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "title": "T — Tyd om te bel",
+        "description": "As jy enige van hierdie tekens sien, bel dadelik 10177. Skryf die presiese tyd neer toe die simptome begin het."
+      }
     ]
   },
-
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Beroertes gebeur net by ouer mense.",
+        "fact": "Beroertes kan op enige ouderdom gebeur. Ongeveer 1 uit 4 beroertes gebeur by mense jonger as 65, en dit neem toe by jong volwassenes."
+      },
+      {
+        "myth": "As simptome vinnig weggaan, was dit nie ’n regte beroerte nie.",
+        "fact": "’n Kort episode (’n TIA of ‘mini-beroerte’) is ’n ernstige waarskuwing. Ongeveer 1 uit 3 mense met ’n TIA kry later ’n volle beroerte — baie binne 48 uur."
+      },
+      {
+        "myth": "Ek moet self hospitaal toe ry — dit is vinniger as om vir ’n ambulans te wag.",
+        "fact": "Paramedici begin reeds behandeling in die ambulans en vat die pasiënt na die regte beroerte-hospitaal. Om self te ry mors kosbare tyd en is gevaarlik."
+      },
+      {
+        "myth": "Aspirien help tydens ’n beroerte.",
+        "fact": "Moenie aspirien gee as jy ’n beroerte vermoed nie. As dit ’n bloedingsberoerte is (ongeveer 1 uit 5 gevalle), maak aspirien dit erger. Bel die ambulans en wag."
+      }
+    ]
+  },
   "action_steps": {
-    "heading": "Wat om te doen",
+    "heading": "Wat om te doen — sodra jy ’n beroerte vermoed",
     "items": [
-      { "title": "Bel 10177 dadelik",                              "description": "Vra spesifiek vir 'n ambulans en sê 'verdagte beroerte'. Moenie self ry of by die kliniek aandoen nie — gaan reguit hospitaal toe waar daar 'n CT-skandeerder is." },
-      { "title": "Skryf op hoe laat die simptome begin het",       "description": "Of laaste tyd toe die persoon normaal was. Hierdie tyd bepaal of trombolise (klontoplossende medisyne) gegee kan word — slegs effektief binne die eerste paar uur." },
-      { "title": "Hou die persoon stil — moenie laat slaap nie",    "description": "Laat hulle plat lê, kop effe opgelig. Moenie kos of drink gee nie — slukspiere kan deur beroerte aangetas wees." },
-      { "title": "Wees gereed om CPR te doen",                      "description": "As hulle ophou asemhaal of bewussseloos raak, begin CPR as jy weet hoe. Die 10177-operateur kan jou deur die stappe lei oor die foon." },
-      { "title": "Maak nie haastige kosbehandeling tuis nie",       "description": "Asetilsalisielsuur (aspirien) help by sommige beroertes en verswak ander. Moenie self enige medisyne gee nie — laat die hospitaal besluit." }
+      {
+        "title": "Bel 10177 of 112 dadelik",
+        "description": "Sê die woord ‘beroerte’ duidelik. Paramedici sal dit prioritiseer en na ’n beroerte-geskikte hospitaal neem."
+      },
+      {
+        "title": "Skryf die presiese tyd neer toe simptome begin het",
+        "description": "Dit bepaal watter behandeling moontlik is. Selfs ’n benaderde tyd help die hospitaalspan."
+      },
+      {
+        "title": "Moenie kos, water of medisyne gee nie",
+        "description": "Die persoon kan sukkel om te sluk. Moenie enigiets per mond gee nie — ook nie aspirien nie."
+      },
+      {
+        "title": "As die persoon bewusteloos is, lê hom/haar op die sy",
+        "description": "Die herstelposisie hou die lugweg oop. As die persoon wakker is, hou hom/haar gemaklik en kalm."
+      },
+      {
+        "title": "Bly by die persoon tot paramedici opdaag",
+        "description": "Hou asemhaling dop. Wees gereed om CPR te doen as die persoon ophou asemhaal. Maak die deur oop sodat paramedici kan inkom."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Waarheen om te gaan",
-    "lede": "Beroerte is 'n hospitaal-noodgeval, nie 'n kliniek-een nie. Gaan reguit na 'n hospitaal met 'n noodafdeling — Tygerberg, Groote Schuur, Steve Biko, en groot regionale hospitale almal hanteer beroertes.",
+    "heading": "Wie om nou te bel",
+    "lede": "’n Verdagte beroerte is ’n noodgeval. Bel nou. Moenie self ry of wag dat simptome vanself weggaan nie.",
     "helplines": [
-      { "name": "Noodambulans",            "description": "Regerings-nooddiens",                                             "meta": "Gratis · 24 uur · sê 'verdagte beroerte'", "phone": "10177", "phone_display": "10177", "primary": true },
-      { "name": "Noodlyn (selfoon)",        "description": "Bereik enige nooddiens vanaf 'n selfoon",                         "meta": "Gratis vanaf enige selfoon · 24 uur",       "phone": "112",   "phone_display": "112",   "primary": true }
+      {
+        "name": "Noodambulans",
+        "description": "Regerings-nood mediese diens",
+        "meta": "Gratis · 24 uur · sê ‘beroerte’",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Noodgeval (selfoon)",
+        "description": "Verbind met enige nooddienste vanaf ’n selfoon",
+        "meta": "Gratis vanaf enige selfoon · 24 uur",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Inligting, ondersteuning en verwysing vir rehabilitasie ná beroerte",
+        "meta": "Ma–Vr 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
     ]
   }
 }

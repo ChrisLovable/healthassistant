@@ -1,0 +1,101 @@
+{
+  "slug": "covid-19",
+  "group_slug": "infectious",
+  "name": "COVID-19",
+  "tagline": "What to do today. Long COVID. Vaccines.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["NICD", "WHO", "National Department of Health", "SA Medical Research Council"],
+
+  "what_is_it": {
+    "heading": "COVID-19 in plain terms",
+    "lede": "COVID-19 is caused by the SARS-CoV-2 virus. By 2026 it has become endemic — it circulates year-round, with seasonal waves. Most cases are now mild, but the virus still kills vulnerable people.",
+    "paragraphs": [
+      "Most South Africans have either had COVID-19 or been vaccinated. Combined immunity has made the disease milder for most. New variants still appear, and the elderly, immunocompromised, and unvaccinated remain at higher risk of severe illness.",
+      "Long COVID — symptoms lasting months after infection — affects a meaningful proportion of people who recover from acute infection. Fatigue, breathlessness, brain fog, and chest pain are common. Reducing the number of times you get infected reduces your long COVID risk."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "refresh-cw",    "headline": "Endemic",       "body": "COVID is now a permanent part of life. Seasonal waves continue. Boosters help reduce severity, not stop infection entirely." },
+      { "color": "coral",  "icon": "battery-low",   "headline": "Long COVID",    "body": "Roughly 10–20% of infections lead to symptoms lasting months. Each reinfection adds risk — fewer infections is better." },
+      { "color": "gold",   "icon": "syringe",       "headline": "Free vaccines","body": "All COVID vaccines and updated boosters remain free at government clinics. Recommended yearly for high-risk groups." },
+      { "color": "green",  "icon": "home",          "headline": "Mostly home care","body": "Most cases need rest, fluids, and time. Antivirals exist for high-risk groups — see a clinic within 5 days of symptoms." }
+    ],
+    "pull_quote": {
+      "text": "The pandemic phase is over. COVID-19 is not. Treat it like flu — vaccinate, ventilate, stay home when sick, and protect the vulnerable around you.",
+      "source": "WHO"
+    }
+  },
+
+  "signs": {
+    "heading": "What COVID looks like now",
+    "lede": "Most current COVID cases look like a cold or mild flu. The classic loss of taste and smell from earlier waves is now less common.",
+    "items": [
+      { "color": "orange", "icon": "thermometer",  "title": "Common symptoms",     "description": "Sore throat, runny nose, cough, headache, fatigue, mild fever, body aches. Often mistaken for flu or a cold." },
+      { "color": "purple", "icon": "wind",         "title": "Less common now",     "description": "Loss of taste or smell, severe shortness of breath, chest pain. Still possible — especially in unvaccinated people." },
+      { "color": "coral",  "icon": "alert-circle", "title": "Get medical help if", "description": "Difficulty breathing, chest pain, confusion, bluish lips, persistent vomiting, or symptoms worsening after initial improvement." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How COVID spreads",
+    "yes": [
+      "Breathing in tiny droplets and aerosols from infected people",
+      "Close prolonged contact in poorly ventilated indoor spaces",
+      "Touching contaminated surfaces, then touching face (less common than airborne)",
+      "From someone who is infected but does not yet feel sick"
+    ],
+    "no": [
+      "Outdoor casual contact (rare unless very close and prolonged)",
+      "Food and water",
+      "Mosquito or insect bites",
+      "Pets and animals (rare and not significant for human spread)"
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "COVID is over. We don't need to think about it anymore.",         "fact": "COVID is endemic, not gone. It still kills vulnerable people and causes long-term complications. Routine sense matters — not panic." },
+      { "myth": "If I had COVID once, I am immune.",                                "fact": "Immunity from past infection fades within months and varies by variant. Reinfection is common. Vaccination plus past infection gives the strongest protection." },
+      { "myth": "The vaccine is more dangerous than the disease.",                  "fact": "Years of global data show vaccines reduce severe illness, hospitalisation, and death. Serious vaccine side effects are rare and far less common than serious COVID complications." },
+      { "myth": "Long COVID is psychological — it is not real.",                    "fact": "Long COVID is well-documented physically — biomarkers, organ damage, immune changes. It is not in the patient's head. Treatment is improving." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to protect yourself and others",
+    "lede": "Most prevention is now routine — like flu. The high-risk groups still benefit most from active precautions.",
+    "items": [
+      { "color": "green",  "icon": "syringe", "title": "Stay up to date on boosters","description": "Annual COVID boosters are recommended for over-50s, immunocompromised, chronic illness, and healthcare workers. Free at clinics." },
+      { "color": "purple", "icon": "wind",    "title": "Ventilation",                 "description": "Open windows. Move social gatherings outside when possible. Indoor air quality is the biggest single factor in COVID spread." },
+      { "color": "orange", "icon": "user",    "title": "Mask in high-risk settings", "description": "Hospitals, clinics, crowded indoor public transport during waves. Especially if you live with someone vulnerable." },
+      { "color": "gold",   "icon": "home",    "title": "Stay home when sick",         "description": "Whether it is COVID, flu, or anything else — staying home protects the people around you. Test if you have access." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Test if you have access",            "description": "Rapid antigen tests are available at most pharmacies. Knowing helps you protect others and decide if you are high-risk for antivirals." },
+      { "title": "Rest, fluids, paracetamol",          "description": "Same as flu. Sleep, hydrate, manage fever and aches with paracetamol or ibuprofen." },
+      { "title": "Isolate while infectious",           "description": "Stay home for at least 5 days from symptom start. Mask around household members. Avoid visiting elderly or immunocompromised relatives." },
+      { "title": "If high-risk — see a clinic early", "description": "Over 60, pregnant, chronic illness, immunocompromised? Antiviral medication (Paxlovid) works best within 5 days of symptoms. Ask early." },
+      { "title": "Watch for long COVID",                "description": "Symptoms beyond 4 weeks — fatigue, brain fog, breathlessness, chest pain — deserve medical assessment. Treatment options exist." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "COVID care is integrated into normal clinic services. No special hotlines needed — your usual clinic or pharmacy can help.",
+    "helplines": [
+      { "name": "Find your nearest clinic", "description": "Free COVID vaccines, boosters, and assessment for severe symptoms", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic",  "primary": true, "link": "/clinic-finder" },
+      { "name": "NICD Hotline",             "description": "Information on current COVID variants and surveillance",            "meta": "Mon–Fri 08:00–16:00",                       "phone": "0800029999", "phone_display": "0800 029 999",   "primary": false }
+    ]
+  }
+}

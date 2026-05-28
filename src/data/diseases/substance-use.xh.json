@@ -1,0 +1,91 @@
+{
+  "slug": "substance-use",
+  "group_slug": "mental-health",
+  "name": "Substance use & addiction",
+  "tagline": "Alcohol, drugs — how to recognise it, where to get help.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["SANCA (South African National Council on Alcoholism and Drug Dependence)", "Department of Social Development", "WHO", "Central Drug Authority SA"],
+
+  "urgent": {
+    "heading": "Urgent — tsalela umnxeba ngoku if",
+    "primary_message": "Overdose, severe withdrawal, or thoughts of self-harm need immediate help. Don't wait. Don't be alone.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Unconscious, hard to wake, or unresponsive after using",
+      "Breathing very slowly, irregularly, or not at all (especially with opioids like heroin or whoonga)",
+      "Blue lips, fingernails, or face",
+      "Severe vomiting that won't stop, especially if drowsy",
+      "Seizures during withdrawal — especially from alcohol or benzodiazepines",
+      "Severe confusion, agitation, hallucinations, or fever",
+      "Thoughts of self-harm, suicide, or hurting someone else"
+    ]
+  },
+
+  "what_is_it": {
+    "heading": "Substance use in plain terms",
+    "lede": "Substance use becomes a problem when it starts to harm your health, your relationships, your work, or your sense of yourself — and when you find you can't stop, even when you want to.",
+    "paragraphs": [
+      "Addiction is a medical condition, not a moral failure. The substance changes how the brain's reward and stress systems work, making continued use feel necessary just to feel normal. This is why willpower alone often isn't enough — and why treatment matters.",
+      "In South Africa, alcohol causes the most harm by far, followed by methamphetamine (tik, especially in the Western Cape), cannabis, heroin and 'whoonga'/nyaope (heroin-based street drugs), and prescription medications. The path out is different for each, but they all start with the same step — reaching out."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "coral",  "icon": "alert-triangle","headline": "Medical condition","body": "Addiction is a recognised medical condition involving brain changes. Treatment works — recovery is real." },
+      { "color": "purple", "icon": "users",         "headline": "Common",            "body": "About 1 in 5 South Africans will struggle with a substance use disorder at some point. You are far from alone." },
+      { "color": "gold",   "icon": "phone",         "headline": "SANCA is free",    "body": "SANCA runs free assessment and treatment centres across South Africa. Detox, counselling, and rehab — no medical aid needed." },
+      { "color": "green",  "icon": "shield",        "headline": "Withdrawal is real","body": "Alcohol and benzodiazepine withdrawal can be life-threatening — never quit cold turkey alone. Medical detox is safer and free at most clinics." }
+    ],
+    "pull_quote": {
+      "text": "Recovery is not about willpower. It is about getting the right help at the right time. The person who asks for help once is not the same person who has been carrying it alone — they are already braver.",
+      "source": "SANCA"
+    }
+  },
+
+  "signs": {
+    "heading": "Signs that use has become a problem",
+    "lede": "Substance use is on a spectrum — from use, to misuse, to dependence. You don't need to be at rock bottom to ask for help. Earlier is easier.",
+    "items": [
+      { "color": "orange", "icon": "trending-up",   "title": "Needing more",            "description": "Using more than you used to for the same effect. Drinking earlier in the day. Using when alone, or first thing in the morning. Hiding the amount from others." },
+      { "color": "coral",  "icon": "alert-circle",  "title": "Can't stop",               "description": "Trying to cut down and failing. Promises to yourself or others that you can't keep. Using even when you know it is causing harm to your health, family, or work." },
+      { "color": "purple", "icon": "user-x",        "title": "Withdrawal symptoms",      "description": "Feeling sick (shakes, sweats, nausea, anxiety) when you haven't used in a few hours. Using just to feel normal, not to feel high. A clear sign the body has adjusted." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Addiction is a moral failure or weakness.",                              "fact": "Decades of brain research show addiction involves real changes to brain circuits — reward, stress, decision-making. It is a medical condition that responds to treatment, not a character flaw." },
+      { "myth": "You have to hit rock bottom before treatment can work.",                  "fact": "Earlier is easier. People who get help while still working, still in family, still functional have much higher recovery rates than those who wait until everything is lost." },
+      { "myth": "I should be able to quit on my own. Asking for help means I failed.",     "fact": "Most people who recover from addiction get professional help. Trying alone has a much lower success rate. Asking for help is the most effective single thing you can do." },
+      { "myth": "Once an addict, always an addict.",                                       "fact": "Recovery is real and lasting for many people. The brain changes from substance use can heal with time and treatment. Many millions of people have rebuilt their lives." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "Call SANCA — free assessment and referral",         "description": "0861 472 622 will connect you to the SANCA branch closest to you. They listen, assess, refer to free treatment. No judgement." },
+      { "title": "Don't try to detox alcohol alone",                  "description": "Severe alcohol withdrawal can cause seizures and even death. If you drink heavily every day, talk to a clinic before stopping. Medical detox is free and much safer." },
+      { "title": "If you use opioids — know about overdose",          "description": "Heroin, whoonga, and prescription painkillers can stop breathing. Never use alone if you can avoid it. Naloxone reverses overdose — ask SANCA where to get it." },
+      { "title": "Tell one person you trust",                          "description": "A family member, friend, faith leader, doctor — whoever you trust most. Saying it out loud once breaks the secrecy that keeps it going." },
+      { "title": "If someone you love is using",                       "description": "Speak from concern, not threat. 'I love you and I am worried' is more powerful than 'you need to stop'. SANCA also helps families — not just users." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Substance use treatment in South Africa is more accessible than most people realise. SANCA branches exist in every major centre. Government clinics provide medical detox. Help is closer than you think.",
+    "helplines": [
+      { "name": "SANCA",                          "description": "Free assessment, detox, counselling, and rehab referral",      "meta": "Mon–Fri 08:00–16:30 · branches nationwide", "phone": "0861472622", "phone_display": "0861 472 622",   "primary": true },
+      { "name": "Substance Abuse Line (DSD)",     "description": "Free 24-hour Department of Social Development helpline",       "meta": "Free · 24 hours · all SA languages",       "phone": "0800121314", "phone_display": "0800 12 13 14",  "primary": true },
+      { "name": "SADAG Mental Health Line",       "description": "For dual diagnosis, depression and substance use combined",     "meta": "Free · 24 hours",                          "phone": "0800567567", "phone_display": "0800 567 567",   "primary": false }
+    ]
+  }
+}

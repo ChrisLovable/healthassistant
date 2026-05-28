@@ -1,0 +1,157 @@
+{
+  "slug": "pregnancy-danger-signs",
+  "group_slug": "womens-health",
+  "name": "Iimpawu zengozi ekukhulelweni",
+  "tagline": "Ukopha, intlungu enkulu, akukho ntshukumo — nini ukuya esibhedlele.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ilindele ukuphononongwa kweklinikhi",
+  "sources": [
+    "National Department of Health",
+    "Saving Mothers Report",
+    "WHO",
+    "South African Society of Obstetricians and Gynaecologists"
+  ],
+  "urgent": {
+    "heading": "Yiya esibhedlele ngoku ukuba",
+    "primary_message": "Iimpawu zengozi ekukhulelweni zinokwenza umahluko phakathi kobomi nokufa — kumama okanye kusana. Musa ukulinda. Musa ukuzithandabuza. Yiya.",
+    "phone": "10177",
+    "phone_display": "Tsalela umnxeba ku-10177",
+    "red_flags": [
+      "Ukopha kakhulu kwilungu langasese — ngaphezu kwexesha eliqhelekileyo lenyanga",
+      "Intlungu enkulu esiswini okanye emqolo engathambiyo",
+      "Intloko ebuhlungu kakhulu ehamba nokubona mfiliba okanye ukubona amachokoza",
+      "Ukudumba okukhulu ngesiquphe kobuso, izandla okanye iinyawo",
+      "Usana alusashukumi njengesiqhelo (emva kweeveki ezingama-28)",
+      "Amanzi aphuka ngaphambi kweeveki ezingama-37",
+      "Ifiva engaphezu kwe-38Â°C",
+      "Ukugabha okungayekiyo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Kutheni oku kubalulekile",
+    "lede": "Ukukhulelwa kudla ngokukhuseleka eMzantsi Afrika, kodwa ukusweleka koomama kusaxhaphake kakhulu — kwaye uninzi lunokuthintelwa. Ukwazi iimpawu zengozi nokwenza ngokukhawuleza kusindisa ubomi.",
+    "paragraphs": [
+      "UMzantsi Afrika urekhoda ngaphezu kwe-1 000 yokusweleka koomama minyaka le. Ingxelo ye-Saving Mothers ibonisa ukuba uninzi lwenzeka ngenxa yezizathu ezinokuthintelwa — ukopha, uxinzelelo lwegazi oluphezulu, usulelo, iingxaki zeemeko ezazikhona ngaphambili. Ukufa okuninzi kwenzeka kuba iimpawu zesilumkiso ziye zajongelwa phantsi okanye unyango lwalibaziseka.",
+      "Awudingi ukwazi ukuba yintoni engalunganga. Kufuneka nje uqaphele ukuba kukho into engalunganga, uye esibhedlele. Unyango lokubelekisa lwasimahla luyafumaneka kuzo zonke izibhedlele zikarhulumente. Thembela kwimvakalelo yakho — ukuba kukho into evakala ingalunganga, kusenokwenzeka ukuba kunjalo."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ezibalulekileyo ukuzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "1 000+",
+        "body": "Abasetyhini baseMzantsi Afrika basweleka ngexesha lokukhulelwa okanye lokubeleka minyaka le. Uninzi kakhulu lwezi kufa lunokuthintelwa."
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "headline": "MomConnect",
+        "body": "Inkxaso yasimahla yokukhulelwa ngeWhatsApp evela kwi-NDoH ngazo zonke iilwimi zaseMzantsi Afrika. Thumela 'Hi' ku-079 631 2456 ukuze ubhalise."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Unyango lwasimahla",
+        "body": "Lonke utyelelo lwangaphambi kokubeleka, ukuzalwa, kunye nonyango olungxamisekileyo lokubelekisa lusimahla kuzo zonke izibhedlele neekliniki zikarhulumente."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Zithembe",
+        "body": "Ukuba kukho into evakala ingalunganga, yiya uhlolwe. Abasebenzi bezempilo bangathanda bakubone nangona kungento, kunokuba baphoswe yinto enzulu."
+      }
+    ],
+    "pull_quote": {
+      "text": "Konke ukusweleka koomama kunebali leempawu zesilumkiso ezaphoswayo okanye zajongelwa phantsi. Ukuba ukhulelwe kwaye ukhathazekile, impendulo efanelekileyo isoloko ikukuba uhlolwe. Ngalo lonke ixesha.",
+      "source": "Saving Mothers Report, South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Iimpawu zesilumkiso ngokwamanqanaba okukhulelwa",
+    "lede": "Ezinye iimpawu zibalulekile nangaliphi na ixesha. Ezinye zibaluleke ngakumbi ngamaxesha athile. Ukuba awuqinisekanga — hlolwa.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "droplet",
+        "title": "Iiveki zokuqala ezili-12",
+        "description": "Ukopha kakhulu, intlungu enkulu kwicala elinye (isenokuba kukukhulelwa ngaphandle kwesibeleko — kuyingozi ebomini), ukugabha kakhulu okuthintela ukugcina ulwelo, ifiva engaphezu kwe-38Â°C."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Emva kweeveki ezili-12",
+        "description": "Ukopha kakhulu, intloko ebuhlungu kakhulu ehamba notshintsho ekuboneni (kunokwenzeka pre-eclampsia), ukudumba okukhulu, ukuncipha okanye ukuyeka kweentshukumo zosana (emva kweeveki ezingama-28)."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "Kufuphi nexesha okanye emva kweeveki ezingama-37",
+        "description": "Iintlungu zokuqina rhoqo, ukuphuka kwamanzi, ukopha, ukuncipha kwentshukumo yosana, intloko ebuhlungu kakhulu okanye intlungu yesisu. Musa ukuzama ukubala ixesha ekhaya — yiya."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Yintoni omawuyenze",
+    "items": [
+      {
+        "title": "Ukuba uphawu lwengozi luyavela — yiya esibhedlele",
+        "description": "Musa ukuziqhubela ukuba ungakuphepha. Biza i-ambulensi okanye ucele umntu akuqhube. Thatha ikhadi lakho lokukhulelwa okanye incwadi yekliniki."
+      },
+      {
+        "title": "Musa ukuzama ukubala ixesha leempawu ekhaya",
+        "description": "Intlungu enkulu, ukopha okanye utshintsho ekuboneni azidingi kulinganiswa ixesha. Yiya. I-pre-eclampsia nokukhulelwa ngaphandle kwesibeleko zingabulala ngaphakathi kweeyure."
+      },
+      {
+        "title": "Yiya kwisibhedlele obhukhe kuso okanye esikufutshane",
+        "description": "Izibhedlele zikarhulumente kufuneka zamkele iimeko ezingxamisekileyo zokukhulelwa nokuba ubhukhe phi. Thatha amaxwebhu akho ukuba unawo."
+      },
+      {
+        "title": "Ukuba awuqinisekanga — thumela umyalezo kuMomConnect",
+        "description": "Inkxaso yasimahla ngeWhatsApp — Thumela 'Hi' ku-079 631 2456. Ikliniki yakho inokukuxelela ukuba uze na. Xa ungqina, khetha isibhedlele."
+      },
+      {
+        "title": "Yiya kulo lonke utyelelo lwangaphambi kokubeleka",
+        "description": "Uninzi lweempawu zengozi lubanjwa kwangoko kutyelelo oluqhelekileyo lwangaphambi kokubeleka. Lwasimahla kuzo zonke iikliniki. Ishedyuli inceda ukuthintela iingxamiseko."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Apho omawuye khona",
+    "lede": "Iingxamiseko zokukhulelwa zidinga isibhedlele, hayi ikliniki. Yiya kwisibhedlele sikarhulumente esineenkonzo zokubelekisa — Tygerberg, Charlotte Maxeke, Steve Biko, King Edward, nezinye kwilizwe lonke.",
+    "helplines": [
+      {
+        "name": "I-ambulensi engxamisekileyo",
+        "description": "Inkonzo karhulumente yezonyango ezingxamisekileyo",
+        "meta": "Simahla · iiyure ezingama-24 · yithi 'pregnancy emergency'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Uncedo olungxamisekileyo (iselula)",
+        "description": "Ifikelela kuyo nayiphi na inkonzo yongxamiseko xa utsalela umnxeba ngeselula",
+        "meta": "Simahla kuyo nayiphi na iselula · iiyure ezingama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "MomConnect",
+        "description": "Inkxaso yasimahla yokukhulelwa nengcebiso ngeWhatsApp",
+        "meta": "Zonke iilwimi zaseMzantsi Afrika · NDoH",
+        "phone": "0796312456",
+        "phone_display": "WhatsApp 079 631 2456",
+        "primary": false
+      }
+    ]
+  }
+}
+
+
+
+
+

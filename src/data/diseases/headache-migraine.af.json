@@ -1,0 +1,174 @@
+{
+  "slug": "headache-migraine",
+  "group_slug": "pain",
+  "name": "Hoofpyn & migraine",
+  "tagline": "Meeste is nie gevaarlik nie. Sommige wel. Ken die tekens.",
+  "hero_image": "/images/diseases/hero-headache-migraine.webp",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "Migraine Action SA",
+    "WHO",
+    "South African Headache Society",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Gaan hospitaal toe nou as",
+    "primary_message": "Meeste hoofpyne is nie gevaarlik nie. Maar sekere waarskuwings kan ’n beroerte, breinbloeding, of meningitis beteken. Moenie wag nie — gaan.",
+    "phone": "10177",
+    "phone_display": "Bel 10177",
+    "red_flags": [
+      "Skielike 'donderslag'-hoofpyn — die ergste hoofpyn van jou lewe, binne sekondes",
+      "Hoofpyn met koors en styf nek of uitslag",
+      "Hoofpyn met verwarring, slordige spraak, of swakheid aan een kant",
+      "Hoofpyn ná ’n kopbesering, veral met braking of slaperigheid",
+      "Nuwe hoofpyn wat jou uit die slaap wakker maak, of vererger wanneer jy buk of lê",
+      "Eerste-ooit erge hoofpyn ná ouderdom 50",
+      "Hoofpyn met stuiptrekkings, visieverlies, of bewussynsverlies"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Hoofpyn en migraine in eenvoudige terme",
+    "lede": "Meeste hoofpyne is spanningshoofpyne — veroorsaak deur stywe spiere, stres, dehidrasie, of swak slaap. Migraine is anders — ’n neurologiese toestand waar die brein hipersensitief raak, dikwels met erge pyn, naarheid, en sensitiwiteit vir lig en klank.",
+    "paragraphs": [
+      "Spanningshoofpyne voel soos ’n stywe band om die kop, aan albei kante, dof en bestendig. Migraines klop gewoonlik aan een kant, duur 4–72 uur, en dwing jou om in ’n donker kamer te lê. Tros-hoofpyne is skaarser — intens, kort, om een oog.",
+      "Meeste hoofpyne klaar op met rus, vloeistowwe, en eenvoudige pynstillers. Gereelde of erge hoofpyne benodig ’n dokter — nie om ’n gewas te vind nie (hierdie is skaars) maar om ’n beter behandeling te vind as wat jy tans het. Migraine veral het baie effektiewe behandelings wat mense nie van weet nie."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Baie algemeen",
+        "body": "Ongeveer 12% van Suid-Afrikaners het migraine. Spanningshoofpyne raak amper almal af en toe."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Behandelbaar",
+        "body": "Migraine het effektiewe behandelings — vir beide die stop van aanvalle en die voorkoming daarvan. As joune nie goed beheer is nie, bestaan beter opsies."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Pynstiller-oorgebruik",
+        "body": "Om eenvoudige pynstillers meer as 2–3 dae per week te neem kan eintlik meer hoofpyne veroorsaak. Praat met ’n dokter hieroor — algemeen en behandelbaar."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Meestal nie ernstig",
+        "body": "Breingewasse en ernstige oorsake is skaars. Die waarskuwings hierbo merk wanneer om bekommerd te wees — vir alles anders is dit byna altyd goedaardig."
+      }
+    ],
+    "pull_quote": {
+      "text": "’n Migraine is nie 'net ’n erge hoofpyn' nie. Dit is ’n neurologiese gebeurtenis wat ’n persoon ure of dae lank onbekwaam kan laat om te werk, te bestuur, of vir kinders te sorg. Dit verdien werklike behandeling.",
+      "source": "South African Headache Society"
+    }
+  },
+  "signs": {
+    "heading": "Om hulle uitmekaar te ken",
+    "lede": "Verskillende hoofpyne reageer op verskillende behandelings — om joune te identifiseer help jou om dit te behandel.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Spanningshoofpyn",
+        "description": "Stywe band om die kop, albei kante, dof en bestendig. Lig tot matig. Geen naarheid. Dikwels van stres, swak slaap, dehidrasie, oog-spanning, of slegte postuur."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Migraine",
+        "description": "Kloppende pyn dikwels aan een kant, matig tot erg. Dikwels met naarheid, braking, lig- en klank-sensitiwiteit. Duur 4–72 uur. Mag ’n visuele aura volg (sigsae, blinde kol)."
+      },
+      {
+        "color": "coral",
+        "icon": "zap",
+        "title": "Tros-hoofpyn",
+        "description": "Skielike, erge, borende pyn om een oog. Oog traan, neus verstop aan dieselfde kant. Kort (15 min – 3 uur) maar verskeie aanvalle per dag vir weke. Benodig spesialis-behandeling."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Migraine is net ’n erge hoofpyn.",
+        "fact": "Migraine is ’n neurologiese toestand wat veranderinge in brein-elektriese aktiwiteit, bloedvloei, en ontsteking behels. Die hoofpyn is een simptoom van baie. Dit verdien om ernstig opgeneem te word."
+      },
+      {
+        "myth": "As pynstillers nie help nie, sal niks help nie.",
+        "fact": "Migraine-spesifieke behandelings — triptane, gepante, en ander — werk wanneer gewone pynstillers nie. Voorkomer-medisyne kan migraine-frekwensie halveer. Vra jou dokter."
+      },
+      {
+        "myth": "Gereelde hoofpyne beteken ’n gewas.",
+        "fact": "Breingewasse is skaars en veroorsaak gewoonlik spesifieke patrone — erger in die oggende, braking, neurologiese simptome. Meeste gereelde hoofpyne is migraine, spanning, of medisyne-oorgebruik — nie gewas nie."
+      },
+      {
+        "myth": "Regte mans druk net deur hoofpyne.",
+        "fact": "Migraine raak mense van alle geslagte. Om dit te ignoreer maak dit nie minder neurologies nie. Behandeling bestaan — om dit te gebruik is sinvol, nie swak nie."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Vir sporadiese spanningshoofpyn",
+        "description": "Parasetamol of ibuprofen soos voorgeskryf. Hidreer. Rus in ’n stil, dowwe kamer. Spreek veroorsakers aan — slaap, skermtyd, stres, oog-spanning."
+      },
+      {
+        "title": "Vir migraine — tree vroeg op",
+        "description": "Neem pynverligting en rus sodra jy die migraine voel begin. Triptane (sumatriptan) werk veel beter by die eerste teken as wanneer die pyn ’n piek bereik. Praat met ’n kliniek oor voorskrif-opsies."
+      },
+      {
+        "title": "Hou ’n hoofpyn-dagboek",
+        "description": "Datum, tyd, tipe, erns, wat gehelp het, moontlike veroorsakers. Twee maande se aantekeninge sal patrone wys. Bring die dagboek na die dokter — veel nuttiger as om uit geheue te beskryf."
+      },
+      {
+        "title": "As jy pynstillers meeste dae neem — sien ’n dokter",
+        "description": "Pynstiller-oorgebruik-hoofpyn is algemeen en omkeerbaar. Teen-intuïtief is die behandeling om die pynstiller te stop. ’n Dokter kan jou help om dit veilig te doen."
+      },
+      {
+        "title": "As waarskuwings verskyn — gaan hospitaal toe",
+        "description": "Skielike erge hoofpyn, hoofpyn met koors/styf nek/uitslag, hoofpyn met verwarring of swakheid — hierdie benodig dringende assessering."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Meeste hoofpyne kan op kliniek-vlak bestuur word. Aanhoudende migraine baat by ’n neurologie-verwysing — beskikbaar deur die openbare stelsel.",
+    "helplines": [
+      {
+        "name": "Noodambulans",
+        "description": "Vir donderslag-hoofpyn, hoofpyn met neurologiese tekens",
+        "meta": "Gratis · 24 uur",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis assessering, pynstillers, en migraine-voorskrif",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Enige plaaslike apteek",
+        "description": "Oor-die-toonbank parasetamol en ibuprofen vir sporadiese gebruik",
+        "meta": "Geen voorskrif nodig vir OTC",
+        "phone": null,
+        "phone_display": "Besoek 'n apteek",
+        "primary": false
+      }
+    ]
+  }
+}

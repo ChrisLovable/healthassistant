@@ -1,0 +1,159 @@
+{
+  "slug": "anxiety",
+  "group_slug": "mental-health",
+  "name": "Ukuxhalaba",
+  "tagline": "Ngaphezu kokukhathazeka. Kukho izixhobo ezincedayo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "SADAG",
+    "I-WHO",
+    "Umbutho waseMzantsi Afrika weeGqirha zeNgqondo",
+    "ICandelo leSizwe lezeMpilo yeNgqondo"
+  ],
+  "what_is_it": {
+    "heading": "Ukuxhalaba ngamazwi acacileyo",
+    "lede": "Ixhala yinto oyivayo xa isixokelelwano somzimba wakho sidubula rhoqo, sikhwaza kakhulu, okanye kungekho ngozi yokwenyani. Wonke umntu uziva exhalabile ngamanye amaxesha. Ingxaki yokuxhalaba kuxa ingena kwindlela yobomi obuqhelekileyo.",
+    "paragraphs": [
+      "Kukho iintlobo ezininzi: ukuxhalaba ngokubanzi (ukukhathazeka rhoqo), ukuhlaselwa luloyiko (amaza ngequbuliso oloyiko olukhulu), ixhala ekuhlaleni (uloyiko lokugwetywa), i-phobias ethile, i-PTSD emva kokwenzakala. Ziyadibana kwaye zabelana ngemigaqo yonyango.",
+      "Ukuxhalaba kunento eyomeleleyo yomzimba-intliziyo ebalekayo, ukubila, ukuphefumla kancinci, isiyezi, isicaphucaphu, ukungcangcazela. Umzimba uziva ngathi usengozini naxa ingqondo isazi ukuba akunjalo. Oku kuyinyani, hayi 'zonke entlokweni yakho'. Iyanyangeka."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Ezixhaphake kakhulu",
+        "body": "Ukuphazamiseka kokuxhalaba lelona qela lixhaphakileyo leemeko zempilo yengqondo kwihlabathi. Malunga nommi om-1 kwaba-5 waseMzantsi Afrika uye waba nengxaki enye ngaxa lithile."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Iyanyangeka",
+        "body": "I-Cognitive Behavioral Therapy (CBT), amayeza, kunye nokutshintsha kwendlela yokuphila kusebenza kakuhle kubantu abaninzi. Akunyanzelekanga ukuba uphile nayo."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Nangokomzimba",
+        "body": "Unxunguphalo luvakala emzimbeni - ukubetha kwentliziyo, ukuphefumla, isiyezi. Abantu bahlala becinga ukuba bahlaselwa yintliziyo. Ukuyiqonda into eyiyo kuyanceda."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "Uncedo lwasimahla",
+        "body": "I-SADAG kunye neLifeLine zibonelela ngeengcebiso zasimahla zokuxhalaba. Iikliniki zibonelela ngovavanyo kunye nonyango lwasimahla. Uncedo lusondele kunokuba ucinga."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukuxhalaba akulophawu lokuba buthathaka. Luphawu lokuba isixokelelwano sakho se-alam sisebenza ixesha elongezelelekileyo. Iindaba ezimnandi: iinkqubo ze-alam zinokuphinda ziqeqeshwe.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Ixhala lijongeka njani",
+    "lede": "Ixhala libonakala ngeendlela ezintathu eziphambili - emzimbeni, engqondweni, nakwindlela yokuziphatha. Mhlawumbi uqaphela enye yazo.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Emzimbeni",
+        "description": "Intliziyo ebalekayo, ukuphefumla ngokukhawuleza okanye ukuziva ungakwazi ukubamba umoya wakho, ukubila, ukungcangcazela, isicaphucaphu okanye isisu esibuhlungu, isiyezi, isifuba esiqinileyo, ukutshotshozela, ukutshisa okanye ukubanda."
+      },
+      {
+        "color": "orange",
+        "icon": "cloud",
+        "title": "Engqondweni",
+        "description": "Ukuzikhathaza rhoqo - kwanangezinto ezincinci, ukoyika, ukubaleka kwengqondo, ukulindela okubi kakhulu, awukwazi kugxila, ukuxakekisa 'kunganjani' iingcinga, ubunzima bokulala."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "Ekuziphatheni",
+        "description": "Ukunqanda iimeko ezikwenza ube nexhala, ufuna ukuqinisekiswa rhoqo, ukujonga kunye nokujongwa kwakhona, ukucaphuka, ukurhoxa ebantwini, ukusebenzisa utywala okanye izinto zokuzola."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
+    "items": [
+      {
+        "myth": "Ukuxhalaba kukuxhalaba kakhulu nje. Yeka ukucinga ngokugqithiseleyo.",
+        "fact": "Ukuphazamiseka kokuxhalaba kubandakanya utshintsho lokwenyani engqondweni nasemzimbeni - hayi nje iipatheni zokucinga. Ukuxelela umntu ukuba 'yeka ukuxhalaba' kufana nokuxelela umntu onesifo seswekile ukuba 'yilawule iswekile yakho'. Ayisebenzi."
+      },
+      {
+        "myth": "Iyeza lokuxhalaba liyakhobokisa kwaye likuguqule ube yi-zombie.",
+        "fact": "Iyeza langoku lokulwa nokuxhalaba (i-SSRIs ngakumbi) alikhoboki. Ithulisa inkqubo ye-alamu ngokwaneleyo ukuba unyango kunye nezakhono zokujongana nazo zinokusebenza. Ayitshintshi into oyiyo."
+      },
+      {
+        "myth": "Ukuba awuyiboni, asiyonyani.",
+        "fact": "Ukuxhalaba yimeko yonyango enotshintsho olunokulinganiswa kwikhemistri yengqondo, izinga lentliziyo, kunye namanqanaba ehomoni. Inyaniso yokuba abanye abayiboni ayithethi ukuba ayenzeki."
+      },
+      {
+        "myth": "Wakuba unexhala, uba nalo ubomi bonke.",
+        "fact": "Uninzi lwabantu abafumana unyango olufanelekileyo lwexhala babona ukuphucuka okubonakalayo kwaye abaninzi babuyela ngokupheleleyo. Nokuba ukuxhalaba okukhulu kusabela kunyango kunye namayeza xa kunikwe ithuba."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Kwenziwe ntoni",
+    "items": [
+      {
+        "title": "Funda ukusetha kwakhona ukuphefumla",
+        "description": "Xa ixhala likhula: phefumlela ngaphakathi kwizibalo ezi-4, bambelela kwi-4, ngaphandle kwe-6. Yisebenzise ngexesha lokuphakuzela - isebenza ngaphakathi komzuzu."
+      },
+      {
+        "title": "Yichaze xa uyiva",
+        "description": "Ukuthi 'oku kuxhalaba, hayi ukuhlaselwa yintliziyo' kunceda ukwahlula isivusi somzimba kwingozi yokwenyani. Yehlisa i-panic-mayelana-panic spiral."
+      },
+      {
+        "title": "Sika icaffeine ukuba unako",
+        "description": "I-caffeine ilinganisa ngokuthe ngqo iimpawu zokuxhalaba - intliziyo ebalekayo, i-jitteriness. Abantu abaninzi babona ukuphucuka okukhulu kwiiveki ezi-2-3 zokunciphisa okanye ukuyeka."
+      },
+      {
+        "title": "Yiya ekliniki uyokwenza uvavanyo",
+        "description": "Iiklinikhi zikarhulumente zibonelela ngovavanyo lwasimahla lwempilo yengqondo. Thetha nomongikazi wezempilo yengqondo. Uncedo olusekelwe kwi-CBT kunye namayeza ukuba ayafuneka asimahla."
+      },
+      {
+        "title": "Ukuba luhlaselo lovalo ngokukodwa",
+        "description": "Funda malunga nolawulo lokuhlaselwa kwe-panic - ukwazi ipateni (incopho kwi-10 min, ingaze ibe yingozi, ihlala idlula) ithatha uninzi loloyiko kubo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ngubani omawubize",
+    "lede": "Ukuxhalaba kuphendula kakuhle kakhulu kunyango. Eyona nto inzima kukufikelela okokuqala. I-SADAG kunye neLifeLine zenza kube lula oko - simahla, iyimfihlo, akukho sigwebo.",
+    "helplines": [
+      {
+        "name": "SADAG Mental Health Line",
+        "description": "Ingcebiso yasimahla, eyimfihlo yonxunguphalo, ukothuka, kunye noxinzelelo",
+        "meta": "Mahala · iiyure ezingama-24 · abacebisi abaqeqeshiweyo",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "ILifeLine yaseMzantsi Afrika",
+        "description": "Iingcebiso zasimahla, inkxaso yeemvakalelo, ukwenzakala",
+        "meta": "Iiyure ezingama-24 · simahla kuyo nayiphi na ifowuni",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Uvavanyo lwempilo yengqondo lwasimahla kunye nonyango ukuba luyafuneka",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}
+

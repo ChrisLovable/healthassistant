@@ -1,85 +1,179 @@
 {
   "slug": "high-cholesterol",
-  "group_slug": "chronic",
+  "group_slug": "chronic-lifestyle",
   "name": "Hoë cholesterol",
   "tagline": "Geen simptome. Toets dit. Behandel dit. Voorkom hartaanvalle.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
   "reviewer": "Dr [Naam], MBChB",
-  "sources": ["Heart and Stroke Foundation SA", "WHO", "Lipid and Atherosclerosis Society of Southern Africa"],
-
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "WHO",
+    "Lipid and Atherosclerosis Society of Southern Africa"
+  ],
   "what_is_it": {
     "heading": "Cholesterol in eenvoudige terme",
-    "lede": "Cholesterol is 'n vettigheid in jou bloed wat die liggaam nodig het om selle te bou. Te veel daarvan — veral die 'slegte' soort (LDL) — bou op as plak in jou bloedvate, wat hulle vernou en hartaanvalle en beroertes veroorsaak.",
+    "lede": "Cholesterol is ’n vettigheid in jou bloed wat die liggaam nodig het om selle te bou. Te veel daarvan — veral die 'slegte' soort (LDL) — bou op as plak in jou bloedvate, wat hulle vernou en hartaanvalle en beroertes veroorsaak.",
     "paragraphs": [
-      "Daar is twee belangrike tipes: LDL (slegte cholesterol — verstop bloedvate) en HDL (goeie cholesterol — verwyder ophopings). Trigliseriede is 'n derde vetsoort wat ook saak maak.",
-      "Hoë cholesterol veroorsaak geen simptome nie. Die enigste manier om te weet is om te toets — 'n eenvoudige bloedtoets gratis by enige kliniek. Behandeling is statiene (goedkoop, baie effektief) plus dieet en oefening."
+      "Daar is twee belangrike tipes: LDL (slegte cholesterol — verstop bloedvate) en HDL (goeie cholesterol — verwyder ophopings). Trigliseriede is ’n derde vetsoort wat ook saak maak.",
+      "Hoë cholesterol veroorsaak geen simptome nie. Die enigste manier om te weet is om te toets — ’n eenvoudige bloedtoets gratis by enige kliniek. Behandeling is statiene (goedkoop, baie effektief) plus dieet en oefening."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "alert-circle",  "headline": "Geen simptome",   "body": "Hoë cholesterol veroorsaak niks tot dit 'n hartaanval of beroerte veroorsaak. Die enigste manier om te weet is om te toets." },
-      { "color": "purple", "icon": "heart-pulse",   "headline": "Top risiko",       "body": "Saam met hoë BP en rook is hoë LDL een van die top drie risikofaktore vir hartaanvalle en beroertes wêreldwyd." },
-      { "color": "gold",   "icon": "shield",        "headline": "Statiene werk",   "body": "Statiene (soos atorvastatien, simvastatien) verminder hartaanval-risiko aansienlik. Gratis by klinieke. Veilig vir langtermyngebruik." },
-      { "color": "green",  "icon": "check-circle", "headline": "Lewenstyl tel",   "body": "Dieet, oefening en gewig kan cholesterol verlaag — soms genoeg om pille onnodig te maak. Saam met pille werk dit nog beter." }
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Geen simptome",
+        "body": "Hoë cholesterol veroorsaak niks tot dit ’n hartaanval of beroerte veroorsaak. Die enigste manier om te weet is om te toets."
+      },
+      {
+        "color": "purple",
+        "icon": "heart-pulse",
+        "headline": "Top risiko",
+        "body": "Saam met hoë BP en rook is hoë LDL een van die top drie risikofaktore vir hartaanvalle en beroertes wêreldwyd."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Statiene werk",
+        "body": "Statiene (soos atorvastatien, simvastatien) verminder hartaanval-risiko aansienlik. Gratis by klinieke. Veilig vir langtermyngebruik."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Lewenstyl tel",
+        "body": "Dieet, oefening en gewig kan cholesterol verlaag — soms genoeg om pille onnodig te maak. Saam met pille werk dit nog beter."
+      }
     ],
     "pull_quote": {
       "text": "Vir mense met hoë risiko van hartsiekte — diabete, vorige hartaanval, familiegeskiedenis — is statiene een van die mees lewensreddende medisyne in algemene gebruik.",
       "source": "Heart and Stroke Foundation South Africa"
     }
   },
-
   "signs": {
     "heading": "Tekens om voor te kyk",
     "lede": "Cholesterol gee feitlik nooit tekens nie. Die 'simptome' wat jy raaksien is die komplikasies — wat ons probeer vermy.",
     "items": [
-      { "color": "green",  "icon": "check-circle", "title": "Tipies — geen tekens", "description": "Die meeste mense met hoë cholesterol voel niks. Dit is hoekom toetse nodig is, selfs as jy gesond voel." },
-      { "color": "orange", "icon": "alert-circle",  "title": "Familiale tekens",     "description": "Mense met hoë erflike cholesterol mag geel-vetbultjies om die oë, oor die hande, of 'n grys ring om die iris hê. Selde — maar belangrik om te herken." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Komplikasie-tekens",   "description": "Borspyn met oefening (angina), borspyn met sweet (hartaanval), skewe gesig of arm wat uitval (beroerte) — almal kan tekens wees van bloedvatskade. Hospitaal toe." }
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "title": "Tipies — geen tekens",
+        "description": "Die meeste mense met hoë cholesterol voel niks. Dit is hoekom toetse nodig is, selfs as jy gesond voel."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Familiale tekens",
+        "description": "Mense met hoë erflike cholesterol mag geel-vetbultjies om die oë, oor die hande, of ’n grys ring om die iris hê. Selde — maar belangrik om te herken."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Komplikasie-tekens",
+        "description": "Borspyn met oefening (angina), borspyn met sweet (hartaanval), skewe gesig of arm wat uitval (beroerte) — almal kan tekens wees van bloedvatskade. Hospitaal toe."
+      }
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "As ek gesond eet, het ek nie 'n cholesterol-toets nodig nie.",      "fact": "Tot 'n derde van cholesterol kom uit diet — die res maak die liggaam self. Sommige mense het hoë cholesterol selfs met perfekte dieet (familiële hipercholesterolemie). Toets is die enigste manier om te weet." },
-      { "myth": "Eiers veroorsaak hoë cholesterol.",                                    "fact": "Eiers het cholesterol, maar dieetcholesterol verhoog meestal nie bloedsout-cholesterol veel nie. Versadigde vette (soos in vetterige vleis en botter) is groter risiko. Eiers is OK in gewoonte." },
-      { "myth": "Statiene is gevaarlik en behoort vermy te word.",                      "fact": "Statiene is een van die mees-bestudeerde medisyne in geskiedenis. Newe-effekte is selde. Voordele vir hoë-risiko mense oortref risiko's verre. Vra jou dokter." },
-      { "myth": "Sodra ek statiene begin, kan ek nooit ophou nie.",                     "fact": "As lewenstyl verbeter en cholesterol normaliseer, kan party mense — onder dokter se leiding — pille verminder of stop. Maar vir hoë-risiko mense bly statiene lewenslank deel van die hart-verdediging." }
+      {
+        "myth": "As ek gesond eet, het ek nie ’n cholesterol-toets nodig nie.",
+        "fact": "Tot ’n derde van cholesterol kom uit dieet — die res maak die liggaam self. Sommige mense het hoë cholesterol selfs met perfekte dieet (familiële hipercholesterolemie). Toets is die enigste manier om te weet."
+      },
+      {
+        "myth": "Eiers veroorsaak hoë cholesterol.",
+        "fact": "Eiers het cholesterol, maar dieetcholesterol verhoog meestal nie bloedsout-cholesterol veel nie. Versadigde vette (soos in vetterige vleis en botter) is groter risiko. Eiers is OK in gewoonte."
+      },
+      {
+        "myth": "Statiene is gevaarlik en behoort vermy te word.",
+        "fact": "Statiene is een van die mees-bestudeerde medisyne in geskiedenis. Newe-effekte is selde. Voordele vir hoë-risiko mense oortref risiko's verre. Vra jou dokter."
+      },
+      {
+        "myth": "Sodra ek statiene begin, kan ek nooit ophou nie.",
+        "fact": "As lewenstyl verbeter en cholesterol normaliseer, kan party mense — onder dokter se leiding — pille verminder of stop. Maar vir hoë-risiko mense bly statiene lewenslank deel van die hart-verdediging."
+      }
     ]
   },
-
   "prevention": {
     "heading": "Hoe om cholesterol gesond te hou",
-    "lede": "Cholesterol reageer goed op lewenstyl. Hierdie veranderinge maak ook 'n verskil aan bloeddruk en hartrisiko algemeen.",
+    "lede": "Cholesterol reageer goed op lewenstyl. Hierdie veranderinge maak ook ’n verskil aan bloeddruk en hartrisiko algemeen.",
     "items": [
-      { "color": "green",  "icon": "leaf",       "title": "Mediterreense styl-eet",      "description": "Olyfolie, neute, vis, peulplante, groente, volgraan. Minder rooi vleis en suiwel. Hoogs gestudeer — verlaag LDL en hartrisiko." },
-      { "color": "purple", "icon": "activity",  "title": "Beweeg gereeld",                "description": "150 minute matige oefening per week. Verhoog HDL (goeie cholesterol) en verlaag LDL. Saam met dieet — kragtig." },
-      { "color": "orange", "icon": "scale",     "title": "Gewig en middel-vet",          "description": "Middel-vet styg LDL en trigliseriede. Selfs 5kg gewigsverlies maak 'n verskil aan jou bloedwerk." },
-      { "color": "gold",   "icon": "x-circle",  "title": "Stop rook, beperk alkohol",     "description": "Rook verlaag HDL en beskadig bloedvate. Te veel alkohol verhoog trigliseriede. Beide verlaag jou risiko." }
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Mediterreense styl-eet",
+        "description": "Olyfolie, neute, vis, peulplante, groente, volgraan. Minder rooi vleis en suiwel. Hoogs gestudeer — verlaag LDL en hartrisiko."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Beweeg gereeld",
+        "description": "150 minute matige oefening per week. Verhoog HDL (goeie cholesterol) en verlaag LDL. Saam met dieet — kragtig."
+      },
+      {
+        "color": "orange",
+        "icon": "scale",
+        "title": "Gewig en middel-vet",
+        "description": "Middel-vet styg LDL en trigliseriede. Selfs 5kg gewigsverlies maak ’n verskil aan jou bloedwerk."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Stop rook, beperk alkohol",
+        "description": "Rook verlaag HDL en beskadig bloedvate. Te veel alkohol verhoog trigliseriede. Beide verlaag jou risiko."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "Doen 'n eerste toets vanaf jou 20's",            "description": "Een keer in jou 20's. Daarna elke 5 jaar as normaal, of soos die dokter aanbeveel. Gratis by kliniek. Eenvoudige bloedtoets." },
-      { "title": "As verhoog — probeer lewenstyl eerste",         "description": "Vir matige verhoogde LDL, 3–6 maande van dieet, oefening en gewigsverlies. Hertes daarna. Soms voldoende sonder pille." },
-      { "title": "As risiko hoog — vra oor statiene",              "description": "Vir diabete, beroertes vorige, hartaanvalle, of baie hoë LDL — statiene maak 'n groot verskil. Bespreek met die dokter." },
-      { "title": "Drink statiene snags",                            "description": "Die meeste cholesterolproduksie gebeur snags. Statiene snags geneem werk effektiwer. Sommige nuwer statiene maak nie saak nie — vra die apteker." },
-      { "title": "Jaarlikse hertoets onder behandeling",            "description": "Statiene werk — maar hoeveel? 'n Jaarlikse herhaalde toets sê of die dosis reg is, of as iets aangepas moet word." }
+      {
+        "title": "Doen ’n eerste toets vanaf jou 20's",
+        "description": "Een keer in jou 20's. Daarna elke 5 jaar as normaal, of soos die dokter aanbeveel. Gratis by kliniek. Eenvoudige bloedtoets."
+      },
+      {
+        "title": "As verhoog — probeer lewenstyl eerste",
+        "description": "Vir matige verhoogde LDL, 3–6 maande van dieet, oefening en gewigsverlies. Hertes daarna. Soms voldoende sonder pille."
+      },
+      {
+        "title": "As risiko hoog — vra oor statiene",
+        "description": "Vir diabete, beroertes vorige, hartaanvalle, of baie hoë LDL — statiene maak ’n groot verskil. Bespreek met die dokter."
+      },
+      {
+        "title": "Drink statiene snags",
+        "description": "Die meeste cholesterolproduksie gebeur snags. Statiene snags geneem werk effektiwer. Sommige nuwer statiene maak nie saak nie — vra die apteker."
+      },
+      {
+        "title": "Jaarlikse hertoets onder behandeling",
+        "description": "Statiene werk — maar hoeveel? ’n Jaarlikse herhaalde toets sê of die dosis reg is, of as iets aangepas moet word."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
-    "lede": "Cholesterol-toetse en statiene is gratis by elke staatskliniek. Vir mense met hoë risiko maak hierdie behandeling 'n groter verskil aan lewensverwagting as feitlik enige ander pil.",
+    "lede": "Cholesterol-toetse en statiene is gratis by elke staatskliniek. Vir mense met hoë risiko maak hierdie behandeling ’n groter verskil aan lewensverwagting as feitlik enige ander pil.",
     "helplines": [
-      { "name": "Vind jou naaste kliniek",  "description": "Gratis cholesterol-toetse en statiene",                  "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,        "phone_display": "Vind 'n kliniek", "primary": true,  "link": "/clinic-finder" },
-      { "name": "Heart and Stroke Foundation","description": "Inligting oor hartrisiko, dieet, en lewenstyl",          "meta": "Ma–Vr 08:30–16:30",                        "phone": "0860000254","phone_display": "0860 000 254",   "primary": true }
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis cholesterol-toetse en statiene",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Heart and Stroke Foundation",
+        "description": "Inligting oor hartrisiko, dieet, en lewenstyl",
+        "meta": "Ma–Vr 08:30–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": true
+      }
     ]
   }
 }

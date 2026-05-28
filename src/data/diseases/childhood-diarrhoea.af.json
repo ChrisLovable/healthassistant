@@ -1,67 +1,102 @@
 {
   "slug": "childhood-diarrhoea",
   "group_slug": "child-baby",
-  "name": "Kinder-diarree",
-  "tagline": "ORS red lewens. Ken die tekens van uitdroging.",
+  "name": "kinderdiarree",
+  "tagline": "orale rehidrasie-oplossing (ORS) red lewens. Ken die tekens van uitdroging.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["National Department of Health", "WHO Child Health", "NICD", "UNICEF South Africa"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "National Department of Health",
+    "WHO Child Health",
+    "NICD",
+    "UNICEF South Africa"
+  ],
   "urgent": {
     "heading": "Dringend — kry by kliniek of hospitaal uit",
-    "primary_message": "Uitdroging by 'n klein kind kan binne ure dodelik raak. As jy enige van hierdie tekens sien, moenie wag nie. Gaan.",
+    "primary_message": "Uitdroging by ’n klein kind kan binne ure dodelik raak. As jy enige van hierdie tekens sien, moenie wag nie. Gaan.",
     "phone": "10177",
     "phone_display": "Bel 10177",
     "red_flags": [
       "Kind baie dors maar kan nie drink nie",
       "Ingesakte oë, droë mond, geen trane wanneer huil nie",
-      "Ingesakte sagte kol bo-op 'n baba se kop",
+      "Ingesakte sagte kol bo-op ’n baba se kop",
       "Baie min of geen urine in 6+ uur",
-      "Lustigheid — kind is slaperig, moeilik om wakker te maak, of onverantwoordelik",
+      "Lustigheid — kind is slaperig, moeilik om wakker te maak, of reageer nie",
       "Bloed in die diarree",
       "Hoë koors (oor 39°C) saam met diarree",
       "Braking wat keer dat enige vloeistof inbly",
       "Diarree wat langer as 7 dae duur"
     ]
   },
-
   "what_is_it": {
-    "heading": "Kinder-diarree in eenvoudige terme",
+    "heading": "kinderdiarree in eenvoudige terme",
     "lede": "Diarree is losse, waterige stoele — drie of meer in 24 uur. By klein kinders is die gevaar nie die diarree self nie. Dit is die uitdroging wat volg.",
     "paragraphs": [
-      "Kinders se liggame is klein en hulle droog vinnig uit. 'n Kind wat te veel water verloor het, raak swak, dan slaperig, dan krities — soms binne ure. Diarree bly een van die top doodsoorsake by SA kinders onder 5.",
-      "Die meeste kinder-diarree is viraal en herstel in 3–5 dae. Die hoofbehandeling is om verlore vloeistowwe te vervang — Orale Rehidrasieoplossing (ORS) is die goue standaard. Gratis by elke kliniek. Het wêreldwyd miljoene kinders se lewens gered."
+      "Kinders se liggame is klein en hulle droog vinnig uit. ’n Kind wat te veel water verloor het, raak swak, dan slaperig, dan krities — soms binne ure. Diarree bly een van die top doodsoorsake by SA kinders onder 5.",
+      "Die meeste kinderdiarree is viraal en herstel in 3–5 dae. Die hoofbehandeling is om verlore vloeistowwe te vervang — Orale Rehidrasieoplossing (orale rehidrasie-oplossing (ORS)) is die goue standaard. Gratis by elke kliniek. Het wêreldwyd miljoene kinders se lewens gered."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "coral",  "icon": "alert-triangle","headline": "Top kinder-killer", "body": "Diarree bly een van die top doodsoorsake by SA kinders onder 5 — feitlik altyd weens uitdroging." },
-      { "color": "purple", "icon": "droplet",       "headline": "ORS red lewens",    "body": "Orale Rehidrasieoplossing voorkom en behandel die meeste uitdroging. Gratis by elke kliniek. Goedkoop, eenvoudig, effektief." },
-      { "color": "gold",   "icon": "syringe",       "headline": "Rotavirus-vaksien","body": "Gratis SA-kindervaksien voorkom die mees algemene oorsaak van erge diarree. Gegee by 6 weke en 14 weke. Moenie oorslaan nie." },
-      { "color": "green",  "icon": "x-circle",      "headline": "Geen antibiotika", "body": "Meeste diarree is viraal. Antibiotika help nie — en kan sommige tipes erger maak. Moenie daarvoor vra nie; vra vir ORS." }
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Top kinder-killer",
+        "body": "Diarree bly een van die top doodsoorsake by SA kinders onder 5 — feitlik altyd weens uitdroging."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "headline": "orale rehidrasie-oplossing (ORS) red lewens",
+        "body": "Orale Rehidrasieoplossing voorkom en behandel die meeste uitdroging. Gratis by elke kliniek. Goedkoop, eenvoudig, effektief."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "rotavirus-inenting",
+        "body": "Gratis SA-kinderinenting voorkom die mees algemene oorsaak van erge diarree. Gegee op 6 weke en 14 weke. Moenie dit oorslaan nie."
+      },
+      {
+        "color": "green",
+        "icon": "x-circle",
+        "headline": "Geen antibiotika",
+        "body": "Meeste diarree is viraal. Antibiotika help nie — en kan sommige tipes erger maak. Moenie daarvoor vra nie; vra vir orale rehidrasie-oplossing (ORS)."
+      }
     ],
     "pull_quote": {
-      "text": "'n Kind kan honderde milliliters diarree per dag hê. Die volume is skokkend. Elke 250ml stoel-verlies moet met 250ml ORS vervang word — of meer. Hou die koppie gereed.",
+      "text": "’n Kind kan honderde milliliters diarree per dag hê. Die volume is skokkend. Elke 250ml stoel-verlies moet met 250ml orale rehidrasie-oplossing (ORS) vervang word — of meer. Hou die koppie gereed.",
       "source": "WHO Child Health"
     }
   },
-
   "signs": {
     "heading": "Hoe om uitdroging te herken",
     "lede": "Uitdroging ontwikkel in stadiums. Om dit by die 'dors'-stadium te vang, hou die kind uit die hospitaal uit.",
     "items": [
-      { "color": "green",  "icon": "smile",          "title": "Lig — behandelbaar tuis", "description": "Kind is dors, drink gretig, effe minder speels, urine effe donkerder maar steeds nat doeke. Gee ORS, borsmelk, of skoon water." },
-      { "color": "orange", "icon": "alert-circle",   "title": "Matig — gaan kliniek toe","description": "Kind baie dors, droë mond, minder nat doeke, rusteloos of geirriteerd, ingesakte oë, vel stadig om terug te bons wanneer geknyp. Kliniek — nog nie hospitaal nie." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Erg — hospitaal nou",    "description": "Kind te swak om te drink, slaperig of onverantwoordelik, geen trane, geen nat doek vir 6+ uur, ingesakte sagte kol by 'n baba. Dit is 'n noodgeval." }
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Lig — behandelbaar tuis",
+        "description": "Kind is dors, drink gretig, effe minder speels, urine effe donkerder maar steeds nat doeke. Gee orale rehidrasie-oplossing (ORS), borsmelk, of skoon water."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Matig — gaan kliniek toe",
+        "description": "Kind baie dors, droë mond, minder nat doeke, rusteloos of geirriteerd, ingesakte oë, vel stadig om terug te bons wanneer geknyp. Kliniek — nog nie hospitaal nie."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Erg — hospitaal nou",
+        "description": "Kind te swak om te drink, slaperig of reageer nie, geen trane, geen nat doek vir 6+ uur, ingesakte sagte kol by ’n baba. Dit is ’n noodgeval."
+      }
     ]
   },
-
   "spreads": {
-    "heading": "Hoe kinder-diarree versprei",
+    "heading": "Hoe kinderdiarree versprei",
     "yes": [
       "Fekaal-orale roete — klein hoeveelhede stoel wat op kos, hande, of water uitkom",
       "Besmette water in areas sonder veilige voorraad",
@@ -76,36 +111,90 @@
       "Effe pittige kos (by ouer kinders)"
     ]
   },
-
   "prevention": {
     "heading": "Hoe om jou kind te beskerm",
-    "lede": "Die meeste kinder-diarree is voorkombaar met vaksiene, skoon water, en goeie handwas. Die moeite werd vir die klein daaglikse inset.",
+    "lede": "Die meeste kinderdiarree is voorkombaar met inentings, skoon water, en goeie handwas. Klein daaglikse gewoontes maak ’n groot verskil.",
     "items": [
-      { "color": "green",  "icon": "syringe", "title": "Rotavirus-vaksien",       "description": "Gratis SA-kindervaksien by 6 weke en 14 weke. Voorkom die mees algemene oorsaak van erge kinder-diarree. Slaan nooit oor nie." },
-      { "color": "purple", "icon": "droplet", "title": "Skoon hande, skoon water","description": "Was hande met seep voor kos, ná toilet, ná doek-verwisseling. Gebruik veilige water vir drink en kook. Kook as onseker." },
-      { "color": "orange", "icon": "heart",   "title": "Borsvoed indien moontlik","description": "Borsmelk bevat teen-liggame wat teen diarree beskerm. Eksklusiewe borsvoeding vir 6 maande is een van die sterker beskerming." },
-      { "color": "gold",   "icon": "shield",  "title": "Kos-veiligheid",          "description": "Kook vleis ten volle, koel oorblyfsels vinnig af, was vrugte en groente. Moenie baie jong kinders ongepasteuriseerde melk of onder-gekookte eiers gee nie." }
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "rotavirus-inenting",
+        "description": "Gratis SA-kinderinenting op 6 weke en 14 weke. Voorkom die mees algemene oorsaak van erge kinderdiarree. Slaan dit nooit oor nie."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Skoon hande, skoon water",
+        "description": "Was hande met seep voor kos, ná toilet, ná doek-verwisseling. Gebruik veilige water vir drink en kook. Kook as onseker."
+      },
+      {
+        "color": "orange",
+        "icon": "heart",
+        "title": "Borsvoed indien moontlik",
+        "description": "Borsmelk bevat teen-liggame wat teen diarree beskerm. Eksklusiewe borsvoeding vir 6 maande is een van die sterker beskerming."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Kos-veiligheid",
+        "description": "Kook vleis ten volle, koel oorblyfsels vinnig af, was vrugte en groente. Moenie baie jong kinders ongepasteuriseerde melk of onder-gekookte eiers gee nie."
+      }
     ]
   },
-
   "action_steps": {
     "heading": "Wat om te doen",
     "items": [
-      { "title": "Begin ORS by die eerste lossstoel",        "description": "Meng een sakkie in 1 liter skoon water (of volgens pakkie). Gee gereelde klein slukkies ná elke losstoel — 50–100ml vir onder-2's, 100–200ml vir ouer kinders." },
-      { "title": "Hou borsvoeding of formule aan",          "description": "Moenie borsvoeding stop tydens diarree nie — borsmelk is beskermend. Hou formule aan. Babas benodig normale voedings plus ekstra ORS." },
-      { "title": "Gee sink-aanvullings",                     "description": "Gratis by klinieke saam met ORS. Sink verkort diarree met 25% en verminder erns. Gee vir 10–14 dae soos aanbeveel." },
-      { "title": "Hou uitdrogingstekens dop",                "description": "Kyk vir nat doeke, trane wanneer huil, lewendigheid. Knyp die vel op die maag saggies — dit moet vinnig terugbons. As iets verkeerd voel, gaan kliniek toe." },
-      { "title": "Gaan kliniek of hospitaal toe as dit erger word","description": "Matige uitdroging — kliniek. Erge uitdroging — hospitaal. Moenie twyfel nie. Die behandeling (IV-vloeistowwe) is vinnig en lewensreddend." }
+      {
+        "title": "Begin orale rehidrasie-oplossing (ORS) by die eerste lossstoel",
+        "description": "Meng een sakkie in 1 liter skoon water (of volgens pakkie). Gee gereelde klein slukkies ná elke losstoel — 50–100ml vir onder-2's, 100–200ml vir ouer kinders."
+      },
+      {
+        "title": "Hou borsvoeding of formule aan",
+        "description": "Moenie borsvoeding stop tydens diarree nie — borsmelk is beskermend. Hou formule aan. Babas benodig normale voedings plus ekstra orale rehidrasie-oplossing (ORS)."
+      },
+      {
+        "title": "Gee sink-aanvullings",
+        "description": "Gratis by klinieke saam met orale rehidrasie-oplossing (ORS). Sink verkort diarree met 25% en verminder erns. Gee vir 10–14 dae soos aanbeveel."
+      },
+      {
+        "title": "Hou uitdrogingstekens dop",
+        "description": "Kyk vir nat doeke, trane wanneer huil, lewendigheid. Knyp die vel op die maag saggies — dit moet vinnig terugbons. As iets verkeerd voel, gaan kliniek toe."
+      },
+      {
+        "title": "Gaan kliniek of hospitaal toe as dit erger word",
+        "description": "Matige uitdroging — kliniek. Erge uitdroging — hospitaal. Moenie twyfel nie. Die behandeling (IV-vloeistowwe) is vinnig en lewensreddend."
+      }
     ]
   },
-
   "get_help": {
     "heading": "Waarheen om te gaan",
-    "lede": "Kinder-diarree-sorg is een van Suid-Afrika se sterker openbare gesondheidsdienste. Gratis ORS, gratis vaksiene, gratis hospitaalsorg indien nodig. Gebruik dit vroeg.",
+    "lede": "kinderdiarree-sorg is een van Suid-Afrika se sterker openbare gesondheidsdienste. Gratis orale rehidrasie-oplossing (ORS), gratis inentings, gratis hospitaalsorg indien nodig. Gebruik dit vroeg.",
     "helplines": [
-      { "name": "Noodambulans",            "description": "Vir erge uitdroging by 'n kind",                       "meta": "Gratis · 24 uur",                          "phone": "10177", "phone_display": "10177",         "primary": true },
-      { "name": "Vind jou naaste kliniek",  "description": "Gratis ORS, sink, en assessering vir siek kinders",     "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,    "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" },
-      { "name": "Childline SA",             "description": "Gratis 24-uur kind-gesondheid-en-welsynslyn",          "meta": "Gratis vanaf enige foon · 24 uur",         "phone": "116",   "phone_display": "116",           "primary": false }
+      {
+        "name": "Noodambulans",
+        "description": "Vir erge uitdroging by ’n kind",
+        "meta": "Gratis · 24 uur",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis orale rehidrasie-oplossing (ORS), sink, en assessering vir siek kinders",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Gratis 24-uur kind-gesondheid-en-welsynslyn",
+        "meta": "Gratis vanaf enige foon · 24 uur",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
     ]
   }
 }

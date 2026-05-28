@@ -6,7 +6,7 @@
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Name], MBChB",
+  "reviewer": "Pending clinical review",
   "sources": ["NICD", "WHO", "National Department of Health", "American Thoracic Society"],
 
   "urgent": {
@@ -82,6 +82,16 @@
       { "color": "purple", "icon": "syringe",      "title": "Annual flu vaccine",  "description": "Flu often leads to pneumonia. Preventing flu prevents many secondary pneumonias. Free for high-risk groups." },
       { "color": "orange", "icon": "x-circle",     "title": "Don't smoke",          "description": "Smoking damages the lungs' defences and is a major risk factor for pneumonia. Quitting reduces risk within months." },
       { "color": "gold",   "icon": "droplet",      "title": "Hand hygiene",        "description": "Wash hands often, especially around small children, elderly relatives, or anyone with chronic illness." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Only older people get pneumonia.", "fact": "Pneumonia can strike at any age. Children, young people, athletes — all get it. For most it is treatable — but it must be treated." },
+      { "myth": "Cough remedies and steam are enough to cure pneumonia.", "fact": "Bacterial pneumonia needs antibiotics. Steam and home remedies can ease symptoms but won't clear the infection. See a doctor." },
+      { "myth": "If I feel better after a few days, I can stop my antibiotics.", "fact": "Stopping antibiotics early lets some bacteria survive, become resistant, and bring the infection back — sometimes worse. Complete the full course." },
+      { "myth": "Pneumonia is always the same — treat it once and you're done.", "fact": "Different germs cause different pneumonias, and the right antibiotic differs. That's why a doctor — not self-treatment — should choose the treatment." }
     ]
   },
 

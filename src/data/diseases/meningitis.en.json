@@ -6,7 +6,7 @@
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Name], MBChB",
+  "reviewer": "Pending clinical review",
   "sources": ["NICD (National Institute for Communicable Diseases)", "WHO", "National Department of Health", "Meningitis Research Foundation"],
 
   "urgent": {
@@ -83,6 +83,16 @@
       { "color": "purple", "icon": "users",         "title": "Higher-risk groups",      "description": "University students in residences, military recruits, travellers to the African meningitis belt or Hajj — ask your doctor about Meningococcal ACWY vaccine." },
       { "color": "gold",   "icon": "shield-check", "title": "If a close contact is sick","description": "Household members and close contacts of a bacterial meningitis case are usually offered preventive antibiotics by Public Health. Take them — they work." },
       { "color": "orange", "icon": "alert-circle", "title": "Recognise early — act fast","description": "Knowing the symptoms saves lives. Trust your instinct. If something is seriously wrong, get to hospital." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Only babies and children get meningitis.", "fact": "Babies, teenagers, and young adults are at higher risk, but it can strike at any age. Teenage and university residence outbreaks are common." },
+      { "myth": "If the rash still fades when I press it, it isn't meningitis.", "fact": "Early in meningitis the rash can still fade. If other symptoms are present — headache, fever, neck stiffness — go to hospital regardless." },
+      { "myth": "Early antibiotics at the clinic are enough.", "fact": "Bacterial meningitis needs intravenous antibiotics in hospital, plus monitoring. Tablet antibiotics alone are not enough." },
+      { "myth": "Meningitis vaccines cause meningitis.", "fact": "Vaccines protect against the most common bacterial causes. They do not cause the disease. The childhood schedule's vaccines are safe and life-saving." }
     ]
   },
 

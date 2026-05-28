@@ -1,0 +1,85 @@
+{
+  "slug": "high-cholesterol",
+  "group_slug": "chronic-lifestyle",
+  "name": "High cholesterol",
+  "tagline": "What the numbers mean for your heart.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["Heart and Stroke Foundation SA", "Lipid and Atherosclerosis Society of South Africa", "WHO", "American Heart Association"],
+
+  "what_is_it": {
+    "heading": "Cholesterol in plain terms",
+    "lede": "Cholesterol is a fatty substance your body needs to build cells and make hormones. The problem is the type and the amount — too much of the wrong kind builds up in artery walls and causes heart attacks and strokes.",
+    "paragraphs": [
+      "Your liver makes most of your cholesterol. Some also comes from food, especially animal products. LDL ('bad') cholesterol carries fat into the artery walls. HDL ('good') cholesterol clears it away. The balance matters.",
+      "Some people have inherited high cholesterol (familial hypercholesterolaemia) — their numbers are dangerously high from childhood, regardless of diet. This is the most under-diagnosed cause of early heart attacks. If a close relative had a heart attack before 60, get checked."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "eye-off",   "headline": "Silent",       "body": "High cholesterol has no symptoms. You only know from a blood test." },
+      { "color": "coral",  "icon": "heart-pulse","headline": "Main cause",  "body": "Of heart attacks and most strokes. LDL is the strongest modifiable risk factor we know." },
+      { "color": "gold",   "icon": "users",     "headline": "Genes count", "body": "Familial high cholesterol affects roughly 1 in 200 people — many never know until a heart attack." },
+      { "color": "green",  "icon": "shield",    "headline": "Statins work","body": "Decades of evidence: statins cut heart attacks and strokes by a third or more in people at risk." }
+    ],
+    "pull_quote": {
+      "text": "Cholesterol is not just a lifestyle problem. Thin, fit, healthy-eating people can still have dangerously high cholesterol from inherited genes. Get tested — especially if anyone in your family had an early heart attack.",
+      "source": "Lipid and Atherosclerosis Society of South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "What you might notice",
+    "lede": "For most people: nothing. High cholesterol does its damage silently over decades. The only way to know is a blood test.",
+    "items": [
+      { "color": "orange", "icon": "eye-off",     "title": "No everyday symptoms",   "description": "Cholesterol does not make you feel anything. The first sign for many people is a heart attack or stroke in their forties or fifties." },
+      { "color": "coral",  "icon": "alert-circle","title": "Very high genetic levels","description": "Yellow patches around the eyelids or fatty bumps on the tendons (Achilles, knuckles) can be signs of familial cholesterol. A grey ring around the iris before age 45 is another." },
+      { "color": "purple", "icon": "users",       "title": "Family history is the clue","description": "Parents, siblings, or grandparents with heart attacks or strokes before 60 — especially before 50 — strongly suggests genetic high cholesterol." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Only overweight people get high cholesterol.",                         "fact": "Thin people get high cholesterol too — often from genetics. Body shape is not a reliable signal. Only a blood test is." },
+      { "myth": "Eggs are bad for cholesterol.",                                       "fact": "Dietary cholesterol from eggs has a small effect on blood cholesterol for most people. Saturated fats and trans fats matter more." },
+      { "myth": "Statins cause memory loss.",                                          "fact": "Large studies have not found a link. Statins occasionally cause muscle aches — tell your clinic if so, alternatives exist." },
+      { "myth": "If I exercise, I do not need to worry about diet.",                   "fact": "Exercise mostly raises HDL (good cholesterol) but has only a small effect on LDL. Diet, weight, and medication matter more for LDL." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to lower your numbers",
+    "lede": "Cholesterol responds well to a combination of diet, weight, exercise, and medication where needed. Most people can move their numbers significantly within months.",
+    "items": [
+      { "color": "green",  "icon": "leaf",         "title": "Mediterranean-style eating","description": "Vegetables, legumes, whole grains, nuts, fish, olive oil. Limit red meat, butter, full-cream dairy, fried foods, and processed meats." },
+      { "color": "coral",  "icon": "x-circle",     "title": "Cut trans fats entirely",    "description": "Hidden in many baked goods, margarines, and fried takeaways. Read labels — anything with 'partially hydrogenated oils' is out." },
+      { "color": "purple", "icon": "activity",     "title": "Move every day",             "description": "Exercise raises HDL (the good kind) and helps weight. Even brisk walking 30 minutes a day makes a measurable difference." },
+      { "color": "gold",   "icon": "pill",         "title": "Statins where indicated",    "description": "If your risk is high, or you have familial cholesterol, statins are the most effective treatment we have. Free at clinics." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "Get a lipid panel",                            "description": "A simple fasting blood test measures total cholesterol, LDL, HDL, and triglycerides. Free at every government clinic from age 40 — or earlier with family history." },
+      { "title": "Know your numbers",                            "description": "Write them down. LDL under 3.0 is generally the goal — under 1.8 if you already have heart disease or diabetes. Targets are personal — ask your clinic." },
+      { "title": "If high — start with food and movement",      "description": "Most people can drop LDL by 10–15% with diet and exercise alone. Give it three to six months before assuming medication is needed." },
+      { "title": "If medication is recommended — start it",     "description": "Statins work best taken every day, long term. Skipping doses cancels most of the benefit. Side effects are uncommon and usually manageable." },
+      { "title": "Recheck every 12 months",                     "description": "Once stable, an annual lipid panel checks progress and adjusts treatment if needed. Bring previous results to compare." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to start",
+    "lede": "Cholesterol care is free at South African public clinics. The hardest part is getting the first test — once you have a number, the path forward is clear.",
+    "helplines": [
+      { "name": "Find your nearest clinic",       "description": "Every clinic offers free cholesterol testing and free statins where prescribed", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" },
+      { "name": "Heart and Stroke Foundation SA", "description": "Free risk calculators, dietary guidance, and support",                              "meta": "Mon–Fri 08:00–16:30",                       "phone": "0860000254", "phone_display": "0860 000 254",  "primary": false }
+    ]
+  }
+}

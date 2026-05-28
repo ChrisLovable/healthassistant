@@ -1,0 +1,204 @@
+{
+  "slug": "breast-cancer",
+  "group_slug": "womens-health",
+  "name": "Umhlaza wamabele kunye namaqhuma",
+  "tagline": "Ukuzijonga, ukuzivavanya, kwaye wenze ntoni xa ufumana iqhuma.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukuphononongwa kweklinikhi kusalindelwe",
+  "sources": [
+    "I-CANSA (i-Cancer Association of South Africa)",
+    "I-Pink Drive",
+    "ISebe lezeMpilo leSizwe",
+    "I-WHO"
+  ],
+  "urgent": {
+    "heading": "Jonga ikliniki kule veki ukuba",
+    "primary_message": "Iqhuma elitsha lebele, ukukhutshwa kwengono, ukubola kwesikhumba, okanye utshintsho kwimilo - musa ukulinda. Yijonge. Uninzi alungomhlaza, kodwa ezo zifuna isenzo esikhawulezileyo.",
+    "phone": "0800226622",
+    "phone_display": "Tsalela umnxeba ku-0800 22 66 22",
+    "red_flags": [
+      "Iqhuma elitsha okanye ukujiya ebeleni okanye ekhwapheni",
+      "Ukutshintsha ubungakanani, imilo, okanye i-symmetry yebele elinye",
+      "I-Skin dimpling, puckering, okanye i-orange-peel texture",
+      "Ingono ijikela ngaphakathi, okanye ukukhutshwa okutsha (ingakumbi okunegazi)",
+      "Ubomvu obuqhubekayo bolusu, ukukala, okanye irhashalala kwingono",
+      "Intlungu eqhubekayo kwindawo ethile",
+      "Ukudumba kwe-lymph nodes kwikhwapha okanye ngaphezulu kwekhola"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Umhlaza wamabele ngokwemiqathango ecacileyo",
+    "lede": "Umhlaza wamabele ngumhlaza oqala kwiiseli zebele - ngokwesiqhelo kwimibhobho yobisi okanye kumadlala avelisa ubisi. Uninzi lwamaqhuma amabele ayingomhlaza, kodwa iqhuma ngalinye elitsha lifuna ukujongwa.",
+    "paragraphs": [
+      "Umhlaza wamabele ngowona mhlaza uxhaphakileyo kwabasetyhini baseMzantsi Afrika. Malunga nomntu omnye kwabangama-27 uya kuyiphuhlisa ebomini bakhe. Amadoda anokufumana umhlaza wamabele nawo, nangona unqabile kakhulu - malunga ne-1 kwi-1,000.",
+      "Xa ubanjwe kwangethuba - phambi kokuba usasazeke - umhlaza webele uyanyangeka kakhulu. Ukusinda kweminyaka emihlanu kumhlaza wamabele okwinqanaba lokuqala eMzantsi Afrika kungaphezulu kwama-80%. Umceli mngeni eMzantsi Afrika kukubhaqwa emva kwexesha: abasetyhini abaninzi babonana nogqirha kuphela xa umhlaza sele uhambele phambili, xa unyango lunzima kwaye iziphumo ziba mandundu."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine ekufanele ukuba uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 ku27",
+        "body": "Abasetyhini baseMzantsi Afrika baza kuba nomhlaza wamabele ebomini babo. Umngcipheko ukhuphuka ngokukhawuleza emva kweminyaka engama-50."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "headline": "Uninzi lwamaqhuma aluncedo",
+        "body": "Malunga ne-8 kwi-10 amaqhuma amabele ayingomhlaza - i-cysts, i-fibroadenomas, okanye utshintsho oluqhelekileyo lwebele. Kodwa lonke iqhuma elitsha lisafuna ukuhlolwa."
+      },
+      {
+        "color": "gold",
+        "icon": "clock",
+        "headline": "Kwangoko = ukusinda",
+        "body": "Iminyaka emihlanu yokusinda ingaphezulu kwama-80% xa ibanjwe kwangoko, yehla kakhulu xa ifunyenwe emva kwexesha. Ukufunyaniswa kwangoko yeyona nto inkulu kwisiphumo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Uvavanyo lwasimahla",
+        "body": "Iimviwo zamabele zaseklinikhi zasimahla kuzo zonke iikliniki. I-Mammograms yasimahla kwizibhedlele zikaRhulumente kubasetyhini abangaphezu kweminyaka engama-40 kunye nezinto ezinobungozi. Uvavanyo lweselula lwe-CANSA nalo."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uninzi lwamaqhuma amabele ayingomhlaza. Kodwa awukwazi ukuzibona ngokuziva ulilolo. Iqhuma ngalinye elitsha elingasukiyo kumjikelo omnye wokuya exesheni lifanele utyelelo lwasekliniki. Musa 'ukulinda uze ubone' kangangeenyanga.",
+      "source": "I-Pink Drive eMzantsi Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Yintoni omawuyijonge",
+    "lede": "Yazi ukuba amabele akho aqhele ukujongeka njani kwaye azive njani. Ukutshintsha kwesiqhelo sakho yinto ebalulekileyo - hayi indlela amabele akho athelekisa ngayo neyomnye umntu.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Amaqhuma kunye nokujiya",
+        "description": "Iqhuma elitsha ebeleni okanye ekhwapheni. Indawo evakala ngokwahlukileyo - iqinile, ixinene, okanye ijiyile kunethishu ejikelezileyo. Uninzi alungomhlaza kodwa zonke zifuna ukujongwa."
+      },
+      {
+        "color": "coral",
+        "icon": "eye",
+        "title": "Utshintsho kwimilo okanye ulusu",
+        "description": "Ibele elinye lijonge ngokwahlukileyo kunangaphambili - ubukhulu, imilo, okanye ukutshintsha indawo. I-Dimpling, puckering, okanye isikhumba se-orenji-peel. Ububomvu obuqhubekayo okanye irhashalala."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Iingono ziyatshintsha",
+        "description": "Ingono ijikela ngaphakathi (entsha), ukuvuza okungelobisi lwebele (ingakumbi kunegazi okanye kucace kwelinye icala), okanye irhashalala kwingono."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
+    "items": [
+      {
+        "myth": "Umhlaza wamabele wehlelwa kuphela kwabasetyhini abadala.",
+        "fact": "Umngcipheko ukhuphuka kakhulu emva kweminyaka engama-50, kodwa umhlaza wamabele uyenzeka nakweyiphi na iminyaka. Umhlaza wabasetyhini abancinci uthande ukuba ndlongondlongo - iqela ngalinye lobudala kufuneka lizazi iimpawu."
+      },
+      {
+        "myth": "Ukuba akukho mntu kusapho lwam onomhlaza wamabele, ndikhuselekile.",
+        "fact": "Kuphela malunga nomhlaza wamabele om-1 kwali-10 ngokucacileyo onxulunyaniswa nemizila yemfuza. Uninzi lwenzeka kubafazi abangenambali yosapho. Wonke umntu kufuneka azazi iimpawu."
+      },
+      {
+        "myth": "Ukunxiba ibra okanye ukusebenzisa ideodorant kubangela umhlaza wamabele.",
+        "fact": "Akukho nokuba kuboniswe ukuba kubangele umhlaza webele kulo naluphi na uphando oluthembekileyo. Ezi ziintsomi eziphazamisana nezinto ezibalulekileyo - ukufunyanwa kwangoko kunye nezinto ezaziwayo zomngcipheko."
+      },
+      {
+        "myth": "Igaqa elincinane alinaxhala.",
+        "fact": "Ubungakanani abukuxeleli ukuba iqhuma ngumhlaza. Ezinye ii-cancer ezinobundlobongela zincinci xa zifunyenwe; amaqhuma amaninzi amakhulu ayingomhlaza. Khangela naliphi na iqhuma elitsha - nokuba lingakanani na."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokunciphisa umngcipheko kwaye uyibambe kwangoko",
+    "lede": "Eminye imingcipheko awukwazi ukuyitshintsha (iminyaka yobudala, imfuza, isondo). Abaninzi unako. Ukufunyaniswa kwangethuba yeyona nto inamandla yokusinda.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "search",
+        "title": "Yazi isiqhelo sakho",
+        "description": "Jonga kwaye uve amabele akho kanye ngenyanga, ngokufanelekileyo emva kokuba usexesheni. Utshintsho kwisiqhelo sakho yeyona nto ibalulekileyo - ziqhelanise nokuba yintoni 'eqhelekileyo' kuwe."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "title": "Uvavanyo lweklinikhi eklinikhi",
+        "description": "Uvavanyo lwebele lwasimahla kuyo nayiphi na iklinikhi karhulumente - ngonyaka ukusuka kwiminyaka engama-30. Abasebenzi bezempilo bafumana izinto onokuthi uziphose."
+      },
+      {
+        "color": "orange",
+        "icon": "scan",
+        "title": "I-mammogram ukusuka kwi-40",
+        "description": "Iimammograms zicetyiswa rhoqo kwiminyaka emi-2 ukusuka kwiminyaka engama-40, ngonyaka ukuba kukho ingozi enkulu. Izibhedlele zikaRhulumente zinika i-mammograms yamahhala kubasetyhini abasengozini."
+      },
+      {
+        "color": "gold",
+        "icon": "leaf",
+        "title": "Imiba yokuphila",
+        "description": "Gcina ubunzima obunempilo, ukunciphisa utywala (ngaphantsi kwe-1 isiselo ngosuku), sebenza ngokomzimba, uncelise ukuba unako. Oku kunciphisa umngcipheko ngokuthozama kodwa ngokunentsingiselo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Amanyathelo akho alandelayo",
+    "items": [
+      {
+        "title": "Ukuba ufumana iqhuma elitsha",
+        "description": "Qaphela xa uyifumene. Bona ikliniki kwiiveki ezimbini ezizayo. Ukuba sele usondele okanye udlulile ekuyekeni ukuya exesheni, sukulinda kuwo nawuphi na 'umjikelo' — bona umntu ngokukhawuleza."
+      },
+      {
+        "title": "Zihlole qho ngenyanga",
+        "description": "Kanye ngenyanga, emva kwexesha lakho. Jonga esipilini uphakamise iingalo. Yiva ibele ngalinye kunye nekhwapha xa usenza isangqa. Ukuma nokungqengqa. Imizuzu emihlanu."
+      },
+      {
+        "title": "Uvavanyo lweklinikhi lonyaka ukusuka kwi-30",
+        "description": "Ngena kuyo nayiphi na ikliniki. Cela uvavanyo lwebele lwekliniki. Isimahla, ithatha imizuzu, kwaye ifumana izinto ongenakuziva ngokwakho."
+      },
+      {
+        "title": "Mammogram ukusuka kwiminyaka engama-40",
+        "description": "Rhoqo kwiminyaka emi-2 ukusuka kuma-40, ngonyaka ukuba kusemngciphekweni omkhulu (imbali yosapho, amabele axineneyo, ufuzo lwe-BRCA). Kuyakhathaza kodwa kuyakhawuleza - kwaye kusindisa ubomi."
+      },
+      {
+        "title": "Ukuba ufunyanisiwe - yiya kwiziko lomhlaza",
+        "description": "Unyango lusebenza kakhulu kumaziko amakhulu omhlaza esibhedlele. Buza malunga nokuthunyelwa. I-CANSA inokunceda ukukhangela inkqubo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Masiye phi",
+    "lede": "Ukhathalelo lomhlaza wamabele eMzantsi Afrika lucwangciswe kakuhle kumaziko amakhulu. Kwangoko kwinkqubo oyifakayo, kokukhona iziphumo zingcono.",
+    "helplines": [
+      {
+        "name": "Umnxeba woNcedo we-CASA",
+        "description": "Ulwazi lomhlaza, inkxaso, ukuhanjiswa kovavanyo lweselula",
+        "meta": "Mon–Fri 08:00–16:30 · simahla kuyo nayiphi na ifowuni",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "I-Pink Drive",
+        "description": "Ukuhlolwa kwamabele okuhamba simahla kunye neemviwo zeklinikhi kulo lonke elaseMzantsi Afrika",
+        "meta": "Mvulo–Fri 08:00–16:30",
+        "phone": "0867466374",
+        "phone_display": "086 PINKDRIVE",
+        "primary": true
+      },
+      {
+        "name": "Fumana eyona kliniki ikufutshane nawe",
+        "description": "Iimviwo zamabele zeklinikhi zasimahla kunye nokuthunyelwa kwimammograms",
+        "meta": "Akukho kuqeshwa · akukho ncedo lwezonyango olufunekayo",
+        "phone": null,
+        "phone_display": "Fumana ikliniki",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
+    ]
+  }
+}
+

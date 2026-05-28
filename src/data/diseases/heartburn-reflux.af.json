@@ -1,0 +1,188 @@
+{
+  "slug": "heartburn-reflux",
+  "group_slug": "pain",
+  "name": "Sooibrand en refluks",
+  "tagline": "Algemeen. Behandelbaar. Wanneer dit iets meer is.",
+  "hero_image": "/images/diseases/hero-heartburn-reflux.webp",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "South African Gastroenterology Society",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Sooibrand en refluks in eenvoudige terme",
+    "lede": "Sooibrand is ’n brandende gevoel in die bors of keel wat veroorsaak word deur maagsuur wat agteruit in die voedselpyp vloei. Wanneer dit dikwels gebeur, word dit reflukssiekte (gastro-oesofageale reflukssiekte) genoem.",
+    "paragraphs": [
+      "Die klep tussen die maag en voedselpyp is veronderstel om toe te bly. Wanneer dit te dikwels of te lank ontspan, ontsnap suur opwaarts. Resultaat: ’n warm, brandende gevoel agter die borsbeen — dikwels ná maaltye, dikwels erger wanneer lê.",
+      "Sporadiese sooibrand ná ’n groot maaltyd is normaal. Sooibrand wat twee keer per week of meer gebeur, of wat jou snags wakker maak, verdien aandag. Dit kan die voedselpyp oor jare beskadig. Die goeie nuus: lewenstyl-veranderinge plus eenvoudige medisyne werk baie goed vir die meeste mense."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 uit 4",
+        "body": "Suid-Afrikaners ervaar sooibrand ten minste een keer per week. Veel meer het dit af en toe. Dit is baie algemeen."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Behandelbaar",
+        "body": "Lewenstyl-veranderinge plus eenvoudige medisyne (protonpompremmers, soos omeprazool) werk baie goed. Die meeste mense kry aansienlike verligting binne 2 weke."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Kan hart naboots",
+        "body": "Erge sooibrand kan soos ’n hartaanval voel. By twyfel — veral met sweet, kortasem, kaak- of armpyn — behandel dit as moontlik hartverwant en bel 10177."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Let op waarskuwings",
+        "body": "Moeilikheid om te sluk, gewigsverlies, bloed braak, swart stoele — dit is nie sooibrand nie. Sien ’n dokter sonder versuim."
+      }
+    ],
+    "pull_quote": {
+      "text": "As jy elke dag sooibrand-medisyne neem vir meer as ’n paar weke, kry ’n behoorlike assessering. Langtermyn-suurrefluks kan die voedselpyp beskadig en selde tot kanker lei — albei voorkombaar met die regte sorg.",
+      "source": "South African Gastroenterology Society"
+    }
+  },
+  "signs": {
+    "heading": "Waarop om te let",
+    "lede": "Sooibrand het ’n tipiese patroon — maar sommige simptome waarsku van iets ernstiger.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Tipiese sooibrand",
+        "description": "Brand agter die borsbeen, dikwels ná maaltye. Suur of bitter smaak agter in die keel. Erger wanneer lê, buk, of ná groot of vetterige maaltye. Verligting van teensure."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Refluks-kenmerke",
+        "description": "Suur wat in die keel of mond opkom, veral snags. Aanhoudende hoes of heesheid. Soms fluit of asma-agtige simptome. Erger met gewigstoename of swangerskap."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Waarskuwings — sien ’n dokter",
+        "description": "Moeilik of pynvol om te sluk, kos wat vassit, gewigsverlies, bloed braak, swart swart, teeragtige stoelgang, erge borspyn — moontlike hartaanval. Niks hiervan is 'net sooibrand' nie."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Melk kalmeer sooibrand.",
+        "fact": "Melk buffer kortliks die suur, dan maak dit dinge dikwels erger — melkvet veroorsaak meer suur-vrystelling. Gebruik teensure wat vir die werk ontwerp is (bv. Gaviscon)."
+      },
+      {
+        "myth": "Refluks is net ongemak — dit veroorsaak nie werklike skade nie.",
+        "fact": "Jare van onbehandelde refluks kan die voedselpyp-voering beskadig (esofagitis), vernouing veroorsaak, en selde tot ’n voorkanker-toestand lei. Die moeite werd te behandel, nie net te verduur nie."
+      },
+      {
+        "myth": "Sooibrand is altyd ná pittige kos.",
+        "fact": "Algemene veroorsakers wissel: koffie, vetterige kos, sjokolade, alkohol, pepermint, sitrus, groot maaltye, laat eet. Verskillende mense het verskillende veroorsakers. ’n Kos-dagboek help."
+      },
+      {
+        "myth": "As ek gewig verloor, sal die sooibrand vanself weggaan.",
+        "fact": "Gewigsverlies help wel aansienlik, veral rondom die middel. Maar baie skraal mense het ook refluks — en gewig is nie die enigste faktor nie. Kombineer gewigsbestuur met ander veranderinge."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Daaglikse gewoontes wat help",
+    "lede": "Lewenstyl-veranderinge is dikwels kragtiger as medisyne vir ligte tot matige refluks. Die moeite werd vir 4 weke te probeer voor jy op pille vir altyd besluit.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "utensils",
+        "title": "Kleiner maaltye, eet stadig",
+        "description": "Groot maaltye oorvul die maag en stoot suur op. Probeer kleiner porsies, eet stadig, moenie terug vir tweede helpings by dieselfde sitting nie."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "Moenie binne 3 uur voor bed eet nie",
+        "description": "Om met ’n vol maag te lê is ’n resep vir nag-refluks. Laaste maaltyd ten minste 3 uur voor bed. Net ’n ligte versnapering indien nodig."
+      },
+      {
+        "color": "orange",
+        "icon": "bed",
+        "title": "Lig die kop van die bed op",
+        "description": "Sit 10–15cm blokke onder die kopkant se bene (nie net ekstra kussings nie — dit buig die nek). Swaartekrag hou suur snags af."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Sny jou veroorsakers",
+        "description": "Algemeen: koffie, alkohol, vetterige kos, sjokolade, pepermint, sitrus, pittige kos, rook, stywe middelbande. Stop rook heeltemal — dit verswak die klep direk."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Wat om te doen",
+    "items": [
+      {
+        "title": "Probeer lewenstyl-veranderinge vir 4 weke",
+        "description": "Kleiner maaltye, geen laat eet, opgeligte bed, identifiseer veroorsakers. Ongeveer die helfte van mense kry groot verligting van hierdie alleen — geen medisyne nodig nie."
+      },
+      {
+        "title": "Probeer oor-die-toonbank teensure vir sporadiese",
+        "description": "Gaviscon, Rennies, of soortgelyk werk vinnig vir sporadiese episodes. Beskikbaar by enige apteek. Moenie hulle elke dag gebruik nie — dis ’n teken dat jy ’n ander benadering nodig het."
+      },
+      {
+        "title": "As simptome 2+ keer per week — sien ’n kliniek",
+        "description": "PPI's (omeprasool, esomeprasool) gebruik vir 4–8 weke is dikwels baie effektief. Gratis by staatsklinieke. Moenie hulle vir altyd neem sonder mediese hersiening nie."
+      },
+      {
+        "title": "As waarskuwings verskyn — gaan sonder versuim",
+        "description": "Moeilikheid om te sluk, gewigsverlies, bloed braak, swart stoele — hierdie benodig dringende assessering, soms ’n endoskopie. Moenie oor-die-toonbank behandeling hiervoor probeer nie."
+      },
+      {
+        "title": "As borspyn — aanvaar hart eerste",
+        "description": "Hartaanval en sooibrand kan eenders voel. Met sweet, kortasem, kaak- of armpyn, of enige onsekerheid — bel 10177. Beter veilig."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Die meeste refluks kan op kliniek-vlak bestuur word. Aanhoudende simptome of waarskuwings baat by ’n spesialis-verwysing.",
+    "helplines": [
+      {
+        "name": "Noodambulans",
+        "description": "As borspyn dalk ’n hartaanval is",
+        "meta": "Gratis · 24 uur",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis assessering, lewenstyl-advies, en voorskrifbehandeling",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "Enige plaaslike apteek",
+        "description": "Oor-die-toonbank teensure vir sporadiese gebruik",
+        "meta": "Geen voorskrif nodig vir OTC",
+        "phone": null,
+        "phone_display": "Besoek 'n apteek",
+        "primary": false
+      }
+    ]
+  }
+}

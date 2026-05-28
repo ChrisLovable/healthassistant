@@ -1,0 +1,93 @@
+{
+  "slug": "fungal-skin",
+  "group_slug": "skin",
+  "name": "Fungal skin infections",
+  "tagline": "Athlete's foot, ringworm, jock itch. Cheap to treat.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["Dermatological Society of South Africa", "WHO", "NICD", "National Department of Health"],
+
+  "what_is_it": {
+    "heading": "Fungal skin infections in plain terms",
+    "lede": "Fungal skin infections are caused by tiny harmless fungi that live on warm, moist parts of the body. When they overgrow, they cause itchy, scaly, often ring-shaped patches. Annoying but generally easy to treat.",
+    "paragraphs": [
+      "Common types: athlete's foot (between toes), jock itch (groin), ringworm (anywhere — actually a fungus, not a worm), nail fungus, scalp ringworm in children. Despite different names, they're all caused by similar fungi.",
+      "Most respond to over-the-counter antifungal cream applied for 2–4 weeks. Some — nail fungus, scalp infections — need prescription tablets. People with diabetes, weakened immune systems, or HIV may get more severe or recurring infections."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "users",        "headline": "Very common",     "body": "Athlete's foot alone affects up to 70% of adults at some point. Ringworm and jock itch are common worldwide." },
+      { "color": "green",  "icon": "check-circle", "headline": "Easy to treat",   "body": "Most fungal skin infections clear with over-the-counter cream in 2–4 weeks. Cheap, available at any pharmacy." },
+      { "color": "coral",  "icon": "alert-circle", "headline": "Contagious",      "body": "Fungus spreads on towels, shower floors, gym mats, shared shoes. Treat it — and don't share towels or footwear during treatment." },
+      { "color": "gold",   "icon": "shield",       "headline": "Keep dry",         "body": "Fungus loves warm, moist skin. Dry thoroughly after bathing, change sweaty socks and underwear, air out shoes. Prevention is mostly about dryness." }
+    ],
+    "pull_quote": {
+      "text": "If a 'ring' on the skin doesn't clear with antifungal cream in 4 weeks, see a doctor. Some other skin conditions look like ringworm — and steroid cream will make a real ringworm worse.",
+      "source": "Dermatological Society of South Africa"
+    }
+  },
+
+  "signs": {
+    "heading": "Common patterns",
+    "lede": "Fungal infections all share an itchy, scaly, often ring-shaped look — but where they show up varies.",
+    "items": [
+      { "color": "orange", "icon": "footprints",  "title": "Athlete's foot",    "description": "Itchy, cracking, peeling skin between toes — especially the 4th and 5th. Can spread to soles. Smells. Worsens in summer and with sweaty shoes." },
+      { "color": "purple", "icon": "circle",      "title": "Ringworm (tinea corporis)","description": "Round red (or darker, on Black skin) scaly patch with a clear centre — looks like a ring. Slowly grows outwards. Common on arms, neck, body. Itchy." },
+      { "color": "coral",  "icon": "user",        "title": "Jock itch and scalp tinea","description": "Jock itch: red, itchy rash in the groin folds — common in men, after sweating. Scalp ringworm: patchy hair loss with scaling — common in children, needs tablets." }
+    ]
+  },
+
+  "spreads": {
+    "heading": "How fungal infections spread",
+    "yes": [
+      "Direct skin-to-skin contact with an infected person",
+      "Shared towels, bed linen, clothing, hairbrushes",
+      "Walking barefoot on contaminated floors — public showers, gym changing rooms, swimming pool decks",
+      "Shared shoes, especially sports gear",
+      "From pets (cats and dogs can carry ringworm)",
+      "From sweaty equipment in gyms or sport"
+    ],
+    "no": [
+      "Casual contact like shaking hands or hugging",
+      "Sharing food or drinks",
+      "Being in the same room",
+      "Air or breath"
+    ]
+  },
+
+  "prevention": {
+    "heading": "How to avoid getting it again",
+    "lede": "Fungus comes back if conditions remain warm and moist. Small daily habits prevent most recurrences.",
+    "items": [
+      { "color": "green",  "icon": "droplet", "title": "Dry thoroughly after washing","description": "Especially between toes, in groin, under breasts, in skin folds. Pat dry. A dry skin is an unfriendly home for fungus." },
+      { "color": "purple", "icon": "shirt",    "title": "Clean cotton, change often",   "description": "Cotton socks and underwear breathe better than synthetics. Change daily and after sweating. Don't re-wear sweaty gym clothes." },
+      { "color": "orange", "icon": "footprints","title": "Don't go barefoot in public",  "description": "Public showers, gym changing rooms, swimming pool decks — wear slops or sandals. Most fungal foot infections come from these places." },
+      { "color": "gold",   "icon": "x-circle", "title": "Don't share towels or shoes",   "description": "Even with family members. If someone has a fungal infection, use separate towels until it has cleared." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "What to do",
+    "items": [
+      { "title": "Start over-the-counter antifungal cream",     "description": "Clotrimazole or terbinafine — apply twice a day to the affected area plus 2cm around it. Keep going for 2 weeks after the rash clears to prevent return." },
+      { "title": "Keep the area dry and exposed to air",        "description": "Don't bandage. Wear loose clothing. Let the skin breathe. Powder (not cream) in the morning can help in groin or feet for sweat absorption." },
+      { "title": "Treat the source",                            "description": "Wash all towels, bedding, and clothes that touched the infection in hot water. Throw out or disinfect old shoes if athlete's foot keeps coming back." },
+      { "title": "If not better in 4 weeks — see a doctor",     "description": "Some look-alike conditions don't respond to antifungal. Nail fungus and scalp ringworm need tablets. Government clinics provide both free." },
+      { "title": "If you have diabetes or HIV — go early",      "description": "Fungal infections can be more severe and spread faster. Go to clinic at the first sign — don't wait to try over-the-counter for weeks." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "Most fungal skin infections clear with cheap over-the-counter cream. If they don't, government clinics provide free prescription treatment.",
+    "helplines": [
+      { "name": "Any local pharmacy",         "description": "Over-the-counter antifungal creams — clotrimazole, terbinafine",  "meta": "No prescription needed for cream", "phone": null, "phone_display": "Visit a pharmacy", "primary": true },
+      { "name": "Find your nearest clinic",   "description": "Free assessment and prescription antifungal treatment if needed", "meta": "No appointment · no medical aid required", "phone": null, "phone_display": "Find a clinic", "primary": true, "link": "/clinic-finder" }
+    ]
+  }
+}

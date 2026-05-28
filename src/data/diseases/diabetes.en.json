@@ -6,8 +6,24 @@
   "read_time_minutes": 5,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Name], MBChB",
+  "reviewer": "Pending clinical review",
   "sources": ["Diabetes SA", "International Diabetes Federation", "WHO", "National Department of Health"],
+
+  "urgent": {
+    "heading": "Call 10177 or go straight to hospital if",
+    "primary_message": "Very high or very low blood sugar can become life-threatening within hours. These signs mean — don't wait.",
+    "phone": "10177",
+    "phone_display": "Call 10177",
+    "red_flags": [
+      "Excessive thirst with fast breathing — may be diabetic ketoacidosis (DKA)",
+      "Fruity or nail-polish breath (typical of DKA)",
+      "Severe nausea and vomiting with abdominal pain",
+      "Confusion, drowsiness, or difficulty waking up",
+      "Low blood sugar — shaking, sweating, confusion that doesn't improve with sugar",
+      "Seizures or loss of consciousness",
+      "A foot or leg that suddenly shows infection or a black patch (diabetic foot)"
+    ]
+  },
 
   "what_is_it": {
     "heading": "Diabetes in plain terms",

@@ -82,7 +82,7 @@ export async function POST(request: NextRequest) {
 
   try {
     const body = await request.json();
-    const { message, history = [] } = body as { message: string; history?: Message[] };
+    const { message, history = [], lang = "en" } = body as { message: string; history?: Message[]; lang?: string };
 
     if (!message || typeof message !== "string") {
       return NextResponse.json({ error: "Message is required" }, { status: 400 });
@@ -103,7 +103,7 @@ export async function POST(request: NextRequest) {
       body: JSON.stringify({
         model: "claude-sonnet-4-20250514",
         max_tokens: 1024,
-        system: SYSTEM_PROMPT,
+        system: SYSTEM_PROMPT + (lang === "af" ? "\n\n## Language\nRespond entirely in Afrikaans (South African Afrikaans). Give all guidance, including emergency advice, in clear, simple Afrikaans. Keep phone numbers, proper nouns and abbreviations (HIV, TB, COVID-19, PrEP, PEP) unchanged." : ""),
         messages: messages.map((m) => ({
           role: m.role,
           content: m.content,

@@ -1,0 +1,86 @@
+{
+  "slug": "vaccinations",
+  "group_slug": "child-baby",
+  "name": "Childhood vaccinations",
+  "tagline": "The free SA schedule. Every shot matters.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Pending clinical review",
+  "sources": ["National Department of Health (EPI-SA)", "NICD", "WHO", "South African Paediatric Association"],
+
+  "what_is_it": {
+    "heading": "Childhood vaccinations in plain terms",
+    "lede": "Vaccines train a child's immune system to fight diseases before they meet them in real life. South Africa's Expanded Programme on Immunisation (EPI-SA) protects against the deadliest childhood diseases — all free at every government clinic.",
+    "paragraphs": [
+      "A vaccine teaches the body to recognise a virus or bacteria by showing it a harmless version. When the real thing comes along, the immune system is ready. Vaccines have prevented millions of deaths globally — measles alone used to kill 2.6 million children a year before the vaccine.",
+      "The SA schedule starts at birth and continues through school age. Stick to it. Missing one shot does not undo the others, but it leaves a gap in protection. If you've fallen behind, you can usually catch up — speak to the clinic. The Road to Health book tracks every dose."
+    ]
+  },
+
+  "facts": {
+    "heading": "Four things worth knowing",
+    "items": [
+      { "color": "purple", "icon": "shield-check",  "headline": "Many diseases",       "body": "The free SA schedule protects against TB, polio, measles, hepatitis B, pneumococcal, rotavirus, HPV, and more." },
+      { "color": "gold",   "icon": "gift",          "headline": "All free",             "body": "Every vaccine on the schedule is free at every government clinic. No medical aid, no appointment needed for routine shots." },
+      { "color": "green",  "icon": "book-open",     "headline": "Road to Health book", "body": "Every SA child gets a Road to Health book at birth. Bring it to every clinic visit — it tracks every vaccine, weight, and milestone." },
+      { "color": "coral",  "icon": "alert-triangle","headline": "Measles is back",     "body": "Falling vaccination rates have brought measles outbreaks back to SA. Measles can kill, blind, or cause brain damage. The vaccine is safe and effective." }
+    ],
+    "pull_quote": {
+      "text": "Vaccines are the most cost-effective health intervention in human history. Every Rand spent on childhood immunisation saves many more in healthcare costs — and far more in lives.",
+      "source": "WHO"
+    }
+  },
+
+  "signs": {
+    "heading": "The SA childhood schedule",
+    "lede": "Here is when your child gets each vaccine. The 6-week, 10-week, 14-week, 9-month, and 18-month visits are the key ones — don't skip them.",
+    "items": [
+      { "color": "purple", "icon": "baby",            "title": "At birth",              "description": "BCG (against TB) and the first oral polio drops. Given before mother and baby leave the maternity ward." },
+      { "color": "orange", "icon": "calendar",        "title": "6, 10, and 14 weeks",  "description": "Pentavalent (5-in-1: diphtheria, tetanus, pertussis, Hib, hepatitis B), rotavirus drops, pneumococcal, polio. All the same clinic visit." },
+      { "color": "green",  "icon": "smile",           "title": "9 and 18 months",       "description": "Measles vaccine at both visits, plus boosters at 18 months. Critical for measles protection — never skip these." },
+      { "color": "gold",   "icon": "graduation-cap", "title": "School ages",            "description": "Tetanus and diphtheria boosters at 6 and 12 years. HPV vaccine in Grade 5 for girls (and boys in many provinces) — through the school programme." }
+    ]
+  },
+
+  "myths": {
+    "heading": "What is true and what is not",
+    "items": [
+      { "myth": "Vaccines cause autism.",                                                    "fact": "Decades of large studies in millions of children show no link between vaccines and autism. The original 1998 study was found to be fraudulent and was retracted. The author lost his medical licence." },
+      { "myth": "Natural infection gives better immunity than vaccines.",                    "fact": "Natural infection sometimes gives stronger immunity — but at the cost of the disease itself. Measles can kill or cause brain damage. Polio can paralyse. Vaccines give immunity without the danger." },
+      { "myth": "Too many vaccines too close together overwhelms the immune system.",         "fact": "A baby's immune system handles thousands of new germs daily from breathing alone. The few proteins in a vaccine are a drop in the ocean. The schedule is timed to protect at the most vulnerable ages." },
+      { "myth": "If everyone else is vaccinated, my child doesn't need it.",                  "fact": "Herd immunity works only when most people are vaccinated. As vaccination rates drop, diseases come back — as we are seeing with measles in SA. Don't be the gap." }
+    ]
+  },
+
+  "prevention": {
+    "heading": "Getting and tracking vaccines",
+    "lede": "Vaccines work best when given on time and in the right order. The clinic system makes it simple if you bring the book.",
+    "items": [
+      { "color": "green",  "icon": "book-open",   "title": "Keep the Road to Health book","description": "Every clinic visit goes in this book. It is your child's medical passport for the first 6 years. Keep it safe and bring it every time." },
+      { "color": "purple", "icon": "calendar",    "title": "Stick to the schedule",        "description": "On-time vaccination protects at the most vulnerable ages. If you've missed a dose, the clinic catches you up — don't wait for next year." },
+      { "color": "orange", "icon": "thermometer", "title": "Mild reactions are normal",    "description": "Slight fever, redness, or fussiness in the day or two after vaccination is normal. Paracetamol helps. Severe reactions are very rare — go to clinic if you're worried." },
+      { "color": "gold",   "icon": "syringe",     "title": "Catch-up and travel vaccines","description": "If your child missed shots or you're travelling abroad, ask the clinic about catch-up schedules and travel vaccines. Most missed doses can be given later." }
+    ]
+  },
+
+  "action_steps": {
+    "heading": "Your next steps",
+    "items": [
+      { "title": "Check the Road to Health book",                "description": "Open the immunisation page. See which shots your child has had and which are due. If you don't have a book, ask the clinic — they'll issue one." },
+      { "title": "If your child is overdue — go now",            "description": "Walk into any clinic with the book. Most missed vaccines can be given the same day. No judgement, no extra cost." },
+      { "title": "If you've lost the book",                       "description": "Many clinics have electronic records and can usually look up what's been given. Replacement books are free." },
+      { "title": "If your child had a reaction before",           "description": "Tell the clinic. Most past reactions don't prevent future doses — alternatives or precautions are available." },
+      { "title": "If your daughter is in Grade 5",                "description": "Make sure she gets the free HPV vaccine through the school programme. Two doses, six months apart. Prevents most cervical cancer." }
+    ]
+  },
+
+  "get_help": {
+    "heading": "Where to go",
+    "lede": "The SA immunisation programme is one of the most accessible parts of the health system. Just bring your child and the Road to Health book.",
+    "helplines": [
+      { "name": "Find your nearest clinic", "description": "Free childhood vaccinations on the EPI schedule", "meta": "No appointment · no medical aid required", "phone": null,         "phone_display": "Find a clinic", "primary": true,  "link": "/clinic-finder" },
+      { "name": "NICD Hotline",              "description": "Vaccine information, safety queries, travel vaccines","meta": "Mon–Fri 08:00–16:00",                       "phone": "0800029999", "phone_display": "0800 029 999",  "primary": false }
+    ]
+  }
+}

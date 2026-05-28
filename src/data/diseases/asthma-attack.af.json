@@ -1,90 +1,178 @@
 {
   "slug": "asthma-attack",
-  "group_slug": "emergency",
+  "group_slug": "emergency-signs",
   "name": "Asma-aanval",
-  "tagline": "Blou puffer met spasers. Geen verbetering in 10 min? Bel 10177.",
+  "tagline": "Fluitende asemhaling wat nie bedaar nie — tree vinnig op.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
-  "reviewer": "Dr [Naam], MBChB",
-  "sources": ["Global Initiative for Asthma (GINA)", "WHO", "National Asthma Education Programme SA"],
-
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "National Asthma Education Programme SA",
+    "Global Initiative for Asthma (GINA)",
+    "WHO",
+    "National Department of Health"
+  ],
   "urgent": {
-    "heading": "Bel 10177 dadelik as",
-    "primary_message": "Gee die blou ontspanner-puffer met spaser. As daar geen verbetering binne 10 minute is nie — bel die ambulans dadelik.",
+    "heading": "Dringend — bel nou",
+    "primary_message": "Gebruik die blou verligtingspompie. As daar binne 10 minute geen verbetering is nie — bel 10177.",
     "phone": "10177",
     "phone_display": "Bel 10177",
     "red_flags": [
-      "Te kort van asem om in vol sinne te praat",
+      "Te kort van asem om vol sinne te praat",
       "Lippe, vingernaels of gesig draai blou of grys",
-      "Vel suig in tussen of onder die ribbes met elke asemhaling",
-      "Ontspanner-puffer help glad nie",
-      "Slaperig, verward, of uitgeput van die asemhalingmoeite",
-      "Stille bors — geen fluitgeluid meer nie omdat lugvloei te laag is",
-      "Hoes so erg dat die persoon nie kan stop of slaap nie"
+      "vel trek in tussen of onder die ribbes met elke asemhaling",
+      "verligtingspompie help nie, of werk minder as 4 uur",
+      "Slaperigheid, verwarring of uitputting van die asemhalingspoging",
+      "stil borskas — die fluitgeluid stop omdat lugvloei te laag is"
     ]
   },
-
   "what_is_it": {
-    "heading": "Asma-aanval in eenvoudige terme",
-    "lede": "'n Asma-aanval gebeur wanneer die lugweë in die longe vernou — die spierwand trek saam, die slymvlies swel, en daar word ekstra slym geproduseer. Resultaat: dit raak swaar om asem te haal.",
+    "heading": "Asma-aanval in gewone taal",
+    "lede": "’n Asma-aanval gebeur wanneer die lugweë in die longe skielik toetrek, swel en met slym vul — dit maak dit moeilik om lug in en uit te kry.",
     "paragraphs": [
-      "Aanvalle word gewoonlik veroorsaak deur veroorsakers — viruskoue, stof, rook, koue lug, oefening, troeteldierhare, of stres. Sommige aanvalle bou stadig op oor dae. Ander bars binne minute oop.",
-      "Die blou ontspanner-puffer (gewoonlik salbutamol) open lugweë binne minute. Vroeë en korrekte gebruik van die puffer voorkom dat 'n aanval na 'n noodgeval lei. As die puffer nie help nie — is dit 'n hospitaalsaak."
+      "Die meeste asma-aanvalle het ’n sneller — ’n virus, rook, stuifmeel, stof, koue lug, oefening of emosionele stres. Die lugwegspiere spasmeer, die binnekant van die lugweë swel, en slym verstop die oorblywende opening.",
+      "’n verligtingspompie (gewoonlik blou) ontspan die lugwegspiere binne minute. As dit nie help nie, of as aanvalle meer gereeld word, het die persoon dringend hulp nodig — erge aanvalle kan dodelik wees."
     ]
   },
-
   "facts": {
     "heading": "Vier dinge om te weet",
     "items": [
-      { "color": "purple", "icon": "wind",          "headline": "Lugweë vernou",  "body": "Asma-aanvalle is wat gebeur wanneer die lugweë vernou en verstop met slym. Mediese behandeling werk vinnig." },
-      { "color": "gold",   "icon": "pill",          "headline": "Blou is redder",  "body": "Die blou ontspanner-puffer open lugweë binne minute. Gebruik dit vroeg in 'n aanval, met 'n spaser. Hou een by elke plek." },
-      { "color": "green",  "icon": "shield",        "headline": "Spaser altyd",   "body": "'n Spaser verdubbel die medisyne wat by die longe uitkom. Gratis by klinieke. Gebruik altyd een — selfs vir volwassenes." },
-      { "color": "coral",  "icon": "alert-circle",  "headline": "Bruin elke dag", "body": "Die bruin voorkomer-puffer hou lugweë kalm. Gebruik elke dag, selfs as jy goed voel. Dit voorkom aanvalle." }
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 uit 10",
+        "body": "Ongeveer 1 uit 10 Suid-Afrikaanse kinders het asma. Baie volwassenes het dit sonder om dit te besef."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Steeds dodelik",
+        "body": "Honderde Suid-Afrikaners sterf elke jaar aan asma — die meeste sterftes is voorkombaar met regte behandeling."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Twee inhaleerders",
+        "body": "’n Blou verligter (vir aanvalle) en ’n bruin voorkomingspompie (daagliks) — die voorkomingspompie hou jou uit die moeilikheid."
+      },
+      {
+        "color": "green",
+        "icon": "activity",
+        "headline": "Leef voluit",
+        "body": "Goed-beheerde asma behoort jou nie te keer om sport, skool, werk of slaap te doen nie. As dit wel gebeur, moet jou behandeling aangepas word."
+      }
     ],
     "pull_quote": {
-      "text": "Die meeste asma-aanvalle wat erg genoeg is vir hospitalisering kon voorkom geword het deur daaglikse gebruik van die voorkomer-puffer. Moenie ophou omdat jy goed voel nie — dis presies wat dit veronderstel is om te doen.",
+      "text": "As jy jou verligtingspompie meer as twee keer per week nodig het, is jou asma nie goed beheer nie. Gaan sien ’n dokter — moenie net aanhou om die blou een op te vul nie.",
       "source": "Global Initiative for Asthma"
     }
   },
-
   "signs": {
-    "heading": "Hoe ernstig is die aanval?",
-    "lede": "Aanvalle is op 'n spektrum. Vroeë erkenning en behandeling hou dit op die ligte kant van die skaal.",
+    "heading": "Hoe ’n aanval lyk",
+    "lede": "Asma-aanvalle bou gewoonlik oor ure op, soms oor dae. Hoe vroeër jy behandel, hoe makliker stop dit.",
     "items": [
-      { "color": "green",  "icon": "smile",          "title": "Lig — hanteer tuis",    "description": "Effe kortasem, hoes, fluitgeluid. Kan in vol sinne praat. Blou puffer met spaser werk binne minute. Hervat normale aktiwiteit ná." },
-      { "color": "orange", "icon": "alert-circle",   "title": "Matig — gaan kliniek toe","description": "Erger kortasem, sinne korter, polsslag vinniger, fluit duidelik hoorbaar. Puffer help maar werk uit binne 'n uur. Kliniek besoek vir verdere behandeling." },
-      { "color": "coral",  "icon": "alert-triangle","title": "Erg — hospitaal nou",   "description": "Kan nie meer in sinne praat nie, lippe blou, vel suig in tussen ribbes, slaperig of paniekerig. Stille bors. Bel 10177 dadelik — dit is lewensgevaarlik." }
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Fluitende asemhaling",
+        "description": "’n Fluitgeluid wanneer jy uitasem, soms ook inasem. ’n stil borskas tydens ’n erge aanval beteken lugvloei is gevaarlik laag."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Kortasem",
+        "description": "Sukkel om diep asem te kry. Kan nie ’n sin klaarmaak sonder om te stop nie. Bors voel benoud."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hoes wat nie ophou nie",
+        "description": "Droë, aanhoudende hoes, dikwels erger snags of vroegoggend. Soms die enigste teken by kinders."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "title": "Lyftaal",
+        "description": "Vooroor gebuk, skouers opgetrek, vel wat tussen ribbes in trek met elke asem, vinnige asemhaling, uitputting."
+      }
     ]
   },
-
   "myths": {
     "heading": "Wat is waar en wat is nie",
     "items": [
-      { "myth": "As jy nie meer fluit nie, is jy beter.",                                  "fact": "Die teenoorgestelde kan waar wees. 'n Stille bors beteken die lugvloei is só laag dat daar nie meer geluid is nie. Dit is 'n krisis-teken — nie 'n verbetering nie." },
-      { "myth": "Steroïed-puffer is gevaarlik vir kinders.",                                "fact": "Inhaleerstereroïede gebruik baie laer dosisse as pille. Die effek is in die longe, nie in die hele liggaam nie. Onbehandelde asma is veel meer gevaarlik vir 'n kind se groei." },
-      { "myth": "Asma genees as jy fiks raak.",                                              "fact": "Oefening help asma-beheer, maar genees dit nie. Mens kan goeie kontrole hê en sport doen — maar moet steeds die voorkomer-puffer gebruik." },
-      { "myth": "Ek het net 'n puffer nodig wanneer ek 'n aanval kry.",                       "fact": "Die ontspanner-puffer is vir aanvalle. Die voorkomer-puffer is wat aanvalle voorkom — gebruik elke dag, selfs as alles goed gaan." }
+      {
+        "myth": "Kinders groei uit asma uit.",
+        "fact": "Sommige doen, baie nie. Selfs as simptome bedaar, kan die lugwegsensitiwiteit op enige ouderdom terugkom. Gebruik die voorkomingspompie soos voorgeskryf."
+      },
+      {
+        "myth": "Steroïed-inhaleerders is gevaarlik.",
+        "fact": "Ingeasemde steroïede in die bruin voorkomingspompie is lae dosis en werk plaaslik in die longe. Dit is veel veiliger as orale steroïede wat nodig word as aanvalle ernstig raak."
+      },
+      {
+        "myth": "As jy kan praat, is die aanval nie ernstig nie.",
+        "fact": "As spraak beperk is tot kort frases of enkelwoorde, is dit ’n gevaarteken. ’n stil borskas is erger, nie beter nie."
+      },
+      {
+        "myth": "Asma-medisyne is net nodig wanneer jy simptome voel.",
+        "fact": "Die voorkomingspompie (bruin) moet elke dag gebruik word, selfs as jy goed voel. Dit beheer die onderliggende inflammasie wat aanvalle veroorsaak."
+      }
     ]
   },
-
   "action_steps": {
-    "heading": "Wat om te doen tydens 'n aanval",
+    "heading": "Wat om te doen tydens ’n aanval",
     "items": [
-      { "title": "Sit regop — moenie lê nie",                       "description": "Sit met die rug regop, voete op die grond, hande op die knieë. Maak 'n driehoek met die liggaam. Dit help lugvloei meer as om te lê." },
-      { "title": "Gebruik die blou puffer met spaser",              "description": "Skud die puffer, sit in die spaser. Een asem in puffer, vier asemhalings in spaser. Doen 4–10 keer, een asem op 'n slag. Wag 'n minuut. Herhaal as nodig." },
-      { "title": "Bel 10177 as daar geen verbetering ná 10 min is",  "description": "Of as die persoon erger raak, lippe blou, of nie meer in volle sinne kan praat nie. Moenie wag om 'n derde dosis te probeer nie." },
-      { "title": "Bly kalm — paniek maak dit erger",                "description": "Asma is bang om in te kyk. Praat rustig met die persoon. Asem self stadig. Kalmte help die spier ontspanning wat lugweë moet oopmaak." },
-      { "title": "Hospitaalwaarneming ná erge aanval",                "description": "Selfs as dit later verbeter, kan simptome ure later weer kom. Hospitaal kan steroïede gee om verdere ontsteking te stop." }
+      {
+        "title": "Sit regop. Maak stywe klere los",
+        "description": "Moenie lê nie. Sit regop met arms ondersteun — dit maak asemhaling makliker. Bly kalm, want paniek maak dit erger."
+      },
+      {
+        "title": "Gebruik die blou verligtingspompie — 1 trek",
+        "description": "Gebruik ’n spasieerder as jy een het. Wag 30 tot 60 sekondes. Herhaal tot 10 trekke in die eerste 10 minute."
+      },
+      {
+        "title": "As daar ná 10 minute geen verbetering is nie — bel 10177",
+        "description": "Sê ‘erge asma-aanval’. Hou aan met die verligter elke paar minute totdat paramedici opdaag."
+      },
+      {
+        "title": "As die persoon ineenstort of blou word — bel onmiddellik",
+        "description": "Moenie die 10 minute wag nie. Erge aanvalle kan vinnig lewensgevaarlik word."
+      },
+      {
+        "title": "Ná die aanval — sien ’n dokter",
+        "description": "Elke aanval wat meer as jou gewone verligter-dosis nodig gehad het, beteken jou asmaplan moet aangepas word. Moenie opvolg uitstel nie."
+      }
     ]
   },
-
   "get_help": {
-    "heading": "Waarheen om te gaan",
-    "lede": "Erge asma-aanvalle is 'n hospitaal-noodgeval. Vir matige aanvalle kan 'n kliniek help. Pufferinhalators, spasers, en aksieplane is almal gratis by staatsklinieke.",
+    "heading": "Wie om te bel",
+    "lede": "As die blou inhaleerder nie help nie of aanvalle meer gereeld raak, kry hulp. Asma is behandelbaar.",
     "helplines": [
-      { "name": "Noodambulans",       "description": "Vir erge asma-aanvalle",                                      "meta": "Gratis · 24 uur · sê 'erge asma-aanval'", "phone": "10177", "phone_display": "10177", "primary": true },
-      { "name": "Vind jou naaste kliniek","description": "Gratis pufferinhalators, spasers, en aksieplane",          "meta": "Geen afspraak · geen mediese fonds nodig", "phone": null,    "phone_display": "Vind 'n kliniek", "primary": true, "link": "/clinic-finder" }
+      {
+        "name": "Noodambulans",
+        "description": "Regerings-nood mediese diens",
+        "meta": "Gratis · 24 uur · sê ‘asma-aanval’",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Noodgeval (selfoon)",
+        "description": "Verbind met enige nooddienste vanaf ’n selfoon",
+        "meta": "Gratis vanaf enige selfoon · 24 uur",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Elke staatskliniek bied asma-assessering en inhaleerders",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": false,
+        "link": "/clinic-finder"
+      }
     ]
   }
 }

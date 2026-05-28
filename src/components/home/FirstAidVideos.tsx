@@ -1,6 +1,8 @@
 "use client";
 
 import { Play, ExternalLink } from "lucide-react";
+import { useLang } from "@/lib/i18n/provider";
+import { t } from "@/lib/i18n/translations";
 
 const VIDEOS = [
   {
@@ -42,6 +44,43 @@ const VIDEOS = [
 ];
 
 export function FirstAidVideos() {
+  const { lang } = useLang();
+  const descriptions = {
+    en: [
+      "How to perform CPR",
+      "Help someone who is choking",
+      "Safe position for unconscious person",
+      "Recognize and respond",
+      "FAST signs and action",
+      "How to treat shock",
+    ],
+    af: [
+      "Hoe om KPR te doen",
+      "Help iemand wat verstik",
+      "Veilige posisie vir iemand wat bewusteloos is",
+      "Herken die tekens en reageer",
+      "FAST-tekens en wat om te doen",
+      "Hoe om skok te behandel",
+    ],
+    xh: [
+      "Indlela yokwenza i-CPR",
+      "Nceda umntu oginyekileyo",
+      "Indawo ekhuselekileyo kumntu ongaphenduliyo",
+      "Qaphela iimpawu uze uphendule",
+      "Iimpawu ze-FAST nento omawuyenze",
+      "Indlela yokunyanga i-shock",
+    ],
+    zu: [
+      "How to perform CPR",
+      "Help someone who is choking",
+      "Safe position for unconscious person",
+      "Recognize and respond",
+      "FAST signs and action",
+      "How to treat shock",
+    ],
+  } as const;
+  const L = descriptions[lang];
+
   return (
     <section className="px-4 py-4">
       <div className="bg-white/90 backdrop-blur border border-white/80 rounded-2xl p-4 shadow-card">
@@ -50,13 +89,13 @@ export function FirstAidVideos() {
             <Play size={14} className="text-white ml-0.5" fill="white" />
           </div>
           <div>
-            <h2 className="font-serif font-bold text-[15px] text-[var(--text)]">First Aid Videos</h2>
-            <p className="text-[10px] text-[var(--text-muted)]">Learn life-saving techniques</p>
+            <h2 className="font-serif font-bold text-[15px] text-[var(--text)]">{t("videos.title", lang)}</h2>
+            <p className="text-[10px] text-[var(--text-muted)]">{t("videos.subtitle", lang)}</p>
           </div>
         </div>
 
         <div className="grid grid-cols-2 gap-2">
-          {VIDEOS.map((video) => (
+          {VIDEOS.map((video, index) => (
             <a
               key={video.title}
               href={video.url}
@@ -77,7 +116,7 @@ export function FirstAidVideos() {
                   {video.title}
                 </p>
                 <p className="text-[9px] text-[var(--text-muted)] leading-tight truncate">
-                  {video.description}
+                  {L[index]}
                 </p>
               </div>
               <ExternalLink size={12} className="text-[var(--text-soft)] flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
@@ -85,9 +124,7 @@ export function FirstAidVideos() {
           ))}
         </div>
 
-        <p className="text-[9px] text-[var(--text-soft)] mt-3 text-center">
-          Videos by St John Ambulance & British Heart Foundation
-        </p>
+        <p className="text-[9px] text-[var(--text-soft)] mt-3 text-center">{t("videos.credit", lang)}</p>
       </div>
     </section>
   );

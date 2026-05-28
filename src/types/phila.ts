@@ -91,7 +91,7 @@ export interface DiseaseContent {
   what_is_it: { heading: string; lede: string; paragraphs: string[] };
   facts: { heading: string; items: FactItem[]; pull_quote?: { text: string; source: string } };
   signs: { heading: string; lede: string; items: SignItem[] };
-  urgent?: { heading: string; primary_message: string; phone: string; phone_display: string; red_flags: string[] };
+  urgent?: { heading: string; primary_message: string; phone: string | null; phone_display: string; red_flags: string[] };
   spreads?: { heading: string; yes: string[]; no: string[] };
   myths?: { heading: string; items: MythPair[] };
   prevention?: { heading: string; lede: string; items: PreventionItem[] };

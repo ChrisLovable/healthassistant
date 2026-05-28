@@ -1,0 +1,187 @@
+{
+  "slug": "vaccinations",
+  "group_slug": "child-baby",
+  "name": "Kinder-inentings",
+  "tagline": "Die gratis SA-skedule. Elke spuit tel.",
+  "hero_image": "/images/diseases/hero-vaccinations.webp",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Wag op kliniese hersiening",
+  "sources": [
+    "National Department of Health (EPI-SA)",
+    "NICD",
+    "WHO",
+    "South African Paediatric Association"
+  ],
+  "what_is_it": {
+    "heading": "Kinder-inentings in eenvoudige terme",
+    "lede": "Inentings leer ’n kind se immuunstelsel om siektes te beveg voordat hulle dit in die werklike lewe teëkom. Suid-Afrika se Uitgebreide Immuniseringsprogram (EPI-SA) beskerm teen die dodelikste kindersiektes — alles gratis by elke staatskliniek.",
+    "paragraphs": [
+      "’n Inenting wys die liggaam ’n onskadelike weergawe van ’n virus of bakterie. Wanneer die werklike ding kom, is die immuunstelsel gereed. Inentings het wêreldwyd miljoene lewens gered — masels alleen het 2,6 miljoen kinders ’n jaar doodgemaak voor die inenting.",
+      "Die SA-skedule begin met geboorte en gaan voort tot skoolouderdom. Hou daarby. Om een spuit te mis, ontdoen nie die ander nie, maar dit laat ’n gaping in beskerming. As jy agterraak, kan jy gewoonlik inhaal — praat met die kliniek. Die Pad na Gesondheid-boekie hou elke dosis dop."
+    ]
+  },
+  "facts": {
+    "heading": "Vier dinge om te weet",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "Baie siektes",
+        "body": "Die gratis SA-skedule beskerm teen TB, polio, masels, hepatitis B, pneumokokke, rotavirus, HPV, en meer."
+      },
+      {
+        "color": "gold",
+        "icon": "gift",
+        "headline": "Alles gratis",
+        "body": "Elke inenting op die skedule is gratis by elke staatskliniek. Geen mediese fonds, geen afspraak nodig vir roetine-spuite nie."
+      },
+      {
+        "color": "green",
+        "icon": "book-open",
+        "headline": "Pad na Gesondheid-boekie",
+        "body": "Elke SA-kind kry ’n Pad na Gesondheid-boekie met geboorte. Bring dit elke kliniek-besoek — dit hou elke inenting, gewig, en mylpaal dop."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Masels is terug",
+        "body": "Dalende inentingskoerse het masels-uitbrake terug na SA gebring. Masels kan doodmaak, blind maak, of breinskade veroorsaak. Die inenting is veilig en effektief."
+      }
+    ],
+    "pull_quote": {
+      "text": "Inentings is die mees kostedoeltreffende gesondheidsingreep in die mensgeskiedenis. Elke Rand op kinder-immunisering bespaar baie meer in gesondheidskoste — en veel meer in lewens.",
+      "source": "WHO"
+    }
+  },
+  "signs": {
+    "heading": "Die SA-kinderskedule",
+    "lede": "Hier is wanneer jou kind elke inenting kry. Die 6-week, 10-week, 14-week, 9-maand en 18-maand besoeke is die belangrikstes — moenie dit oorslaan nie.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Met geboorte",
+        "description": "BCG (teen TB) en die eerste orale polio-druppels. Gegee voor moeder en baba die kraamsaal verlaat."
+      },
+      {
+        "color": "orange",
+        "icon": "calendar",
+        "title": "6, 10, en 14 weke",
+        "description": "Pentavalent (5-in-1: difterie, tetanus, kinkhoes, Hib, hepatitis B), rotavirus-druppels, pneumokokke, polio. Alles dieselfde kliniek-besoek."
+      },
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "9 en 18 maande",
+        "description": "Masels-inenting by albei besoeke, plus versterkingsdosisse by 18 maande. Krities vir beskerming teen masels — moet nooit dit oorslaan nie."
+      },
+      {
+        "color": "gold",
+        "icon": "graduation-cap",
+        "title": "Skoolouderdomme",
+        "description": "Tetanus- en difterie-versterkingsdosisse op 6 en 12 jaar. HPV-inenting in Graad 5 vir meisies (en seuns in baie provinsies) — deur die skoolprogram."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Wat is waar en wat is nie",
+    "items": [
+      {
+        "myth": "Inentings veroorsaak outisme.",
+        "fact": "Dekades se groot studies in miljoene kinders wys geen verband tussen inentings en outisme nie. Die oorspronklike 1998-studie was bedrieglik en is teruggetrek. Die outeur het sy mediese lisensie verloor."
+      },
+      {
+        "myth": "Natuurlike infeksie gee beter immuniteit as inentings.",
+        "fact": "Natuurlike infeksie gee soms sterker immuniteit — maar teen die koste van die siekte self. Masels kan doodmaak of breinskade veroorsaak. Polio kan verlam. Inentings gee immuniteit sonder die gevaar."
+      },
+      {
+        "myth": "Te veel inentings te naby aan mekaar oorweldig die immuunstelsel.",
+        "fact": "’n Baba se immuunstelsel hanteer duisende nuwe kieme daagliks net van asemhaling. Die paar proteïene in ’n inenting is ’n druppel in die emmer. Die skedule is so geskeduleer om op die kwesbaarste ouderdomme te beskerm."
+      },
+      {
+        "myth": "As almal anders ingeënt is, het my kind dit nie nodig nie.",
+        "fact": "groepsimmuniteit werk net wanneer die meeste mense ingeënt is. Soos inentingskoerse daal, kom siektes terug — soos ons met masels in SA sien. Moenie die gaping wees nie."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Om inentings te kry en dop te hou",
+    "lede": "Inentings werk die beste wanneer hulle betyds en in die regte volgorde gegee word. Die kliniek-stelsel maak dit eenvoudig as jy die boekie bring.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "book-open",
+        "title": "Hou die Pad na Gesondheid-boekie",
+        "description": "Elke kliniek-besoek gaan in hierdie boekie. Dit is jou kind se mediese paspoort vir die eerste 6 jaar. Hou dit veilig en bring dit elke keer."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "title": "Hou by die skedule",
+        "description": "Betydse inenting beskerm op die kwesbaarste ouderdomme. As jy ’n dosis gemis het, haal die kliniek jou in — moenie tot volgende jaar wag nie."
+      },
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Ligte reaksies is normaal",
+        "description": "Effe koors, rooiheid, of prikkelbaarheid in die dag of twee ná inenting is normaal. Parasetamol help. Erge reaksies is baie skaars — gaan kliniek toe as jy bekommerd is."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "title": "Inhaal- en reis-inentings",
+        "description": "As jou kind dosisse gemis het of julle reis buiteland toe, vra die kliniek oor inhaalskedules en reis-inentings. Die meeste gemiste dosisse kan later gegee word."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Jou volgende stappe",
+    "items": [
+      {
+        "title": "Kyk in die Pad na Gesondheid-boekie",
+        "description": "Maak die immuniseringsbladsy oop. Sien watter spuite jou kind gehad het en watter verskuldig is. As jy nie ’n boekie het nie, vra die kliniek — hulle reik een uit."
+      },
+      {
+        "title": "As jou kind agterstallig is — gaan nou",
+        "description": "Loop in by enige kliniek met die boekie. Die meeste gemiste inentings kan dieselfde dag gegee word. Geen oordeel, geen ekstra koste."
+      },
+      {
+        "title": "As jy die boekie verloor het",
+        "description": "Baie klinieke het elektroniese rekords en kan gewoonlik opspoor wat gegee is. Vervangingsboekies is gratis."
+      },
+      {
+        "title": "As jou kind voorheen ’n reaksie gehad het",
+        "description": "Vertel die kliniek. Die meeste vorige reaksies verhinder nie toekomstige dosisse nie — alternatiewe of voorsorgmaatreëls is beskikbaar."
+      },
+      {
+        "title": "As jou dogter in Graad 5 is",
+        "description": "Maak seker sy kry die gratis HPV-inenting deur die skoolprogram. Twee dosisse, ses maande uitmekaar. Voorkom die meeste servikskanker."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Waarheen om te gaan",
+    "lede": "Die SA-immuniseringsprogram is een van die mees-toeganklike dele van die gesondheidstelsel. Bring net jou kind en die Pad na Gesondheid-boekie.",
+    "helplines": [
+      {
+        "name": "Vind jou naaste kliniek",
+        "description": "Gratis kinder-inentings op die EPI-skedule",
+        "meta": "Geen afspraak · geen mediese fonds nodig",
+        "phone": null,
+        "phone_display": "Vind 'n kliniek",
+        "primary": true,
+        "link": "/clinic-finder"
+      },
+      {
+        "name": "NICD-lyn",
+        "description": "inentingsinligting, veiligheidsvrae, reis-inentings",
+        "meta": "Ma–Vr 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}
