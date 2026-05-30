@@ -5,6 +5,7 @@ import { LangProvider } from "@/lib/i18n/provider";
 import { getLang } from "@/lib/i18n/lang-server";
 import { PWARegister } from "@/components/PWARegister";
 import { InstallPrompt } from "@/components/InstallPrompt";
+import { Analytics } from "@vercel/analytics/react";
 
 const playfair = Playfair_Display({ subsets: ["latin"], weight: ["500", "600", "700"], variable: "--font-playfair", display: "swap" });
 const inter    = Inter({ subsets: ["latin"], weight: ["400", "500", "600", "700"], variable: "--font-inter", display: "swap" });
@@ -42,6 +43,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
           <InstallPrompt />
           {children}
         </LangProvider>
+        <Analytics />
       </body>
     </html>
   );
