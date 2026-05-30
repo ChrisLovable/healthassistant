@@ -11,6 +11,7 @@ import { MythsSection } from "@/components/disease/MythsSection";
 import { PreventionSection } from "@/components/disease/PreventionSection";
 import { ActionStepsSection } from "@/components/disease/ActionStepsSection";
 import { GetHelpSection } from "@/components/disease/GetHelpSection";
+import { LearnMore } from "@/components/disease/LearnMore";
 import { Disclaimer } from "@/components/disease/Disclaimer";
 import { getGroup } from "@/lib/content/load-groups";
 import { loadDisease } from "@/lib/content/load-disease";
@@ -27,6 +28,7 @@ export default async function DiseasePage({ params }: PageProps) {
   if (!group || !loaded) notFound();
 
   const { content, isFallback } = loaded;
+  const learnMore = (content as { learn_more?: { items: { heading: string; paragraphs: string[] }[] } }).learn_more;
 
   // Title and tagline always come from translated catalog
   const catalogName = group ? group.name : content.name;
@@ -56,6 +58,7 @@ export default async function DiseasePage({ params }: PageProps) {
         {content.myths && <MythsSection data={content.myths} />}
         {content.prevention && <PreventionSection data={content.prevention} />}
         <ActionStepsSection data={content.action_steps} />
+        {learnMore?.items?.length ? <LearnMore items={learnMore.items} label={t("section.learnMore", lang)} /> : null}
         <GetHelpSection data={content.get_help} />
         <Disclaimer sources={content.sources} />
       </main>

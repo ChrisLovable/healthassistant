@@ -43,6 +43,7 @@ import highBloodPressureAf from "@/data/diseases/high-blood-pressure.af.json";
 import highCholesterolEn from "@/data/diseases/high-cholesterol.en.json";
 import highCholesterolAf from "@/data/diseases/high-cholesterol.af.json";
 import hivEn from "@/data/diseases/hiv.en.json";
+import hivAf from "@/data/diseases/hiv.af.json";
 import meningitisEn from "@/data/diseases/meningitis.en.json";
 import meningitisAf from "@/data/diseases/meningitis.af.json";
 import meningitisXh from "@/data/diseases/meningitis.xh.json";
@@ -93,7 +94,7 @@ const DISEASE_CONTENT: Record<string, Partial<Record<Lang, DiseaseContent>>> = {
   "heartburn-reflux": { en: heartburnRefluxEn as DiseaseContent, af: heartburnRefluxAf as DiseaseContent },
   "high-blood-pressure": { en: highBloodPressureEn as DiseaseContent, af: highBloodPressureAf as DiseaseContent },
   "high-cholesterol": { en: highCholesterolEn as DiseaseContent, af: highCholesterolAf as DiseaseContent },
-  "hiv": { en: hivEn as DiseaseContent },
+  "hiv": { en: hivEn as DiseaseContent, af: hivAf as DiseaseContent },
   "meningitis": { en: meningitisEn as DiseaseContent, af: meningitisAf as DiseaseContent, xh: meningitisXh as DiseaseContent },
   "pneumonia": { en: pneumoniaEn as DiseaseContent, af: pneumoniaAf as DiseaseContent },
   "pregnancy-danger-signs": { en: pregnancyDangerSignsEn as DiseaseContent, af: pregnancyDangerSignsAf as DiseaseContent, xh: pregnancyDangerSignsXh as DiseaseContent },

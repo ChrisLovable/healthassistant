@@ -31,7 +31,17 @@ export default async function HomePage() {
         <EmergencySection />
 
         <footer className="px-4 py-4 text-center text-[10px] text-[var(--text-soft)] leading-relaxed">
-          <p className="mb-0.5">{t("home.footer.line1", lang)}</p>
+          <p className="mb-0.5">
+            {t("home.footer.line1", lang)} {t("home.footer.developedBy", lang)}{" "}
+            <a
+              href="https://www.myaipartner.co.za"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-2 hover:text-[var(--text-muted)]"
+            >
+              MyAIpartner
+            </a>
+          </p>
           <p>{t("home.footer.line2", lang)}</p>
         </footer>
       </main>

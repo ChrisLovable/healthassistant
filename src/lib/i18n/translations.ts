@@ -8,7 +8,8 @@ export const T = {
   "home.hero.subtitle":      { en: "Tap a category or ask MyMedic any medical or pharmacy question.", af: "Tik 'n kategorie of vra MyMedic enige mediese of apteekvraag.", xh: "Cofa kudidi okanye ubuze iMyMedic nawuphi na umbuzo wezonyango okanye wefama." },
   "home.browse.title":       { en: "Browse by category", af: "Blaai per kategorie", xh: "Khangela ngeendidi" },
   "home.browse.subtitle":    { en: "Tap any category to see the conditions inside.", af: "Tik enige kategorie om die toestande binne te sien.", xh: "Cofa naluphi na udidi ukuze ubone iimeko ezingaphakathi." },
-  "home.footer.line1":       { en: "© MyMedic · Cipla", af: "© MyMedic · Cipla", xh: "© MyMedic · Cipla" },
+  "home.footer.line1":       { en: "© MyMedic ·", af: "© MyMedic ·", xh: "© MyMedic ·" },
+  "home.footer.developedBy": { en: "developed by", af: "ontwikkel deur", xh: "yakhiwe ngu" },
   "home.footer.line2":       { en: "Medical information for South Africa", af: "Mediese inligting vir Suid-Afrika", xh: "Ulwazi lwezonyango lwaseMzantsi Afrika" },
 
   // Cards / counts
@@ -33,6 +34,7 @@ export const T = {
   "section.prevention":      { en: "Prevention", af: "Voorkoming", xh: "Uthintelo" },
   "section.actionSteps":     { en: "What to do", af: "Wat om te doen", xh: "Into omawuyenze" },
   "section.getHelp":         { en: "Get help", af: "Kry hulp", xh: "Fumana uncedo" },
+  "section.learnMore":       { en: "Read more", af: "Lees meer" },
 
   // Spreads / Myths labels
   "spreads.does":            { en: "Does spread by", af: "Versprei deur", xh: "Isasazeka ngo" },

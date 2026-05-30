@@ -94,7 +94,7 @@ export function FirstAidVideos() {
           </div>
         </div>
 
-        <div className="grid grid-cols-2 gap-2">
+        <div className="flex flex-col gap-2">
           {VIDEOS.map((video, index) => (
             <a
               key={video.title}
@@ -112,10 +112,10 @@ export function FirstAidVideos() {
                 <Play size={14} className="ml-0.5" fill="white" />
               </div>
               <div className="flex-1 min-w-0">
-                <p className="text-[12px] font-semibold text-[var(--text)] leading-tight truncate">
+                <p className="text-[12px] font-semibold text-[var(--text)] leading-tight">
                   {video.title}
                 </p>
-                <p className="text-[9px] text-[var(--text-muted)] leading-tight truncate">
+                <p className="text-[9px] text-[var(--text-muted)] leading-tight">
                   {L[index]}
                 </p>
               </div>

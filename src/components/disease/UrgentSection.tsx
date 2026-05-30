@@ -1,4 +1,4 @@
-import { AlertTriangle, Phone } from "lucide-react";
+import { AlertTriangle } from "lucide-react";
 import { getLang } from "@/lib/i18n/lang-server";
 import { t } from "@/lib/i18n/translations";
 
@@ -29,18 +29,6 @@ export async function UrgentSection({ data }: Props) {
             </li>
           ))}
         </ul>
-
-        {data.phone ? (
-          <a href={`tel:${data.phone}`} className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white text-[#8B2018] font-bold text-[15px] shadow-lg">
-            <Phone size={18} />
-            {data.phone_display}
-          </a>
-        ) : (
-          <p className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white text-[#8B2018] font-bold text-[15px] shadow-lg">
-            <Phone size={18} />
-            {data.phone_display}
-          </p>
-        )}
       </div>
     </section>
   );
