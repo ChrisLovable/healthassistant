@@ -1,0 +1,218 @@
+{
+  "slug": "pneumonia",
+  "group_slug": "infectious",
+  "name": "Inyumoniya",
+  "tagline": "Umbulali ophezulu wabaneminyaka engaphansi kwemi-5 nangaphezulu kweminyaka engama-65.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "NICD",
+    "WHO",
+    "National Department of Health",
+    "American Thoracic Society"
+  ],
+  "urgent": {
+    "heading": "Kuyaphuthuma — bona umtholampilo manje",
+    "primary_message": "Inyumoniya ezinganeni ezincane nakubantu asebekhulile ingabulala emahoreni ambalwa. Ukuphefumula kanzima, izindebe eziluhlaza okwesibhakabhaka, ubuthakathaka obukhulu - ukuya esibhedlela.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ukuphefumula kanzima noma ukuphefumula ngokushesha okukhulu",
+      "Izindebe eziluhlaza okwesibhakabhaka, iminwe, noma ubuso",
+      "Awukwazi ukugcina uketshezi luphansi - ukuhlanza yonke into",
+      "Ubuhlungu besifuba obuba bubi nakakhulu ngokuphefumula",
+      "Ukudideka noma ukozela okungajwayelekile, ikakhulukazi kubantu asebekhulile",
+      "Enganeni engaphansi kweminyaka emi-5: ukuncela isifuba phakathi kwezimbambo, ukwenqaba ukondla, ukungabi naluhle",
+      "Ukukhwehlela kukhiqiza amafinyila anombala wokugqwala, oluhlaza okotshani, noma onemithende yegazi"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Inyumoniya ngamazwi alula",
+    "lede": "Inyumoniya ukutheleleka kwamasaka omoya (alveoli) ephashini elilodwa noma womabili. Amasaka agcwala uketshezi noma ubomvu, okwenza kube nzima ukuphefumula futhi alambe umzimba womoya-mpilo.",
+    "paragraphs": [
+      "Iningi lenyumoniya libangelwa amagciwane - iStreptococcus pneumoniae ivame kakhulu. Amagciwane kanye nesikhunta nakho kungabangela. Ukutheleleka kuvame ukulandela umkhuhlane noma umkhuhlane, lapho amasosha omzimba ebuthakathaka.",
+      "Abantu abadala abanempilo ngokuvamile bayalulama ngama-antibiotics noma ukunakekelwa okusekelayo. Ingozi igxile emaqenjini amathathu: izingane ezingaphansi kweminyaka emi-5, abantu abadala abangaphezu kweminyaka engama-65, kanye nabantu abanezimo ezingamahlalakhona noma i-HIV. Kula maqembu, inyumoniya ingelinye lamaqembu abulala kakhulu eNingizimu Afrika."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "Umbulali ophezulu",
+        "body": "Inyumoniya iphakathi kwezimbangela ezihamba phambili zokufa ezinganeni zaseNingizimu Afrika ezineminyaka engaphansi kwemi-5 kanye nabantu abadala abangaphezu kweminyaka engama-65."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Umgomo-uvikeleke",
+        "body": "Umuthi wokugomela i-pneumococcal — mahhala ezinganeni, unconyelwe abaneminyaka engaphezu kuka-65 kanye nesifo esingamahlalakhona. Isika uhlobo oluvame kakhulu kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Kuyalapheka",
+        "body": "Inyumoniya yebhaktheriya iphendula kuma-antibiotics phakathi nezinsuku. Ukwelashwa kufanele kuqedwe ngokugcwele - ungayeki kusenesikhathi."
+      },
+      {
+        "color": "green",
+        "icon": "alert-circle",
+        "headline": "Ngokuvamile kulandela umkhuhlane",
+        "body": "Amanyumoniya amaningi aqala njengesifo sesifuba esibangelwa amagciwane. Yingakho umkhuhlane oba mkhulu ngemva kwezinsuku ezingu-5-7 udinga ukuhlolwa kodokotela."
+      }
+    ],
+    "pull_quote": {
+      "text": "Inyumoniya enganeni encane ingasuka ekukhwehleleni iye kobucayi emahoreni angama-24. Uma ingane iphefumula ngokushesha, yenqaba ukondla, noma inesifuba sokudonsa - ungalindi ekuseni. Hamba manje.",
+      "source": "I-WHO"
+    }
+  },
+  "signs": {
+    "heading": "Ibukeka kanjani inyumoniya",
+    "lede": "Izimpawu zenyumoniya zisukela kokuhamba kancane-inyumoniya kuye kobunzima futhi obusongela ukuphila. Izingane kanye nabantu abadala bavame ukubonisa izimpawu ze-atypical.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Izimpawu zakudala",
+        "description": "Ukukhwehlela (okuvame ukuba namafinyila aminyene aluhlaza, aphuzi, noma anombala wokugqwala), imfiva kanye namakhaza, ukuphefumula kanzima, ubuhlungu besifuba oba bubhebhetheka kakhulu lapho uphefumula."
+      },
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Abantu abadala bangase bangabi nawo umkhuhlane",
+        "description": "Abantu abadala asebekhulile bavame ukuvela ngokudideka, ubuthakathaka, ukuwa, noma ukuwohloka kwezimo ezingaphansi - ngaphandle komkhuhlane osobala noma ukukhwehlela."
+      },
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Izingane",
+        "description": "Ukuphefumula okusheshayo, ukudonsa isifuba (ukudonsa isikhumba phakathi noma ngaphansi kwezimbambo ngokuphefumula ngakunye), ukwenqaba ukudla, ukuququda, izindebe eziluhlaza okwesibhakabhaka - lokhu kudinga ukunakwa ngokushesha."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Indlela inyumoniya esakazeka ngayo",
+    "yes": [
+      "Ukukhwehlela kanye nokuthimula okusabalalisa amagciwane noma amagciwane avela kubantu abanaleli gciwane",
+      "Ukuxhumana okusondelene kakhulu nemindeni, inkulisa, noma ezindlini zokunakekela",
+      "Ukuphefumula kokudla, okuphuzwayo, noma okuphakathi kwesisu emaphashini (kubantu abadala asebekhulile noma ababuthaka)",
+      "Ukulandela okunye ukutheleleka kokuphefumula njengomkhuhlane noma i-COVID"
+    ],
+    "no": [
+      "Ukuxhumana okuvamile njengokuxhawulana (okungavamile)",
+      "Omiyane noma izinambuzane",
+      "Ukudla namanzi (ngaphandle kwesifiso)",
+      "Izihlalo zangasese noma izindawo ezingaphezulu (azinaki)"
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokunciphisa ingozi",
+    "lede": "Inyumoniya eningi ezinganeni ezincane, asebekhulile, kanye nabantu abanezifo ezingelapheki ingavinjelwa ngemijovo, ukugeza izandla, nokwelapha izifo zokuphefumula kusenesikhathi.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Umuthi wokugomela i-pneumococcal",
+        "description": "Kumahhala kubantwana emavikini ayisi-6, amasonto ayi-14, nezinyanga eziyi-9. Inconyelwe abantu abadala abangaphezu kweminyaka engama-65 kanye nesifo esingamahlalakhona - buza emtholampilo."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "Umgomo wonyaka womkhuhlane",
+        "description": "Umkhuhlane uvame ukuholela e-pneumonia. Ukuvimbela umkhuhlane kuvimbela amanyumoniya amaningi esibili. Kumahhala emaqenjini anobungozi obukhulu."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "Ungabhemi",
+        "description": "Ukubhema kulimaza ukuzivikela kwamaphaphu futhi kuyingozi enkulu yenyumoniya. Ukuyeka kunciphisa ingozi phakathi nezinyanga."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Ukuhlanzeka kwezandla",
+        "description": "Geza izandla njalo, ikakhulukazi eduze kwezingane ezincane, izihlobo esezikhulile, nanoma ubani onesifo esingamahlalakhona."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Abantu abadala kuphela abathola inyumoniya.",
+        "fact": "Inyumoniya ingahlasela kunoma iyiphi iminyaka. Izingane, abantu abasha, abasubathi - bonke bayakuthola. Kwabaningi kuyelapheka - kodwa kufanele kwelashwe."
+      },
+      {
+        "myth": "Amakhambi okukhwehlela nomusi kwanele ukwelapha inyumoniya.",
+        "fact": "I-bacterial pneumonia idinga ama-antibiotics. Amakhambi e-steam nasekhaya angadambisa izimpawu kodwa ngeke akuqede ukutheleleka. Bonana nodokotela."
+      },
+      {
+        "myth": "Uma ngizizwa ngingcono ngemva kwezinsuku ezimbalwa, ngingakwazi ukumisa ama-antibiotic ami.",
+        "fact": "Ukumisa ama-antibiotic kusenesikhathi kuvumela amanye amagciwane ukuthi asinde, amelane, futhi kubuyise ukutheleleka - kwesinye isikhathi kubi kakhulu. Qedela isifundo esigcwele."
+      },
+      {
+        "myth": "Inyumoniya ihlale ifana - yelaphe kanye bese uqeda.",
+        "fact": "Amagciwane ahlukene adala inyumoniya ehlukene, kanti ama-antibiotic afanele ayahluka. Yingakho udokotela - hhayi ukuzelapha - kufanele akhethe indlela yokwelapha."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Bonana nomtholampilo nganoma yikuphi ukutheleleka kwesifuba okuqhubekayo",
+        "description": "Ukukhwehlela okungathuthuki ngemva kwezinsuku eziyi-7, ikakhulukazi uma kunomkhuhlane, ubuhlungu besifuba, noma ukuphefumula kanzima, kudinga ukuhlolwa kodokotela."
+      },
+      {
+        "title": "Uma uxilongwa - thatha inkambo ephelele yama-antibiotic",
+        "description": "Inyumoniya yebhaktheriya eminingi yelashwa ngezinsuku ezi-5-7 zama-antibiotics. Thatha wonke umthamo ngisho noma uzizwa ungcono - ukuyeka kusenesikhathi kungavumela ukutheleleka kuphindaphindeke."
+      },
+      {
+        "title": "Phumula ngokugcwele uze ululame",
+        "description": "Inyumoniya iwuqeda amandla umzimba. Hlela okungenani isonto lonke ungasebenzi noma esikoleni. Ukudlula ekubambezelekeni kokululama futhi kubeka engcupheni izinkinga."
+      },
+      {
+        "title": "Qaphela izimpawu eziyingozi",
+        "description": "Ukuphefumula okusheshayo noma okukhandlekayo, izindebe eziluhlaza, ukudideka, ubuhlungu besifuba, ukungakwazi ukugcina uketshezi luphansi - phuthuma esibhedlela."
+      },
+      {
+        "title": "Thola imithi yokugoma ngemva kokululama",
+        "description": "Uma usululeme, buza umtholampilo wakho mayelana nemithi yokugomela i-pneumococcal kanye nomkhuhlane uma ungakaze ube nayo. Ivimbela isiqephu esilandelayo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Inyumoniya ethambile ingelashwa ekhaya ngama-antibiotics avela emtholampilo. Inyumoniya enzima iyisimo esiphuthumayo sasesibhedlela.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · amahora angama-24 · ngenxa yobunzima obukhulu bokuphefumula",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Isimo esiphuthumayo (iselula)",
+        "description": "Ifinyelela kunoma iyiphi isevisi yezimo eziphuthumayo ngomakhalekhukhwini",
+        "meta": "Kumahhala kunoma iyiphi iselula · amahora angama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Imithi yokugomela ipneumococcal yamahhala, ama-antibiotics, nokuhlola",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

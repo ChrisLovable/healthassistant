@@ -1,0 +1,200 @@
+{
+  "slug": "childhood-diarrhoea",
+  "group_slug": "child-baby",
+  "name": "Uhudo lwezingane",
+  "tagline": "I-ORS isindisa izimpilo. Yazi izimpawu zokuphelelwa amanzi emzimbeni.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Department of Health",
+    "WHO Child Health",
+    "NICD",
+    "UNICEF South Africa"
+  ],
+  "urgent": {
+    "heading": "Kuyaphuthuma — fika emtholampilo noma esibhedlela",
+    "primary_message": "Ukuphelelwa amanzi emzimbeni enganeni encane kungambulala emahoreni ambalwa. Uma ubona noma iyiphi yalezi zimpawu, ungalindi. Hamba.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ingane yome kakhulu kodwa ayikwazi ukuphuza",
+      "Amehlo ashonile, umlomo owomile, izinyembezi azikho lapho ukhala",
+      "Indawo ethambile eshone phezulu ekhanda lomntwana",
+      "Umchamo omncane kakhulu noma ongenawo emahoreni angu-6+",
+      "I-Lethargy - ingane iyozela, kunzima ukuvuka, noma ayiphenduli",
+      "Igazi esihudo",
+      "Ukushisa okuphezulu (ngaphezu kuka-39°C) nesifo sohudo",
+      "Ukuhlanza okuvimbela ukugcina noma yiluphi uketshezi luphansi",
+      "Isifo sohudo sithatha izinsuku ezingaphezu kweziyi-7"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Uhudo lwezingane ngokwemibandela esobala",
+    "lede": "Uhudo luxega, indle enamanzi - kathathu noma ngaphezulu emahoreni angama-24. Ezinganeni ezincane, ingozi akusona isifo sohudo ngokwaso. Ukuphelelwa amanzi emzimbeni okulandelayo.",
+    "paragraphs": [
+      "Imizimba yezingane mincane futhi iphelelwa amanzi ngokushesha. Ingane elahlekelwe amanzi amaningi iba buthakathaka, bese iyozela, bese ibucayi - ngezinye izikhathi phakathi namahora. Isifo sohudo sisengenye yezimbangela zokufa kwezingane zaseNingizimu Afrika ezingaphansi kweminyaka emihlanu.",
+      "Uhudo oluningi lwezingane lunegciwane futhi luphela ezinsukwini ezingu-3-5. Ukwelashwa okuyinhloko ukufaka uketshezi olulahlekile - i-Oral Rehydration Solution (ORS) iyindinganiso esagolide. Kumahhala kuyo yonke imitholampilo. Isindise izigidi zezingane emhlabeni jikelele."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Umbulali ophezulu",
+        "body": "Isifo sohudo sisalokhu singesinye sezifo ezihamba phambili ezibulala izingane zaseNingizimu Afrika ezingaphansi kweminyaka emihlanu - cishe njalo ngenxa yokuphelelwa amanzi emzimbeni."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "headline": "I-ORS isindisa izimpilo",
+        "body": "I-Oral Rehydration Solution ivimbela futhi yelapha ukuphelelwa amanzi emzimbeni okuningi. Kumahhala kuyo yonke imitholampilo. Kushibhile, kulula, kusebenza ngempumelelo."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Umuthi wokugomela i-Rotavirus",
+        "body": "Umgomo wamahhala we-SA wezingane uvimbela imbangela evamile yohudo olunzima. Inikezwa emavikini ayi-6 namaviki ayi-14. Ungeqi."
+      },
+      {
+        "color": "green",
+        "icon": "x-circle",
+        "headline": "Awekho ama-antibiotic",
+        "body": "Uhudo oluningi luyigciwane. Ama-antibiotics awasizi - futhi angenza ezinye izinhlobo zibe zimbi nakakhulu. Ungabaceli; cela i-ORS."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ingane ingaba ngamakhulu amamililitha ohudo ngosuku. Njalo u-250ml wendle elahlekile udinga ukushintshwa ngo-250ml we-ORS — noma ngaphezulu. Gcina inkomishi ilungile.",
+      "source": "Impilo Yengane ye-WHO"
+    }
+  },
+  "signs": {
+    "heading": "Indlela yokubona ukuphelelwa amanzi emzimbeni",
+    "lede": "Ukuphelelwa amanzi emzimbeni kwenzeka ngezigaba. Ukuyibamba esigabeni 'sokoma' kugcina ingane ingangeni esibhedlela.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Imnene - iyalapheka ekhaya",
+        "description": "Ingane yomile, iphuza ngokulangazela, ayidlali kancane, umchamo umnyama kancane kodwa usemanzi manabukeni. Nika i-ORS, ubisi lwebele, noma amanzi ahlanzekile."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Okulingene — iya emtholampilo",
+        "description": "Ingane yome kakhulu, umlomo owomile, amanabukeni ambalwa amanzi, amehlo angaphumuli noma acasukile, acwile, isikhumba siyaphuza ukuhlehla lapho simpintshwa. Umtholampilo - hhayi esibhedlela okwamanje."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Kunzima - esibhedlela manje",
+        "description": "Ingane ibuthaka kakhulu ukuthi ingakwazi ukuphuza, iyozela noma ayiphenduli, ayikhali, ayinanabukeni elimanzi amahora angu-6+, indawo ethambile eshone enganeni. Lesi yisimo esiphuthumayo."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Indlela isifo sohudo ebuntwaneni esisakazeka ngayo",
+    "yes": [
+      "Umzila wendle ngomlomo - amanani amancane endle angena ekudleni, ezandleni, noma emanzini",
+      "Amanzi angcolile ezindaweni ezingenawo amanzi aphephile",
+      "Izandla ezingageziwe ngemva kokushintsha indlu yangasese noma inabukeni",
+      "Ukwabelana ngamathoyizi, ama-dummies, noma amabhodlela kuzilungiselelo zokunakekela izingane",
+      "Ukudla okuhambile noma okungaphekwanga kahle"
+    ],
+    "no": [
+      "Amazinyo - naphezu kwenganekwane eqhubekayo",
+      "Ukusika amazinyo amasha",
+      "Ukuncelisa ibele - ubisi lwebele empeleni luvikela isifo sohudo",
+      "Ukudla ukudla okubaba kancane (ezinganeni ezindala)"
+    ]
+  },
+  "prevention": {
+    "heading": "Uyivikela kanjani ingane yakho",
+    "lede": "Uhudo oluningi lwezingane luyavikeleka ngemithi yokugoma, amanzi ahlanzekile, nokugeza izandla kahle. Iwufanele umzamo omncane wansuku zonke.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Umuthi wokugomela i-Rotavirus",
+        "description": "Umuthi wokugoma wamahhala we-SA wezingane emasontweni ayisi-6 namasonto ayi-14. Ivimbela imbangela evame kakhulu yohudo olunzima lwezingane. Ungalokothi weqe."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Izandla ezihlanzekile, amanzi ahlanzekile",
+        "description": "Geza izandla ngensipho ngaphambi kokudla, ngemva kokuphuma endlini yangasese, ngemva kokushintsha inabukeni. Sebenzisa amanzi aphephile ukuphuza nokupheka. Bilisa uma ungaqiniseki."
+      },
+      {
+        "color": "orange",
+        "icon": "heart",
+        "title": "Ncelisa ibele uma ukwazi",
+        "description": "Ubisi lwebele luqukethe amasosha omzimba avikela isifo sohudo. Ukuncelisa ibele kuphela izinyanga eziyisi-6 kungenye yezivikelo eziqine kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Ukuphepha kokudla",
+        "description": "Pheka inyama ngokugcwele, ufake efrijini ngokushesha, ugeze izithelo nemifino. Unganiki izingane ezincane kakhulu ubisi olungaphekiwe noma amaqanda angaphekiwe."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Qala i-ORS esitulweni sokuqala esixegayo",
+        "description": "Xuba isikhwama esisodwa ku-1 ilitha lamanzi ahlanzekile (noma njengoba iphakethe lisho). Phuza njalo ngemva kokulala okuxekethile - 50-100ml kwabaneminyaka engaphansi kuka-2, 100-200ml ezinganeni ezindala."
+      },
+      {
+        "title": "Qhubeka nokuncelisa ibele noma ifomula",
+        "description": "Ungayeki ukuncelisa ngesikhathi sohudo - ubisi lwebele luyavikela. Qhubeka nefomula. Izingane zidinga ukudla okuvamile kanye ne-ORS eyengeziwe."
+      },
+      {
+        "title": "Nikeza izithako ze-zinc",
+        "description": "Kumahhala emitholampilo kanye ne-ORS. I-Zinc ifinyeza isifo sohudo ngo-25% futhi yehlisa ukuqina. Nikeza izinsuku eziyi-10-14 njengoba kuyaliwe."
+      },
+      {
+        "title": "Qaphela izimpawu zokuphelelwa amanzi emzimbeni",
+        "description": "Bheka amanabukeni amanzi, izinyembezi uma ukhala, ukuphaphama. Ncinza isikhumba esiswini kahle - kufanele sibuyele emuva ngokushesha. Uma kukhona okungahambi kahle, hamba uye emtholampilo."
+      },
+      {
+        "title": "Iya emtholampilo noma esibhedlela uma kuba kubi kakhulu",
+        "description": "Ukuphelelwa amanzi emzimbeni okumaphakathi - umtholampilo. Ukuphelelwa amanzi kakhulu emanzini - esibhedlela. Ungaqageli okwesibili. Ukwelashwa (uketshezi lwe-IV) kuyashesha futhi kusindisa impilo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukunakekelwa kohudo lwezingane kungenye yezinhlelo zezempilo zomphakathi eziqinile eNingizimu Afrika. I-ORS yamahhala, imigomo yamahhala, ukunakekelwa kwamahhala esibhedlela uma kudingeka. Yisebenzise kusenesikhathi.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Ngokuphelelwa amanzi emzimbeni kakhulu enganeni",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "I-ORS yamahhala, i-zinc, nokuhlolwa kwezingane ezigulayo",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-Childline SA",
+        "description": "Ulayini wamahhala wezempilo nenhlalakahle yezingane wamahora angama-24",
+        "meta": "Kumahhala kunoma iyiphi ifoni · amahora angama-24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

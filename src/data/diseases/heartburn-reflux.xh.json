@@ -13,7 +13,7 @@
     "ISebe lezeMpilo leSizwe"
   ],
   "what_is_it": {
-    "heading": "Ukuvutha kwentliziyo kunye ne-reflux ngokwemiqathango ecacileyo",
+    "heading": "Ukuvutha kwentliziyo kunye ne-reflux ngamazwi alula",
     "lede": "Isitshisa yimvakalelo etshisayo esifubeni okanye emqaleni ebangelwa sisisu esineasidi ebuyela ngasemva kumbhobho wokutya. Xa isenzeka rhoqo, ibizwa ngokuba yiGORD (gastro-oesophageal reflux disease).",
     "paragraphs": [
       "Ivalve phakathi kwesisu kunye nombhobho wokutya wenzelwe ukuba uhlale uvaliwe. Xa iphumla rhoqo okanye ixesha elide, iasidi ibalekela phezulu. Isiphumo: Imvakalelo eshushu, etshisayo emva kwethambo lesifuba - rhoqo emva kokutya, kudla ngokuba nzima kakhulu ukulala phantsi.",
@@ -39,7 +39,7 @@
         "color": "coral",
         "icon": "alert-circle",
         "headline": "Unokulinganisa intliziyo",
-        "body": "Severe heartburn can feel like a heart attack. When in doubt — especially with sweating, breathlessness, jaw or arm pain — assume heart and Tsalela umnxeba ku-10177."
+        "body": "Isitshisa esinzima sinokuziva sifana nokuhlaselwa kwentliziyo. Ukuba awuqinisekanga — ngakumbi ukuba unomsi, ukuphefumla kunzima, ubuhlungu kwisihlathi okanye ehlombe — cinga ngentliziyo kwaye utsalele umnxeba ku-10177."
       },
       {
         "color": "gold",
@@ -149,7 +149,7 @@
       },
       {
         "title": "Ukuba ubuhlungu besifuba - cinga intliziyo kuqala",
-        "description": "Heart attack and heartburn can feel similar. With sweating, breathlessness, jaw or arm pain, or any uncertainty — Tsalela umnxeba ku-10177. Better safe."
+        "description": "Ukuhlaselwa kwentliziyo kunye nesitshisa sinokuziva sifana. Ukuba unomsi, ukuphefumla kunzima, ubuhlungu kwisihlathi okanye ehlombe, okanye awuqinisekanga — tsalela umnxeba ku-10177. Kukhethekile ukuba uphephe."
       }
     ]
   },

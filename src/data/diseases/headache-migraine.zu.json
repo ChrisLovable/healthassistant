@@ -1,0 +1,173 @@
+{
+  "slug": "headache-migraine",
+  "group_slug": "pain",
+  "name": "Ikhanda elibuhlungu ne-migraine",
+  "tagline": "Iningi aliyona ingozi. Abanye bakhona. Yazi izimpawu.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Migraine Action SA",
+    "WHO",
+    "South African Headache Society",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Hamba esibhedlela manje uma",
+    "primary_message": "Iningi lekhanda elibuhlungu aliyona ingozi. Kodwa izimpawu ezithile eziyisixwayiso zingasho isifo sohlangothi, ukopha kobuchopho, noma i-meningitis. Ungalindi — hamba.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ikhanda elibuhlungu 'lokuduma' kungazelelwe - ikhanda elibuhlungu kakhulu empilweni yakho, lifika ngemizuzwana",
+      "Ikhanda elibuhlungu elinomkhuhlane kanye nentamo eqinile noma ukuqubuka",
+      "Ikhanda elibuhlungu elinokudideka, inkulumo engacacile, noma ubuthakathaka ohlangothini olulodwa",
+      "Ikhanda elibuhlungu ngemva kokulimala ekhanda, ikakhulukazi ngokuhlanza noma ukozela",
+      "Ikhanda elisha elibuhlungu elikuvusa ebuthongweni, noma libe libi nakakhulu lapho ugoba noma ulele",
+      "Ikhanda elibuhlungu okokuqala ngqa ngemuva kweminyaka engama-50",
+      "Ikhanda elibuhlungu ngokuquleka, ukulahlekelwa umbono, noma ukulahlekelwa ukwazi"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ikhanda elibuhlungu kanye ne-migraine ngamazwi alula",
+    "lede": "Iningi lekhanda elibuhlungu yikhanda elicindezelayo - okubangelwa imisipha eqinile, ukucindezeleka, ukuphelelwa amandla kwamanzi, noma ukulala kabi. I-Migraine ihlukile - isimo semizwa lapho ubuchopho buba nomuzwa ojulile, ngokuvamile kube nobuhlungu obukhulu, isicanucanu, nokuzwela ukukhanya nomsindo.",
+    "paragraphs": [
+      "Ikhanda elibuhlungu lizwakala njengebhande eliqinile elizungeze ikhanda, nhlangothi zombili, libuthuntu futhi lizinzile. I-Migraines ngokuvamile ishaya ohlangothini olulodwa, igcine amahora angu-4-72, futhi ikuphoqe ukuba ulale phansi ekamelweni elimnyama. Ikhanda elibuhlungu leqembu alivamile - linamandla, lifushane, lizungeze iso elilodwa.",
+      "Iningi lekhanda elibuhlungu lixazulula ngokuphumula, uketshezi, namaphilisi ezinhlungu alula. Izinhlungu zekhanda ezivamile noma ezinzima zidinga udokotela - hhayi ukuze athole isimila (lokhu akuvamile) kodwa ukuthola ukwelashwa okungcono kunalokho onakho njengamanje. I-Migraine ikakhulukazi inezokwelapha eziningi ezisebenzayo abantu abangazi ngazo."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Okujwayelekile kakhulu",
+        "body": "Cishe i-12% yabantu baseNingizimu Afrika bane-migraine. Ikhanda elibuhlungu lithinta cishe wonke umuntu ngezikhathi ezithile."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kuyalapheka",
+        "body": "I-Migraine inokwelashwa okusebenzayo - kokubili ukumisa ukuhlaselwa kanye nokukuvimbela. Uma eyakho ingalawulwa kahle, kukhona izinketho ezingcono."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Ukusetshenziswa ngokweqile kwe-Painkiller",
+        "body": "Ukuphuza amaphilisi ezinhlungu alula ngaphezu kwezinsuku ezingu-2-3 ngesonto kungabangela ubuhlungu bekhanda obukhulu. Khuluma nodokotela ngalokhu - okuvamile futhi kuyalapheka."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ikakhulukazi hhayi serious",
+        "body": "Izimila ebuchosheni nezimbangela ezingathi sína azivamile. Amafulegi abomvu ngenhla aphawula ukuthi kufanele ukhathazeke nini - kukho konke okunye, akulungile ngaso sonke isikhathi."
+      }
+    ],
+    "pull_quote": {
+      "text": "I-migraine ayiyona nje 'ikhanda elibuhlungu'. Isenzakalo sezinzwa esingashiya umuntu engakwazi ukusebenza, ukushayela, noma ukunakekela izingane amahora noma izinsuku. Idinga ukwelashwa kwangempela.",
+      "source": "Inhlangano YaseNingizimu Afrika Yekhanda Lekhanda"
+    }
+  },
+  "signs": {
+    "heading": "Ebahlukanisa",
+    "lede": "Izinhlungu zekhanda ezehlukene zisabela ekwelashweni okuhlukene - ukukhomba eyakho kukusiza ukuthi ulaphe.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Ikhanda elibuhlungu",
+        "description": "Ibhande eliqinile elizungeze ikhanda, izinhlangothi zombili, libuthuntu futhi lizinzile. Okumaphakathi kuya kokumaphakathi. Akukho ukucanuzela kwenhliziyo. Ngokuvamile kusukela ekucindezelekeni, ukungalali kahle, ukuphelelwa amanzi emzimbeni, ukucindezelwa kwamehlo, noma ukuma kabi."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "I-Migraine",
+        "description": "Ubuhlungu obuhlabayo ngokuvamile ohlangothini olulodwa, buphakathi kuya kobunzima. Ngokuvamile kuba nesicanucanu, ukuhlanza, ukukhanya nomsindo. Ihlala amahora angu-4-72. Ingase ilandele i-visual aura (ama-zigzag, indawo eyimpumputhe)."
+      },
+      {
+        "color": "coral",
+        "icon": "zap",
+        "title": "Ikhanda le-Cluster",
+        "description": "Kungazelelwe, ubuhlungu obukhulu, bokubhoboza eduze kweso elilodwa. Ukuchelela amehlo, ukuminyana kwekhala ngakolunye uhlangothi. Kafushane (imizuzu engu-15 - amahora angu-3) kodwa ukuhlaselwa kaningi ngosuku amasonto. Idinga ukwelashwa okukhethekile."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "I-Migraine yikhanda elibuhlungu nje.",
+        "fact": "I-Migraine yisimo sezinzwa esihlanganisa izinguquko ekusebenzeni kukagesi ebuchosheni, ukugeleza kwegazi, nokuvuvukala. Ikhanda elibuhlungu liwuphawu kwabaningi. Kuyafaneleka ukuthathwa ngokungathi sína."
+      },
+      {
+        "myth": "Uma amaphilisi ezinhlungu engasizi, akukho okuzosiza.",
+        "fact": "Ukwelashwa okuqondene ne-Migraine - ama-triptan, ama-gepant, nokunye - kusebenza lapho amaphilisi ezinhlungu ajwayelekile engasebenzi. Imithi yokuvimbela ingakwazi ukusika imvamisa ye-migraine ngesigamu. Buza udokotela wakho."
+      },
+      {
+        "myth": "Ikhanda elibuhlungu njalo lisho isimila.",
+        "fact": "Izimila zobuchopho azivamile futhi ngokuvamile zibangela amaphethini athile - kubi kakhulu ekuseni, ukuhlanza, izimpawu zemizwa. Izinhlungu zekhanda ezivame kakhulu yi-migraine, ukucindezeleka, noma ukusebenzisa imithi ngokweqile - hhayi isimila."
+      },
+      {
+        "myth": "Amadoda angempela avele adubule amakhanda.",
+        "fact": "I-Migraine ithinta abantu babo bonke ubulili. Ukuyiziba akukwenzi kube nemizwa encane. Ukwelashwa kukhona - ukukusebenzisa kunengqondo, akubuthakathaka."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Ngekhanda elicindezelayo ngezikhathi ezithile",
+        "description": "I-Paracetamol noma ibuprofen njengoba iqondiswa. I-Hydrate. Phumula ekamelweni elithule nelilufifi. Izibangeli zekheli — ukulala, isikhathi sesikrini, ingcindezi, ukuxineka kwamehlo."
+      },
+      {
+        "title": "Nge-migraine - thatha isinyathelo kusenesikhathi",
+        "description": "Thatha ukukhululeka kobuhlungu futhi uphumule ngokushesha nje lapho ubona ukuthi i-migraine iqala. I-Triptans (sumatriptan) isebenza kangcono kakhulu esibonakalisweni sokuqala kunalapho ubuhlungu buphakama. Khuluma nomtholampilo mayelana nezinketho zemithi."
+      },
+      {
+        "title": "Gcina idayari yekhanda",
+        "description": "Idethi, isikhathi, uhlobo, ubukhali, yini esize, izingcuphe ezingaba khona. Izinyanga ezimbili zamanothi zizobonisa amaphethini. Letha idayari kudokotela - iwusizo kakhulu kunokuchaza ngekhanda."
+      },
+      {
+        "title": "Uma uphuza amaphilisi ezinhlungu izinsuku eziningi - bonana nodokotela",
+        "description": "Ikhanda elibuhlungu elisetshenziswa ngokweqile livamile futhi liyabuyiselwa emuva. Ngokuphambene nalokho, ukwelashwa ukumisa isibulali-zinhlungu. Udokotela angakusiza ukuthi wenze lokhu ngokuphepha."
+      },
+      {
+        "title": "Uma kuvela amafulegi abomvu - yiya esibhedlela",
+        "description": "Ikhanda elibuhlungu kungazelelwe, ikhanda elibuhlungu/ukuqina kwentamo/ukuqubuka, ikhanda elibuhlungu nokudideka noma ubuthakathaka — lokhu kudinga ukuhlolwa okuphuthumayo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Iningi lekhanda elibuhlungu lingalawuleka ezingeni lasemtholampilo. Izinzuzo ze-migraine eziphikelelayo ekudlulisweni kwe-neurology - kutholakala ngohlelo lomphakathi.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Ngekhanda elidumayo, ikhanda elinezimpawu zemizwa",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala, ama-painkiller, kanye ne-migraine kadokotela",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Noma yiliphi ikhemisi lendawo",
+        "description": "I-paracetamol ne-ibuprofen etholakala ngaphandle kwekhawunta ukuze isetshenziswe ngezikhathi ezithile",
+        "meta": "Asikho incwadi kadokotela edingekayo ye-OTC",
+        "phone": null,
+        "phone_display": "Vakashela ikhemisi",
+        "primary": false
+      }
+    ]
+  }
+}

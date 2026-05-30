@@ -2,7 +2,7 @@
   "slug": "acne",
   "group_slug": "skin",
   "name": "I-acne",
-  "tagline": "Iyanyangeka. Musa ukukhetha. Bona ugqirha ukuze ufumane ubunzima.",
+  "tagline": "Iyanyangeka. Musa ukukhetha. Bonana nogqirha ukuze ufumane unyango olufanelekileyo.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
   "next_review": "2026-11-21",
@@ -14,7 +14,7 @@
     "ISebe lezeMpilo leSizwe"
   ],
   "what_is_it": {
-    "heading": "I-acne ngokwemiqathango ecacileyo",
+    "heading": "I-acne ngamazwi alula",
     "lede": "I-acne yinto eyenzekayo xa ioli kunye neeseli zesikhumba ezifileyo zivala iipores. Ngamanye amaxesha i-pore evaliweyo ivuvukala yintsholongwane yesiqhelo yolusu - kulapho ufumana amabala abomvu, abuhlungu. Ayibangelwa kukungcola.",
     "paragraphs": [
       "I-acne ixhaphake kakhulu kulutsha ngenxa yokuba utshintsho lwamahomoni lunyusa imveliso yeoli. Kodwa abantu abadala nabo bayayifumana - ngakumbi abafazi abakwiminyaka yabo yama-20 kunye nama-30, rhoqo ecaleni komhlathi. Malunga nama-85% abemi boMzantsi Afrika baya kuba namaqhakuva ngaxa lithile.",
@@ -178,4 +178,3 @@
     ]
   }
 }
-

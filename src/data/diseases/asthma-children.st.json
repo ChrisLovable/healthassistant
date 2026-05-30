@@ -1,0 +1,173 @@
+{
+  "slug": "asthma-children",
+  "group_slug": "child-baby",
+  "name": "Asthma ho bana",
+  "tagline": "Lintho tse susumetsang, li-inhalers, merero ea sekolo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "South African Paediatric Association",
+    "National Asthma Education Programme SA",
+    "Global Initiative for Asthma (GINA)",
+    "WHO"
+  ],
+  "urgent": {
+    "heading": "E potlakile - letsetsa hona joale",
+    "primary_message": "Sebelisa sekoahelo se putsoa se nang le spacer. Haeba ho se ntlafatso kamora metsotso e 10 - letsetsa 10177.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ho hema haholo ho bua ka lipolelo tse feletseng, kapa ho lla",
+      "Melomo, manala, kapa sefahleho se fetoha boputsoa kapa boputsoa",
+      "Letlalo le monyang pakeng tsa likhopo kapa ka tlase ho likhopo ka moea o mong le o mong",
+      "Reliever inhaler ha e thuse ho hang",
+      "Ho otsela, ho ferekana, kapa ho felloa ke matla ka lebaka la ho hema",
+      "Ho khohlela ho matla hoo ngoana a sitoang ho emisa kapa ho robala",
+      "Sefuba se khutsitseng - moea o emisa hobane moea o phalla o tlase haholo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Asma ea bongoaneng ka mantsoe a hlakileng",
+    "lede": "Asthma ke ha litsela tsa moea matšoafong li e-ba bonolo le ho ruruha - li tiisa 'me li hlahisa li-mucus ho arabela lintho tse susumetsang, ho etsa hore ho be thata hore ngoana a hema.",
+    "paragraphs": [
+      "Asma ea bongoaneng ke e 'ngoe ea mafu a atileng haholo ho bana ba Afrika Boroa - hoo e ka bang ngoana a le mong ho ba 10. Matšoao a ka tla le ho fela. Ka phekolo e nepahetseng, bana ba bangata ba nang le asthma ba ka phela, ba bapala lipapali le ho robala ka tsela e tloaelehileng.",
+      "Bana ba nang le asthma hangata ba hloka mefuta e 'meli ea meriana: e fokotsang moea (hangata e putsoa) bakeng sa nakong ea tlhaselo, le e thibelang ho hema (eo hangata e leng sootho) e sebelisoang letsatsi le leng le le leng ho boloka moea o khutsitse. Thibelo ke eona e thibelang ngoana ho tsoa sepetlele - leha a ikutloa a phetse hantle."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ho tse 10",
+        "body": "Bana ba Afrika Boroa ba na le asthma - ba bangata ba sa lemohuoe, haholo ba nang le sefuba se sa khaotseng bosiu."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Li-inhalers tse peli",
+        "body": "Blue reliever bakeng sa litlhaselo, sootho thibela letsatsi le letsatsi. Sethibela ke sona se hlileng se laolang lefu lena."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Kamehla spacer",
+        "body": "Bana ba tlameha ho sebelisa sepakapaka ka linako tsohle ka inhaler ea bona. E menahanya tekanyo ea moriana o fihlang matšoafong."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Lintho tse susumetsang lia fapana",
+        "body": "Lintho tse tloaelehileng tse bakang sefuba: sefuba sa kokoana-hloko, lerōle, mosi, pet dander, moea o batang, boikoetliso. Ho tseba lintho tse susumetsang ngoana oa hao ho thusa ho thibela litlhaselo."
+      }
+    ],
+    "pull_quote": {
+      "text": "Boholo ba litlhaselo tsa asthma tsa bongoaneng tse mpe ho lekana sepetlele li ka be li ile tsa thibeloa ka ts'ebeliso ea letsatsi le letsatsi ea thibelo ea inhaler. U se ke ua e emisa hobane ngoana o ikutloa a phetse - ke seo e reretsoeng ho se etsa.",
+      "source": "Global Initiative bakeng sa Asthma"
+    }
+  },
+  "signs": {
+    "heading": "Matšoao a tloaelehileng a asthma ea bongoaneng",
+    "lede": "Asma ha se kamehla e shebahalang eka ke ho hema. Haholo-holo ho bana, ho khohlela nako e telele - haholo-holo bosiu kapa ka boikoetliso - hangata ke letšoao feela la likhoeli pele ho hlahlojoa.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Khohlela e ke keng ea fela",
+        "description": "Haholo-holo bosiu, hoseng haholo, kapa ka ho matha le ho bapala. Letšoao le atileng haholo baneng - hangata le hloloheloa likhoeli tse ngata e le 'sefuba se lulang se khutla'."
+      },
+      {
+        "color": "coral",
+        "icon": "activity",
+        "title": "Ho hema kapa ho phefumoloha ka lerata",
+        "description": "Molumo oa mololi, haholo ha o phefumoloha. Ka linako tse ling feela nakong ea sefuba, ka linako tse ling ka boiteko leha e le bofe."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Ho hema ka nakoana, sefuba se thata",
+        "description": "Ngoana o lula PE, ha a khone ho tsamaisana le lithaka tsa hae, o tletleba hore sefuba se ikutloa se le thata kapa se 'bohloko'. Bohlokoa ho batlisisa."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Bana ba lula ba tsoa asthma.",
+        "fact": "Ba bangata ba etsa joalo - empa ba bangata ha ba etse joalo. Esita le ha matšoao a kokobela, maikutlo a tsela ea moea a ka khutla ho sa tsotellehe lilemo leha e le life. Boloka thibelo e ntse e tsoela pele joalokaha e laetsoe, leha e le hantle."
+      },
+      {
+        "myth": "Li-inhalers tsa steroid li sitisa kholo.",
+        "fact": "Tekanyetso ho lithibela-mafu tse hemang e tlase haholo 'me e sebetsa sebakeng sa heno matšoafong. Phello efe kapa efe e nyane kholong ha e kotsi haholo ho feta asthma e sa laoleheng hantle. Li-Oral steroids nakong ea litlhaselo li na le phello e ngata - ke ka lebaka leo thibelo e leng bohlokoa."
+      },
+      {
+        "myth": "Asma e bolela hore ha ho papali.",
+        "fact": "Asma e laoloang hantle ha ea lokela ho fokotsa lipapali. Baatlelete ba bangata ba Liolimpiki ba na le asthma. Haeba ngoana oa hau a sa khone ho tsamaisana le lithaka tsa hae, asthma ha e laoloe - bua le tleliniki."
+      },
+      {
+        "myth": "Re hloka feela inhaler ha ba kula.",
+        "fact": "Mokotla o moputsoa ke oa matsatsi a ho kula. Thibelo e sootho e tlameha ho sebelisoa letsatsi le leng le le leng - leha e le hantle. Ho e tlola ho etsa hore ho ruruha ho hahe, ho lebisang litlhaselong."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Fumana moralo oa tšebetso ea asthma ho tsoa tleliniking",
+        "description": "Morero o ngotsoeng o u bolella hantle seo u lokelang ho se etsa sethaleng se seng le se seng - se setala (se setle), se mosehla (ho mpefala), se khubelu (tšohanyetso). E lokolohile, e saennoe ke ngaka kapa mooki oa hau."
+      },
+      {
+        "title": "Kamehla sebelisa sepakapaka se nang le inhaler",
+        "description": "Li-Spacers li habeli palo ea meriana e fihlang matšoafong. Mahala litliliniking. U se ke ua lumella ngoana ho sebelisa inhaler ntle le eona."
+      },
+      {
+        "title": "Fana ka thibelo letsatsi le leng le le leng, sehla se seng le se seng",
+        "description": "Brown preventer (kapa motsoako oa inhaler) habeli ka letsatsi, letsatsi le leng le le leng. Le ha ngoana a ikutloa a phetse hantle. Le lehlabula. Ho tlōla ke sesosa se tloaelehileng sa litlhaselo."
+      },
+      {
+        "title": "Tseba lintho tse susumetsang ngoana oa hao",
+        "description": "Ngola lintlha tse hlahisang matšoao. Tse tloaelehileng: likokoana-hloko tse batang, lerole, mosi (ho kenyeletsoa le braai), likatse, lintja, moea o batang, boikoetliso. Fokotsa seo u ka se khonang."
+      },
+      {
+        "title": "Bolella sekolo le tlhokomelo ea morao-rao",
+        "description": "Ba fe kopi ea moralo oa ts'ebetso le sesebelisoa sa ho hlasimolla se nang le spacer. Likolo tse ngata li amohela tsena hang ha litokomane li saennoe."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Lefu la asma la bana le a phekoleha ka botlalo tsamaisong ya setjhaba ya Afrika Borwa. Li-inhalers, spacers, le merero ea ts'ebetso kaofela ha li lefelloe litleliniking.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · re re 'tlhaselo ea asthma e matla'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Li-inhalers tsa mahala, li-spacers, le merero ea ketso ea asthma",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Mohala oa mahala oa bophelo le boiketlo ba bana ba lihora tse 24",
+        "meta": "E lokolohile fonong efe kapa efe · lihora tse 24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

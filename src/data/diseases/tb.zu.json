@@ -1,0 +1,224 @@
+{
+  "slug": "tb",
+  "group_slug": "infectious",
+  "name": "I-TB (Tuberculosis)",
+  "tagline": "Ukukhwehlela amaviki angu-2+? Hlola namuhla - ukwelashwa kumahhala.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Institute for Communicable Diseases (NICD)",
+    "TB Free SA",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Kuyaphuthuma - bona umtholampilo kuleli sonto",
+    "primary_message": "Ukukhwehlela isikhathi esingaphezu kwamaviki ama-2, ukukhwehlela igazi, ukujuluka kakhulu ebusuku, noma ukuncipha ngokushesha - fika emtholampilo. Ukuhlola kumahhala.",
+    "phone": "0800012322",
+    "phone_display": "Shayela ku-0800 012 322",
+    "red_flags": [
+      "Ukukhwehlela okuhlala isikhathi esingaphezu kwamaviki ama-2 - kuyakhiqiza noma komile",
+      "Ukukhwehlela igazi, ngisho nenani elincane",
+      "Ukujuluka ebusuku kujuluka isikhathi esingaphezu kwesonto",
+      "Ukuncipha kwesisindo okungachazeki",
+      "Ubuhlungu besifuba obuba bubi nakakhulu ngokuphefumula",
+      "Imfiva eqhubekayo yezinga eliphansi amasonto",
+      "Izingane ezinokukhwehlela okungapheli nokwehluleka ukukhula kahle"
+    ]
+  },
+  "what_is_it": {
+    "heading": "I-TB ngamagama alula",
+    "lede": "Isifo sofuba isifo sofuba esibangelwa yi-Mycobacterium tuberculosis. Ngokuvamile lihlasela amaphaphu kodwa lingathinta noma iyiphi ingxenye yomzimba - amathambo, ubuchopho, izinso, ama-lymph nodes.",
+    "paragraphs": [
+      "I-TB isakazeka ngomoya lapho umuntu onaleli gciwane ekhwehlela noma ethimula. Abantu abaningi abadaluliwe abaguli ngokushesha - amagciwane angahlala iminyaka engasebenzi (i-TB equbisile) ngaphambi kokuba aqale ukusebenza. Cishe isifo esisodwa kweziyi-10 esicashile siba isifo esisebenzayo empilweni yonke.",
+      "I-TB iyelapheka. Ukwelashwa okujwayelekile yizinyanga eziyisi-6 zamaphilisi nsuku zonke - mahhala kuyo yonke imitholampilo yaseNingizimu Afrika. Ingozi enkulu ukumisa ukwelashwa kusenesikhathi lapho uzizwa ungcono. Ukwelashwa kancane kuzala i-TB engazweli emishanguzweni, okunzima kakhulu futhi okude ukuyelapha."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "300,000+",
+        "body": "Izehlakalo ezintsha ze-TB eNingizimu Afrika minyaka yonke. Enye yamanani aphezulu kakhulu emhlabeni."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "100% mahhala",
+        "body": "Njalo ukuhlolwa, yonke ithebhulethi, njalo ukuvakasha. Ukwelashwa kwe-TB engazweli emishanguzweni nakho kumahhala. Ayikho i-medical aid edingekayo."
+      },
+      {
+        "color": "gold",
+        "icon": "refresh-cw",
+        "headline": "Kuyalapheka",
+        "body": "Izinyanga eziyisi-6 zomuthi wansuku zonke zelapha i-TB ejwayelekile ngokuphelele. I-TB engazweli emishanguzweni ithatha isikhathi eside kodwa futhi iyelapheka."
+      },
+      {
+        "color": "green",
+        "icon": "alert-circle",
+        "headline": "I-HIV iphinda kabili ingozi",
+        "body": "I-TB iyimbangela ehamba phambili yokufa kwabantu abaphila ne-HIV. Uma une-HIV, hlolelwa i-TB njalo lapho uvakasha."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukumisa amaphilisi e-TB lapho uzizwa ungcono kuyinto eyingozi kakhulu ongayenza - kuwena kanye nakuwo wonke umuntu oseduze nawe. I-TB engazweli emishanguzweni iqala ngosuku umuntu ayeka ngalo imishanguzo yakhe.",
+      "source": "I-TB Free SA"
+    }
+  },
+  "signs": {
+    "heading": "Ongakubuka",
+    "lede": "I-TB ivamise ukukhula kancane. Isibonakaliso sakudala siwukukhwehlela okungeke kuphele. Noma yikuphi ukukhwehlela okuhlala isikhathi esingaphezu kwamaviki ama-2 kufanele kuhlolwe.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukukhwehlela okuqhubekayo",
+        "description": "Ukukhwehlela okuhlala isikhathi esingaphezu kwamaviki ama-2, kuvame ukukhiqiza, kwesinye isikhathi kube negazi. Kungase kube kubi kakhulu ebusuku."
+      },
+      {
+        "color": "coral",
+        "icon": "droplet",
+        "title": "Ukujuluka ebusuku nomkhuhlane",
+        "description": "Ukujuluka okumanzi ebusuku okucwilisa amashidi. Umkhuhlane wezinga eliphansi, ikakhulukazi ntambama nakusihlwa."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-down",
+        "title": "Ukuncipha kwesisindo nokukhathala",
+        "description": "Ukuncipha kwesisindo okungaqondile emavikini noma izinyanga. Ukulahlekelwa ukudla. Ukukhathala okungahambisani nomsebenzi."
+      },
+      {
+        "color": "gold",
+        "icon": "baby",
+        "title": "Ezinganeni",
+        "description": "Ukuhluleka ukukhula kahle, ukukhuluphala ngokweqile, ukukhwehlela okungapheli, ukuvuvukala kwezindlala entanyeni. I-TB ezinganeni ivame ukuphuthelwa - buza ukuthi isihlobo esiseduze sine-TB."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Indlela i-TB esabalala ngayo - nokuthi ayisakazeki kanjani",
+    "yes": [
+      "Ukuphefumula amaconsi kumuntu one-TB yamaphaphu ephilayo okhwehlelayo noma othimula",
+      "Ukusondelana isikhathi eside ezindaweni ezivalekile, ezingenawo umoya ohlanzekile",
+      "Ukuhlala noma ukusebenza ngaphansi kwezimo eziminyene - amakhaya, amahostela, izimayini, amajele",
+      "Ukuphuza ubisi olungagcotshwanga ezinkomeni ezinegciwane (akuvamile eNingizimu Afrika)"
+    ],
+    "no": [
+      "Ukuthintana nje njengokuxhawula noma ukuba sendaweni efanayo yangaphandle",
+      "Ukwabelana ngokudla, iziphuzo, amapuleti, noma okokudla",
+      "Izihlalo zasendlini yangasese, izibankwa zomnyango, noma izingubo zokulala (uma sezivuliwe)",
+      "Ukuqabulana, ukwanga, noma ukuya ocansini"
+    ]
+  },
+  "prevention": {
+    "heading": "Ungazivikela kanjani wena nomndeni wakho",
+    "lede": "I-TB iyachuma ezindaweni ezingenawo umoya ohlanzekile, neziminyene. Ukuvimbela okuningi kumayelana nomoya, ukutholwa kusenesikhathi, kanye nokuqeda ukwelashwa — okwakho noma okomuntu othintana naye.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Umgomo we-BCG ngesikhathi sokuzalwa",
+        "description": "Yonke ingane yaseNingizimu Afrika ijova i-BCG lapho izalwa. Ayivimbi yonke i-TB kodwa yehlisa izinhlobo ezinzima ezinganeni, ikakhulukazi i-meningitis."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Vula amawindi",
+        "description": "Amagciwane e-TB afa ngokushesha emoyeni omusha kanye nasemisebeni yelanga. Vula amafasitela, ikakhulukazi emakamelweni okulala ahlala nomuntu olashelwa i-TB."
+      },
+      {
+        "color": "orange",
+        "icon": "users",
+        "title": "Hlola abathintwayo basekhaya",
+        "description": "Uma othile ekhaya lakho exilongwa, wonke umuntu osendlini kufanele ahlolwe - ngisho noma ezizwa ephilile. Izingane zidinga isivikelo ikakhulukazi."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "title": "Ukwelashwa kokuvimbela i-TB",
+        "description": "Abantu abaphila ne-HIV, abathintwayo basekhaya, namanye amaqembu asengozini banganikezwa inkambo yamaphilisi e-TB ukuvimbela izifo ezikhona. Buza emtholampilo wakho."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "I-TB yisifo somuntu ompofu.",
+        "fact": "I-TB ithinta wonke amaqembu aholayo. Amazinga aphezulu e-SA avela ekungeneni komoya kahle, ukuminyana, kanye nesixhumanisi se-HIV - kodwa noma ubani ochitha isikhathi endaweni evalekile ene-TB ephilayo uyadalulwa."
+      },
+      {
+        "myth": "Uma sengizizwa ngingcono, ngiyakwazi ukumisa amaphilisi.",
+        "fact": "Ukuma kusenesikhathi yindlela i-TB engazweli emishanguzweni eqala ngayo. Kufanele uqedele izinyanga eziyisi-6 ezigcwele - ngisho nalapho ungasakhwehleli futhi usubuyile nesisindo."
+      },
+      {
+        "myth": "Amaphilisi e-TB alimaza isibindi nenhliziyo — amakhambi emvelo angcono.",
+        "fact": "Amaphilisi e-TB awavamile ukuba nemiphumela emibi esibindini, eqashwayo. Kodwa i-TB engelashiwe iyabulala ngokuqinisekile. Alikho ikhambi lemvelo elake lamisa amagciwane e-TB."
+      },
+      {
+        "myth": "Uma udla kahle futhi uqinile, ungakwazi ukulwa ne-TB ngokwakho.",
+        "fact": "Ukudla okunomsoco kusiza amasosha omzimba, kodwa akukho ukudla okukodwa okungamisa i-TB. Ama-antibiotics ukuphela kwendlela yokwelapha esebenzayo. Yidla kahle FUTHI uphuze amaphilisi."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Uma uke wakhwehlela amasonto ama-2 - hlolwa",
+        "description": "Hamba uye kunoma yimuphi umtholampilo. Cela ukuhlolwa kwe-TB. Uzocelwa ukuthi ukhiphe isikhwehlela enkomishini encane. Imiphumela phakathi kwezinsuku ezimbalwa."
+      },
+      {
+        "title": "Uma positive - qala ukwelashwa ngokushesha",
+        "description": "Umtholampilo uzokunikeza amaphilisi ngalolo suku. Ukwelashwa kwansuku zonke, kugadwa esigabeni sokuqala, futhi mahhala."
+      },
+      {
+        "title": "Thatha wonke umthamo, nsuku zonke, izinyanga eziyi-6 ezigcwele",
+        "description": "Ungalokothi weqe. Ungalokothi ume ngaphambi kwesikhathi - ngisho nalapho uzizwa ungcono ngemva kwamaviki ambalwa. Ukweqa kuzala i-TB engazweli emishanguzweni."
+      },
+      {
+        "title": "Tshela umndeni wakho kanye nosondelene nabo",
+        "description": "Kufanele zonke zihlolwe. Izingane ezingaphansi kweminyaka emi-5 kanye nabesifazane abakhulelwe ikakhulukazi badinga ukubonwa ngokushesha. Umtholampilo uyasiza ngokulandela umkhondo wokuxhumana nabantu."
+      },
+      {
+        "title": "Uma ukwelashelwa i-HIV - qhubeka kokubili",
+        "description": "Ukwelashwa kwe-TB ne-HIV kusebenza ndawonye. Tshela umtholampilo ngayo yonke imithi yakho. Ungalokothi uyeke eyodwa ukuze wenze enye ibe lula."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukunakekelwa kwe-TB kungenye yezinhlelo ezisungulwe kakhulu empilweni yomphakathi waseNingizimu Afrika. Hamba uye kunoma yimuphi umtholampilo - akukho ukuqokwa, akukho sizo lwezokwelapha, akukho-ID edingekayo.",
+    "helplines": [
+      {
+        "name": "Inombolo Kazwelonke Ye-TB",
+        "description": "Ulwazi lwamahhala, oluyimfihlo nokudluliselwa",
+        "meta": "Amahora angama-24 · mahhala kunoma iyiphi ifoni",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni inikeza ukuhlolwa nokwelashwa kwe-TB mahhala",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-TB Free SA",
+        "description": "Ulwazi, ukumela, kanye nokwesekwa kwabantu abadla ukwelashwa kwe-TB",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0214473007",
+        "phone_display": "021 447 3007",
+        "primary": false
+      }
+    ]
+  }
+}

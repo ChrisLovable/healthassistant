@@ -1,0 +1,224 @@
+{
+  "slug": "tb",
+  "group_slug": "infectious",
+  "name": "Lefuba (TB)",
+  "tagline": "Ho khohlela libeke tse 2+? Teko kajeno - kalafo ke mahala.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Institute for Communicable Diseases (NICD)",
+    "TB Free SA",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Ho potlakile - bona tleliniki bekeng ena",
+    "primary_message": "Ho khohlela ho feta libeke tse 2, ho khohlela mali, ho fufuleloa bosiu haholo, kapa ho theola boima ba 'mele ka potlako - fihla tleliniking. Teko ke mahala.",
+    "phone": "0800012322",
+    "phone_display": "Letsetsa 0800 012 322",
+    "red_flags": [
+      "Ho khohlela ho nka libeke tse fetang 2 - ho hlahisa kapa ho omme",
+      "Ho khohlela mali, esita le chelete e nyane",
+      "Ho fufuleloa bosiu ho fufuleloa nako e fetang beke",
+      "Ho lahleheloa ke boima ba 'mele ho sa hlalosoang",
+      "Bohloko ba sefuba bo mpefalang ka ho hema",
+      "Feberu e phehellang ea boemo bo tlase ka libeke",
+      "Bana ba nang le ho khohlela ho sa khaotseng le ho hlōleha ho atleha"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Lefuba ka mokhoa o hlakileng",
+    "lede": "Lefuba ke tšoaetso ea baktheria e bakoang ke lefuba la Mycobacterium. Hangata e hlasela matšoafo empa e ka ama karolo efe kapa efe ea 'mele - masapo, boko, liphio, lymph nodes.",
+    "paragraphs": [
+      "Lefuba le hasana moeeng ha motho ea tšoaelitsoeng a khohlela kapa a thimola. Batho ba bangata ba pepesehetseng ha ba kule hang-hang - baktheria e ka lula e khutsitse lilemo tse ngata pele e qala ho sebetsa. Hoo e ka bang tšoaetso e le 'ngoe ho tse 10 e patehileng e fetoha boloetse bo matla bophelong bohle.",
+      "Lefuba lea phekoleha. Kalafo e tloaelehileng ke likhoeli tse 6 tsa matlapa a letsatsi le letsatsi - mahala ho hang tleliniking e 'ngoe le e 'ngoe ea Afrika Boroa. Kotsi e kholo ke ho emisa kalafo kapele ha u ikutloa u le betere. Kalafo e sa fellang e tsoala lefuba le hananang le meriana, le thata ho feta le ho alafa nako e telele."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "300,000+",
+        "body": "Likotsi tse ncha tsa lefuba Afrika Boroa selemo se seng le se seng. E 'ngoe ea litefiso tse phahameng ka ho fetisisa lefatšeng."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "100% mahala",
+        "body": "Teko e 'ngoe le e' ngoe, letlapa le leng le le leng, ketelo e 'ngoe le e' ngoe. Kalafo ea lefuba e hananang le meriana le eona ke mahala. Ha ho hlokahale thuso ea bongaka."
+      },
+      {
+        "color": "gold",
+        "icon": "refresh-cw",
+        "headline": "E phekolehang",
+        "body": "Likhoeli tse 6 tsa meriana ea letsatsi le letsatsi e phekola lefuba le tloaelehileng ka botlalo. Lefuba le hananang le meriana le nka nako e telele empa hape lea phekoleha."
+      },
+      {
+        "color": "green",
+        "icon": "alert-circle",
+        "headline": "HIV e eketsa kotsi habeli",
+        "body": "Lefuba ke sesosa se ka sehloohong sa lefu ho batho ba phelang le HIV. Haeba u na le tšoaetso ea kokoana-hloko ea HIV, etsa tlhahlobo ea lefuba nako le nako."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ho emisa matlapa a lefuba ha u ikutloa u le betere ke ntho e kotsi ka ho fetisisa eo u ka e etsang - ho uena le ho bohle ba u potolohileng. Lefuba le hanyetsanang le meriana le qala letsatsi leo motho a emisang kalafo ea hae ka lona.",
+      "source": "TB Free SA"
+    }
+  },
+  "signs": {
+    "heading": "Seo u lokelang ho se shebella",
+    "lede": "Hangata lefuba le hlaha butle. Letšoao la khale ke khohlela e ke keng ea fela. Khohlela leha e le efe e nkang libeke tse fetang 2 e lokeloa ke tlhahlobo.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ho khohlela ho sa feleng",
+        "description": "Ho khohlela ho nka libeke tse fetang 2, hangata ho hlahisa litholoana, ka linako tse ling ka mali. E kanna ea mpefala bosiu."
+      },
+      {
+        "color": "coral",
+        "icon": "droplet",
+        "title": "Ho fufuleloa bosiu le feberu",
+        "description": "Mofufutso o kolobisang bosiu o kolobisang lishiti. Feberu ea boemo bo tlase, haholo-holo thapama le mantsiboea."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-down",
+        "title": "Ho lahleheloa ke boima ba 'mele le mokhathala",
+        "description": "Ho theola boima ba 'mele ka boomo ka libeke kapa likhoeli. Ho lahleheloa ke takatso ea lijo. Mokgathala o sa tsamaellaneng le mosebetsi."
+      },
+      {
+        "color": "gold",
+        "icon": "baby",
+        "title": "Ho bana",
+        "description": "Ho hloleha ho atleha, boima bo fokolang, ho khohlela ho sa khaotseng, litšoelesa tse ruruhileng molaleng. Hangata lefuba baneng le hloloheloa - botsa hore na mong ka uena ea haufi o na le lefuba."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Kamoo lefuba le jalang kateng - le kamoo le sa atang kateng",
+    "yes": [
+      "Ho hema ka marotholi ho tsoa ho motho ea nang le lefuba le mafolofolo la matšoafo ea khohlelang kapa ea thimolang",
+      "Kamano e telele ea nako e telele libakeng tse koaletsoeng, tse nang le moea o fokolang",
+      "Ho phela kapa ho sebetsa maemong a phetheselang - matlo, lihostele, merafo, lichankana",
+      "Ho noa lebese le sa hloekisoang ho tsoa likhomong tse nang le tšoaetso (rare in SA)"
+    ],
+    "no": [
+      "Ho kopana feela joalo ka ho tsukutla matsoho kapa ho ba sebakeng se le seng sa kantle",
+      "Ho arolelana lijo, lino, lipoleiti, kapa lijo",
+      "Litulo tsa ntloana, likonopo tsa mamati, kapa libethe (hang ha li butsoe)",
+      "Ho aka, ho haka, kapa ho kopanela liphate"
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa le ba lelapa la hau",
+    "lede": "Lefuba le atleha libakeng tse sa tsoellang moea hantle, tse tletseng batho. Thibelo e ngata e mabapi le moea, ho lemoha kapele, le ho qeta kalafo - ea hau kapa ea lelapa.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ente ea BCG nakong ea tsoalo",
+        "description": "Ngoana e mong le e mong oa SA o fumana ente ea BCG ha a hlaha. Ha e thibele lefuba lohle empa e fokotsa mefuta e matla baneng, haholo-holo meningitis."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Bula lifensetere",
+        "description": "Libaktheria tsa lefuba li shoa kapele moeeng o hloekileng le mahlaseling a letsatsi. Bula lifensetere, haholo-holo likamoreng tsa ho robala tse arolelanoang le motho ea alafshoang lefuba."
+      },
+      {
+        "color": "orange",
+        "icon": "users",
+        "title": "Lekola mabitso a lelapa",
+        "description": "Haeba motho e mong ka tlung ea hau a fumanoa, e mong le e mong ka tlung o lokela ho hlahlojoa - le haeba a ikutloa a phetse hantle. Bana ka ho khetheha ba hloka tšireletso."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "title": "Phekolo ea thibelo ea lefuba",
+        "description": "Batho ba phelang le HIV, batho bao ba kopanang le bona malapeng, le lihlopha tse ling tse kotsing ba ka fuoa matlapa a lefuba ho thibela lefu le hlahang. Botsa tleliniking ea hau."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Lefuba ke lefu la batho ba futsanehileng.",
+        "fact": "Lefuba le ama lihlopha tsohle tse kenang chelete. Litefiso tse phahameng tsa SA li tsoa ho moea o fokolang, tšubuhlellano, le khokahanyo ea HIV - empa mang kapa mang ea qetang nako sebakeng se koetsoeng a tšoeroe ke lefuba le mahlahahlaha o pepesitsoe."
+      },
+      {
+        "myth": "Hang ha ke ikutloa ke le betere, ke khona ho emisa lipilisi.",
+        "fact": "Ho emisa kapele ke kamoo lefuba le hanyetsanang le meriana le hlahang kateng. U tlameha ho qeta likhoeli tse 6 tse felletseng - leha u se u se u sa khohlela 'me boima ba 'mele bo boele bo eketsehile."
+      },
+      {
+        "myth": "Lipilisi tsa lefuba li senya sebete le pelo - litlhare tsa tlhaho li molemo.",
+        "fact": "Lipilisi tsa lefuba ke ka seoelo li ka bang le litla-morao sebeteng, tse behiloeng leihlo. Empa TB e sa alafshwang e fela e bolaya. Ha ho pheko ea tlhaho e kileng ea emisa libaktheria tsa lefuba."
+      },
+      {
+        "myth": "Ha o ja hantle mme o dula o le matla, o ka kgona ho lwantsha TB ka bowena.",
+        "fact": "Phepo e nepahetseng e thusa sesole sa 'mele, empa ha ho lijo feela tse ka thibelang lefuba le mahlahahlaha. Lithibela-mafu ke tsona feela phekolo e sebetsang. E-ja hantle LE ho noa lipilisi."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Haeba u bile le sefuba ka libeke tse 2 - etsa tlhahlobo",
+        "description": "Tsamaea ka tleliniking efe kapa efe. Kopa tlhahlobo ea lefuba. U tla kopuoa ho khohlela ka kopi e nyane. Liphetho ka mor'a matsatsi a seng makae."
+      },
+      {
+        "title": "Haeba e ntle - qala kalafo hang-hang",
+        "description": "Tleliniki e tla u fa matlapa hona letsatsing lona leo. Kalafo e etsoa letsatsi le leng le le leng, e laoloa qalong, 'me e lokolohile."
+      },
+      {
+        "title": "Nka tekanyo e 'ngoe le e' ngoe, letsatsi le leng le le leng, bakeng sa likhoeli tse 6 tse tletseng",
+        "description": "Le ka mohla u se tlōle. Le ka mohla u se ke ua emisa kapele - leha u ikutloa u le betere ka mor'a libeke tse 'maloa. Ho tlola ho tsoala lefuba le hananang le meriana."
+      },
+      {
+        "title": "Bolella ba lelapa la hau le bao u leng haufi le bona",
+        "description": "Kaofela ba lokela ho lekoa. Bana ba ka tlaase ho lilemo tse 5 le bakhachane ka ho khetheha ba hloka ho bonoa kapele. Kliniki e thusa ka ho hlahloba mabitso."
+      },
+      {
+        "title": "Haeba o le kalafong ea HIV - tsoela pele ka bobeli",
+        "description": "Kalafo ea lefuba le HIV li sebetsa 'moho. Bolella tleliniki ka meriana eohle ea hau. Le ka mohla u se ke ua emisa e 'ngoe ho nolofatsa e 'ngoe."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhokomelo ea lefuba ke e 'ngoe ea litsamaiso tse thehiloeng ka ho fetisisa bophelong ba sechaba sa Afrika Boroa. Tsamaea tleliniking efe kapa efe - ha ho kopano, ha ho thuso ea bongaka, ha ho na ID e hlokahalang.",
+    "helplines": [
+      {
+        "name": "Mohala oa Naha oa Lefuba",
+        "description": "Boitsebiso bo sa lefelloeng, ba lekunutu le liphetiso",
+        "meta": "Lihora tse 24 · mahala fonong efe kapa efe",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e nngwe le e nngwe ya mmuso e fana ka diteko le kalafo ya TB mahala",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "TB Free SA",
+        "description": "Tlhahisoleseding, bobuelli, le tshehetso bakeng sa batho ba nkang kalafo ya lefuba",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0214473007",
+        "phone_display": "021 447 3007",
+        "primary": false
+      }
+    ]
+  }
+}

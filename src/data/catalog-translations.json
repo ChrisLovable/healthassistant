@@ -8,6 +8,14 @@
       "xh": {
         "name": "Iimpawu zongxamiseko",
         "tagline": "Yazi into omawuyenze kwimizuzu yokuqala."
+      },
+      "zu": {
+        "name": "Izimo ezisongela impilo",
+        "tagline": "Yazi okufanele ukwenze emizuzwini yokuqala."
+      },
+      "st": {
+        "name": "Maemo a kotsi bophelong",
+        "tagline": "Ithute seo u lokelang ho se etsa metsotso e qalang."
       }
     },
     "chronic-lifestyle": {
@@ -18,6 +26,14 @@
       "xh": {
         "name": "Izifo zexesha elide nezendlela yokuphila",
         "tagline": "Iimeko zexesha elide onokuzilawula."
+      },
+      "zu": {
+        "name": "Izifo ezingapheli",
+        "tagline": "Izimo zesikhathi eside ongazilawula."
+      },
+      "st": {
+        "name": "Mafu a sa foleng a tloaelehileng a bophelo",
+        "tagline": "Maemo a nako e telele ao u ka a laolang."
       }
     },
     "infectious": {
@@ -28,6 +44,14 @@
       "xh": {
         "name": "Izifo ezosulelayo",
         "tagline": "Yintoni esasazekayo nendlela yokuzikhusela."
+      },
+      "zu": {
+        "name": "Izifo ezithathelwanayo",
+        "tagline": "Yini esakazeka, indlela yokuzivikela."
+      },
+      "st": {
+        "name": "Mafu a tšoaetsanoang",
+        "tagline": "Se tšoaetsanang, mokhoa oa ho itšireletsa."
       }
     },
     "womens-health": {
@@ -38,6 +62,14 @@
       "xh": {
         "name": "Impilo yabasetyhini",
         "tagline": "Unonophelo kuwo onke amanqanaba obomi."
+      },
+      "zu": {
+        "name": "Impilo yabesifazane",
+        "tagline": "Ukunakekela kuzo zonke izigaba zokuphila."
+      },
+      "st": {
+        "name": "Bophelo bo botle ba basali",
+        "tagline": "Tlhokomelo ho mehato eohle ea bophelo."
       }
     },
     "mens-health": {
@@ -48,6 +80,14 @@
       "xh": {
         "name": "Impilo yamadoda",
         "tagline": "Izinto amadoda ahlala engazibuziyo."
+      },
+      "zu": {
+        "name": "Impilo yamadoda",
+        "tagline": "Yini amadoda avame ukungabuzi ngayo."
+      },
+      "st": {
+        "name": "Bophelo bo botle ba banna",
+        "tagline": "Seo banna ba sa botseng ka teng haholo."
       }
     },
     "child-baby": {
@@ -58,6 +98,14 @@
       "xh": {
         "name": "Impilo yabantwana neentsana",
         "tagline": "Nini ekufuneka uxhalabile, nini unokulinda."
+      },
+      "zu": {
+        "name": "Impilo yezingane nezinsana",
+        "tagline": "Ukukhathazeka nini, ukulinda nini."
+      },
+      "st": {
+        "name": "Bophelo bo botle ba bana le masea",
+        "tagline": "Nako ea ho tšoenyehisa le nako ea ho emela."
       }
     },
     "mental-health": {
@@ -68,6 +116,14 @@
       "xh": {
         "name": "Impilo yengqondo",
         "tagline": "Awuwedwa. Uncedo lukhona."
+      },
+      "zu": {
+        "name": "Impilo yengqondo",
+        "tagline": "Awuwedwa. Usizo lukhona."
+      },
+      "st": {
+        "name": "Bophelo bo botle ba kelello",
+        "tagline": "Ha u a ikotla u le u le mong. Thuso e teng."
       }
     },
     "skin-allergy": {
@@ -78,6 +134,14 @@
       "xh": {
         "name": "Ulusu ne-allergy",
         "tagline": "Kuqhelekile, kuyanyangeka, kuhlala kungaqondwa kakuhle."
+      },
+      "zu": {
+        "name": "Isikhumba kanye nokungezwani komzimba",
+        "tagline": "Okujwayelekile, okuyelaphekayo, okuvame ukungaqondakali kahle."
+      },
+      "st": {
+        "name": "Letlalo le mafu a allergy",
+        "tagline": "A tloaelehileng, a ka alofaloang, hangata a hlalosoe hlole."
       }
     },
     "pain-everyday": {
@@ -87,7 +151,15 @@
       },
       "xh": {
         "name": "Iintlungu neengxaki zemihla ngemihla",
-        "tagline": "Ezi zikhalazo zikusa kwifama."
+        "tagline": "Ezi zikhalazo zikusa kwikhemesti."
+      },
+      "zu": {
+        "name": "Ubuhlungu nezinkinga zansuku zonke",
+        "tagline": "Izikhalazo ezikuletha ekhemisi."
+      },
+      "st": {
+        "name": "Bohloko le mathata a letsatsi le letsatsi",
+        "tagline": "Litlhoko tseo u li tlisang khemising."
       }
     },
     "prevention-screening": {
@@ -98,6 +170,14 @@
       "xh": {
         "name": "Uthintelo novavanyo",
         "tagline": "Kubambe kusenesikhathi. Hlala ukhuselekile."
+      },
+      "zu": {
+        "name": "Ukuvimbela nokuhlolwa",
+        "tagline": "Ibambe kusenesikhathi. Hlala phambili."
+      },
+      "st": {
+        "name": "Thibelo le tlhahlobo",
+        "tagline": "E tšoare ka pele. Lula u le pele."
       }
     }
   },
@@ -110,6 +190,14 @@
       "xh": {
         "name": "Istroke",
         "tagline": "Iimpawu ze-FAST. Umzuzu ngamnye ubalulekile."
+      },
+      "zu": {
+        "name": "Isifo sohlangothi",
+        "tagline": "Izimpawu ezisheshayo. Umzuzu nomzuzu ubalulekile."
+      },
+      "st": {
+        "name": "Stroke / Setorouku",
+        "tagline": "Matšoao a FAST. Motsotso o mong le o mong o bohlokoa."
       }
     },
     "heart-attack": {
@@ -120,6 +208,14 @@
       "xh": {
         "name": "Uhlaselo lwentliziyo",
         "tagline": "Intlungu yesifuba engapheliyo — tsalela umnxeba ngoku."
+      },
+      "zu": {
+        "name": "Ukuhlasela kwenhliziyo",
+        "tagline": "Ubuhlungu besifuba obungadluli — shayela manje."
+      },
+      "st": {
+        "name": "Tlhaselo ea pelo",
+        "tagline": "Bohloko ba sefubeng bo sa feleng — letsetsa hona joale."
       }
     },
     "severe-allergic-reaction": {
@@ -130,6 +226,14 @@
       "xh": {
         "name": "Ukusabela okukhulu kwe-allergy (anafilaksisi)",
         "tagline": "Ukudumba, ukuphefumla nzima — ungxamiseko."
+      },
+      "zu": {
+        "name": "Ukungezwani okukhulu komzimba (i-anaphylaxis)",
+        "tagline": "Ukuvuvukala, izinkinga zokuphefumula - izimo eziphuthumayo."
+      },
+      "st": {
+        "name": "Karabelo e matla ea ho kula (anaphylaxis)",
+        "tagline": "Ho opa, mathata a ho phefumula — tšohanyetso."
       }
     },
     "asthma-attack": {
@@ -140,6 +244,14 @@
       "xh": {
         "name": "Uhlaselo lwe-asthma",
         "tagline": "Ukutswina okungapheliyo — thatha inyathelo ngokukhawuleza."
+      },
+      "zu": {
+        "name": "Ukuhlasela kwesifuba somoya",
+        "tagline": "Ukuhefuzela okungeke kudambe — yenza ngokushesha."
+      },
+      "st": {
+        "name": "Tlhaselo ea asthma",
+        "tagline": "Ho fe fefo ho sa feleng — nka mehato ka potlako."
       }
     },
     "meningitis": {
@@ -150,6 +262,14 @@
       "xh": {
         "name": "Imeningitis",
         "tagline": "Intamo eqinileyo, intloko ebuhlungu kakhulu, urhashalala omfusa."
+      },
+      "zu": {
+        "name": "I-Meningitis",
+        "tagline": "Intamo eqinile, ikhanda elibuhlungu, ukuqubuka okunsomi."
+      },
+      "st": {
+        "name": "Meningitis",
+        "tagline": "Ho opa, bohloko ba hlooho, matšoao a kotsi — sepetlele hang-hang."
       }
     },
     "high-blood-pressure": {
@@ -160,6 +280,14 @@
       "xh": {
         "name": "Uxinzelelo lwegazi oluphezulu",
         "tagline": "Umbulali othe cwaka — 1 kwabayi-3 abadala eMzantsi Afrika."
+      },
+      "zu": {
+        "name": "Umfutho wegazi ophezulu",
+        "tagline": "Umbulali othule - 1 kwabangu-3 abantu abadala baseNingizimu Afrika."
+      },
+      "st": {
+        "name": "Khatello e phahameng ea mali",
+        "tagline": "E bolaea ka ho khutsitsa. Lekola mali ea hau."
       }
     },
     "diabetes": {
@@ -170,6 +298,14 @@
       "xh": {
         "name": "Iswekile",
         "tagline": "Esinye sezifo ezikhula ngokukhawuleza eMzantsi Afrika."
+      },
+      "zu": {
+        "name": "Isifo sikashukela",
+        "tagline": "Isifo esingelapheki esikhula ngokushesha e-SA."
+      },
+      "st": {
+        "name": "Lefu la tsoekere",
+        "tagline": "Laoloa ka ho ja, ho tsamaea le meriana."
       }
     },
     "high-cholesterol": {
@@ -180,6 +316,14 @@
       "xh": {
         "name": "I-cholesterol ephezulu",
         "tagline": "Intsingiselo yamanani entliziyweni yakho."
+      },
+      "zu": {
+        "name": "I-cholesterol ephezulu",
+        "tagline": "Izinombolo zisho ukuthini enhliziyweni yakho."
+      },
+      "st": {
+        "name": "K'holeseterole e phahameng",
+        "tagline": "Ha e bonahale. Lekola ka tlhahlobo."
       }
     },
     "hiv": {
@@ -190,6 +334,14 @@
       "xh": {
         "name": "I-HIV",
         "tagline": "Vavanya, nyanga, ungabonakali. Phila ubomi obupheleleyo."
+      },
+      "zu": {
+        "name": "I-HIV",
+        "tagline": "Hlola, phatha, awubonakali. Phila impilo egcwele."
+      },
+      "st": {
+        "name": "HIV",
+        "tagline": "E tšoaretsoe. Phela bophelo bo botle ka kalafo."
       }
     },
     "tb": {
@@ -200,6 +352,14 @@
       "xh": {
         "name": "I-TB (Isifo sephepha)",
         "tagline": "Ukhohlela iiveki ezi-2 nangaphezulu? Vavanya namhlanje — unyango lwasimahla."
+      },
+      "zu": {
+        "name": "I-TB (Tuberculosis)",
+        "tagline": "Ukukhwehlela amaviki angu-2+? Hlola namuhla - ukwelashwa kumahhala."
+      },
+      "st": {
+        "name": "Lefuba (TB)",
+        "tagline": "Ho khokhola libeke tse 2+? Hlahloba kajeno — kalafo ea mahala."
       }
     },
     "stis": {
@@ -210,6 +370,14 @@
       "xh": {
         "name": "Ii-STI (izifo ezosulela ngesondo)",
         "tagline": "Ziqhelekile, ziyanyangeka — yiya kuvavanywa."
+      },
+      "zu": {
+        "name": "Izifo ezithathelwana ngocansi",
+        "tagline": "Okuvamile, kuyalapheka - hlolwa."
+      },
+      "st": {
+        "name": "Mafu a tšoaetsanoang ka thobalano (STIs)",
+        "tagline": "A tloaelehileng, a ka alofaloang — hlahloba."
       }
     },
     "flu": {
@@ -220,6 +388,14 @@
       "xh": {
         "name": "Umkhuhlane (influenza)",
         "tagline": "Nini ukuphumla. Nini ukubiza ugqirha."
+      },
+      "zu": {
+        "name": "Umkhuhlane (influenza)",
+        "tagline": "Ukuphumula nini. Umshayele nini udokotela wakho."
+      },
+      "st": {
+        "name": "Ntaramane (Flu)",
+        "tagline": "Nako ea ho phomola. Nako ea ho letsetsa ngaka."
       }
     },
     "covid-19": {
@@ -230,6 +406,14 @@
       "xh": {
         "name": "I-COVID-19",
         "tagline": "Into omawuyenze namhlanje. I-Long COVID. Izitofu."
+      },
+      "zu": {
+        "name": "I-COVID 19",
+        "tagline": "Okufanele ukwenze namuhla. I-COVID ende. Imigomo."
+      },
+      "st": {
+        "name": "COVID-19",
+        "tagline": "Matšoao, ho itšireletsa le nako ea ho fumana thuso."
       }
     },
     "pneumonia": {
@@ -240,6 +424,14 @@
       "xh": {
         "name": "Inyumoniya",
         "tagline": "Umbulali ophambili kubantwana abangaphantsi kwe-5 nakubantu abangaphezulu kwe-65."
+      },
+      "zu": {
+        "name": "Inyumoniya",
+        "tagline": "Umbulali ophezulu wabaneminyaka engaphansi kwemi-5 nangaphezulu kweminyaka engama-65."
+      },
+      "st": {
+        "name": "Nyumonia",
+        "tagline": "Ho khokhola, ho futhumala, ho phefumoloha ho thata."
       }
     },
     "cervical-cancer-hpv": {
@@ -250,6 +442,14 @@
       "xh": {
         "name": "Umhlaza womlomo wesibeleko ne-HPV",
         "tagline": "Kungathintelwa ngesitofu novavanyo."
+      },
+      "zu": {
+        "name": "Umdlavuza womlomo wesibeletho kanye ne-HPV",
+        "tagline": "Kuvikeleka ngomuthi wokugoma nokuhlolwa."
+      },
+      "st": {
+        "name": "Kankere ea molomo oa popelo le HPV",
+        "tagline": "Tlhahlobo e bolokang bophelo. Qala kajeno."
       }
     },
     "breast-cancer": {
@@ -260,6 +460,14 @@
       "xh": {
         "name": "Umhlaza wamabele namaqhuma",
         "tagline": "Ukuzihlola, uvavanyo, nento omawuyenze xa ufumana iqhuma."
+      },
+      "zu": {
+        "name": "Umdlavuza webele nezigaxa",
+        "tagline": "Zihlole, uzihlole, nokuthi wenzeni uma uthola isigaxa."
+      },
+      "st": {
+        "name": "Kankere ea matsoele le maqhubu",
+        "tagline": "Ibona le ho ipapa. Tseba matšoao."
       }
     },
     "pregnancy-danger-signs": {
@@ -270,6 +478,14 @@
       "xh": {
         "name": "Iimpawu eziyingozi zokukhulelwa",
         "tagline": "Ukopha, intlungu enkulu, ukungahambi komntwana — nini ukuya esibhedlele."
+      },
+      "zu": {
+        "name": "Izimpawu eziyingozi zokukhulelwa",
+        "tagline": "Ukopha, ubuhlungu obukhulu, akukho mnyakazo - ukuthi ungene nini."
+      },
+      "st": {
+        "name": "Matšoao a kotsi a bokhachane",
+        "tagline": "Ha u belaela — sepetlele hang-hang."
       }
     },
     "contraception": {
@@ -278,8 +494,16 @@
         "tagline": "Jou opsies. Wat is gratis. Wat pas by jou lewe."
       },
       "xh": {
-        "name": "Ucwangciso lokukhulelwa",
+        "name": "Ucwangciso-ntsapho",
         "tagline": "Iinketho zakho. Okusimahla. Okwenza ebomini bakho."
+      },
+      "zu": {
+        "name": "Ukuvimbela inzalo",
+        "tagline": "Izinketho zakho. Yini mahhala. Yini evumelana nempilo yakho."
+      },
+      "st": {
+        "name": "Thibela pelehi",
+        "tagline": "Likhetho tsa hau. Se mahala. Se loketseng bophelo ba hau."
       }
     },
     "prostate-problems": {
@@ -290,6 +514,14 @@
       "xh": {
         "name": "Iingxaki ze-prostate",
         "tagline": "Kuqhelekile emva kweminyaka engama-50. Uninzi luyanyangeka."
+      },
+      "zu": {
+        "name": "Izinkinga zendlala yesinye",
+        "tagline": "Okujwayelekile ngemva kuka-50. Iningi liyelapheka."
+      },
+      "st": {
+        "name": "Mathata a tšoelesa ea senyama (Prostate)",
+        "tagline": "A tloaelehileng kamora lilemo tse 50."
       }
     },
     "childhood-diarrhoea": {
@@ -300,6 +532,14 @@
       "xh": {
         "name": "Urhudo lwabantwana",
         "tagline": "i-ORS isindisa ubomi. Yazi iimpawu zokuphelelwa ngamanzi emzimbeni."
+      },
+      "zu": {
+        "name": "Uhudo lwezingane",
+        "tagline": "I-ORS isindisa izimpilo. Yazi izimpawu zokuphelelwa amanzi emzimbeni."
+      },
+      "st": {
+        "name": "Letšollo la bana",
+        "tagline": "Amanzi le ORS. Tseba nako ea kotsi."
       }
     },
     "child-fever": {
@@ -310,6 +550,14 @@
       "xh": {
         "name": "Ifiva yomntwana",
         "tagline": "Nini iqhelekile. Nini ingaqhelekanga."
+      },
+      "zu": {
+        "name": "Umkhuhlane wengane",
+        "tagline": "Lapho kujwayelekile. Lapho kungenjalo."
+      },
+      "st": {
+        "name": "Feberu ea ngoana",
+        "tagline": "Nako ea ho tšoenyehisa le nako ea ho ea tleliniking."
       }
     },
     "vaccinations": {
@@ -320,6 +568,14 @@
       "xh": {
         "name": "Izitofu zabantwana",
         "tagline": "Ishedyuli yasimahla yaseMzantsi Afrika. Inaliti nganye ibalulekile."
+      },
+      "zu": {
+        "name": "Ukugonywa kwezingane",
+        "tagline": "Uhlelo lwamahhala lwe-SA. Konke ukudubula kubalulekile."
+      },
+      "st": {
+        "name": "Liente tsa bana",
+        "tagline": "Moralo oa mahala oa SA. Liente tsohle li bohlokoa."
       }
     },
     "asthma-children": {
@@ -330,6 +586,14 @@
       "xh": {
         "name": "I-asthma ebantwaneni",
         "tagline": "Izinto ezivusayo, iimpompo, izicwangciso zesikolo."
+      },
+      "zu": {
+        "name": "Isifuba somoya ezinganeni",
+        "tagline": "Izimbangela, ama-inhalers, izinhlelo zesikole."
+      },
+      "st": {
+        "name": "Asthma ho bana",
+        "tagline": "Laola ho tloha bonyane. Tseba matšoao a kotsi."
       }
     },
     "depression": {
@@ -338,8 +602,16 @@
         "tagline": "Werklik. Algemeen. Behandelbaar. Jy is nie alleen nie."
       },
       "xh": {
-        "name": "Uxinzelelo lwengqondo (depression)",
-        "tagline": "Lukhona ngenene. Luqhelekile. Luyanyangeka. Awuwedwa."
+        "name": "Ukudakumba (depression)",
+        "tagline": "Luyinyani. Luqhelekile. Luyanyangeka. Awuwedwa."
+      },
+      "zu": {
+        "name": "Ukucindezeleka",
+        "tagline": "Impela. Okuvamile. Kuyalapheka. Awuwedwa."
+      },
+      "st": {
+        "name": "Ho tepella maikutlo",
+        "tagline": "Ke 'nete. Ke tloaelehileng. E ka alofaloang."
       }
     },
     "anxiety": {
@@ -350,6 +622,14 @@
       "xh": {
         "name": "Uxhalaba",
         "tagline": "Lungaphezulu kokukhathazeka. Zikhona iindlela ezancedayo."
+      },
+      "zu": {
+        "name": "Ukukhathazeka",
+        "tagline": "Ngaphezu kokukhathazeka. Akhona amathuluzi asizayo."
+      },
+      "st": {
+        "name": "Matšoenyeho",
+        "tagline": "Ho feta ho tšoenyehisa feela. Ho na le mekhoa e thusang."
       }
     },
     "substance-use": {
@@ -360,6 +640,14 @@
       "xh": {
         "name": "Ukusetyenziswa kwezinto nokuxhomekeka",
         "tagline": "Utywala, iziyobisi — indlela yokukuqaphela nendawo yokufumana uncedo."
+      },
+      "zu": {
+        "name": "Ukusetshenziswa kwezidakamizwa nokulutheka",
+        "tagline": "Utshwala, izidakamizwa - kanjani ukukubona, kuphi usizo."
+      },
+      "st": {
+        "name": "Tšebeliso e mpe ea lithethefatsi le ho lemalla",
+        "tagline": "Thuso e teng. U sa le u le mong."
       }
     },
     "acne": {
@@ -370,6 +658,14 @@
       "xh": {
         "name": "I-acne",
         "tagline": "Yintoni esebenzayo. Yintoni eyenza ibe mandundu."
+      },
+      "zu": {
+        "name": "Izinduna",
+        "tagline": "Okusebenzayo. Yini eyenza kube kubi."
+      },
+      "st": {
+        "name": "Acne",
+        "tagline": "E sebetsa. Se e etsang hore e be boholo."
       }
     },
     "eczema": {
@@ -380,6 +676,14 @@
       "xh": {
         "name": "I-eczema",
         "tagline": "Izinto ezivusayo nendlela yokuyeka umjikelo wokurhawuzelela."
+      },
+      "zu": {
+        "name": "I-eczema",
+        "tagline": "Izimbangela kanye nendlela yokunqamula umjikelezo wokulunywa."
+      },
+      "st": {
+        "name": "Eczema",
+        "tagline": "Li-trigger le mokhoa oa ho khaola ho khahleha."
       }
     },
     "fungal-skin": {
@@ -390,6 +694,14 @@
       "xh": {
         "name": "Izifo zolusu lwefungus",
         "tagline": "Ringworm, athlete’s foot, jock itch — kulula ukuzinyanga."
+      },
+      "zu": {
+        "name": "Izifo zesikhumba ezibangelwa ukhunta",
+        "tagline": "Izikelemu, unyawo lomsubathi, i-thrush - kulula ukwelapha."
+      },
+      "st": {
+        "name": "Mafu a letlalo a bakoang ke fungus",
+        "tagline": "Ringworm, lieta tsa bapalami — bonolo ho alola."
       }
     },
     "headache-migraine": {
@@ -400,6 +712,14 @@
       "xh": {
         "name": "Intloko ebuhlungu ne-migraine",
         "tagline": "Nini sisithintelo. Nini luphawu olubomvu."
+      },
+      "zu": {
+        "name": "Ikhanda elibuhlungu kanye ne-migraine",
+        "tagline": "Lapho kushubile. Lapho kuyifulegi elibomvu."
+      },
+      "st": {
+        "name": "Hlooho e bohloko le hlooho e opang (Migraine)",
+        "tagline": "Nako ea ho phomola le nako ea ho tšoenyehisa."
       }
     },
     "heartburn-reflux": {
@@ -410,6 +730,14 @@
       "xh": {
         "name": "Ukutsha kwesifuba ne-acid reflux",
         "tagline": "Kuqhelekile — kodwa ngamanye amaxesha luphawu lwesilumkiso."
+      },
+      "zu": {
+        "name": "Isilungulela kanye ne-reflux",
+        "tagline": "Okuvamile - kodwa ngezinye izikhathi uphawu oluyisixwayiso."
+      },
+      "st": {
+        "name": "Pelo e chesa le asiti e nyolohelang (Acid reflux)",
+        "tagline": "Ho fetoha ha mefuta ea ho ja le meriana."
       }
     },
     "uti": {
@@ -420,6 +748,14 @@
       "xh": {
         "name": "Usulelo lomchamo (UTI)",
         "tagline": "Ukutsha, ukuhamba rhoqo, nyanga kwangoko."
+      },
+      "zu": {
+        "name": "I-Urinary tract infection (UTI)",
+        "tagline": "Ukushiswa, ukuphuthuma, ukwelashwa kusenesikhathi."
+      },
+      "st": {
+        "name": "Tšoaetso ea moroto (UTI)",
+        "tagline": "Ho utloa ho teng ha ho phepeloa metsi — fumana kalafo."
       }
     }
   }

@@ -2,7 +2,7 @@
   "version": "2.0",
   "platform": "MyMedic",
   "mvp_count": 32,
-  "languages": ["en", "af", "zu", "xh"],
+  "languages": ["en", "af", "zu", "xh", "st"],
   "core_sections": [
     "what-is-it",
     "know-this",

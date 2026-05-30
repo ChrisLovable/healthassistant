@@ -1,0 +1,173 @@
+{
+  "slug": "asthma-children",
+  "group_slug": "child-baby",
+  "name": "I-asthma yezingane",
+  "tagline": "Izimbangela, ama-inhalers, izinhlelo zesikole.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "South African Paediatric Association",
+    "National Asthma Education Programme SA",
+    "Global Initiative for Asthma (GINA)",
+    "WHO"
+  ],
+  "urgent": {
+    "heading": "Okuphuthumayo - shayela manje",
+    "primary_message": "Sebenzisa i-blue reliever inhaler ene-spacer. Uma kungekho ngcono emizuzwini eyi-10 — shayela ku-10177.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Uphelelwa umoya ukukhuluma ngemisho egcwele, noma ukukhala",
+      "Izindebe, izinzipho, noma ubuso buphenduka luhlaza noma bumpunga",
+      "Isikhumba esimunca phakathi noma ngaphansi kwezimbambo ngokuphefumula ngakunye",
+      "I-reliever inhaler ayisizi ngalutho",
+      "Ukozela, ukudideka, noma ukukhathala ngenxa yokuphefumula",
+      "Ukukhwehlela kubi kakhulu ingane ayikwazi ukuma noma ukulala",
+      "Isifuba esithulile - ukuheleza kuyama ngoba ukugeleza komoya kuphansi kakhulu"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Isifuba somoya sobuntwana ngamazwi alula",
+    "lede": "Isifuba somoya lapho imigudu yomoya emaphashini izwela futhi ivuvukale - iyaqina futhi ikhiqize amafinyila ekuphenduleni izinto ezibangela ukuphefumula, okwenza kube nzima ngengane ukuphefumula.",
+    "paragraphs": [
+      "Isifuba somoya ebuntwaneni singesinye sezifo ezingelapheki ezivame kakhulu ezinganeni zaseNingizimu Afrika - cishe ingane eyodwa kweziyi-10. Izimpawu zingafika zidlule. Ngokwelashwa okufanele, izingane eziningi ezinesifuba somoya zingaphila, zidlale imidlalo, futhi zilale ngendlela evamile.",
+      "Izingane ezinesifuba somoya ngokuvamile zidinga izinhlobo ezimbili zemithi: i-reliever inhaler (ngokuvamile eluhlaza okwesibhakabhaka) ngesikhathi sokuhlasela, kanye ne- preventer inhaler (evame ukuba nsundu) esetshenziswa nsuku zonke ukugcina imigudu yomoya izolile. Umvikeli yikho ovimba ingane ukuthi iphume esibhedlela - ngisho nalapho izizwa kahle."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku10",
+        "body": "Izingane zaseNingizimu Afrika zinesifuba somoya - eziningi azitholakali, ikakhulukazi lezo ezikhwehlela njalo ebusuku."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Ama-inhalers amabili",
+        "body": "I-blue reliever yokuhlaselwa, i-brown preventer nsuku zonke. Umvikeli uyena olawula lesi sifo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Njalo i-spacer",
+        "body": "Izingane kufanele ngaso sonke isikhathi zisebenzise i-spacer nge-inhaler yazo. Iphinda kabili inani lomuthi ofika emaphashini."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Izibangeli ziyahlukahluka",
+        "body": "Izimbangela ezivamile: umkhuhlane wegciwane, uthuli, intuthu, isilwane esifuywayo, umoya obandayo, ukuvivinya umzimba. Ukwazi izimbangela zengane yakho kusiza ukuvimbela ukuhlaselwa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukuhlaselwa kwesifuba somoya kwezingane okungalungile ngokwanele esibhedlela bekungavinjelwa ngokusetshenziswa kwansuku zonke kwe-inhaler yokuvimbela. Ungakuyeki ngoba ingane izizwa kahle - yilokho okuhloselwe ukukwenza.",
+      "source": "I-Global Initiative ye-Asthma"
+    }
+  },
+  "signs": {
+    "heading": "Izimpawu ezivamile zesifuba somoya ebuntwaneni",
+    "lede": "Isifuba somoya asibukeki njengokuphefumula ngaso sonke isikhathi. Ezinganeni ikakhulukazi, ukukhwehlela okomile okuthatha isikhathi eside - ikakhulukazi ebusuku noma lapho uvivinya umzimba - ngokuvamile kuwukuphela kophawu lwezinyanga ngaphambi kokuxilongwa.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukukhwehlela lokho ngeke kuphele",
+        "description": "Ikakhulukazi ebusuku, ekuseni kakhulu, noma ngokugijima nokudlala. Uphawu oluvame kakhulu ezinganeni - ngokuvamile eziphuthelwa izinyanga 'njengomkhuhlane olokhu ubuya'."
+      },
+      {
+        "color": "coral",
+        "icon": "activity",
+        "title": "Ukuhefuzela noma ukuphefumula okunomsindo",
+        "description": "Umsindo womlozi, ikakhulukazi uma uphefumulela ngaphandle. Ngezinye izikhathi kuphela ngesikhathi somkhuhlane, ngezinye izikhathi nanoma yikuphi ukuzikhandla."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Ukuphefumula, isifuba esiqinile",
+        "description": "Ingane ihlala e-PE, ayikwazi ukuhambisana nontanga, ikhononda ukuthi isifuba sizizwa siqinile noma 'sibuhlungu'. Kufanelekile ukuphenywa."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Izingane zikhula njalo ngenxa yesifuba somoya.",
+        "fact": "Abaningi bayakwenza—kodwa abaningi abakwenzi. Ngisho nalapho izimpawu seziphelile, ukuzwela kwendlela yokuphefumula kungabuya kunoma iyiphi iminyaka. Gcina isivimbeli siqhubeka njengoba kuyalelwe, noma ngabe kulungile."
+      },
+      {
+        "myth": "Ama-inhalers e-steroid anciphisa ukukhula.",
+        "fact": "Umthamo kuzivimbela ezihogeliwe uphansi kakhulu futhi usebenza endaweni emaphashini. Noma yimuphi umthelela omncane ekukhuleni awunabungozi kakhulu kunesifuba somoya esingalawulwa kahle. I-Oral steroids ngesikhathi sokuhlaselwa inomphumela owengeziwe - yingakho ukuvimbela kubalulekile."
+      },
+      {
+        "myth": "Isifuba somoya sisho ukuthi awukho umdlalo.",
+        "fact": "Isifuba somoya esilawulwa kahle akufanele silinganisele ezemidlalo. Abasubathi abaningi bama-Olympic banesifuba somoya. Uma ingane yakho ingakwazi ukuhambisana nontanga, isifuba somoya asilawuleki — khuluma nomtholampilo."
+      },
+      {
+        "myth": "Sidinga i-inhaler kuphela uma begula.",
+        "fact": "I-reliever eluhlaza okwesibhakabhaka ingeyezinsuku zokugula. I-blocker ensundu kufanele isetshenziswe nsuku zonke - noma ngabe ilungile. Ukuyeqa kuvumela ukuvuvukala kwakhe, okuholela ekuhlaselweni."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Thola uhlelo lokusebenza lwe-asthma emtholampilo",
+        "description": "Uhlelo olubhaliwe lukutshela ngqo ukuthi yini okufanele uyenze esigabeni ngasinye - oluhlaza (okuhle), ophuzi (oluba lubi), olubomvu (oluphuthumayo). Kumahhala, kusayinwe udokotela noma unesi wakho."
+      },
+      {
+        "title": "Njalo sebenzisa i-spacer nge-inhaler",
+        "description": "Ama-spacers aphinda kabili inani lomuthi ofika emaphashini. Kumahhala emitholampilo. Ungavumeli ingane ukuthi isebenzise i-inhaler ngaphandle kwayo."
+      },
+      {
+        "title": "Nikeza okokuvimbela nsuku zonke, njalo ngonyaka",
+        "description": "Isivimbeli esinsundu (noma inhlanganisela ye-inhaler) kabili ngosuku, nsuku zonke. Nalapho ingane izizwa kahle. Ngisho nasehlobo. Ukweqa kuyimbangela evame kakhulu yokuhlaselwa."
+      },
+      {
+        "title": "Yazi izimbangela zengane yakho",
+        "description": "Gcina amanothi kulokho okuletha izimpawu. Ezivamile: amagciwane abandayo, uthuli, intuthu (kuhlanganise ne-braai), amakati, izinja, umoya obandayo, ukuzivocavoca. Yehlisa ongakwenza."
+      },
+      {
+        "title": "Tshela isikole kanye nokunakekela ngemva kwesikhathi",
+        "description": "Banikeze ikhophi yohlelo lokusebenza kanye ne-spare ye-inhaler enesikhala. Izikole eziningi ziyakwamukela lokhu uma amaphepha esesayiniwe."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Isifuba somoya ebuntwaneni siyelapheka ngokugcwele ohlelweni lukahulumeni waseNingizimu Afrika. Ama-inhaler, ama-spacers, nezinhlelo zokusebenza konke kumahhala emitholampilo.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · amahora angu-24 · ithi 'ukuhlasela kwesifuba somoya okunzima'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ama-inhalers amahhala, ama-spacers, nezinhlelo zesenzo se-asthma",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-Childline SA",
+        "description": "Ulayini wamahhala wezempilo nenhlalakahle yezingane wamahora angama-24",
+        "meta": "Kumahhala kunoma iyiphi ifoni · amahora angama-24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

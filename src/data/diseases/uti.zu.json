@@ -1,0 +1,175 @@
+{
+  "slug": "uti",
+  "group_slug": "pain",
+  "name": "Ukutheleleka komgudu womchamo (UTI)",
+  "tagline": "Okujwayelekile kwabesifazane. Ama-antibiotic adingekayo. Ungazibi.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "South African Urology Association",
+    "WHO",
+    "National Department of Health",
+    "NICD"
+  ],
+  "urgent": {
+    "heading": "Fika emtholampilo noma esibhedlela ngokushesha uma",
+    "primary_message": "Ukutheleleka kwesinye isinye kungasakazekela ezinso nasemithanjeni yegazi. Izimpawu ezingezansi zisho ukuthi ukutheleleka sekuqhubekele phambili - kudinga ukwelashwa ngokushesha.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ukushisa okuphezulu, ukuqhaqhazela, noma ukujuluka okunezimpawu ze-UTI",
+      "Ubuhlungu obukhulu emhlane noma ohlangothini (ezungeze izinso)",
+      "Isicanucanu nokuhlanza okungeke kuphele",
+      "Ukudideka noma ukozela okwedlulele - ikakhulukazi kubantu abadala",
+      "Igazi emchameni (ngaphezulu kwenani elincane)",
+      "Izimpawu ze-UTI ekukhulelweni - ungalokothi ulinde",
+      "Izimpawu ze-UTI enganeni noma enganeni",
+      "Izimpawu ze-UTI endodeni (engavamile kakhulu, ngokuvamile eyingozi kakhulu)"
+    ]
+  },
+  "what_is_it": {
+    "heading": "UTI ngokwemibandela ecacile",
+    "lede": "Ukutheleleka komgudu womchamo kwenzeka lapho amagciwane - ngokuvamile aphuma emathunjini - engena ohlelweni lomchamo futhi anda. Iningi lithinta isinye (cystitis). Kwesinye isikhathi zifinyelela izinso (pyelonephritis), okuyinto embi kakhulu.",
+    "paragraphs": [
+      "Ama-UTI avame kakhulu kwabesifazane ngoba ishubhu lomchamo (urethra) lifushane, ngakho amagciwane afika esinyeni kalula. Cishe isigamu sabesifazane bane-UTI okungenani eyodwa ekuphileni kwabo. I-UTI emadodeni, izingane, noma ukukhulelwa ayivamile futhi idinga ukunakwa okuseduze.",
+      "Iningi lama-UTIs esinyeni alulama ngokushesha ngenkambo emfushane yemithi elwa namagciwane. Uma zingalashwa, zingasakazeka ziye phezulu ezinso, lapho ukutheleleka kuba kubi kakhulu - ngezinye izikhathi kusongela ukuphila. Ungazibi izimpawu ngethemba lokuthi zizohamba."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Ingxenye yabesifazane",
+        "body": "Bayoba okungenani ne-UTI eyodwa ekuphileni kwabo. Abaningi banezimbalwa. Kungesinye sezizathu ezivame kakhulu zokuvakashela emtholampilo."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Ama-antibiotic ayasebenza",
+        "body": "Iningi lama-UTI alula liyacaca ezinsukwini ezi-2-3 enkambweni emfushane yama-antibiotic. Phuza amanzi amaningi eceleni."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Ingasabalala",
+        "body": "I-UTI engelashiwe ingasakazekela ezinso - i-pyelonephritis. Lokhu kubangela imfiva, ubuhlungu beqolo, futhi ngezinye izikhathi i-sepsis. Isimo esiphuthumayo sangempela."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "headline": "Chama ngemva kocansi",
+        "body": "Ucansi luyimbangela evamile ye-UTI kwabesifazane. Ukuchama kungakapheli imizuzu engama-30 kukhipha amagciwane. Easy nsuku zonke zokuvimbela umkhuba."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ungazami ukwelapha izimpawu ze-UTI ngejusi ye-cranberry namanzi kuphela. Zingasiza ekuvimbeleni ukutheleleka esikhathini esizayo kodwa ngeke zisule okukhona. Thola ama-antibiotics - ukwelashwa kusenesikhathi kuvimbela ukubandakanyeka kwezinso.",
+      "source": "Inhlangano ye-Urology yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Ungasho kanjani lokho onakho",
+    "lede": "I-UTI yesinye kanye ne-UTI yezinso zinezimpawu ezithile - kodwa i-UTI yezinso yengeza imfiva nobuhlungu beqolo. Umehluko ubaluleke kakhulu.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "I-UTI yesinye (cystitis)",
+        "description": "Ukushiswa lapho uchama, udinga ukuchama kaningi, isidingo esiphuthumayo sokuchama kodwa kuphuma amanani amancane kuphela, umchamo onamafu noma onukayo, ukungakhululeki kwe-pelvic noma ngaphansi kwesisu. Awukho umkhuhlane."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "I-UTI yezinso (pyelonephritis)",
+        "description": "Konke lokhu okungenhla kwe-PLUS fever, ukuqhaqhazela, ubuhlungu obukhulu emhlane noma ohlangothini, isicanucanu nokuhlanza. Lokhu kudinga ukwelashwa okuphuthumayo - kwesinye isikhathi isibhedlela."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "UTI ngamaqembu akhethekile",
+        "description": "Ukukhulelwa, izingane, abantu abadala, namadoda - i-UTI ingabonakala kancane (ukudideka kubantu asebekhulile, ukucasuka nje ezinganeni) futhi kubi nakakhulu. Njalo hlola."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Ungawehlisa kanjani amathuba akho",
+    "lede": "Uma uthola ama-UTI aphindelelayo, imikhuba yansuku zonke yenza umehluko wangempela. Izinto ezincane, zenziwe ngokungaguquki.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Phuza amanzi amaningi",
+        "description": "Khomba u-1.5-2 wamalitha ngosuku, ngaphezulu lapho kushisa noma ngokuzivocavoca. Umchamo ohlanjululwe kanye nokushaywa njalo kugcina amagciwane angaziphindaphindi."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Chama lapho udinga",
+        "description": "Ungalubambi. Chama ngokugcwele — ungajahi. Ukubamba umchamo kunikeza amagciwane isikhathi sokuphindaphinda esinyeni esifudumele, esimnyama."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Chama kungakapheli imizuzu engama-30 ngemuva kocansi",
+        "description": "Ikhipha amagciwane okungenzeka ukuthi angena ngesikhathi socansi. Mhlawumbe umkhuba owodwa ophumelela kakhulu wokuvimbela kwabesifazane abenza ucansi."
+      },
+      {
+        "color": "gold",
+        "icon": "wind",
+        "title": "Sula ngaphambili ukuya emuva",
+        "description": "Ikakhulukazi ngemva kokunyakaza kwamathumbu. Ivimbela amagciwane amathumbu ukuthi angangeni eshubhu lomchamo - umthombo ovame kakhulu wamagciwane e-UTI."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Hamba emtholampilo ukuze uthole ama-antibiotic afanele",
+        "description": "Kumahhala kunoma yimuphi umtholampilo kahulumeni. Ukuhlolwa komchamo kuqinisekisa ukutheleleka. Ukwelashwa okufushane kwama-antibiotic (imvamisa izinsuku ezi-3-5) kuqeda ama-UTI amaningi. Ungazami ukuyikhipha."
+      },
+      {
+        "title": "Phuza amanzi amaningi",
+        "description": "Ikakhulukazi ngenkathi izimpawu zisebenza. Isiza ukususa amagciwane, inciphisa ubuhlungu lapho uchama. Hlela okungenani amalitha ama-2 ngosuku ngesikhathi sokutheleleka."
+      },
+      {
+        "title": "Qedela inkambo yama-antibiotic - ngisho noma kungcono",
+        "description": "Abantu abaningi bazizwa bengcono emahoreni angama-24-48. Inkambo ephelele yiyona eqeda amagciwane futhi ivimbele ukubuya. Ukumisa ukumelana nezinhlobo zakuqala."
+      },
+      {
+        "title": "Uma umkhuhlane noma ubuhlungu beqolo buvela - hamba ngaphandle kokulibala",
+        "description": "Lokhu kusho ukuthi isifo sesifikile ezinso. Idinga ukwelashwa okunamandla okuphuthumayo - kwesinye isikhathi isibhedlela. Ungalindi kuze kuse."
+      },
+      {
+        "title": "Uma uthola i-UTI kaningi - bonana nodokotela",
+        "description": "Ama-UTI avamile (3+ ngonyaka) adinga uphenyo. Kungase kube nembangela engelaphekayo, kanye nezinketho zokuvimbela isikhathi eside zikhona."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "I-UTI ingesinye sezizathu ezivame kakhulu abantu abavakashela emitholampilo. Ukwelashwa kumahhala, kuyashesha, futhi kuyasebenza - asikho isidingo sokuhlupheka.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Nge-UTI yezinso enomkhuhlane ophezulu, iqolo elibuhlungu, noma ukuhlanza",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa komchamo kwamahhala, ukuhlolwa, kanye nama-antibiotics",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

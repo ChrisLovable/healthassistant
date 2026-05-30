@@ -1,0 +1,195 @@
+{
+  "slug": "covid-19",
+  "group_slug": "infectious",
+  "name": "I-COVID-19",
+  "tagline": "Okufanele ukwenze namuhla. I-COVID ende. Imigomo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "NICD",
+    "WHO",
+    "National Department of Health",
+    "SA Medical Research Council"
+  ],
+  "what_is_it": {
+    "heading": "I-COVID-19 ngokwemibandela esobala",
+    "lede": "I-COVID-19 idalwa yigciwane le-SARS-CoV-2. Ngo-2026 isiphenduke insakavukela - ijikeleza unyaka wonke, ngamagagasi esizini. Amacala amaningi manje asethambile, kepha leli gciwane lisabulala abantu abasengozini.",
+    "paragraphs": [
+      "Iningi labantu baseNingizimu Afrika like laba ne-COVID-19 noma ligonyiwe. Ukuzivikela komzimba okuhlanganisiwe kwenze lesi sifo saba buthakathaka kwabaningi. Izinhlobo ezintsha zisavela, futhi asebekhulile, abakhubazekile, nabangagonyiwe bahlala besengozini enkulu yokugula kakhulu.",
+      "I-COVID ende - izimpawu ezihlala izinyanga ngemuva kokutheleleka - zithinta ingxenye enengqondo yabantu abelulama ekuthelelekeni okukhulu. Ukukhathala, ukuphelelwa umoya, inkungu yobuchopho, nobuhlungu besifuba kuvamile. Ukunciphisa inani lezikhathi otheleleka ngazo kunciphisa ingcuphe yakho ende ye-COVID."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "refresh-cw",
+        "headline": "I-Endemic",
+        "body": "I-COVID manje isiyingxenye yokuphila unomphela. Amagagasi esizini ayaqhubeka. Ama-boosters asiza ukunciphisa ubunzima, hhayi ukumisa ukutheleleka ngokuphelele."
+      },
+      {
+        "color": "coral",
+        "icon": "battery-low",
+        "headline": "I-COVID ende",
+        "body": "Cishe i-10-20% yezifo iholela ezimpawu ezihlala izinyanga. Ukutheleleka ngakunye futhi kwengeza ingozi - ukutheleleka okumbalwa kungcono."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Imithi yokugoma yamahhala",
+        "body": "Yonke imithi yokugomela i-COVID kanye nezithuthukisi ezibuyekeziwe zihlala zimahhala emitholampilo kahulumeni. Kunconywe minyaka yonke emaqenjini asengozini enkulu."
+      },
+      {
+        "color": "green",
+        "icon": "home",
+        "headline": "Ikakhulukazi ukunakekelwa kwasekhaya",
+        "body": "Ezimweni eziningi zidinga ukuphumula, uketshezi, nesikhathi. Ama-antiviral akhona emaqenjini asengozini enkulu - bona umtholampilo zingakapheli izinsuku ezi-5 zezimpawu."
+      }
+    ],
+    "pull_quote": {
+      "text": "Isigaba sobhubhane sesiphelile. I-COVID-19 ayikho. Kuphathe njengomkhuhlane - goma, ngenisa umoya, hlala ekhaya lapho ugula, futhi uvikele abasengozini eduze nawe.",
+      "source": "I-WHO"
+    }
+  },
+  "signs": {
+    "heading": "Ibukeka kanjani i-COVID manje",
+    "lede": "Izigameko eziningi zamanje ze-COVID zibukeka njengomkhuhlane noma umkhuhlane omncane. Ukulahlekelwa kwakudala kokunambitha nephunga okuvela kumagagasi angaphambili manje akusajwayelekile.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Izimpawu ezivamile",
+        "description": "Umphimbo obuhlungu, ikhala eligijimayo, ukukhwehlela, ikhanda elibuhlungu, ukukhathala, umkhuhlane omncane, ubuhlungu bomzimba. Ngokuvamile kwenziwa iphutha njengomkhuhlane noma umkhuhlane."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Okungajwayelekile manje",
+        "description": "Ukulahlekelwa ukunambitheka noma iphunga, ukuphefumula kanzima, ubuhlungu besifuba. Kusengenzeka - ikakhulukazi kubantu abangagonyiwe."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Thola usizo lwezempilo uma",
+        "description": "Ukuphefumula kanzima, ubuhlungu besifuba, ukudideka, izindebe eziluhlaza okwesibhakabhaka, ukuhlanza okungapheli, noma izimpawu ziba zimbi ngemva kokuthuthuka kokuqala."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Isakazeka kanjani i-COVID",
+    "yes": [
+      "Ukuphefumula ngamaconsi amancane nama-aerosol avela kubantu abangenwe yileli gciwane",
+      "Vala ukuthintana isikhathi eside ezindaweni ezisendlini ezingenawo umoya ohlanzekile",
+      "Ukuthinta izindawo ezingcolile, bese uyathinta ubuso (okungavamile kakhulu kunokuhamba emoyeni)",
+      "Kumuntu onaleli gciwane kodwa ongakazizwa egula"
+    ],
+    "no": [
+      "Ukuxhumana okuvamile kwangaphandle (akuvamile ngaphandle uma kusondele kakhulu futhi isikhathi eside)",
+      "Ukudla namanzi",
+      "Ukulunywa omiyane noma izinambuzane",
+      "Izilwane ezifuywayo nezilwane (okungavamile futhi akubalulekile ekusakazeni komuntu)"
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "I-COVID isiphelile. Akusadingeki sicabange ngakho.",
+        "fact": "I-COVID isabalele, ayihambile. Kusabulala abantu abasengozini futhi kubangela izinkinga zesikhathi eside. Umqondo ojwayelekile ubalulekile — hhayi ukwethuka."
+      },
+      {
+        "myth": "Uma ngaba ne-COVID kanye, angivikelekile.",
+        "fact": "Ukungavikeleki ekuthelelekeni kwangaphambili kuyafiphala phakathi nezinyanga futhi kuyahlukahluka ngokuhlukahluka. Ukutheleleka kabusha kuvamile. Ukugoma kanye nokutheleleka kwangaphambilini kunikeza isivikelo esiqine kakhulu."
+      },
+      {
+        "myth": "Umgomo uyingozi kakhulu kunesifo.",
+        "fact": "Iminyaka yedatha yomhlaba wonke ibonisa imithi yokugoma inciphisa ukugula okunzima, ukulaliswa esibhedlela, nokufa. Imiphumela emibi yomuthi wokugoma ayijwayelekile futhi ayijwayelekile kakhulu kunezinkinga ezinkulu ze-COVID."
+      },
+      {
+        "myth": "I-COVID ende ingokwengqondo - ayilona iqiniso.",
+        "fact": "I-COVID ende ibhalwe kahle ngokomzimba - ama-biomarker, ukulimala kwesitho, izinguquko zokuzivikela komzimba. Akukho ekhanda lesiguli. Ukwelashwa kuyathuthuka."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Ungazivikela kanjani wena nabanye",
+    "lede": "Ukuvimbela okuningi manje kuwumkhuba - njengomkhuhlane. Amaqembu asengozini enkulu asazuza kakhulu ezinyathelweni ezisebenzayo.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Hlala unolwazi lwakamuva ngama-booster",
+        "description": "Ama-booster aminyaka yonke e-COVID anconyelwe abaneminyaka engaphezu kuka-50, abangenawo amandla omzimba, ukugula okungapheli, kanye nabasebenzi bezempilo. Kumahhala emitholampilo."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ukungenisa umoya",
+        "description": "Vula amawindi. Hambisa imibuthano yokuzijabulisa ngaphandle uma kungenzeka. Ikhwalithi yomoya wasendlini iyisici esisodwa esikhulu ekusakazekeni kwe-COVID."
+      },
+      {
+        "color": "orange",
+        "icon": "user",
+        "title": "Imaski kuzilungiselelo ezinobungozi obukhulu",
+        "description": "Izibhedlela, imitholampilo, izithuthi zomphakathi ezigcwele ngaphakathi endlini ngesikhathi samagagasi. Ikakhulukazi uma uhlala nomuntu osengozini."
+      },
+      {
+        "color": "gold",
+        "icon": "home",
+        "title": "Hlala ekhaya uma ugula",
+        "description": "Kungakhathaliseki ukuthi i-COVID, umkhuhlane, nanoma yini enye - ukuhlala ekhaya kuvikela abantu abaseduze nawe. Hlola ukuthi uyakwazi yini ukufinyelela."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Hlola ukuthi uyakwazi yini ukufinyelela",
+        "description": "Ukuhlolwa kwe-antigen okusheshayo kuyatholakala emakhemisi amaningi. Ukwazi kukusiza ukuthi uvikele abanye futhi unqume ukuthi usengozini enkulu yini yezidambisigciwane."
+      },
+      {
+        "title": "Ukuphumula, uketshezi, i-paracetamol",
+        "description": "Kuyafana nomkhuhlane. Lala, unike amanzi, ulawule imfiva kanye nezinhlungu nge-paracetamol noma ibuprofen."
+      },
+      {
+        "title": "Zihlukanise ngenkathi uthelela",
+        "description": "Hlala ekhaya okungenani izinsuku ezi-5 kusukela ekuqaleni kwezimpawu. Zimboze amalungu omndeni. Gwema ukuvakashela asebekhulile noma izihlobo ezingenawo amandla omzimba."
+      },
+      {
+        "title": "Uma usengozini enkulu - bonana nomtholampilo kusenesikhathi",
+        "description": "Over 60, abakhulelwe, izifo ezingamahlalakhona, immunocompromised? Imithi elwa namagciwane (i-Paxlovid) isebenza kahle kakhulu phakathi nezinsuku ezingu-5 zezimpawu. Buza kusenesikhathi."
+      },
+      {
+        "title": "Buka i-COVID ende",
+        "description": "Izimpawu ezingaphezu kwamaviki angu-4 - ukukhathala, inkungu yobuchopho, ukuphefumula, ubuhlungu besifuba - zidinga ukuhlolwa kodokotela. Izinketho zokwelapha zikhona."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukunakekelwa kwe-COVID kuhlanganiswe nezinsizakalo zomtholampilo ezijwayelekile. Azikho izinombolo zocingo ezikhethekile ezidingekayo - umtholampilo wakho ovamile noma ikhemisi kungasiza.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Imithi yokugomela i-COVID yamahhala, izithuthukisi, nokuhlolwa kwezimpawu ezinzima",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi ngezinhlobonhlobo zamanje ze-COVID nokugadwa",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "depression",
+  "group_slug": "mental-health",
+  "name": "Ukucindezeleka",
+  "tagline": "Impela. Okuvamile. Kuyalapheka. Awuwedwa.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "SADAG (South African Depression and Anxiety Group)",
+    "WHO",
+    "National Department of Health Mental Health Directorate",
+    "South African Society of Psychiatrists"
+  ],
+  "urgent": {
+    "heading": "Khuluma nomuntu manje",
+    "primary_message": "Uma ucabanga ukuzibulala, noma ukuzilimaza - sicela welule isandla. Ukwesekwa kwamahhala, okuyimfihlo kuyatholakala njengamanje. Akumele ube senkingeni ukuze ushaye ucingo.",
+    "phone": "0800567567",
+    "phone_display": "SADAG 0800 567 567",
+    "red_flags": [
+      "Imicabango yokuqeda impilo yakho noma ukuthi abanye bangaphila kangcono ngaphandle kwakho",
+      "Ukuzizwa ndikindiki ngokuphelele, ungenalutho, noma unqanyuliwe kuwena",
+      "Ukunikeza izinto ezinengqondo noma ukuvalelisa",
+      "Ukuhoxa okunzima kuwo wonke umuntu nakho konke",
+      "Ukuzwa amazwi, ukubona izinto abanye abangaziboni, noma ukuzizwa ungelona iqiniso ngokujulile",
+      "Ukungakwazi ukuzinakekela - ukungadli, ukugeza, ukuphuma embhedeni izinsuku",
+      "Ukuzola kungazelelwe ngemva kokucindezeleka isikhathi eside - lokhu kungaba yisixwayiso, hhayi ukululama"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ukucindezeleka ngamazwi alula",
+    "lede": "Ukucindezeleka kuyisimo sezempilo sangempela - hhayi ubuthakathaka, hhayi isimo sengqondo esibi, hhayi 'ukudabuka nje'. Ishintsha indlela ubuchopho obusebenza ngayo, indlela umzimba ozizwa ngayo, nendlela yonke into ebukeka ngayo. Futhi iyelapheka.",
+    "paragraphs": [
+      "Wonke umuntu uzizwa edabukile ngezinye izikhathi. Ukucindezeleka kuhlukile. Ubuhlungu obuhlala njalo — isimo esiphansi esiqhubekayo, ukulahlekelwa isithakazelo ezintweni obukade uzijabulela, ukukhathala okungalungiseki ukulala, imizwa yokungabi nto yalutho noma yokungabi nathemba. Kuthatha amasonto noma izinyanga, hhayi amahora noma izinsuku.",
+      "Ukudangala kuthinta cishe umuntu oyedwa kwabayisi-6 baseNingizimu Afrika empilweni yakhe. Ihamba ngemindeni. Kungabangelwa ukucindezeleka, ukugula, ukulahlekelwa, ukushintsha kwama-hormone, noma lutho ngokukhethekile. Ngokwelashwa - ukwelashwa, imithi, noma kokubili - abantu abaningi baba ngcono kakhulu. Abaningi balulama ngokuphelele."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 em6",
+        "body": "Abantu baseNingizimu Afrika bazobhekana nengcindezi empilweni yabo. Kungesinye sezimo zezokwelapha ezivame kakhulu ezikhona."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kuyalapheka",
+        "body": "Cishe u-80% wabantu abanokucindezeleka baba ngcono kakhulu ngokwelashwa. Abaningi balulama ngokuphelele. Usizo luyasebenza."
+      },
+      {
+        "color": "coral",
+        "icon": "phone",
+        "headline": "I-SADAG imahhala",
+        "body": "Inombolo ethi 0800 567 567 iyilayini yamahhala yaseNingizimu Afrika yokuzibulala - abeluleki abaqeqeshelwe ukulalela, ngezilimi eziningi, amahora angama-24."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Hhayi ubuthakathaka",
+        "body": "Ukucindezeleka yisimo sezokwelapha esihlanganisa izinguquko kumakhemikhali obuchopho. Ukutshela umuntu ukuthi 'aphume kukho' kufana nokutshela onesifo sikashukela ukuthi enze i-insulin ibe nzima. Akusebenzi."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukufinyelela usizo akubona ubuthakathaka. Kungenye yezinto ezinesibindi, ezinzima kakhulu umuntu ocindezelekile angayenza. Uma ucabanga ngakho - shaya ucingo. Umuntu ngakolunye uhlangothi ulungile.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Ukudangala kubukeka kanjani",
+    "lede": "Ukucindezeleka kubonakala kuhlukile kubantu abahlukene. Ezinye izimpawu zingokomzwelo, ezinye ngokomzimba, ezinye zezenhlalo. Amasonto amabili alezi zimpawu iningi losuku umkhawulo okufanele uthathwe ngokungathi sína.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "cloud",
+        "title": "Okungokomzwelo",
+        "description": "Ukudabuka noma ukungabi nalutho okuqhubekayo, ukuphelelwa ithemba, ukuzizwa ungento yalutho noma unecala, ukucasuka noma intukuthelo (evame ukuphuthelwa amadoda), ukulahlekelwa isithakazelo ezintweni obukade uzijabulela."
+      },
+      {
+        "color": "orange",
+        "icon": "battery-low",
+        "title": "Okomzimba",
+        "description": "Ukukhathala okungalungiseki ubuthongo, ukushintsha kwesifiso sokudla (ngokuvamile ukudla kancane noma ngaphezulu kokujwayelekile), izinhlungu nezinhlungu, ukunyakaza okuhamba kancane noma ukukhuluma, ukuphazamiseka kokulala — kungaba kakhulu noma ukungakwazi ukulala."
+      },
+      {
+        "color": "coral",
+        "icon": "user-x",
+        "title": "Ezomphakathi nezokuqonda",
+        "description": "Ukuhoxa kubangani nomndeni, ukuzabalaza ukwenza izinqumo noma ukugxilisa ingqondo, imicabango eqhubekayo yokuzilimaza noma ukufa. Le micabango ivamile ekucindezelekeni - kanye nesizathu sokufinyelela usizo, hhayi ukuhlukanisa okunye."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ukucindezeleka kuwubuthakathaka nje - kufanele ukwazi ukuzidonsa ndawonye.",
+        "fact": "Ukucindezeleka yisimo sezokwelapha sangempela esihlanganisa izinguquko kumakhemikhali obuchopho. Ukutshela umuntu onokucindezeleka ukuthi 'aphume kukho' kufana nokutshela umuntu onesifo sikashukela ukuthi enze i-insulin ibe nzima. Akusebenzi futhi kuyabaphoxa."
+      },
+      {
+        "myth": "Ama-antidepressants ayalutha futhi ashintsha lokho oyikho.",
+        "fact": "Ama-antidepressants esimanje awalutheki - nakuba kufanele ancishiswe kancane lapho eyeka. Ababushintshi ubuntu bakho. Basusa inkungu ukuze ube nguwe futhi."
+      },
+      {
+        "myth": "Ukucindezeleka e-Afrika kuwukuxilongwa kwaseNtshonalanga.",
+        "fact": "Ukucindezeleka kwenzeka yonke indawo eMhlabeni, kuwo wonke amasiko, ngamanani afanayo. Indlela ezibonakalisa ngayo ingahluka (izimpawu eziningi zomzimba kwamanye amasiko), kodwa isimo esiyisisekelo sikhona yonke indawo - futhi siyelapheka."
+      },
+      {
+        "myth": "Ukukhuluma ngokuzibulala kwenza kube maningi amathuba okuthi kwenzeke.",
+        "fact": "Okuphambene kuyiqiniso. Ukubuza ukuthi 'ingabe unemicabango yokuzibulala' kukhombisa ukunakekela futhi kudala isikhala sokuthola usizo. Ukuthula nokugwema yikho okwenza izinto zibe zimbi kakhulu."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Uma usebunzimeni — shayela i-SADAG manje",
+        "description": "0800 567 567 imahhala kunoma iyiphi ifoni, amahora angu-24. Abeluleki baqeqeshelwe ukulalela. Akudingekile ukuthi ube 'sebunzimeni ngokwanele' — vele uphendule."
+      },
+      {
+        "title": "Uma ukwazi - tshela umuntu oyedwa",
+        "description": "Umngane, ilungu lomndeni, umholi wezenkolo, umphathi. Ukusho ngokuzwakalayo kanye kwephula okubi kakhulu kokuzihlukanisa. Awudingi ukukuchaza ngokuphelele."
+      },
+      {
+        "title": "Hamba uye emtholampilo uyohlolwa",
+        "description": "Imitholampilo kahulumeni ihlinzeka ngokuhlolwa nokwelashwa kwezempilo yengqondo mahhala. Cela 'umhlengikazi wezempilo yengqondo' noma udokotela. Imithi elwa nokucindezeleka imahhala emitholampilo uma kudingeka."
+      },
+      {
+        "title": "Uma ukwazi ukuphatha izinto zansuku zonke",
+        "description": "Thola ukukhanya kwelanga ekuseni, hamba uma ukwazi, udle ukudla okuncane okuvamile ngisho ungakuthandi ukudla, lala ngendlela evamile. Akukho kulokhu okwelapha ukudangala - kodwa kusiza ukwelashwa ukuthi kusebenze kangcono."
+      },
+      {
+        "title": "Uma umuntu omthandayo enokhwantalala",
+        "description": "Lalela ngaphandle kokuzama ukulungisa. Ungasho ukuthi 'jabulani' noma 'abanye bakubi kakhulu'. Uthi 'ngikhona, ngiyakubona, yini engasiza'. Bakhuthaze ukuthi babize i-SADAG ndawonye."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okumele ashayele khona manje",
+    "lede": "INingizimu Afrika inokwesekwa kwamahhala, okuyimfihlo kwezempilo yengqondo okutholakala amahora angama-24 ngosuku. Awudingi i-medical aid, i-ID, noma ukudluliselwa. Ifoni nje.",
+    "helplines": [
+      {
+        "name": "I-SADAG Suicide Crisis Line",
+        "description": "Ukwelulekwa kwamahhala, okuyimfihlo ngezilimi eziningi zaseNingizimu Afrika",
+        "meta": "Mahhala · amahora angu-24 · abeluleki abaqeqeshiwe",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "I-LifeLine yaseNingizimu Afrika",
+        "description": "Ukwelulekwa kwamahhala, ukuhlukumezeka, ukuhlukunyezwa, nokusekelwa ngokomzwelo",
+        "meta": "Amahora angama-24 · mahhala kunoma iyiphi ifoni",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala kwempilo yengqondo kanye nemithi uma kudingeka",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

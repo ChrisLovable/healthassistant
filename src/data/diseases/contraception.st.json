@@ -1,0 +1,158 @@
+{
+  "slug": "contraception",
+  "group_slug": "womens-health",
+  "name": "Thibela pelehi",
+  "tagline": "Dikgetho tsa hao. Ke eng mahala. Se loketseng bophelo ba hao.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Department of Health",
+    "Marie Stopes South Africa",
+    "WHO",
+    "FPAofSA"
+  ],
+  "what_is_it": {
+    "heading": "Thibela pelehi ka mantsoe a hlakileng",
+    "lede": "Thibela pelehi e u fa monyetla oa ho khetha hore na u na le bana neng le haeba u e-na le bana. Afrika Boroa e fana ka mefuta e mengata ea mekhoa - boholo ba eona ke mahala litleliniking tsa mmuso. Mekhoa e fapaneng e lumellana le bophelo bo fapaneng.",
+    "paragraphs": [
+      "Ha ho na mokhoa o \"molemo ka ho fetisisa\" - ke o loketseng feela hona joale. Khetho e itšetlehile ka lilemo tsa hau, bophelo bo botle, merero ea bana, boemo ba molekane le mokhoa oa bophelo. Mokhoa o nepahetseng ke oo u tla o sebelisa kamehla.",
+      "Litliliniki tsohle tsa mmuso li fana ka lithibela-pelehi mahala. Ha ho hlokahale hore u kenyelle molekane oa hau, batsoali (ho tloha lilemong tse 12), kapa mang kapa mang. Lekunutu le sirelelitsoe ke molao oa Afrika Boroa - basebeletsi ba tsa bophelo bo botle ba ke ke ba arolelana khetho ea hau ea thibelo ea bokhachane ntle le tumello ea hau."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Tsohle mahala",
+        "body": "Lipilisi, liente, li-implant, li-IUD, likhohlopo - kaofela li fumaneha mahala tleliniking e 'ngoe le e 'ngoe ea 'muso."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Likhetho tse ngata",
+        "body": "Lipilisi tsa letsatsi le letsatsi, liente tsa khoeli le khoeli, liente tsa khoeli le khoeli tse 3, li-implants tse nkang lilemo tse 3, li-IUD tse nkang lilemo tse 10."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "headline": "Lekunutu",
+        "body": "Ho tloha dilemong tse 12 o ka fihlella dithibelapelehi ka lekunutu. Basebeletsi ba tsa bophelo bo botle ba ke ke ba bolella batsoali kapa balekane ntle le tumello ea hau."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Pilisi ea tšohanyetso",
+        "body": "Morning-after pill e sebetsa ho fihlela matsatsi a 5 ka mor'a thobalano - empa kapele e ba betere. E fumaneha mahala litleliniking, e fumaneha likhemising tse ngata."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ke likhohlopo feela tse sireletsang boimana le mafu a likobo. Mekhoa ea li-hormone e sebetsa haholo bakeng sa bokhachane empa ha e fane ka tšireletso khahlanong le tšoaetso. Eketsa habeli ha u khona.",
+      "source": "Marie Stopes Afrika Borwa"
+    }
+  },
+  "signs": {
+    "heading": "Ke mokhoa ofe o lumellanang le bophelo ba hau?",
+    "lede": "Ha ho karabo e le 'ngoe e nepahetseng. Bapisa mokhoa le bophelo ba hau - 'me u hopole hore u ka fetola nako efe kapa efe.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "calendar",
+        "title": "Batla nako e telele, boikitlaetso bo fokolang",
+        "description": "Ho kenngoa (lilemo tse 3, molamu o monyenyane letsohong le ka holimo) kapa IUD (lilemo tse 3-10 ho itšetlehile ka mofuta). Ka bobeli li sebetsa hantle haholo 'me u ka li lebala hang ha li se li le teng."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "Batla taolo ea khoeli le khoeli",
+        "description": "Pilisi (e nooa letsatsi le leng le le leng ka nako e le 'ngoe) kapa ente (khoeli le khoeli kapa 3-khoeli). Ho molemo haeba u ka batla ho ima selemong se tlang kapa tse peli."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "U batla tšireletso ea mafu a likobo hape",
+        "description": "Likhohlopo tsa banna kapa tsa basali - nako le nako, ka lithibela-pelehi tse ling kapa ntle ho tsona. Ke tsona feela tse sireletsang khahlanong le HIV le mafu a likobo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Thibela pelehi e baka ho hloka thari hamorao.",
+        "fact": "Mekhoa eohle e ka fetoloang e etsa hore tsoalo ea hau e khutle kamora ho emisa - hangata ka mor'a likhoeli. Ha ho na phello ea nako e telele ea ho ba le bana hamorao ha u ba batla."
+      },
+      {
+        "myth": "U ke ke ua ima ka lekhetlo la pele, kapa ha u anyesa.",
+        "fact": "O ka kgona ka botlalo. Kamehla sebelisa lithibela-pelehi haeba u sa batle ho ima - lekhetlo la pele, ho ea khoeling, kapa nako efe kapa efe ka mor'a tsoalo."
+      },
+      {
+        "myth": "Pilisi e sireletsa khahlanong le HIV le mafu a likobo.",
+        "fact": "Thibela pelehi ea li-hormone e thibela ho ima feela. Bakeng sa mafu a likobo le HIV - likhohlopo nako le nako, kapa PrEP haeba e le kotsing e kholo ea HIV."
+      },
+      {
+        "myth": "Thibela pelehi ea tšohanyetso e tšoana le ho ntša mpa.",
+        "fact": "Thibela pelehi ea tšohanyetso e sebetsa pele bokhachane bo qala - e liehisa ho hlahisa mahe. E ke ke ea felisa bokhachane bo teng. Ho felisoa ha bokhachane ke tšebeletso e ikemetseng, ea molao."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "E-ea tleliniking efe kapa efe ea mmuso",
+        "description": "Kena. Kopa lithibela-pelehi. Ba tla u hlalosetsa likhetho 'me ba u thuse ho khetha. Ha ho hlokahale kopano, ha ho hlokahale thuso ea bongaka."
+      },
+      {
+        "title": "Leka mokhoa - 'me u fetole haeba o sa lumellane",
+        "description": "Litla-morao ka mokhoa o le mong ha li bolele hore tse ling li tla u fa mathata. Basali ba bangata ba leka 2 kapa 3 pele ba fumana e nepahetseng. Ho fetola ke mahala."
+      },
+      {
+        "title": "Haeba u hloloheloa pilisi - hlahloba pampitšana",
+        "description": "Lipilisi tse fapaneng li na le melao e fapaneng. Ka kakaretso: noa lipilisi tse fetiloeng hang ha u hopola, 'me u sebelise likhohlopo matsatsi a 7 e le bekapo."
+      },
+      {
+        "title": "Haeba thobalano ntle le tšireletso e etsahala",
+        "description": "Thibela pelehi ea tšohanyetso nakong ea matsatsi a 5. Mahala litliliniking. R30–80 likhemising tse ngata. Kapele ho molemo. Ha e nkele lithibela-pelehi tse tloaelehileng."
+      },
+      {
+        "title": "Banyalani - leka ho etsa qeto hammoho",
+        "description": "Thibela pelehi e sebetsa hantle ha balekane ka bobeli ba tšehetsa khetho. Litliliniki tse ngata li fana ka tlhabollo ho banyalani. Liphetho li betere ha le le leqepheng le le leng."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Thibela pelehi ke e 'ngoe ea litšebeletso tsa bophelo bo botle ba sechaba tse hlophisitsoeng hantle tsa Afrika Boroa. E mahala, e lekunutu, e fumaneha ho motho e mong le e mong ho tloha ho lilemo tse 12.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e 'ngoe le e 'ngoe ea 'muso e fana ka lithibela-pelehi le tlhabollo mahala",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka · lilemo tse 12+",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Marie Stopes SA",
+        "description": "Boeletsi, lithibela-pelehi, litšebeletso tsa bophelo ba pelehi",
+        "meta": "Mantaha–Labohlano 08:00–17:00",
+        "phone": "0800117785",
+        "phone_display": "0800 11 77 85",
+        "primary": true
+      },
+      {
+        "name": "loveLife youth line",
+        "description": "Bakeng sa bacha - botsoalle, ho se tsejoe, mahala",
+        "meta": "Mantaha–Labohlano 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
+    ]
+  }
+}

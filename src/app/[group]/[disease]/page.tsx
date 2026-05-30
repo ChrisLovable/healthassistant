@@ -49,6 +49,16 @@ export default async function DiseasePage({ params }: PageProps) {
             {t("notice.fallbackAf", lang)}
           </div>
         )}
+        {isFallback && lang === "zu" && (
+          <div className="mx-4 mt-1 mb-1 p-3 bg-amber-50 border border-amber-200 rounded-xl text-[11px] text-amber-900 leading-snug">
+            {t("notice.fallbackZu", lang)}
+          </div>
+        )}
+        {isFallback && lang === "st" && (
+          <div className="mx-4 mt-1 mb-1 p-3 bg-amber-50 border border-amber-200 rounded-xl text-[11px] text-amber-900 leading-snug">
+            {t("notice.fallbackSt", lang)}
+          </div>
+        )}
 
         {content.urgent && <UrgentSection data={content.urgent} />}
         <WhatIsItSection data={content.what_is_it} />

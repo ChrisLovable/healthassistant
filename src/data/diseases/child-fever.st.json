@@ -1,0 +1,154 @@
+{
+  "slug": "child-fever",
+  "group_slug": "child-baby",
+  "name": "Feberu ea ngoana",
+  "tagline": "Ha ho tloaelehile. Ha ho se joalo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Red Cross War Memorial Children's Hospital",
+    "WHO Child Health",
+    "National Department of Health",
+    "South African Paediatric Association"
+  ],
+  "urgent": {
+    "heading": "Bona tleliniki kapa sepetlele ka potlako haeba",
+    "primary_message": "Bongata ba feberu ea bana ha bo kotsi. Empa matšoao ana a fetola lintho - ho ea tleliniking kapa sepetlele.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ngoana ea ka tlase ho likhoeli tse 3 le feberu efe kapa efe (38°C kapa ho feta)",
+      "Feberu e fetang 40 ° C ho ngoana oa lilemo life kapa life",
+      "Feberu e nka matsatsi a fetang 3",
+      "Ho hema ka thata kapa ho hema kapele",
+      "Lekhopho le sa timeng ha le hatelloa ka tlas'a khalase",
+      "Molala o sataletseng, hlooho e bohloko haholo, kapa kutlo ho khanya",
+      "Ho otsela, ho thata ho tsoha, kapa ho khutsa ka tsela e sa tloaelehang",
+      "Ho hlatsa ho sa khaotseng kapa ho se be le moroto ka lihora tse 8+",
+      "Ho tsieleha - esita le tse khutšoanyane li hloka tlhahlobo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Feberu ka mantsoe a bonolo",
+    "lede": "Feberu ke mocheso oa 'mele o fetang 38°C. Ha se lefu - ke tsela ea 'mele ea ho loantša tšoaetso. Bongata ba feberu ea bongoana bo molemo ebile ha bo kotsi ka bobona.",
+    "paragraphs": [
+      "Feberu e thusa sesole sa 'mele ho sebetsa ka thata khahlanong le livaerase le libaktheria. Thempereichara ka boeona ha se hangata e bakang kotsi ho ngoana - esita le mocheso o phahameng ha o 'qheke' bokong (ena ke matšoenyeho a tloaelehileng empa eseng kamoo feberu e senyang 'mele). Ntho ea bohlokoa ke hore na e bakoa ke eng le hore na ngoana o shebahala joang.",
+      "Ngoana ea nang le maikutlo a tloaelehileng a 39 ° C a ka ba le matšoenyeho a fokolang haholo ho feta ngoana ea nang le 38 ° C ea floppy, a hana ho fepa, kapa a sa tloaeleha ka tsela leha e le efe. Tšepa kamoo ngoana a shebahalang kateng ho feta thermometer. Ha u belaela, etsa hore li hlahlojoe."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Hangata ho lokile",
+        "body": "Bongata ba feberu ea bongoana bo bakoa ke kokoana-hloko, ho nka matsatsi a 2-3, 'me bo rarolla ntle le phekolo. Ke ka seoelo feberu e leng bothata."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Ka tlase ho likhoeli tse 3",
+        "body": "Bana ba ka tlase ho likhoeli tse 3 ba nang le feberu leha e le efe ba hloka tlhahlobo e potlakileng ea bongaka. Masole a bona a ho itšireletsa mafung ha aa hōla 'me tšoaetso e ka ba mpe haholo."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "headline": "Sheba ngoana",
+        "body": "Tsela eo ngoana a shebahalang ka eona le eo a itšoarang ka eona ke ea bohlokoa ho feta palo ea thermometer. Ngoana ea khanyang ea nang le feberu e matla ha a tšoenyehe ho feta floppy ea nang le feberu e fokolang."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "headline": "Ha ho lithibela-mafu",
+        "body": "Lithibela-mafu ha li phekole livaerase. Bongata ba feberu ea bana bo na le kokoana-hloko - lithibela-mafu li ke ke tsa thusa 'me li ka baka litla-morao."
+      }
+    ],
+    "pull_quote": {
+      "text": "U se ke ua lelekisa thermometer. Sheba ngoana oa hao. Ngoana ea nang le botsoalle, ea noang, le ea hlahisang lileiri tse metsi o sebetsa hantle—esita le feberu e matla. Ngoana ea lerootho, ea mahlo a khalase o hloka thuso - leha a tšoeroe ke feberu e seng matla.",
+      "source": "Sepetlele sa Bana sa Red Cross War Memorial"
+    }
+  },
+  "signs": {
+    "heading": "Mokhoa oa ho tseba hore na e tebile",
+    "lede": "Feberu ka boeona ha se kotsi. Sheba setšoantšo sohle - boitšoaro ba ngoana, phefumoloho, maro le matšoao a mang.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Mohlomong ho lokile",
+        "description": "Ngoana o sebelisana le batho (ho bapala, ho bososela, ho shebella), ho noa maro, ho hlahisa lileiri tse metsi, ha ho lekhopho, ha ho bothata ba ho hema. Feberu e ka phahama empa ngoana o shebahala joaloka bona."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Sheba ka hloko",
+        "description": "Ngoana o khutsitse ka mokhoa o sa tloaelehang, a sa bapale ho feta tloaelo, a feptjoa hanyane, feberu e nkang lihora tse 24-48, lekhopho le bobebe. Ha se ts'ohanyetso empa ho bohlokoa ho etela tleliniki haeba e phehella kapa e mpefala."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Fumana thuso hona joale",
+        "description": "Floppy kapa ho se arabele, ho hema ka potlako kapa ka boiteko, lekhopho le sa timeng ka tlas'a khalase, molala o sataletseng, ho hana maro 'ohle, ho hloka moroto ka lihora tse 8+, ho tsietsana, kapa lesea lefe kapa lefe le ka tlase ho likhoeli tse 3 le nang le feberu efe kapa efe."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Apara habobebe - boloka kamore e phutholohile",
+        "description": "Liaparo tse bobebe, kobo e bobebe haeba e thothomela. Se ke oa bokella likobo tse boima kapa oa phuthela - sena se phahamisa mocheso oa 'mele le ho feta."
+      },
+      {
+        "title": "Fana ka maro hangata",
+        "description": "Lebese la letsoele, lebese le phofo, metsi, ORS. Lichelete tse nyane, hangata. Sheba li-nappies tse metsi - letšoao la ho phalla hantle."
+      },
+      {
+        "title": "Paracetamol kapa ibuprofen feela bakeng sa matšeliso",
+        "description": "Eseng ka lebaka la palo ea thermometer - hafeela ngoana a bonahala a sa phutholoha. Latela tekanyo e thehiloeng boima ba 'mele botlolong. U se ke ua kopanya paracetamol le ibuprofen ntle le keletso ea bongaka."
+      },
+      {
+        "title": "U se ke ua sebelisa seponche ka metsi a batang kapa joala",
+        "description": "Sena ha se phutholohe 'me se ka baka ho thothomela, e leng se phahamisang mocheso. Metsi a futhumetseng a lokile haeba ngoana a batla."
+      },
+      {
+        "title": "Tšepa kelello ea hau",
+        "description": "Haeba ho na le ho hong ho phoso - leha o sa khone ho bua - e-ea tleliniking. Batsoali ba ela hloko liphetoho tse poteletseng tseo e leng tsa bohlokoa. Basebeletsi ba tsa bophelo bo botle ba khetha hore u tlise ngoana ntle le ho lahleheloa ke ntho e itseng."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Bongata ba feberu ea bana bo ka laoloa lapeng. Ho tseba nako ea ho eketseha ke bokhoni ba bohlokoa - 'me litleliniki li thabela ho bona batsoali ba tšoenyehileng.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Bakeng sa bana ba sa pheleng hantle",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala bakeng sa bana ba kulang, ha ho hlokahale kopano",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Mohala oa mahala oa bophelo le boiketlo ba bana ba lihora tse 24",
+        "meta": "E lokolohile fonong efe kapa efe · lihora tse 24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "flu",
+  "group_slug": "infectious",
+  "name": "Ntaramane (Flu)",
+  "tagline": "Nako ea ho phomola. Nako ea ho letsetsa ngaka ea hau.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Institute for Communicable Diseases (NICD)",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Flu ka mantsoe a hlakileng",
+    "lede": "Influenza ke tšoaetso ea kokoana-hloko ea nko, 'metso le matšoafo. E matla haholo ho feta sefuba se tloaelehileng - feberu, ho opeloa ke 'mele le ho khathala ho tla ka mor'a lihora tse seng kae.",
+    "paragraphs": [
+      "Batho ba bangata ba phelang hantle ba fola nakong ea beke ho isa matsatsing a leshome. Kotsi e teng ka mathata - pneumonia, ho mpefala ha asthma kapa lefu la pelo, ho felloa ke metsi 'meleng ho batho ba hōlileng le bana ba banyenyane. Batho ba ka bang 11,000 ba Afrika Boroa ba shoa ka lebaka la mathata a amanang le ntaramane selemo se seng le se seng.",
+      "Fluu ha se sefuba se mpe feela. Serame se tla butle. Flu e hlasela ka mor'a lihora tse seng kae - feberu e matla, ho khohlela ho omileng, ho opa ha mesifa, hlooho e opang, le mokhathala o etsang hore u robale."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Nako ea selemo",
+        "body": "Nako ea feberu ea Afrika Boroa e tloha ka Mots'eanong ho isa Loetse. Fumana ente ka March kapa April."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "E ntse e bolaea",
+        "body": "Hoo e ka bang 11,000 SA batho ba shoang ka selemo - haholo-holo ka lebaka la mathata a kang pneumonia, haholo-holo ho maqheku le mafu a sa foleng."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Ente ea mahala",
+        "body": "Lihlopha tse kotsing e kholo li fumana liente tsa mahala tsa feberu litleliniking - ho feta 65, bakhachane, mafu a sa foleng, basebeletsi ba tsa bophelo bo botle."
+      },
+      {
+        "color": "green",
+        "icon": "home",
+        "headline": "Phomola, eseng lithibela-mafu",
+        "body": "Hangata batho ba baholo ba phelang hantle ba hloka phomolo, maro le nako - eseng lithibela-mafu. Lithibela-mafu ha li sebetse khahlanong le likokoana-hloko."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ente ea ntaramane e ke ke ea u fa ntaramane - eo ke e 'ngoe ea litšōmo tse phehellang le tse kotsi. Ente ha e na vaerase e phelang.",
+      "source": "NICD"
+    }
+  },
+  "signs": {
+    "heading": "Flu khahlano le sefuba - ho bolela joang",
+    "lede": "Mokhohlane le sefuba ke mafu a fapaneng. Ho tseba hore na u na le eng ho fetola seo u se etsang kamora moo.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Flu e otla ka potlako le ka matla",
+        "description": "Feberu e phahameng (ho feta 38°C) e hlaha ka mor'a lihora tse seng kae, 'mele o opeloa haholo, ho khohlela ho omileng, mokhathala. U ikutloa u sithabetse."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Serame se haha ​​butle",
+        "description": "Nko e mathang, 'metso o bohloko, mokhathala o fokolang. U ikutloa u le thata empa u sebetsa. Ha ho feberu e phahameng, ha ho mahlaba 'meleng."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Matshwao a tlhokomediso",
+        "description": "Ho phefumoloha ka thata, bohloko ba sefuba, melomo e putsoa, ​​ho hlatsa ho matla, pherekano, matšoao a ntlafetseng ebe ka tšohanyetso a mpefala - bona tleliniki."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Joang feberu e nama",
+    "yes": [
+      "Ho khohlela le ho thimola ho tsoa ho batho ba tšoaelitsoeng - marotholi a tsamaea hoo e ka bang mithara",
+      "Ha motho a khohlela holim'a moo motho ea tšoaelitsoeng a khohlela, ebe oa u ama sefahleho",
+      "Khokahano e haufi libakeng tse sa tsoetsoeng hantle ke moea - litlelase, litekesi, liofisi",
+      "Ho tloha ho motho ea tšoaelitsoeng ho qala letsatsi pele a ikutloa a kula"
+    ],
+    "no": [
+      "Ho longoa ke menoang kapa likokoanyana tse ling",
+      "Lijo, metsi, kapa ho arolelana lino (tse sa tloaelehang)",
+      "Ho bata kapa ho koloba - serame ha se bake feberu, kokoana-hloko e etsa joalo",
+      "Ente ea ntaramane - ha e na kokoana-hloko e phelang"
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa le ba lelapa la hau",
+    "lede": "Ente ea ntaramane ea selemo le selemo ke eona ntho e le 'ngoe e sebetsang ka ho fetisisa. Leha u ntse u tšoaroa ke ntaramane ka mor'a ho entoa, hangata ha e matla haholo.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ente ea selemo le selemo ea feberu",
+        "description": "Fumana ente selemo le selemo pele ho nako ea feberu. Mahala litliliniking bakeng sa lihlopha tse kotsing e kholo, e ka ba R100 likhemising tse ngata bakeng sa batho bohle."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Hlapa matsoho khafetsa",
+        "description": "Sesepa le metsi ka metsotsoana e 20, kapa sanitiser ea joala. Haholo-holo ka mor'a lipalangoang tsa sechaba, mabenkeleng, kapa koloi ea sekolo."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Moea oa moea",
+        "description": "Bula lifensetere malapeng, litlelaseng le liofising. Fluru ha e ata haholo libakeng tse nang le moea o motle."
+      },
+      {
+        "color": "gold",
+        "icon": "home",
+        "title": "Lula hae haeba u kula",
+        "description": "Haeba u tšoeroe ke feberu, lula hae lihora tse 24 ka mor'a hore feberu ea hau e phalle. O tšoaetsanoa haholo matsatsing a pele a 3-4."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ente ea ntaramane e ka u fa sefuba.",
+        "fact": "Ente ea ntaramane ha e na vaerase e phelang. Batho ba bang ba ikutloa ba khathetse kapa ba na le feberu e seng matla ka mor'a ho thunngoa - ke sesole sa 'mele se arabelang, eseng feberu."
+      },
+      {
+        "myth": "Haeba ke phetse hantle, ha ke hloke ente ea sefuba.",
+        "fact": "Hangata batho ba phelang hantle ba pholoha feberu - empa ba e fetisetsa ho batho ba tlokotsing. Ente e sireletsa uena le bana ba hau, batsoali le basebetsi-'moho."
+      },
+      {
+        "myth": "Lithibela-mafu li tla tlosa sefuba sa ka kapele.",
+        "fact": "Lithibela-mafu li sebetsa feela khahlanong le libaktheria. Fluu ke kokoana-hloko. Ho noa lithibela-mafu ho sa hlokahale ho tsoala libaktheria tse itoanelang hamorao."
+      },
+      {
+        "myth": "Hang ha ke e-na le matšoao, e se e le morao haholo bakeng sa ente.",
+        "fact": "Haeba u se u ntse u e-na le ntaramane, ente e ke ke ea phekola ketsahalo eo - empa ha e e-so be morao haholo bakeng sa nako ea selemo kaofela. Hangata ho na le litšupiso tse ngata hamorao."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Phomolo, metsi, paracetamol",
+        "description": "Robala ka hohle kamoo u ka khonang. Noa metsi, lero, sopho. Paracetamol kapa ibuprofen bakeng sa feberu le mahlaba."
+      },
+      {
+        "title": "U se ke ua kopa lithibela-mafu",
+        "description": "Fluu ke kokoana-hloko. Lithibela-mafu ha li etse letho bakeng sa likokoana-hloko. Li thusa feela haeba bothata ba baktheria bo kang pneumonia bo hlaha."
+      },
+      {
+        "title": "Haeba ho le kotsi haholo - bona tleliniki kapele",
+        "description": "Mokhachane, ho feta lilemo tse 65, lefu le sa foleng (asthma, lefu la pelo, lefu la tsoekere, HIV)? Bona tleliniki nakong ea lihora tse 48 - li-antiviral li sebetsa hantle pele ho nako."
+      },
+      {
+        "title": "Sheba matšoao a lemosang",
+        "description": "Ho hema ka thata, bohloko ba sefuba, pherekano, ho hlatsa ho matla, ho mpefala ha tšohanyetso - fumana tlhokomelo ea bongaka."
+      },
+      {
+        "title": "Sireletsa ba bang",
+        "description": "Lula hae ho fihlela ho se na feberu ka lihora tse 24. Koahela likhohlela ka setsoe sa hau. U se ke ua etela beng ka uena ba hōlileng ha u ntse u kula."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Bongata ba feberu bo ka laoloa lapeng. Litliliniki le litlhare li thusa ka matšoao a matla le lihlopha tse kotsing e kholo.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e 'ngoe le e 'ngoe ea 'muso e fana ka liente tsa mahala tsa feberu bakeng sa lihlopha tse kotsing e kholo",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Lenaneo la mahala la NICD",
+        "description": "Tlhahisoleseding ka ho lebela sefuba le ho entoa",
+        "meta": "Mantaha–Labohlano 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

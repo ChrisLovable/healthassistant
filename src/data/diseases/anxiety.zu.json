@@ -1,0 +1,158 @@
+{
+  "slug": "anxiety",
+  "group_slug": "mental-health",
+  "name": "Ukukhathazeka",
+  "tagline": "Ngaphezu kokukhathazeka. Akhona amathuluzi asizayo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "SADAG",
+    "WHO",
+    "South African Society of Psychiatrists",
+    "National Department of Health Mental Health Directorate"
+  ],
+  "what_is_it": {
+    "heading": "Ukukhathazeka ngamazwi alula",
+    "lede": "Ukukhathazeka yilokho okuzwayo lapho isistimu ye-alamu yomzimba wakho idubula kaningi, kakhulu, noma ingekho ingozi yangempela ekhona. Wonke umuntu uzizwa ekhathazekile ngezinye izikhathi. Isifo sokukhathazeka yilapho singena endleleni yokuphila evamile.",
+    "paragraphs": [
+      "Kunezinhlobo eziningi: ukukhathazeka okuvamile (ukukhathazeka njalo), ukwesaba (amagagasi angazelelwe okwesaba okukhulu), ukukhathazeka komphakathi (ukwesaba ukwahlulelwa), ama-phobias athile, i-PTSD ngemva kokuhlukumezeka. Ziyagqagqana futhi zabelana ngezimiso zokwelashwa.",
+      "Ukukhathazeka kunengxenye eqinile yomzimba - inhliziyo egijima, ukujuluka, ukuphefumula, isiyezi, isicanucanu, ukuthuthumela. Umzimba uzwa sengathi usengozini ngisho noma ingqondo yazi ukuthi ayikho. Lokhu kuyiqiniso, hhayi 'konke okusekhanda lakho'. Iyelapheka."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Okuvame kakhulu",
+        "body": "Izinkinga zokukhathazeka yiqembu elivame kakhulu lezimo zempilo yengqondo emhlabeni. Cishe umuntu oyedwa kwabahlanu waseNingizimu Afrika uba nesikhathi esisodwa."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kuyalapheka",
+        "body": "I-Cognitive Behavioral Therapy (CBT), imithi, kanye nezinguquko zendlela yokuphila kusebenza kahle kakhulu kubantu abaningi. Akumele uphile nayo."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Okomzimba futhi",
+        "body": "Ukukhathazeka kuzwakala emzimbeni - ukugijima kwenhliziyo, ukuphefumula, isiyezi. Abantu bavame ukucabanga ukuthi banesifo senhliziyo. Ukuyiqaphela ukuthi iyini kuyasiza."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "Usizo lwamahhala",
+        "body": "I-SADAG ne-LifeLine zinikeza ukwelulekwa kwamahhala kokukhathazeka. Imitholampilo ihlinzeka ngokuhlolwa nokwelashwa kwamahhala. Usizo luseduze kunalokho ucabanga."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukukhathazeka akulona uphawu lobuthakathaka. Kuwuphawu lokuthi isistimu yakho ye-alamu isebenza isikhathi esengeziwe. Izindaba ezinhle: amasistimu ama-alamu angaqeqeshwa kabusha.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Yeka ukuthi ukukhathazeka kubukeka kanjani",
+    "lede": "Ukukhathazeka kubonakala ngezindlela ezintathu eziyinhloko—emzimbeni, engqondweni, nasekuziphatheni. Cishe uyaziqaphela ezinye zazo.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Emzimbeni",
+        "description": "Inhliziyo egijimayo, ukuphefumula okusheshayo noma ukuzwa ungakwazi ukubamba umoya wakho, ukujuluka, ukuthuthumela, isicanucanu noma ukuphatheka kabi kwesisu, isiyezi, isifuba esiqinile, ukuntweza, ukushisa noma ukushisa okubandayo."
+      },
+      {
+        "color": "orange",
+        "icon": "cloud",
+        "title": "Emqondweni",
+        "description": "Ukukhathazeka njalo — ngisho nangezinto ezincane, umuzwa wokwethuka, ukugijima kwengqondo, ukulindela okubi kakhulu, awukwazi ukugxilisa ingqondo, imicabango ethi 'kungenzeka yini', ubunzima bokulala."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "Ekuziphatheni",
+        "description": "Ukugwema izimo ezikwenza ukhathazeke, udinga ukuqinisekiswa njalo, uhlolwe futhi uhlolwe kabusha, ukucasuka, ukuhoxa kubantu, ukusebenzisa utshwala noma izinto ukuze wehlise umoya."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ukukhathazeka nje ukukhathazeka kakhulu. Yeka ukucabanga ngokweqile.",
+        "fact": "Izinkinga zokukhathazeka zihlanganisa izinguquko zangempela ebuchosheni nasemzimbeni - hhayi nje amaphethini okucabanga. Ukutshela umuntu ukuthi 'vele uyeke ukukhathazeka' kufana nokutshela onesifo sikashukela ukuthi 'vele ulawule ushukela wakho'. Akusebenzi."
+      },
+      {
+        "myth": "Imithi yokukhathazeka iyalutha futhi ikwenza ube zombie.",
+        "fact": "Imithi yesimanje yokulwa nokukhathazeka (i-SSRIs ikakhulukazi) ayilutheki. Ithulisa isistimu ye-alamu ngokwanele ukuthi amakhono okwelapha nawokubhekana nawo angasebenza. Akushintshi ukuthi ungubani."
+      },
+      {
+        "myth": "Uma ungakwazi ukukubona, akulona iqiniso.",
+        "fact": "Ukukhathazeka yisimo sezempilo esinezinguquko ezilinganisekayo kumakhemikhali obuchopho, izinga lokushaya kwenhliziyo, namazinga amahomoni. Ukuthi abanye abayiboni akusho ukuthi akwenzeki."
+      },
+      {
+        "myth": "Uma usunokukhathazeka, uba nakho ukuphila kwakho konke.",
+        "fact": "Abantu abaningi abathola ukwelashwa okufanele ngenxa yokukhathazeka babona ukuthuthuka okukhulu futhi abaningi balulama ngokugcwele. Ngisho nokukhathazeka okukhulu kusabela ekwelapheni nasekwelashweni lapho kunikezwa ithuba."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Funda ukusetha kabusha ukuphefumula",
+        "description": "Lapho ukukhathazeka kukhula: phefumula ngokubala okungu-4, ubambe ku-4, uphume ka-6. Ukuphefumula okude kuthulisa isimiso sezinzwa. Yisebenzise ngesikhathi sokwethuka — isebenza phakathi nomzuzu."
+      },
+      {
+        "title": "Yisho uma uyizwa",
+        "description": "Ukuthi 'lokhu ukukhathazeka, hhayi isifo senhliziyo' kusiza ukuhlukanisa i-alamu yomzimba engozini yangempela. Yehlisa ukwethuka-mayelana-nokwethuka."
+      },
+      {
+        "title": "Sika i-caffeine uma ungakwazi",
+        "description": "I-caffeine ilingisa ngokuqondile izimpawu zokukhathazeka - inhliziyo egijima, ukujabula. Abantu abaningi babona ukuthuthuka okukhulu emavikini angu-2-3 okunciphisa noma ukuyeka."
+      },
+      {
+        "title": "Hamba uye emtholampilo uyohlolwa",
+        "description": "Imitholampilo kahulumeni ihlinzeka ngokuhlolwa kwamahhala kwempilo yengqondo. Khuluma nomhlengikazi wezempilo yengqondo. Usizo olusekelwe ku-CBT nemithi uma kudingeka imahhala."
+      },
+      {
+        "title": "Uma kuwukuhlasela kwe-panic ikakhulukazi",
+        "description": "Funda mayelana nokulawulwa kokuhlaselwa ukwethuka - ukwazi iphethini (ukuphakama emizuzwini eyi-10, akukaze kube yingozi, kudlula njalo) kuthatha ukwesaba okukhulu kubo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okufanele ashayele",
+    "lede": "Ukukhathazeka kusabela kahle kakhulu ekwelashweni. Ingxenye enzima kakhulu ukufinyelela okokuqala. I-SADAG ne-LifeLine yenza lokho kube lula - mahhala, kuyimfihlo, akukho ukwahlulela.",
+    "helplines": [
+      {
+        "name": "I-SADAG Mental Health Line",
+        "description": "Ukwelulekwa kwamahhala, okuyimfihlo kokukhathazeka, ukwethuka, kanye nengcindezi",
+        "meta": "Mahhala · amahora angu-24 · abeluleki abaqeqeshiwe",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "I-LifeLine yaseNingizimu Afrika",
+        "description": "Ukwelulekwa kwamahhala, ukusekelwa ngokomzwelo, ukuhlukumezeka",
+        "meta": "Amahora angama-24 · mahhala kunoma iyiphi ifoni",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala kwempilo yengqondo kanye nokwelashwa uma kudingeka",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

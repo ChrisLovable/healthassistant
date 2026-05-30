@@ -1,0 +1,205 @@
+{
+  "slug": "hiv",
+  "group_slug": "infectious",
+  "name": "HIV",
+  "tagline": "Teko, phekola, ha e bonahale. Phela bophelo bo tletseng.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Department of Health",
+    "South African National AIDS Council",
+    "UNAIDS",
+    "WHO",
+    "NICD"
+  ],
+  "what_is_it": {
+    "heading": "HIV ka mantsoe a bonolo",
+    "lede": "HIV e emetse Human Immunodeficiency Virus. E hlasela ts'ireletso ea 'mele - haholo mofuta oa sele e tšoeu ea mali e bitsoang CD4 cell.",
+    "paragraphs": [
+      "Ntle le kalafo, HIV e ka fokolisa sesole sa 'mele ka lilemo tse ngata ho fihlela 'mele o sitoa ho loantša tšoaetso. Mohato oo o tsoetseng pele o bitsoa AIDS. Ka kalafo, HIV e lula e laoloa, sesole sa 'mele se lula se le matla, 'me batho ba phela bophelo bo khotsofatsang, bo tloaelehileng.",
+      "HIV ha e sa le kahlolo ea lefu. Afrika Boroa, phekolo ke mahala tleliniking e 'ngoe le e 'ngoe ea 'muso, 'me batho ba bangata ba phekoloang ba ka lebella ho phela nako e telele joaloka mang kapa mang."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "limilione tse 7,8",
+        "body": "MaAforika Borwa a phelang le HIV - ho feta naha efe kapa efe lefatsheng."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Mahala",
+        "body": "Kalafo ke mahala tleliniking e 'ngoe le e 'ngoe ea 'muso. Ha ho hlokahale thuso ea bongaka."
+      },
+      {
+        "color": "green",
+        "icon": "check",
+        "headline": "U = U",
+        "body": "E sa bonahaleng e lekana le e sa fetiseheng. Ha u le kalafong e sebetsang hantle, u ke ke ua fetisetsa HIV."
+      },
+      {
+        "color": "coral",
+        "icon": "baby",
+        "headline": "Bana ba se nang HIV",
+        "body": "Bakhachane ba fuoang kalafo ba ka ba le masea a se nang HIV. PMTCT e sebetsa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ho etsa liteko ke eona feela tsela ea ho tseba boemo ba hau. Matšoao a ke ke a u bolella. Batho ba bangata ba nang le HIV ba ikutloa ba phetse hantle ka lilemo tse ngata.",
+      "source": "Lekhotla la Naha la AIDS la Afrika Boroa"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se hlokomelang",
+    "lede": "Hangata HIV ha e na matšoao ho hang ka lilemo. Sena ke sona se etsang hore ho be kotsi - le hore na hobaneng tlhahlobo e le bohlokoa ho feta ho emela ho ikutloa o kula.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Matšoao a pele (libeke tse 2-4 kamora ho pepeseha)",
+        "description": "Feberu, 'metso o bohloko, litšoelesa tse ruruhileng molaleng kapa liphakeng, mokhathala, lekhopho, ho opeloa ke 'mele. Hangata e ikutloa joalo ka ntaramane 'me e ikela ka bo eona."
+      },
+      {
+        "color": "coral",
+        "icon": "trending-down",
+        "title": "Matšoao a morao-rao (ntle le kalafo)",
+        "description": "Ho tšoaetsoa khafetsa, ho theola boima ba 'mele ho sa hlaloseheng, letšollo le sa khaotseng, ho fufuleloa bosiu, maqeba a masoeu ka hanong, makhopho a letlalo a sa foleng."
+      },
+      {
+        "color": "purple",
+        "icon": "info",
+        "title": "'Nete e tšepahalang",
+        "description": "U ke ke ua tseba hore na u na le HIV ho latela tsela eo u ikutloang ka eona. Lekola. E potlakile, ha e lefelloe, ebile ke lekunutu."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Ke eng e jalang HIV - le hore na e sa jale eng",
+    "yes": [
+      "Thobalano e sa sireletsehang (ka botshehadi, ka morao kapa ka molomo)",
+      "Ho arolelana linale kapa lisyringe",
+      "'Mè ho lesea nakong ea tsoalo kapa ea ho anyesa (e ka thibeloa ka phekolo)",
+      "Ho kopana le madi ka leqeba le bulehileng"
+    ],
+    "no": [
+      "Ho haka, ho aka, kapa ho tshwarana ka matsoho",
+      "Ho arolelana lijo, lino, lipoleiti, kapa lijo",
+      "Ho loma ke menoang kapa kokoanyana",
+      "Matloana, matamo a ho sesa, kapa lishaoara",
+      "Ho khohlela, ho ethimola, kapa mofufutso"
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Haeba u na le HIV, u ke ke ua ba le bophelo bo tloaelehileng.",
+        "fact": "Ka kalafo, batho ba nang le HIV ba phela nako e telele joalo ka mang kapa mang, ba sebetsa, ba hōlisa malapa, 'me ba tsamaea ka bolokolohi."
+      },
+      {
+        "myth": "U ka tšoasa HIV ka ho arolelana khalase kapa ho suna.",
+        "fact": "HIV ha e fetisetsoe ka mathe, mofufutso, kapa ho kopana feela. Ke maro a itseng feela a 'mele a tsamaisang kokoana-hloko."
+      },
+      {
+        "myth": "Likhohlopo ha li hlile ha li sebetse khahlano le HIV.",
+        "fact": "Ha li sebelisoa ka nepo nako le nako, likhohlopo li sebetsa haholo ho thibela HIV."
+      },
+      {
+        "myth": "Batsoali ba nang le HIV ba ke ke ba ba le bana ba se nang HIV.",
+        "fact": "Ka lenaneo la PMTCT, hoo e ka bang lesea le leng le le leng le ka hlaha le se na HIV, leha motsoali a le mong kapa bobeli ba bona ba e-na le HIV."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa",
+    "lede": "Afrika Borwa e na le a mang a mananeo a matla ka ho fetisisa a thibelo ya HIV lefatsheng. Ba bangata ba lokolohile. Mona ke se sebetsang.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Likhohlopo",
+        "description": "Sebelisa e le 'ngoe nako le nako. E fumaneha mahala litliliniking, likhemisi, esita le liteisheneng tse ling tsa peterole. Likhohlopo tsa basali le tsona ke mahala."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "PrEP",
+        "description": "Pilisi ea letsatsi le letsatsi e thibelang HIV. E atlehang haholo. E fumaneha mahala litliliniking bakeng sa batho ba kotsing e kholo."
+      },
+      {
+        "color": "orange",
+        "icon": "clock",
+        "title": "PEP (ka hare ho lihora tse 72)",
+        "description": "Haeba u nahana hore u sa tsoa pepesoa - fihla tleliniking nakong ea lihora tse 72. Lipilisi tsa tšohanyetso li ka thibela HIV ho itšoarella."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Tseba boemo ba hao",
+        "description": "Etsa liteko likhoeling tse ling le tse ling tse 6-12 haeba u kopanela liphate. Banyalani ba ka etsa liteko hammoho. Liphetho ka metsotso e 15."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Haeba u nahana hore u sa tsoa pepesoa",
+        "description": "Eya tleliniking kapa phaposing ya tshohanyetso pele ho feta dihora tse 72 mme o kope PEP. Haufinyane ho molemo - ka hare ho lihora tse 24 ho molemo ka ho fetisisa."
+      },
+      {
+        "title": "Haeba ha o so hlahlojoe selemong se fetileng",
+        "description": "Lekola. Ha e lefelloe, e potlakile ebile ke lekunutu. Ha ho hlokahale kopano litleliniking tse ngata. Nka molekane ha o khona."
+      },
+      {
+        "title": "Haeba u fumana hore u na le tšoaetso",
+        "description": "Qala kalafo hang-hang. Ke mahala. Kalafo e sebetsa hantle ha e qalisoa kapele - ha ho na molemo oa ho ema."
+      },
+      {
+        "title": "Haeba u le kalafong",
+        "description": "Noa meriana ea hau letsatsi le leng le le leng, ka nako e le 'ngoe. Le ka mohla u se tlōle. Haeba litla-morao li u tšoenya, bua le tleliniki ea hau."
+      },
+      {
+        "title": "Haeba u moimana",
+        "description": "Etsa tlhahlobo kapele kamoo ho ka khonehang. Haeba e le ntle, lenaneo la PMTCT hangata le thibela phetiso ho lesea."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ho bitsa mang, ho ea kae",
+    "lede": "Ha ua tlameha ho nahana ka sena u le mong. Litšebeletso tsena ha li lefelloe, ke lekunutu, 'me li fumaneha hona joale.",
+    "helplines": [
+      {
+        "name": "Mohala oa Naha oa Thuso ka AIDS",
+        "description": "Mahala, lekunutu, lihora tse 24 ka letsatsi",
+        "meta": "Ho fana ka tlhabollo · ho fetisetsoa litekong · tšehetso ea kalafo",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "loveLife youth line",
+        "description": "Bakeng sa bacha · mahala, botsoalle, ho se tsejoe",
+        "meta": "Mantaha–Labohlano 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e nngwe le e nngwe ya mmuso e fana ka diteko le kalafo tsa mahala tsa HIV",
+        "meta": "Ha ho kopano · ha ho thuso ea bongaka e hlokahalang · ID e thusa",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": false,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

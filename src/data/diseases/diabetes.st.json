@@ -1,0 +1,195 @@
+{
+  "slug": "diabetes",
+  "group_slug": "chronic-lifestyle",
+  "name": "Lefu la tsoekere",
+  "tagline": "Boloetse bo sa foleng bo holang ka potlako SA.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Diabetes SA",
+    "International Diabetes Federation",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Letsetsa 10177 kapa u ee sepetlele ka kotloloho haeba",
+    "primary_message": "Tsoekere e phahameng haholo kapa e tlaase haholo e ka beha bophelo kotsing ka mor'a lihora tse seng kae. Matshwao ana a bolela - o seke wa ema.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Lenyora le feteletseng ka ho hema ka potlako - e ka ba lefu la tsoekere ketoacidosis (DKA)",
+      "Phefumoloho e nang le litholoana kapa e pholiso ea manala (e tloaelehileng ea DKA)",
+      "Ho nyekeloa ke pelo ho matla le ho hlatsa ka bohloko ba ka mpeng",
+      "Pherekano, ho otsela, kapa bothata ba ho tsoha",
+      "Tsoekere e tlase ea mali - ho thothomela, ho fufuleloa, pherekano e sa ntlafatseng ka tsoekere",
+      "Ho tsieleha kapa ho lahleheloa ke kelello",
+      "Leoto kapa leoto le bonts'ang tšoaetso ka tšohanyetso kapa patch e ntšo (leoto la lefu la tsoekere)"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Lefu la tsoekere ka mantsoe a hlakileng",
+    "lede": "Lefu la tsoekere ke se etsahalang ha 'mele oa hao o sitoa ho laola tsoekere e maling a hao hantle. Mohlomong manyeme a hau ha a hlahise insulin e lekaneng (Mofuta oa 1), kapa 'mele oa hau o khaotsa ho arabela insulin hantle (Mofuta oa 2).",
+    "paragraphs": [
+      "Insulin ke hormone e bolellang lisele tsa hau hore li ntše tsoekere (glucose) maling ebe li e sebelisa bakeng sa matla. Ntle le insulin e lekaneng - kapa ka lisele tse e hlokomolohang - tsoekere e bokellana maling 'me e senya methapo ea mali, methapo, mahlo, liphio le maoto ka lilemo.",
+      "Mofuta oa 1 hangata o qala bongoaneng kapa lilemong tsa bocha 'me o hloka ente ea insulin bophelo bohle ba hae. Mofuta oa 2 - o atileng haholo - o qala ho ba motho e moholo mme o amana haufi-ufi le boima ba 'mele, lijo, nalane ea lelapa le morabe. Mofuta oa Pele oa Mofuta oa 2 ka linako tse ling o ka fetoloa ka lijo le ho theola boima ba 'mele feela."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "limilione tse 4,5",
+        "body": "MaAforika Borwa a phela ka lefu la tswekere. Hoo e ka bang halofo ha e tsebe hore ba na le eona."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-up",
+        "headline": "Mofuta oa 2 = 90%",
+        "body": "Bongata ba lefu la tsoekere ho batho ba baholo ke Mofuta oa 2 - o amana haholo le boima ba 'mele, nalane ea lelapa le lijo."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Tlhokomelo ea mahala",
+        "body": "Tlhahlobo ea lefu la tsoekere, meriana e nooang, le insulin li fumaneha mahala tleliniking e 'ngoe le e 'ngoe ea mmuso."
+      },
+      {
+        "color": "green",
+        "icon": "refresh-cw",
+        "headline": "E ka khutlisoa kapele",
+        "body": "Bakuli ba bangata ba sa tsoa fumanoa ba Mofuta oa 2 ba ka khutlela ho tsoekere e tloaelehileng ea mali ka ho ja, ho theola boima ba 'mele le ho ikoetlisa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Selemo se seng le se seng litleliniki li bona bakuli ba lahleheloa ke menoana ea maoto, liphio le mahlo ka lebaka la lefu la tsoekere - hoo e ka bang kamehla hobane lefu lena le ne le tsoetse pele pele ba hlahlojoa. Lekola. Ke mahala.",
+      "source": "Lefu la tsoekere SA"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se hlokomelang",
+    "lede": "Lefu la tsoekere le ka hlaha butle ka lilemo (Mofuta oa 2) kapa la hlaha ka mor'a libeke (Mofuta oa 1). Matšoao a khale a bonolo ho fosa - 'me batho ba bangata ha ba na letho ho fihlela mathata a hlaha.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Tse tharo tsa khale",
+        "description": "Ho ntša metsi khafetsa, lenyora le matla, le ho lahleheloa ke boima ba 'mele ho sa hlalosoang - haholo-holo hammoho, haholo-holo libeke tse seng kae."
+      },
+      {
+        "color": "coral",
+        "icon": "battery-low",
+        "title": "Mokhathala le ho fola butle",
+        "description": "Mokhathala o sa tloaelehang, pono e lerootho, maqeba le mafu a tšoaetsanoang a nkang nako e telele ho fola, tšoaetso ea tomoso khafetsa kapa moroto."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "title": "Matšoao a tlhokomeliso ea mofuta oa 1",
+        "description": "Ho lahleheloa ke boima ba 'mele ka tšohanyetso ka lenyora le feteletseng, haholo-holo ho bana kapa batho ba baholo. Ho hlatsa, ho hema ka potlako ho tebileng, phefumoloho e monate, ho otsela - tšohanyetso."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Lefu la tsoekere le bakoa ke ho ja tsoekere e ngata haholo.",
+        "fact": "Tsoekere e kenya letsoho ho eketsa boima ba 'mele, e leng sesosa sa kotsi. Empa liphatsa tsa lefutso, sebōpeho sa 'mele, morabe, le lijo ka kakaretso li bohlokoa ho feta tsoekere feela."
+      },
+      {
+        "myth": "Haeba o sa hloke insulin, lefu la tsoekere la hau ha le kotsi.",
+        "fact": "Lefu la tsoekere la Mofuta oa 2 le baka mathata a mangata—ho hlaseloa ke pelo, ho otloa ke setorouku, bofofu, ho hloleha ha liphio, ho khaoloa ha litho—joaloka Mofuta oa 1."
+      },
+      {
+        "myth": "Batho ba nang le lefu la tsoekere ba ke ke ba hlola ba ja tsoekere hape.",
+        "fact": "Tekanyo e nyane ea tsoekere lijong tse leka-lekaneng hangata e lokile. Ntho ea bohlokoa ke mokhoa o akaretsang oa ho ja, eseng lijo tse le 'ngoe."
+      },
+      {
+        "myth": "Haeba lefu la tsoekere le le teng lelapeng la ka, ha ho letho leo nka le etsang.",
+        "fact": "Mokhoa oa bophelo o fokotsa kotsi ea Mofuta oa 2 ka ho feta 50%, leha ho na le nalane e matla ea lelapa. Liphatsa tsa lefutso li laela sethunya; mokgoa wa bophelo o hula mokoloko."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho fokotsa kotsi ea hau",
+    "lede": "Thibelo e matla haholo ha e qalisoa pele mathata a hlaha. Haeba u na le motsoali, ngoan'eno, kapa ngoana ea nang le Mofuta oa 2 - kotsi ea hau e phahame haholo 'me ho bohlokoa ho hlahloba.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "scale",
+        "title": "Boima bo botle",
+        "description": "Haholo-holo ho pota thekeng. Ho lahleheloa ke 5-10% ea ho fokotsa boima ba 'mele Kotsi ea Mofuta oa 2 ka ho feta halofo."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Tsamaea letsatsi le letsatsi",
+        "description": "Metsotso e 30 ea ts'ebetso e itekanetseng - ho tsamaea, ho palama libaesekele, ho lema jareteng, ho tantša - matsatsi a mangata a beke."
+      },
+      {
+        "color": "orange",
+        "icon": "leaf",
+        "title": "Ho leka-lekana ka poleiti",
+        "description": "Tlatsa halofo ea poleiti ea hau ka meroho, kotara ka protheine e mafura, kotara ka lijo-thollo. Khaola lino tse tsoekere pele - tšusumetso e kholo ka ho fetisisa."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Screen haeba u le kotsing",
+        "description": "Nalane ea lelapa, boima bo feteletseng, lilemo tse fetang 40, nalane ea lefu la tsoekere nakong ea bokhachane - kopa tlhahlobo ea tsoekere ea mali ka menoana. Mahala tleliniking e nngwe le e nngwe."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Lekola",
+        "description": "Teko ea tsoekere ea mali ea monoana ke mahala tleliniking e 'ngoe le e 'ngoe le li-khemisi tse ngata. Ho bala ka tšohanyetso ho feta 11, kapa ho itima lijo ho feta 7, ho fana ka maikutlo a lefu la tsoekere."
+      },
+      {
+        "title": "Haeba e fumanoa, qala kalafo",
+        "description": "Lijo le boikoetliso feela li ka sebetsa molemong oa pele oa Mofuta oa 2. Batho ba bangata qetellong ba tla hloka meriana e nooang kapa insulin. Tsohle mahala litliliniking tsa mmuso."
+      },
+      {
+        "title": "Noa meriana letsatsi le leng le le leng",
+        "description": "Le ka matsatsi o ikutloa o phetse hantle. Haholo-holo ka matsatsi ao u ikutloang hantle. Lefu la tsoekere le etsa tšenyo ea lona ka lenyele ha tsoekere e le holimo."
+      },
+      {
+        "title": "Sheba maoto a hau letsatsi le letsatsi",
+        "description": "Lefu la tsoekere le senya methapo ea maoto a hao - u ka fumana maqeba a tebileng 'me u sa a utloe. Sheba, fofonela, utloa. Sheba tleliniking bakeng sa seso sefe kapa sefe se sa foleng."
+      },
+      {
+        "title": "Tlhahlobo ea selemo le selemo ea mahlo le liphio",
+        "description": "Lefu la mahlo la lefu la tsoekere le lefu la liphio li khutsitse ho fihlela li tsoetse pele. Licheke tsa selemo le selemo li li tšoara ka nako ea ho nka khato."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ho qala kae",
+    "lede": "Tlhokomelo ea lefu la tsoekere Afrika Boroa ke mahala moo ho hlokahalang. Karolo e thata ea qala - hang ha u etsa joalo, tsamaiso ea tleliniki e ka jara mojaro o mongata.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e 'ngoe le e 'ngoe ea mmuso e fana ka tlhahlobo ea mahala ea lefu la tsoekere, meriana le insulin",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Lefu la tsoekere SA",
+        "description": "Tlhahisoleseding, lihlopha tsa tšehetso, le phetisetso ea litsebi tsa lijo",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0118863765",
+        "phone_display": "011 886 3765",
+        "primary": false
+      }
+    ]
+  }
+}

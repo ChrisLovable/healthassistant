@@ -1,0 +1,205 @@
+{
+  "slug": "hiv",
+  "group_slug": "infectious",
+  "name": "I-HIV",
+  "tagline": "Hlola, phatha, awubonakali. Phila impilo egcwele.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Department of Health",
+    "South African National AIDS Council",
+    "UNAIDS",
+    "WHO",
+    "NICD"
+  ],
+  "what_is_it": {
+    "heading": "I-HIV ngamazwi alula",
+    "lede": "I-HIV imele i-Human Immunodeficiency Virus. Ihlasela isimiso sokuzivikela somzimba - ikakhulukazi uhlobo lwamangqamuzana amhlophe egazi abizwa ngokuthi i-CD4 cell.",
+    "paragraphs": [
+      "Ngaphandle kokwelashwa, i-HIV ingawenza buthaka amasosha omzimba ngokuhamba kweminyaka kuze kube yilapho umzimba ungakwazi ukulwa nezifo. Leso sigaba esithuthukile sibizwa nge-AIDS. Ngokwelashwa, i-HIV ihlala ilawulekile, amasosha omzimba ahlala eqinile, futhi abantu baphila ukuphila okugcwele, okujwayelekile.",
+      "I-HIV ayisesona isigwebo sentambo. ENingizimu Afrika, ukwelashwa kumahhala kuyo yonke imitholampilo kahulumeni, futhi abantu abaningi abathola imishanguzo bangalindela ukuphila isikhathi eside njenganoma ubani omunye."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "7.8 million",
+        "body": "Abantu baseNingizimu Afrika abaphila ne-HIV - ngaphezu kwanoma yiliphi izwe emhlabeni."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Mahhala",
+        "body": "Ukwelashwa kumahhala kuyo yonke imitholampilo kahulumeni. Ayikho i-medical aid edingekayo."
+      },
+      {
+        "color": "green",
+        "icon": "check",
+        "headline": "U = U",
+        "body": "Okungabonakali kufana nokungadluliseki. Ekwelashweni okusebenzayo awukwazi ukudlulisela i-HIV."
+      },
+      {
+        "color": "coral",
+        "icon": "baby",
+        "headline": "Izingane ezingenalo i-HIV",
+        "body": "Abesifazane abakhulelwe abathola imishanguzo bangaba nezingane ezingenayo i-HIV. I-PMTCT iyasebenza."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukuhlola ukuphela kwendlela yokwazi isimo sakho. Izimpawu azikwazi ukukutshela. Abantu abaningi abane-HIV bazizwa bephilile ngokuphelele iminyaka.",
+      "source": "UMkhandlu Kazwelonke Wengculazi waseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Ongase ukuqaphele",
+    "lede": "I-HIV ivame ukungabi nazimpawu nhlobo iminyaka. Yilokhu okwenza kube yingozi - futhi kungani ukuhlola kubaluleke ngaphezu kokulinda ukuzizwa ugula.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Izimpawu zokuqala (amaviki angu-2-4 ngemva kokuchayeka)",
+        "description": "Umkhuhlane, umphimbo obuhlungu, izindlala ezivuvukele entanyeni noma emakhwapheni, ukukhathala, ukuqubuka, ubuhlungu bomzimba. Ngokuvamile uzizwa njengomkhuhlane futhi uzihambela wodwa."
+      },
+      {
+        "color": "coral",
+        "icon": "trending-down",
+        "title": "Izimpawu zakamuva (ngaphandle kokwelashwa)",
+        "description": "Ukutheleleka njalo, ukuncipha kwesisindo ngendlela engachazeki, isifo sohudo esibeleselayo, ukujuluka ebusuku, amabala amhlophe emlonyeni, ukuqubuka kwesikhumba okungapholi."
+      },
+      {
+        "color": "purple",
+        "icon": "info",
+        "title": "Iqiniso eliqinile",
+        "description": "Awukwazi ukubona ukuthi une-HIV ngendlela ozizwa ngayo. Hlola. Iyashesha, imahhala, futhi iyimfihlo."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Yini esakaza i-HIV - nokuthi yini engayisabalalisi",
+    "yes": [
+      "Ucansi olungavikelekile (esithweni sangasese sangasese, sangemuva, noma somlomo)",
+      "Ukwabelana ngezinaliti noma amasirinji",
+      "Umama ukuya enganeni ngesikhathi sokuzalwa noma encelisa (kuvinjelwa ngokwelashwa)",
+      "Ukuthintana kwegazi kuya egazini ngenxeba elivulekile"
+    ],
+    "no": [
+      "Ukugona, ukuqabulana, noma ukubambana ngezandla",
+      "Ukwabelana ngokudla, iziphuzo, amapuleti, noma okokudla",
+      "Ukulunywa omiyane noma izinambuzane",
+      "Izindlu zangasese, amachibi okubhukuda, noma amashawa",
+      "Ukukhwehlela, ukuthimula, noma ukujuluka"
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Uma une-HIV, awukwazi ukuba nempilo evamile.",
+        "fact": "Ekwelashweni, abantu abane-HIV baphila isikhathi eside njenganoma ubani omunye, basebenze, bakhulise imindeni, futhi bahambe ngokukhululeka."
+      },
+      {
+        "myth": "Ungathola i-HIV ngokuhlanganyela ingilazi noma ngokuqabula.",
+        "fact": "I-HIV ayisakazwa ngamathe, umjuluko, noma ukuthintana nje. Uketshezi oluthile kuphela oluthwala igciwane."
+      },
+      {
+        "myth": "Amakhondomu awasebenzi ngempela ekulweni ne-HIV.",
+        "fact": "Uma esetshenziswa ngendlela efanele ngaso sonke isikhathi, amakhondomu asebenza kahle kakhulu ekuvimbeleni i-HIV."
+      },
+      {
+        "myth": "Abazali abane-HIV abakwazi ukuba nezingane ezingenayo i-HIV.",
+        "fact": "Ngohlelo lwe-PMTCT, cishe yonke ingane ingazalwa ingenayo i-HIV, ngisho noma oyedwa noma bobabili abazali bene-HIV."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokuzivikela",
+    "lede": "INingizimu Afrika inezinhlelo eziqinile zokuvikela i-HIV emhlabeni. Iningi likhululekile. Nakhu okusebenzayo.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Amakhondomu",
+        "description": "Sebenzisa eyodwa njalo. Itholakala mahhala emitholampilo, emakhemisi, ngisho nakumagaraji kaphethiloli. Amakhondomu abesifazane nawo amahhala."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "I-PrEP",
+        "description": "Iphilisi lansuku zonke elivimbela i-HIV. Isebenza kahle kakhulu. Itholakala mahhala emitholampilo kubantu abasengozini enkulu."
+      },
+      {
+        "color": "orange",
+        "icon": "clock",
+        "title": "I-PEP (phakathi kwamahora angu-72)",
+        "description": "Uma ucabanga ukuthi usanda kudalulwa - fika emtholampilo kungakapheli amahora angama-72. Amaphilisi ezimo eziphuthumayo angavimba i-HIV ukuthi ibambe."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Yazi isimo sakho",
+        "description": "Hlola njalo ezinyangeni ezi-6-12 uma uya ocansini. Izithandani zingahlola ndawonye. Imiphumela emizuzwini eyi-15."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Uma ucabanga ukuthi usanda kuvezwa",
+        "description": "Yiya emtholampilo noma egumbini lezimo eziphuthumayo engakapheli amahora angama-72 ucele i-PEP. Ngokushesha kuba ngcono - phakathi namahora angu-24 kungcono kakhulu."
+      },
+      {
+        "title": "Uma ungazange uhlolwe ngonyaka odlule",
+        "description": "Hlola. Kumahhala, kuyashesha, futhi kuyimfihlo. Akukho ukuqokwa okudingekayo emitholampilo eminingi. Thatha umlingani uma ungakwazi."
+      },
+      {
+        "title": "Uma uthola ukuthi unayo",
+        "description": "Qala ukwelashwa ngokushesha. Kumahhala. Ukwelashwa kusebenza kangcono uma kuqalwa kusenesikhathi - akukho nzuzo ekulindeni."
+      },
+      {
+        "title": "Uma udla imishanguzo",
+        "description": "Thatha imithi yakho nsuku zonke, ngesikhathi esifanayo. Ungalokothi weqe. Uma imiphumela engemihle ikukhathaza, khuluma nomtholampilo wakho."
+      },
+      {
+        "title": "Uma ukhulelwe",
+        "description": "Zihlole kusenesikhathi. Uma une-positive, uhlelo lwe-PMTCT cishe njalo luvimbela ukusuleleka enganeni."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubiza bani, uyephi",
+    "lede": "Akudingeki ukuba ucabange lokhu uwedwa. Lawa masevisi amahhala, ayimfihlo, futhi ayatholakala manje.",
+    "helplines": [
+      {
+        "name": "I-National AIDS Helpline",
+        "description": "Kumahhala, kuyimfihlo, amahora angama-24 ngosuku",
+        "meta": "Ukwelulekwa · ukuhlolwa ukudluliselwa · ukwesekwa kokwelashwa",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "umugqa wentsha we-loveLife",
+        "description": "Eyabantu abasha · mahhala, enobungane, engaziwa",
+        "meta": "Msombuluko–uLwesihlanu 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni ihlinzeka ngokuhlolelwa i-HIV mahhala kanye nokwelashwa",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezokwelapha oludingekayo · Umazisi uyasiza",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

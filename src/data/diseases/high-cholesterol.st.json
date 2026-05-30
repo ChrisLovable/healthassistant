@@ -1,0 +1,180 @@
+{
+  "slug": "high-cholesterol",
+  "group_slug": "chronic-lifestyle",
+  "name": "K'holeseterole e phahameng",
+  "tagline": "Seo lipalo li se bolelang bakeng sa pelo ea hau.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "Lipid and Atherosclerosis Society of South Africa",
+    "WHO",
+    "American Heart Association"
+  ],
+  "what_is_it": {
+    "heading": "Cholesterol ka mokhoa o tloaelehileng",
+    "lede": "Cholesterol ke ntho e mafura eo 'mele oa hau o e hlokang ho theha lisele le ho etsa lihomone. Bothata ke mofuta le palo - mefuta e mengata e fosahetseng e bokellana maboteng a methapo ea mali mme e baka tlhaselo ea pelo le stroke.",
+    "paragraphs": [
+      "Sebete sa hau se etsa boholo ba k'holeseterole ea hau. Tse ling le tsona li tsoa lijong, haholo-holo lihlahisoa tsa liphoofolo. K'holeseterole ea LDL ('bad') e kenya mafura marakong a methapo ea mali. HDL ('molemo') k'holeseterole e e tlosa. Ho leka-lekana ho bohlokoa.",
+      "Batho ba bang ba futsitse k'holeseterole e phahameng (familial hypercholesterolaemia) - lipalo tsa bona li phahame ka kotsi ho tloha bongoaneng, ho sa tsotellehe lijo. Sena ke sesosa se sa lemohuoang haholo sa tlhaselo ea pelo ea pele. Haeba mong ka uena ea haufi a ne a e-na le lefu la pelo pele ho lilemo tse 60, hlahloba."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "headline": "Khutsa",
+        "body": "K'holeseterole e phahameng ha e na matšoao. U tseba feela ka tlhahlobo ea mali."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Lebaka le ka sehloohong",
+        "body": "Ea tlhaselo ea pelo le lichapo tse ngata. LDL ke eona kotsi e matla ka ho fetisisa eo re e tsebang."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "headline": "Liphatsa tsa lefutso",
+        "body": "K'holeseterole e phahameng ea lelapa e ama motho a le mong ho ba 200 - ba bangata ha ba tsebe ho fihlela lefu la pelo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Statins e sebetsa",
+        "body": "Lilemo tse mashome tsa bopaki: li-statins li fokotsa tlhaselo ea pelo le stroke ka karolo ea boraro kapa ho feta ho batho ba kotsing."
+      }
+    ],
+    "pull_quote": {
+      "text": "Cholesterol ha se bothata ba mokhoa oa bophelo feela. Batho ba basesaane, ba phetseng hantle, ba jang hantle ba ntse ba ka ba le k'holeseterole e phahameng ka tsela e kotsi e tsoang liphatseng tsa lefutso. Etsa tlhahlobo - haholo-holo haeba leha e le mang ka lapeng a na le lefu la pelo kapele.",
+      "source": "Mokhatlo oa Lipid le Atherosclerosis oa Afrika Boroa"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se hlokomelang",
+    "lede": "Bakeng sa batho ba bangata: ha ho letho. Cholesterol e phahameng e baka tšenyo ea eona ka khutso ka lilemo tse mashome. Tsela feela ea ho tseba ke tlhahlobo ea mali.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "eye-off",
+        "title": "Ha ho matšoao a letsatsi le letsatsi",
+        "description": "Cholesterol ha e etse hore u utloe letho. Letšoao la pele ho batho ba bangata ke lefu la pelo kapa stroke lilemong tsa bona tsa mashome a mane kapa tse mashome a mahlano."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Maemo a phahameng haholo a liphatsa tsa lefutso",
+        "description": "Maqeba a mosehla a pota-potileng lintši kapa makukuno a mafura lithapong (Achilles, knuckles) e ka ba matšoao a k'holeseterole ea lelapa. Lesale le leputsoa le pota-potileng iris pele ho lilemo tse 45 ke e 'ngoe."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "title": "Histori ea lelapa ke leseli",
+        "description": "Batsoali, banab'eno, kapa bo-ntate-moholo ba nang le lefu la pelo kapa stroke pele ho 60 - haholo-holo pele ho lilemo tse 50 - ba fana ka maikutlo a matla a liphatsa tsa lefutso tse phahameng tsa k'holeseterole."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ke batho ba batenya feela ba fumanang k'holeseterole e phahameng.",
+        "fact": "Batho ba basesaane le bona ba fumana k'holeseterole e phahameng - hangata ho tsoa ho liphatsa tsa lefutso. Sebopeho sa 'mele hase letšoao le tšepahalang. Ke tlhahlobo ea mali feela."
+      },
+      {
+        "myth": "Mahe a kotsi bakeng sa k'holeseterole.",
+        "fact": "K'holeseterole ea lijo e tsoang maheng e na le phello e nyane ho cholesterol ea mali ho batho ba bangata. Mafura a khorelelitsoeng le mafura a trans a bohlokoa ho feta."
+      },
+      {
+        "myth": "Li-statins li baka tahlehelo ea mohopolo.",
+        "fact": "Lithuto tse kholo ha lia fumana sehokelo. Ka linako tse ling li-statins li baka bohloko ba mesifa - bolella tleliniki ea hau haeba ho joalo, ho na le mekhoa e meng e teng."
+      },
+      {
+        "myth": "Haeba ke ikoetlisa, ha ho hlokahale hore ke tšoenyehe ka lijo.",
+        "fact": "Ho ikoetlisa hangata ho phahamisa HDL (k'holeseterole e ntle) empa ho na le phello e nyenyane feela ho LDL. Lijo, boima ba 'mele le meriana li bohlokoa haholo bakeng sa LDL."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho fokotsa linomoro tsa hau",
+    "lede": "K'holeseterole e arabela hantle ho motsoako oa lijo, boima ba 'mele, boikoetliso le meriana moo ho hlokahalang. Batho ba bangata ba ka tsamaisa linomoro tsa bona haholo ka mor'a likhoeli.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Ho ja ka mokhoa oa Mediterranean",
+        "description": "Meroho, linaoa, lijo-thollo, linate, tlhapi, oli ea mohloaare. Fokotsa nama e khubelu, botoro, lebese le tletseng tranelate, lijo tse halikiloeng le nama e phehiloeng."
+      },
+      {
+        "color": "coral",
+        "icon": "x-circle",
+        "title": "Khaola mafura a trans ka ho feletseng",
+        "description": "E patiloe ka har'a lintho tse ngata tse apehoang, majarine le lijo tse halikiloeng tse halikiloeng. Bala li-labels - eng kapa eng e nang le \"oli ea hydrogenated\" e tsoa."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Tsamaea letsatsi le letsatsi",
+        "description": "Ho ikoetlisa ho phahamisa HDL (mofuta o motle) ​​mme ho thusa boima ba 'mele. Esita le ho tsamaea ka potlako metsotso e 30 ka letsatsi ho etsa phapang e ka lekanyetsoang."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "title": "Statins moo ho bontšitsoeng",
+        "description": "Haeba kotsi ea hau e phahame, kapa u na le k'holeseterole ea lelapa, li-statins ke phekolo e sebetsang ka ho fetisisa eo re nang le eona. Mahala litliliniking."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Fumana phanele ea lipid",
+        "description": "Teko e bonolo ea mali ea ho itima lijo e lekanya kakaretso ea k'holeseterole, LDL, HDL, le triglycerides. Mahala tleliniking e 'ngoe le e 'ngoe ea mmuso ho tloha ho lilemo tse 40 - kapa pejana ka nalane ea lelapa."
+      },
+      {
+        "title": "Tseba linomoro tsa hau",
+        "description": "Li ngole fatše. LDL tlasa 3.0 hangata ke sepheo - tlasa 1.8 haeba o se o na le lefu la pelo kapa lefu la tsoekere. Maikutlo ke a botho - botsa tleliniki ea hau."
+      },
+      {
+        "title": "Haeba e phahame - qala ka lijo le motsamao",
+        "description": "Batho ba bangata ba ka theola LDL ka 10-15% ka lijo le boikoetliso feela. E fe likhoeli tse tharo ho isa ho tse tšeletseng pele u nka hore meriana ea hlokahala."
+      },
+      {
+        "title": "Haeba meriana e khothalletsoa - e qale",
+        "description": "Statins e sebetsa hantle ka ho fetisisa letsatsi le leng le le leng, nako e telele. Ho tlola litekanyetso ho hlakola boholo ba melemo. Litla-morao ha lia tloaeleha 'me hangata lia laoleha."
+      },
+      {
+        "title": "Hlahloba likhoeli tse ling le tse ling tse 12",
+        "description": "Hang ha e tsitsitse, phanele ea selemo le selemo ea lipid e hlahloba tsoelo-pele le ho lokisa kalafo ha ho hlokahala. Tlisa liphetho tse fetileng ho bapisa."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ho qala kae",
+    "lede": "Tlhokomelo ea k'holeseterole ke mahala litleliniking tsa sechaba tsa Afrika Boroa. Karolo e thata ka ho fetisisa ke ho fumana tlhahlobo ea pele - hang ha u e-na le nomoro, tsela e eang pele e hlakile.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e 'ngoe le e' ngoe e fana ka liteko tsa mahala tsa cholesterol le li-statins tsa mahala moo li laetsoeng",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Li-calculator tsa kotsi tsa mahala, tataiso ea lijo, le tšehetso",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}

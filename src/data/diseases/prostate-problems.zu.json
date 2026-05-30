@@ -1,0 +1,180 @@
+{
+  "slug": "prostate-problems",
+  "group_slug": "mens-health",
+  "name": "Izinkinga zendlala yesinye",
+  "tagline": "Okujwayelekile ngemva kuka-50. Iningi liyelapheka.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "CANSA (Cancer Association of South Africa)",
+    "South African Urology Association",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Izinkinga ze-Prostate ngamagama alula",
+    "lede": "I-prostate iyindlala encane ngaphansi kwesinye, ezungezwe ishubhu lomchamo. Ngokwemvelo ikhula ngokukhula. Nge-60, amadoda amaningi ane-prostate yokwandisa. Ukwandiswa okuningi akulungile - kodwa kufanelekile ukubhekwa.",
+    "paragraphs": [
+      "Izinto ezintathu eziyinhloko zingase zingahambi kahle nge-prostate: ingakhula (BPH—benign prostatic hyperplasia), ingavuvuka noma itheleleke (prostatitis), noma ingaba nomdlavuza. Zontathu zibanga izimpawu ezifanayo zomchamo.",
+      "Umdlavuza wendlala yesinye umdlavuza ovame kakhulu kwabesilisa baseNingizimu Afrika. Uma ibanjwe kusenesikhathi, iyelapheka kakhulu. Inselelo ukuthi amadoda awakhulumi ngalezi zimpawu futhi awayi ukuyohlolwa. Ukuhlolwa kusukela ku-50 - noma 40 uma uMnyama noma unomlando womndeni - kungenye yezinto ezibaluleke kakhulu indoda engayenza."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "Okuvame kakhulu",
+        "body": "Umdlavuza wendlala yesinye umdlavuza ovame kakhulu emadodeni aseNingizimu Afrika. Cishe oyedwa kwabayi-8 uzoyithuthukisa ekuphileni kwakhe."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Qala ku-50",
+        "body": "Ukuhlolwa kwaminyaka yonke kusukela eminyakeni yobudala engama-50 - noma kusukela ku-40 uma ungumuntu omnyama noma unomlando womndeni womdlavuza wendlala yesinye."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Early = belashwa",
+        "body": "Umdlavuza wendlala yesinye isikhathi esingaphezu kwama-95% uphila iminyaka emi-5. Ukubanjwa sekwephuzile, ukusinda kwehla kakhulu. Umehluko wukuhlola."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Iningi akuwona umdlavuza",
+        "body": "Izimpawu eziningi zomchamo emadodeni amadala zibangelwa ukukhula kahle, hhayi umdlavuza. Kodwa awukwazi ukusho ngaphandle kokuhlola."
+      }
+    ],
+    "pull_quote": {
+      "text": "Amadoda aseNingizimu Afrika amnyama anengozi ecishe iphindwe kabili kunaleyo yokuphila kwabesilisa abamhlophe, futhi imvamisa abancane banezifo ezinzima kakhulu. Ukuhlolwa kusuka ku-40 - hhayi 50 - kuwucingo olufanele lwamadoda aMnyama.",
+      "source": "Inhlangano ye-Urology yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Okufanele ukubheke",
+    "lede": "Izimpawu eziningi ze-prostate zivela ekukhulisweni kwe-benign (BPH). Izimpawu ezifanayo zingase zikhombe umdlavuza, ukutheleleka, noma ezinye izimo. Zihlole.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ukushintsha komchamo",
+        "description": "Ukugeleza okubuthakathaka, ukuphusha, ukugedla ekugcineni, ukuzwa isinye singenalutho, ukuvuka izikhathi eziningi ebusuku, isidingo esiphuthumayo esiphuthumayo sokuhamba."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ubuhlungu noma igazi",
+        "description": "Ukusha lapho uchama (okungenzeka ukuthi ungenwe isifo), igazi emchameni noma esidodeni - kudinga ukuhlolwa okuphuthumayo. Kungaba ukutheleleka, i-BPH, noma umdlavuza."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-down",
+        "title": "Izimpawu eziyisixwayiso sekwephuzile",
+        "description": "Ubuhlungu bethambo (ikakhulukazi emuva noma ezinqulwini), ukuncipha kwesisindo esingaqondakali, ukukhathala, ukuvuvukala kwemilenze - kungase kubonise isifo esithuthukisiwe. Bonana nodokotela ngaphandle kokulibala."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Uma ngikwazi ukuchama, i-prostate yami ikahle.",
+        "fact": "Amadoda amaningi anomdlavuza wendlala yesinye anomchamo ojwayelekile ngokuphelele - ikakhulukazi ezigabeni zokuqala lapho ukwelashwa kusebenza kahle kakhulu. Ukuhlola, hhayi izimpawu, kuyayibamba kusenesikhathi."
+      },
+      {
+        "myth": "Ukuhlolwa kwe-Prostate kuyalulaza futhi akufanelekile.",
+        "fact": "Ukuhlolwa kuthatha imizuzwana engu-30 futhi akukhululekile, akubuhlungu. Ukuhlolwa kwegazi kwe-PSA kuyinduku yenaliti. Kokubili kungangeza iminyaka engu-15+ empilweni yakho."
+      },
+      {
+        "myth": "Ukwelashwa kuzongishiya ngingenamandla.",
+        "fact": "Izindlela zokwelapha zesimanje zingcono kakhulu ekulondolozeni umsebenzi kunakudala. Imiphumela engemihle iyahlukahluka ngesiteji kanye nokukhethwa kokwelashwa. Khuluma nodokotela wakho womchamo - hhayi i-inthanethi."
+      },
+      {
+        "myth": "Isifo sendoda endala — ngimncane kakhulu ukuthi ngingakhathazeka.",
+        "fact": "Umdlavuza wendlala yesinye ungenzeka kusukela eminyakeni engama-40, ikakhulukazi emadodeni aMnyama noma lawo anomlando womndeni. Umhlahlandlela ojwayelekile wamaqembu anobungozi obukhulu uhlola ukusuka ku-40."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokunciphisa ingozi futhi uyibambe kusenesikhathi",
+    "lede": "Umdlavuza wendlala yesinye awukwazi ukuvinjelwa ngokuphelele, kodwa unganciphisa ingozi futhi uyibambe kusenesikhathi. Indlela yokuphila ibalulekile; ukuhlola kubaluleke kakhulu.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "title": "Ukuhlolwa konyaka kusuka ku-50",
+        "description": "Ukuhlolwa kwegazi kwe-PSA kanye nokuhlolwa kwe-digital rectal. Kumahhala kunoma yimuphi umtholampilo kahulumeni. Unyaka kusukela ku-50 — noma 40 uma Omnyama, umlando womndeni, noma ingozi yofuzo eyaziwayo."
+      },
+      {
+        "color": "purple",
+        "icon": "leaf",
+        "title": "Ukudla ngendlela yaseMedithera",
+        "description": "Imifino, utamatisi ophekiwe (lycopene), inhlanzi, amafutha omnqumo, okusanhlamvu. Inyama ebomvu encane kanye nobisi. Kuxhunyaniswe nengozi ephansi yomdlavuza wendlala yesinye ocwaningweni."
+      },
+      {
+        "color": "orange",
+        "icon": "activity",
+        "title": "Hambisa njalo",
+        "description": "Amadoda akhuthele anamazinga aphansi omdlavuza wendlala yesinye kanye nemiphumela engcono uma bexilongwa. Imizuzu engama-30 yomsebenzi omaphakathi izinsuku eziningi. Ukubalwa kokuhamba."
+      },
+      {
+        "color": "gold",
+        "icon": "scale",
+        "title": "Isisindo esinempilo",
+        "description": "Ukukhuluphala ngokweqile kuhlotshaniswa nomdlavuza wendlala yesinye kanye nemiphumela emibi kakhulu. Gcina isisindo esinempilo, ikakhulukazi okhalweni."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Uma uneminyaka engu-50 noma ngaphezulu (40+ ngengozi ephezulu)",
+        "description": "Bhuka ukuhlolwa kwe-prostate kunoma yimuphi umtholampilo kahulumeni. Ukuhlolwa kwegazi kwe-PSA kanye nokuhlolwa. Mahhala. Ukuphinda konyaka. Thatha umngane uma kukusiza ukuthi uhambe."
+      },
+      {
+        "title": "Uma unezimpawu zomchamo - zihlole",
+        "description": "'Ungalindi'. Izimbangela eziningi ziyelapheka, okuhlanganisa nomdlavuza uma ubanjwe kusenesikhathi. Ukuvakasha emtholampilo kukunikeza izimpendulo, hhayi ukuqagela."
+      },
+      {
+        "title": "Uma i-PSA iphakanyisiwe",
+        "description": "Ungathuki - izimbangela eziningi aziwona umdlavuza (ukutheleleka, i-BPH, ngisho nokuhamba ngebhayisikili kwakamuva). Udokotela wakho uzohlela ukuhlolwa okwengeziwe uma kudingeka."
+      },
+      {
+        "title": "Uma uxilongwa - fika ethimbeni labahlinzayo",
+        "description": "Izikhungo ezinkulu zomdlavuza ezibhedlela zinamathimba angochwepheshe be-urology. I-CANSA isiza ukuzulazula. Ziningi izindlela zokwelapha ezikhona - okuhlanganisa nokulinda umdlavuza okhula kancane."
+      },
+      {
+        "title": "Tshela amadodana akho nabafowenu",
+        "description": "Umdlavuza wendlala yesinye unengxenye yofuzo. Uma unayo, izihlobo zesilisa kufanele zihlole ngaphambi kwesikhathi - ngokuvamile eminyakeni eyi-10 ngaphambi kweminyaka yakho yokuxilongwa."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukuhlolwa nokwelashwa kwe-prostate kumahhala emitholampilo kahulumeni nasezibhedlela. Okunzima kakhulu ukuqala ingxoxo. Uma usukwenzile, isistimu inakekela okunye.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwe-PSA kwamahhala kanye nokuhlolwa kwe-prostate kuyo yonke imitholampilo kahulumeni",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Ucingo losizo lwe-CANSA",
+        "description": "Ulwazi lomdlavuza, amaqembu okusekela, ukuzulazula kokwelashwa",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30 · mahhala kunoma iyiphi ifoni",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "child-fever",
+  "group_slug": "child-baby",
+  "name": "Umkhuhlane wengane",
+  "tagline": "Lapho kujwayelekile. Lapho kungenjalo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Red Cross War Memorial Children's Hospital",
+    "WHO Child Health",
+    "National Department of Health",
+    "South African Paediatric Association"
+  ],
+  "urgent": {
+    "heading": "Bonana nomtholampilo noma esibhedlela ngokushesha uma",
+    "primary_message": "Imfiva eminingi yezingane ayiyona ingozi. Kodwa lezi zimpawu zishintsha izinto - ukuya emtholampilo noma esibhedlela.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ingane engaphansi kwezinyanga ezi-3 enomkhuhlane (38°C noma ngaphezulu)",
+      "Imfiva engaphezu kuka-40°C enganeni yanoma yimuphi ubudala",
+      "Umkhuhlane uhlala izinsuku ezingaphezu kwezingu-3",
+      "Ukuphefumula kanzima noma ukuphefumula ngokushesha",
+      "IRash engabuli lapho icindezelwa ngaphansi kwengilazi",
+      "Intamo eqinile, ikhanda elibuhlungu, noma ukuzwela ukukhanya",
+      "Uyozela, kunzima ukuvuka, noma uthule ngendlela engavamile",
+      "Ukuhlanza okungapheli noma ukungachami amahora angu-8+",
+      "Ukuquleka - ngisho nezifushane zidinga ukuhlolwa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Imfiva ngamazwi alula",
+    "lede": "Imfiva izinga lokushisa lomzimba elingaphezu kuka-38°C. Akusona isifo - kuyindlela yomzimba yokulwa nezifo. Imfiva eminingi yezingane iwusizo futhi ayiyona ingozi ngokwayo.",
+    "paragraphs": [
+      "Umkhuhlane usiza amasosha omzimba ukuthi asebenze kanzima ngokumelene nama-virus nama-bacteria. Izinga lokushisa ngokwalo akuvamisile ukubangela ukulimala enganeni — ngisho nezinga lokushisa eliphezulu ‘aliwuthosi’ ubuchopho (lokhu kuwukukhathazeka okuvamile kodwa hhayi ukuthi imfiva iyonakalisa kanjani imizimba). Okubalulekile ukuthi ibangelwa yini nokuthi ingane ibukeka kanjani.",
+      "Ingane enomuzwa ojwayelekile ongu-39°C ingase ingakhathazeki kakhulu kunengane eno-38°C ene-floppy, enqaba ukondla, noma engavamile nganoma iyiphi indlela. Themba ukuthi ingane ibukeka kanjani ngaphezu kwe-thermometer. Uma ungabaza, zihlole."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Ikakhulukazi KULUNGILE",
+        "body": "Imfiva eminingi yezingane ibangelwa yigciwane, ihlala izinsuku ezingu-2-3, futhi ixazulula ngaphandle kokwelashwa. Umkhuhlane ngokwawo awuvamile ukuba yinkinga."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Ngaphansi kwezinyanga ezi-3",
+        "body": "Izingane ezingaphansi kwezinyanga ezi-3 ezinomkhuhlane zidinga ukuhlolwa okuphuthumayo kwezempilo. Amasosha abo omzimba awavuthiwe futhi izifo zingaba zimbi."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "headline": "Buka ingane",
+        "body": "Indlela ingane ebukeka ngayo neyenza ngayo ibaluleke ngaphezu kwenombolo ekwi-thermometer. Ingane ekhanyayo enomkhuhlane ophezulu ayikhathazeki kakhulu kune-floppy enomkhuhlane omncane."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "headline": "Awekho ama-antibiotic",
+        "body": "Ama-antibiotics awawaphathi amagciwane. Imikhuhlane eminingi yezingane iyigciwane - ama-antibiotics ngeke asize futhi angabangela imiphumela engemihle."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ungajahi i-thermometer. Bheka ingane yakho. Ingane esebenzisanayo, ephuzayo, futhi ekhiqiza amanabukeni amanzi yenza kahle - ngisho inomkhuhlane omkhulu. Ingane ephaphathekayo, namehlo ayingilazi idinga usizo - ngisho inomkhuhlane omncane.",
+      "source": "Isibhedlela Sezingane se-Red Cross War Memorial"
+    }
+  },
+  "signs": {
+    "heading": "Ungasho kanjani ukuthi i-serious",
+    "lede": "Imfiva ngokwayo ayiyona ingozi. Bheka isithombe sonke - ukuziphatha kwengane yakho, ukuphefumula, uketshezi kanye nanoma yiziphi ezinye izimpawu.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Mhlawumbe KULUNGILE",
+        "description": "Ingane iyasebenzisana (iyadlala, iyamamatheka, iyabuka), iphuza uketshezi, ikhiqiza amanabukeni amanzi, ayiqubuki, ayiphefumuli kanzima. Umkhuhlane ungaphakama kodwa ingane ifane nayo."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Bukisisa",
+        "description": "Ingane ithule ngendlela engavamile, ayidlali kakhulu kunokujwayelekile, isuke kancane ekuphakeleni, imfiva ehlala amahora angu-24-48, ukuqubuka okuncane. Hhayi izimo eziphuthumayo kodwa kuwufanele ukuvakashelwa emtholampilo uma kuqhubeka noma kuba kubi kakhulu."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Thola usizo manje",
+        "description": "I-Floppy noma engaphenduli, ephefumula ngokushesha noma ngokuzikhandla, ukuqubuka okungabuni ngaphansi kwengilazi, intamo eqinile, ukwenqaba konke uketshezi, ukungachami amahora angu-8+, ukuquleka, nanoma iyiphi ingane engaphansi kwezinyanga ezi-3 enomkhuhlane."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Gqoka kancane — gcina igumbi likhululekile",
+        "description": "Izingubo ezilula, ingubo yokulala uma uqhaqhazela. Unganqwabelani ngezingubo zokulala ezisindayo noma uzisonge - lokhu kunyusa izinga lokushisa lomzimba ngokuqhubekayo."
+      },
+      {
+        "title": "Nikeza uketshezi njalo",
+        "description": "Ubisi lwebele, ifomula, amanzi, i-ORS. Amanani amancane, ngokuvamile. Buka amanabukeni amanzi - uphawu lokungena kahle kwamanzi."
+      },
+      {
+        "title": "I-Paracetamol noma ibuprofen kuphela ukuze uthole induduzo",
+        "description": "Hhayi ngenxa yenombolo eku-thermometer - kuphela uma ingane ibonakala ingakhululekile. Landela umthamo osuselwe esisindweni ebhodleleni. Ungahlanganisi i-paracetamol ne-ibuprofen ngaphandle kweseluleko sezokwelapha."
+      },
+      {
+        "title": "Ungafaki isipontshi ngamanzi abandayo noma ngotshwala",
+        "description": "Lokhu akukhululekile futhi kungabangela ukuqhaqhazela, okuphakamisa izinga lokushisa. Amanzi afudumele alungile uma ingane iwafuna."
+      },
+      {
+        "title": "Themba umzwelo wakho",
+        "description": "Uma kukhona okungahambi kahle - ngisho noma ungakwazi ukusho ukuthini - hamba uye emtholampilo. Abazali baqaphela izinguquko ezicashile ezibalulekile. Abasebenzi bezempilo bancamela ukuthi ulethe ingane mahhala kunokuphuthelwa okuthile."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Imfiva eminingi yezingane ingalawuleka ekhaya. Ukwazi ukuthi kufanele kunyuke nini ikhono elibalulekile - futhi imitholampilo iyakujabulela ukubona abazali abakhathazekile.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Okwezingane ezingaphilile neze",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala kwezingane ezigulayo, akukho ukuqokwa okudingekayo",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-Childline SA",
+        "description": "Ulayini wamahhala wezempilo nenhlalakahle yezingane wamahora angama-24",
+        "meta": "Kumahhala kunoma iyiphi ifoni · amahora angama-24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

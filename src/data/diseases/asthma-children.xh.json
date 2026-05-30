@@ -15,12 +15,12 @@
   ],
   "urgent": {
     "heading": "Ungxamisekile - fowuna ngoku",
-    "primary_message": "Sebenzisa i-blue reliver inhaler kunye ne-spacer. Ukuba akukho phuculo kwimizuzu eyi-10-tsalela umnxeba u-10177.",
+    "primary_message": "Sebenzisa i-inhaler eluhlaza okwesibhakabhaka yokukhulula ukuphefumla kunye ne-spacer. Ukuba akukho phuculo kwimizuzu eyi-10-tsalela umnxeba u-10177.",
     "phone": "10177",
     "phone_display": "Tsalela umnxeba ku-10177",
     "red_flags": [
       "Ukuphefumla kakhulu ukuthetha izivakalisi ezipheleleyo, okanye ukukhala",
-      "Imilebe, iinzipho, okanye ubuso bujika bubhlowu okanye bungwevu",
+      "Imilebe, iinzipho, okanye ubuso buba luhlaza okwesibhakabhaka okanye bungwevu",
       "Ulusu lufunxa phakathi okanye ngaphantsi kweembambo ngomphefumlo ngamnye",
       "I-reliever inhaler ayincedi kwaphela",
       "Ukozela, ukubhideka, okanye ukudinwa kukuphefumla",
@@ -29,7 +29,7 @@
     ]
   },
   "what_is_it": {
-    "heading": "Isifuba somoya sabantwana ngokwemigaqo ecacileyo",
+    "heading": "Isifuba somoya sabantwana ngamazwi alula",
     "lede": "I-asthma kuxa imigudu yomoya emiphungeni iba novakalelo kwaye idumbe - iyaqina kwaye ikhuphe i-mucus ekuphenduleni izinto ezibangela ukuba kube nzima kumntwana ukuphefumla.",
     "paragraphs": [
       "Isifuba somoya sabantwana sesinye sezona meko zixhaphakileyo ezingapheliyo kubantwana baseMzantsi Afrika - malunga nomntwana om-1 kwabali-10. Iimpawu zinokuza kwaye zihambe. Ngonyango olululo, uninzi lwabantwana abane-asthma banokuphila, badlale imidlalo, kwaye balale ngokuqhelekileyo.",
@@ -171,4 +171,3 @@
     ]
   }
 }
-

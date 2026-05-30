@@ -1,0 +1,194 @@
+{
+  "slug": "flu",
+  "group_slug": "infectious",
+  "name": "Umkhuhlane (influenza)",
+  "tagline": "Ukuphumula nini. Umshayele nini udokotela wakho.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Institute for Communicable Diseases (NICD)",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Flu ngamazwi alula",
+    "lede": "Umkhuhlane ukutheleleka ngegciwane emakhaleni, emphinjeni, namaphaphu. Kunolaka kakhulu kunomkhuhlane ovamile - imfiva, ubuhlungu bomzimba, nokukhathala kufika emahoreni ambalwa.",
+    "paragraphs": [
+      "Abantu abaningi abaphile kahle bayalulama phakathi nesonto kuya ezinsukwini eziyishumi. Ingozi ilele ezinkingeni - inyumoniya, ukuwohloka kwesifuba somoya noma isifo senhliziyo, ukuphelelwa amanzi emzimbeni kubantu asebekhulile kanye nezingane ezincane. Balinganiselwa ku-11,000 abantu baseNingizimu Afrika abashona ngenxa yezinkinga ezihlobene nomkhuhlane minyaka yonke.",
+      "Umkhuhlane awuwona nje umkhuhlane omubi. Amakhaza angena kancane. Umkhuhlane uhlasela emahoreni ambalwa - ukushisa okuphezulu, ukukhwehlela okomile, ubuhlungu bemisipha, ikhanda elibuhlungu, kanye nohlobo lokukhathala okukubeka embhedeni."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Okwesizini",
+        "body": "Isikhathi somkhuhlane waseNingizimu Afrika siqala ngoMeyi kuya kuSepthemba. Gonywa ngoMashi noma ngo-Ephreli."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Usabulala",
+        "body": "Cishe abantu abayi-11,000 baseNingizimu Afrika bafa ngonyaka - ikakhulukazi ngenxa yezinkinga ezifana nenyumoniya, ikakhulukazi kwasebekhulile kanye nabagula kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Umuthi wokugoma wamahhala",
+        "body": "Amaqembu asengozini enkulu athola imigomo yamahhala yomkhuhlane emitholampilo - abangaphezu kweminyaka engama-65, abesifazane abakhulelwe, ukugula okungapheli, abasebenzi bezempilo."
+      },
+      {
+        "color": "green",
+        "icon": "home",
+        "headline": "Phumula, hhayi ama-antibiotic",
+        "body": "Abantu abadala abanempilo ngokuvamile badinga ukuphumula, uketshezi, nesikhathi—hhayi ama-antibiotics. Ama-antibiotics awasebenzi ngokumelene namagciwane."
+      }
+    ],
+    "pull_quote": {
+      "text": "Umuthi wokugomela umkhuhlane awukwazi ukukunika umkhuhlane - leyo ngenye yezinganekwane eziphikelelayo neziyingozi. Umuthi wokugoma awunalo igciwane eliphilayo.",
+      "source": "I-NICD"
+    }
+  },
+  "signs": {
+    "heading": "Umkhuhlane ngokumelene nokubanda - ukusho kanjani",
+    "lede": "Umkhuhlane kanye nemikhuhlane yizifo ezehlukene. Ukwazi ukuthi yikuphi onakho kushintsha lokho okwenzayo ngokulandelayo.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Umkhuhlane uhlasela ngokushesha futhi ngamandla",
+        "description": "Ukushisa okuphezulu (ngaphezu kuka-38°C) kwenzeka emahoreni ambalwa, ubuhlungu obukhulu bomzimba, ukukhwehlela okomile, ukukhathala. Uzizwa unqotshiwe."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Amakhaza akheka kancane",
+        "description": "Ikhala eligijimayo, umphimbo obuhlungu, ukukhathala okuncane. Uzizwa ulukhuni kodwa usebenza. Akukho umkhuhlane omkhulu, akukho buhlungu bomzimba."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Izimpawu eziyisixwayiso",
+        "description": "Ukuphefumula kanzima, ubuhlungu besifuba, izindebe eziluhlaza, ukuhlanza okukhulu, ukudideka, izimpawu eziba ngcono bese ziba zimbi kungazelelwe — bonana nomtholampilo."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Indlela umkhuhlane osakazeka ngayo",
+    "yes": [
+      "Ukukhwehlela kanye nokuthimula okuvela kubantu abanaleli gciwane - amaconsi ahamba cishe imitha",
+      "Izindawo ezithinta umuntu onegciwane akhwehlele kuzo, bese ethinta ubuso bakho",
+      "Ukuthintana eduze ezindaweni ezingenawo umoya ohlanzekile - amakilasi, amatekisi, amahhovisi",
+      "Kusuka kumuntu onegciwane kusukela ngosuku ngaphambi kokuba azizwe egula"
+    ],
+    "no": [
+      "Ukulunywa omiyane noma ezinye izinambuzane",
+      "Ukudla, amanzi, noma ukwabelana ngeziphuzo (akuvamile)",
+      "Ukubanda noma ukuba manzi - umkhuhlane awubangeli umkhuhlane, igciwane liyawenza",
+      "Umuthi wokugomela umkhuhlane - awunalo igciwane eliphilayo"
+    ]
+  },
+  "prevention": {
+    "heading": "Ungazivikela kanjani wena nomndeni wakho",
+    "lede": "Umgomo womkhuhlane waminyaka yonke uyinto eyodwa ephumelela kakhulu. Ngisho noma usathola umkhuhlane ngemva kokugoma, ngokuvamile uthambile kakhulu.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Umgomo wonyaka womkhuhlane",
+        "description": "Gonywa minyaka yonke ngaphambi kwenkathi yomkhuhlane. Kumahhala emitholampilo emaqenjini asengozini enkulu, cishe u-R100 emakhemisi amaningi awo wonke umuntu."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Geza izandla njalo",
+        "description": "Insipho namanzi imizuzwana engu-20, noma isibulali magciwane. Ikakhulukazi ngemva kwezithuthi zomphakathi, ukuyothenga, noma ukulayishwa esikoleni."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukungenisa umoya",
+        "description": "Vula amafasitela ezindlini, emakilasini, nasemahhovisi. Umkhuhlane usakazeka kancane kakhulu ezindaweni ezinomoya omuhle."
+      },
+      {
+        "color": "gold",
+        "icon": "home",
+        "title": "Hlala ekhaya uma ugula",
+        "description": "Uma unomkhuhlane, hlala ekhaya amahora angu-24 ngemva kokugqashuka komkhuhlane. Uyatheleleka kakhulu ezinsukwini zokuqala ezingu-3-4."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Umuthi wokugomela umkhuhlane ungakunika umkhuhlane.",
+        "fact": "Umuthi wokugomela umkhuhlane awunalo igciwane eliphilayo. Abanye abantu bazizwa bekhathele noma banomkhuhlane omncane ngemva kokudutshulwa - lokho amasosha omzimba asabelayo, hhayi umkhuhlane."
+      },
+      {
+        "myth": "Uma ngiwumqemane, angiwudingi umuthi wokugomela umkhuhlane.",
+        "fact": "Abantu abanempilo ngokuvamile bayasinda emkhuhlaneni - kodwa uwusakaza kubantu abasengozini enkulu. Ukugoma kukuvikela wena nezingane zakho, abazali, nozakwenu."
+      },
+      {
+        "myth": "Ama-antibiotic azoqeda umkhuhlane wami ngokushesha.",
+        "fact": "Ama-antibiotic asebenza kuphela ngokumelene namagciwane. Umkhuhlane uyigciwane. Ukuthatha ama-antibiotics kungenasidingo kuzalela amagciwane amelana ngokuhamba kwesikhathi."
+      },
+      {
+        "myth": "Uma nginezimpawu, isikhathi sesihambile sokuthola umgomo.",
+        "fact": "Uma usuvele unomkhuhlane, umuthi wokugoma ngeke welapha leso siqephu - kodwa awukephuzi kakhulu isizini iyonke. Kuvame ukuba nokuchayeka okwengeziwe kamuva."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Ukuphumula, uketshezi, i-paracetamol",
+        "description": "Lala ngokusemandleni akho. Phuza amanzi, ijusi, isobho. I-Paracetamol noma ibuprofen yemfiva nama-aches."
+      },
+      {
+        "title": "Ungaceli ama-antibiotics",
+        "description": "Umkhuhlane unegciwane. Ama-antibiotics awawenzi lutho amagciwane. Zisiza kuphela uma kuvela inkinga yebhaktheriya njengenyumoniya."
+      },
+      {
+        "title": "Uma usengozini enkulu - bonana nomtholampilo kusenesikhathi",
+        "description": "Ukhulelwe, uneminyaka engaphezu kuka-65, ukugula okungapheli (isifuba somoya, isifo senhliziyo, isifo sikashukela, i-HIV)? Bona umtholampilo emahoreni angama-48 - ama-antiviral asebenza kangcono kusenesikhathi."
+      },
+      {
+        "title": "Qaphela izimpawu eziyisixwayiso",
+        "description": "Ukuphefumula kanzima, ubuhlungu besifuba, ukudideka, ukuhlanza okukhulu, ukuwohloka okungazelelwe - thola usizo lwezempilo."
+      },
+      {
+        "title": "Vikela abanye",
+        "description": "Hlala ekhaya kuze kuphele umkhuhlane amahora angama-24. Mboza ukukhwehlela ngendololwane. Ungavakasheli izihlobo esezikhulile lapho ugula."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Umkhuhlane omningi ungalawuleka ekhaya. Imitholampilo namakhemisi asiza ngezimpawu ezinzima kanye namaqembu asengozini enkulu.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni inikeza imigomo yamahhala yomkhuhlane emaqenjini asengozini enkulu",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi ngokubhekwa komkhuhlane kanye nokugoma",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

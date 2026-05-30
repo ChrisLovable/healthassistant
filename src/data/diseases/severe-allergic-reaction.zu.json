@@ -1,0 +1,177 @@
+{
+  "slug": "severe-allergic-reaction",
+  "group_slug": "emergency-signs",
+  "name": "Ukungezwani okukhulu komzimba (i-anaphylaxis)",
+  "tagline": "Ukuvuvukala, izinkinga zokuphefumula - izimo eziphuthumayo.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Allergy Foundation South Africa",
+    "WHO",
+    "World Allergy Organization",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Okuphuthumayo — sebenzisa i-EpiPen manje",
+    "primary_message": "Sebenzisa i-adrenaline auto-injector (EpiPen) ngokushesha ungene ethangeni elingaphandle. Bese ushayela ku-10177.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ukuvuvukala kobuso, izindebe, ulimi, noma umphimbo",
+      "Ukuphefumula kanzima, ukuphefumula, noma umphimbo oqinile",
+      "Izwi elihoshayo noma inkinga yokugwinya",
+      "Ukuqubuka okungazelelwe noma ama-welts abomvu asakazeka emzimbeni",
+      "Ukushaya kwenhliziyo okusheshayo, isiyezi, noma ukuquleka",
+      "Ukuhlanza, amajaqamba esiswini, noma isifo sohudo kungazelelwe"
+    ]
+  },
+  "what_is_it": {
+    "heading": "I-anaphylaxis ngamazwi alula",
+    "lede": "I-anaphylaxis iwukungezwani komzimba okunzima, wonke okungaba yingozi phakathi nemizuzu uma ingelashwa.",
+    "paragraphs": [
+      "Kwenzeka lapho isistimu yokuvikela yomzimba isabela ngokweqile kukhinto evame ukungabi yingozi — ukudla, ukulunywa, umuthi, noma i-latex. Imithambo yegazi iyavuza, imigudu yokuphefumula ivuvukale, umfutho wegazi uyehla.",
+      "I-Adrenaline (i-epinephrine) ukuphela kokwelashwa komugqa wokuqala. I-auto-injector efana ne-EpiPen iyiletha emsipha wethanga. Ama-Antihistamine nama-inhalers awathathi indawo. Ngemva kokusebenzisa i-EpiPen, umuntu usadinga ukunakekelwa esibhedlela ngoba izimpawu zingabuya ngemva kwamahora ambalwa."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "zap",
+        "headline": "Amaminithi",
+        "body": "I-anaphylaxis enamandla ingabulala phakathi nemizuzu engu-15. Ijubane lokwelashwa liyikho konke."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "headline": "Izibangeli eziphezulu",
+        "body": "Amantongomane, amantongomane esihlahla, igobolondo, inhlanzi, ubisi, amaqanda, izinyosi noma iminyovu, imithi (ngokuvamile elwa namagciwane), kanye ne-latex."
+      },
+      {
+        "color": "orange",
+        "icon": "refresh-cw",
+        "headline": "Igagasi lesibili",
+        "body": "Kufika kumuntu oyedwa kwabangu-5 ukusabela okwesibili ngemva kwamahora angu-4-12, ngisho nangemva kokuba ngcono. Ukubhekwa esibhedlela kubalulekile."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "EpiPen kuqala",
+        "body": "Umjovo we-Adrenaline auto-injector ukuphela komugqa wokuqala. Kuphephile ukuyisebenzisa - ukuyigodla yikho okudala ukulimala."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma ungaqiniseki ukuthi i-anaphylaxis — sebenzisa i-EpiPen noma kunjalo. Ingozi yokuyisebenzisa ngokungadingekile incane. Ingozi yokungayisebenzisi ingaba yingozi.",
+      "source": "I-Allergy Foundation yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Ongase ukubone",
+    "lede": "I-anaphylaxis ngokuvamile iqala phakathi nemizuzu yokuchayeka. Izimpawu zihlanganisa isistimu yomzimba engaphezu kweyodwa - isikhumba, ukuphefumula, ukujikeleza kwegazi, noma amathumbu.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "user",
+        "title": "Isikhumba",
+        "description": "Ama-Hives noma ama-welts abomvu, ukulunywa okukhulu, ukushaywa umoya, ukuvuvukala kobuso, izindebe, ulimi, noma amehlo."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukuphefumula",
+        "description": "Ukuhefuzela, umphimbo oqinile, izwi eliyisihosha, ubunzima bokugwinya, ukukhwehlela okungapheli, ukuphefumula kanzima."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Ukujikeleza",
+        "description": "Ukushaya kwenhliziyo okusheshayo, umfutho wegazi ophansi, isiyezi, ukuquleka, isikhumba esiphaphathekile noma esihlabayo, siyawa."
+      },
+      {
+        "color": "gold",
+        "icon": "alert-triangle",
+        "title": "Amathumbu kanye jikelele",
+        "description": "Ubuhlungu besisu, ukuhlanza, isifo sohudo kungazelelwe. Umuzwa wokulahlwa uphawu oluqashelwayo oluyisixwayiso."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ama-Antihistamine anele ukumisa i-anaphylaxis.",
+        "fact": "Ama-Antihistamine aphatha izimpawu zokungezwani komzimba okuncane. Abakwazi ukuhlehlisa i-anaphylaxis. I-Adrenaline ukuphela kokwelashwa komugqa wokuqala."
+      },
+      {
+        "myth": "Kufanele ngilinde futhi ngibone ukuthi kuya kuba kubi ngaphambi kokusebenzisa i-EpiPen.",
+        "fact": "Yisebenzise ngokushesha lapho kusolwa i-anaphylaxis. Ukubambezeleka kuyimbangela yokufa evame kakhulu. I-Adrenaline iphephile — ukuyigodla kuyingozi."
+      },
+      {
+        "myth": "Uma bezizwa bengcono ngemva kwe-EpiPen, akudingeki baye esibhedlela.",
+        "fact": "Basadinga ukubhekwa esibhedlela. Izimpawu zingabuya ngemuva kwamahora (i-biphasic reaction). I-EpiPen yesibili ingase idingeke."
+      },
+      {
+        "myth": "Udinga kuphela i-EpiPen uma uke waba nokusabela okunzima ngaphambili.",
+        "fact": "Ukusabela okubi kokuqala kungafika ngaphandle kwesixwayiso, ikakhulukazi kubantu abanokudla okwaziwayo noma ukungezwani nezinambuzane. Khuluma nodokotela mayelana nokuthola i-EpiPen."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ukwenze - umzuzu nomzuzu",
+    "items": [
+      {
+        "title": "Sebenzisa i-EpiPen ethangeni elingaphandle",
+        "description": "Ngezingubo kuhle. Bamba uqine imizuzwana eyi-10. Qaphela isikhathi osisebenzisile."
+      },
+      {
+        "title": "Shayela ku-10177 noma ku-112 ngokushesha",
+        "description": "Ithi 'anaphylaxis'. Ngisho noma umuntu ebonakala engcono, udinga ukubhekwa esibhedlela."
+      },
+      {
+        "title": "Zibeke phansi, ziphakamise imilenze yazo",
+        "description": "Isiza umfutho wegazi. Uma zihlanza, zilalise ngohlangothi. Uma ukuphefumula kunzima, mabahlale phansi - bangalokothi bame."
+      },
+      {
+        "title": "I-EpiPen yesibili uma kungekho ngcono emizuzwini emi-5",
+        "description": "Nika umthamo wesibili kwelinye ithanga. Iningi lama-EpiPen liza ngamaphekhi angu-2 ngenxa yalesi sizathu."
+      },
+      {
+        "title": "Hlala nabo kuze kufike abezimo eziphuthumayo",
+        "description": "Buka ukuphefumula nokushaya kwenhliziyo. Lungela ukwenza i-CPR. Nikeza abezimo eziphuthumayo i-EpiPen esetshenzisiwe."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okumele ashayele khona manje",
+    "lede": "I-Anaphylaxis ihlale iyisimo esiphuthumayo, ngisho noma izimpawu ziba ngcono ngemva kwe-EpiPen. Myise esibhedlela.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · amahora angu-24 · ithi 'anaphylaxis'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Isimo esiphuthumayo (iselula)",
+        "description": "Ifinyelela kunoma iyiphi isevisi yezimo eziphuthumayo ngomakhalekhukhwini",
+        "meta": "Kumahhala kunoma iyiphi iselula · amahora angama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "I-Allergy Foundation SA",
+        "description": "Ulwazi, ukwesekwa, kanye nokuthola uchwepheshe we-allergies",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0214474360",
+        "phone_display": "021 447 4360",
+        "primary": false
+      }
+    ]
+  }
+}

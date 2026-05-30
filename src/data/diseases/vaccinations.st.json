@@ -1,0 +1,186 @@
+{
+  "slug": "vaccinations",
+  "group_slug": "child-baby",
+  "name": "Liente tsa bana",
+  "tagline": "Kemiso ea mahala ea SA. Thunya e 'ngoe le e 'ngoe e bohlokoa.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Department of Health (EPI-SA)",
+    "NICD",
+    "WHO",
+    "South African Paediatric Association"
+  ],
+  "what_is_it": {
+    "heading": "Liente tsa bana ka mokhoa o hlakileng",
+    "lede": "Meento e koetlisa sesole sa ngoana ho loantša mafu pele a kopana le 'ona bophelong ba sebele. Lenaneo le Atolositsoeng la Ente la Afrika Boroa (EPI-SA) le sireletsa khahlanong le mafu a bolaeang ka ho fetisisa a bana - kaofela a mahala tleliniking e 'ngoe le e 'ngoe ea 'muso.",
+    "paragraphs": [
+      "Ente e ruta 'mele ho lemoha vaerase kapa baktheria ka ho e bontša mofuta o seng kotsi. Ha ntho ea sebele e hlaha, sesole sa 'mele se se se loketse. Liente li thibetse ho shoa ha limilione lefatšeng ka bophara - maselese a le mong a ne a bolaea bana ba limilione tse 2.6 ka selemo pele ho ente.",
+      "Lenane la SA le qala nakong ea tsoalo le ho tsoela pele ho fihlela lilemo tsa sekolo. Khomarela eona. Ho haelloa ke sethunya se le seng ha ho etsolle tse ling, empa ho siea lekhalo la tšireletso. Haeba u saletse morao, hangata u ka khona ho tšoara - bua le tleliniki. Buka ea Road to Health e latela litekanyetso tsohle."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "Mafu a mangata",
+        "body": "Lenane la mahala la SA le sireletsa khahlanong le lefuba, pholio, maselese, lefu la sebete la mofuta oa B, pneumococcal, rotavirus, HPV, le tse ling."
+      },
+      {
+        "color": "gold",
+        "icon": "gift",
+        "headline": "Tsohle mahala",
+        "body": "Ente e 'ngoe le e 'ngoe e lenaneong ke mahala tleliniking e 'ngoe le e 'ngoe ea mmuso. Ha ho na thuso ea bongaka, ha ho nako ea kopano e hlokahalang bakeng sa ho thunngoa kamehla."
+      },
+      {
+        "color": "green",
+        "icon": "book-open",
+        "headline": "Buka ea Road to Health",
+        "body": "Ngoana e mong le e mong oa SA o fumana buka ea Road to Health ha a hlaha. E tlise tleliniking e 'ngoe le e 'ngoe - e sala morao ente e 'ngoe le e 'ngoe, boima ba 'mele le mohato oa bohlokoa."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Maselese a khutlile",
+        "body": "Sekhahla se theohileng sa ente se tlisitse seoa sa maselese hape SA. Maselese a ka bolaea, a foufatsa kapa a baka tšenyo bokong. Ente e bolokehile ebile e sebetsa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Meento ke ts'ebetso ea bophelo bo botle e bolokang chelete e ngata ka ho fetisisa nalaneng ea batho. Ranta e 'ngoe le e 'ngoe e sebelisoang enteng ea bana e boloka tse ling tse ngata litjehong tsa tlhokomelo ea bophelo - le tse ling tse ngata bophelong.",
+      "source": "WHO"
+    }
+  },
+  "signs": {
+    "heading": "Lenaneo la SA bongoaneng",
+    "lede": "Mona ke ha ngoana oa hau a fumana ente ka 'ngoe. Ketelo ea libeke tse 6, tse 10, tse 14, tsa likhoeli tse 9 le tse 18 ke tsona tsa bohlokoa - u se ke ua li tlola.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Nakong ea tsoalo",
+        "description": "BCG (khahlanong le TB) le marotholi a pele a pholio ka molomo. E fanoe pele 'm'a le lesea ba tsoa sebakeng sa bakhachane."
+      },
+      {
+        "color": "orange",
+        "icon": "calendar",
+        "title": "6, 10, le libeke tse 14",
+        "description": "Pentavalent (5-in-1: diphtheria, tetanus, pertussis, Hib, hepatitis B), marotholi a rotavirus, pneumococcal, polio. Ketelo ea tleliniki e tšoanang."
+      },
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Likhoeli tse 9 le tse 18",
+        "description": "Ente ea 'maselese maetong a mabeli, hammoho le li-boosters likhoeling tse 18. E bohlokoa bakeng sa tšireletso ea maselese - le ka mohla u se ke ua tlola tsena."
+      },
+      {
+        "color": "gold",
+        "icon": "graduation-cap",
+        "title": "Mengwaha ya sekolo",
+        "description": "Tetanus le diphtheria li matlafatsa lilemo tse 6 le tse 12. Ente ea HPV ho Kereiti ea 5 bakeng sa banana (le bashanyana liprofinseng tse ngata) - ka lenaneo la sekolo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Liente li baka autism.",
+        "fact": "Lilemo tse mashome tsa lithuto tse kholo ho bana ba limilione ha li bontše kamano pakeng tsa liente le autism. Boithuto ba mantlha ba 1998 bo ile ba fumanoa bo le bomenemene 'me bo ile ba hlakoloa. Mongoli o lahlile laesense ea hae ea bongaka."
+      },
+      {
+        "myth": "Tšoaetso ea tlhaho e fana ka tšireletso e ntle ho feta liente.",
+        "fact": "Ka linako tse ling tšoaetso ea tlhaho e fana ka tšireletso e matla - empa ka litšenyehelo tsa lefu lena ka boeona. Maselese a ka bolaea kapa a baka tšenyo bokong. Pholio e ka holofatsa. Meento e fana ka tšireletso ntle le kotsi."
+      },
+      {
+        "myth": "Meento e mengata haholo e haufi haholo e sithabetsa sesole sa 'mele.",
+        "fact": "Tsamaiso ea 'mele ea ho itšireletsa mafung ea lesea e sebetsana le likokoana-hloko tse ncha tse likete letsatsi le leng le le leng ka ho hema feela. Liprotheine tse 'maloa tse ka har'a ente ke lerotholi la leoatle. Kemiso e behiloe nako ho sireletsa lilemong tse tlokotsing ka ho fetisisa."
+      },
+      {
+        "myth": "Haeba bohle ba entoa, ngoana oa ka ha a e hloke.",
+        "fact": "Ho itšireletsa ha mehlape ho sebetsa feela ha batho ba bangata ba entoa. Ha sekhahla sa ente se theoha, mafu aa khutla - joalo ka ha re bona ka maselese SA. U se ke ua ba lekhalo."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Ho fumana le ho sala morao liente",
+    "lede": "Meento e sebetsa hantle ha e fanoe ka nako le ka tatellano e nepahetseng. Tsamaiso ea tleliniki e etsa hore ho be bonolo ha u tlisa buka.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "book-open",
+        "title": "Boloka buka ea Road to Health",
+        "description": "Ketelo e 'ngoe le e 'ngoe ea tleliniki e kena bukeng ena. Ke pasepoto ea bongaka ea ngoana oa hau bakeng sa lilemo tse 6 tsa pele. E boloke e sireletsehile 'me u e tlise nako le nako."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "title": "Khomarela kemiso",
+        "description": "Ho entoa ka nako ho sireletsa lilemong tse tlokotsing haholo. Haeba u fetiloe ke tekanyetso, tleliniki e tla u tšoara - u se ke ua emela selemo se tlang."
+      },
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Maikutlo a bonolo a tloaelehile",
+        "description": "Feberu e nyane, bofubelu, kapa ho ferekana ka letsatsi kapa a mabeli ka mor'a ho entoa ke ntho e tloaelehileng. Paracetamol e thusa. Maikutlo a matla ke a seoelo - e-ea tleliniking haeba u tšoenyehile."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "title": "Meento ea ho ts'oara le ho eta",
+        "description": "Haeba ngoana oa hau a fositse lifoto kapa u etela mose ho maoatle, botsa tleliniki mabapi le linako tsa ho fumana nako le liente tsa maeto. Boholo ba litekanyo tse fetotsoeng li ka fanoa hamorao."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Sheba buka ea Road to Health",
+        "description": "Bula leqephe la ente. Bona hore na ngoana oa hau o nkile lithunya life le tse lokelang ho etsoa. Haeba u sena buka, botsa tleliniki - ba tla fana ka eona."
+      },
+      {
+        "title": "Haeba ngoana oa hao a se a fetile nako - tsamaea hona joale",
+        "description": "Kena tleliniking efe kapa efe ka buka. Boholo ba liente tse hlolohetsoeng li ka fanoa ka letsatsi le le leng. Ha ho na kahlolo, ha ho litšenyehelo tse ling."
+      },
+      {
+        "title": "Haeba u lahlehetsoe ke buka",
+        "description": "Litleliniki tse ngata li na le lirekoto tsa elektronike 'me hangata li khona ho sheba se fanoeng. Libuka tse ncha ha li lefelloe."
+      },
+      {
+        "title": "Haeba ngoana oa hau a bile le maikutlo pele",
+        "description": "Bolella tleliniki. Boitšoaro bo bongata ba nakong e fetileng ha bo thibele litekanyetso tse tlang - mekhoa e meng kapa litemoso li teng."
+      },
+      {
+        "title": "Haeba morali oa hao a le Kereiting ea 5",
+        "description": "Etsa bonnete ba hore o fumana ente ea mahala ea HPV ka lenaneo la sekolo. Methati e 'meli, likhoeli tse tšeletseng tse arohaneng. E thibela boholo ba mofetše oa popelo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Lenaneo la SA ente ke e 'ngoe ea likarolo tse fumanehang haholo tsa tsamaiso ea bophelo bo botle. Tlohela ngoana oa hao feela le buka ea Road to Health.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Liente tsa mahala tsa bana ho lenane la EPI",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Lenaneo la mahala la NICD",
+        "description": "Lintlha tsa ente, lipotso tsa polokeho, liente tsa maeto",
+        "meta": "Mantaha–Labohlano 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

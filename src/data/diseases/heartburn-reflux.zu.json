@@ -1,0 +1,187 @@
+{
+  "slug": "heartburn-reflux",
+  "group_slug": "pain",
+  "name": "Isilungulela ne-reflux",
+  "tagline": "Okuvamile. Kuyalapheka. Lapho sekungokunye.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "South African Gastroenterology Society",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Isilungulela kanye ne-reflux ngamagama alula",
+    "lede": "Isilungulela umuzwa ovuthayo esifubeni noma emphinjeni obangelwa i-asidi yesisu egeleza ihlehla epayipini lokudla. Uma kwenzeka kaningi, kubizwa ngokuthi i-GORD (isifo se-reflux ye-gastro-oesophageal).",
+    "paragraphs": [
+      "Ivalvu ephakathi kwesisu nepayipi lokudla ihloselwe ukuhlala ivaliwe. Uma iphumuza kaningi noma iyinde kakhulu, i-asidi ibalekela phezulu. Umphumela: ukuzwa kushisa, ukuvutha ngemuva kwethambo lesifuba - ngokuvamile ngemva kokudla, ngokuvamile kubi kakhulu ukulala phansi.",
+      "Isilungulela ngezikhathi ezithile ngemva kokudla okukhulu kuvamile. Isilungulela esenzeka kabili ngeviki noma ngaphezulu, noma esikuvusa ebusuku, sidinga ukunakwa. Ingalimaza ipayipi lokudla phakathi neminyaka. Izindaba ezinhle: izinguquko zendlela yokuphila kanye nemithi elula isebenza kahle kakhulu kubantu abaningi."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 em4",
+        "body": "Abantu baseNingizimu Afrika baba nesilungulela okungenani kanye ngesonto. Abaningi kakhulu baba nayo ngezikhathi ezithile. Kuvame kakhulu."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kuyalapheka",
+        "body": "Izinguquko zendlela yokuphila kanye nemithi elula (i-PPIs efana ne-omeprazole) isebenza kahle kakhulu. Abantu abaningi bathola ukukhululeka okukhulu phakathi kwamaviki ama-2."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Angalingisa inhliziyo",
+        "body": "Isilungulela esibi kakhulu singazwakala njengokuhlasela kwenhliziyo. Uma ungabaza - ikakhulukazi ngokujuluka, ukuphelelwa umoya, ubuhlungu bemihlathi noma ingalo - thatha inhliziyo bese ushayela ku-10177."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Buka amafulegi abomvu",
+        "body": "Ubunzima bokugwinya, ukuncipha, ukuhlanza igazi, indle emnyama - lokhu akusona isilungulela. Bonana nodokotela ngaphandle kokulibala."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma uthatha imithi yesilungulela nsuku zonke isikhathi esingaphezu kwamasonto ambalwa, thola ukuhlolwa okufanele. I-acid reflux yesikhathi eside ingalimaza ipayipi lokudla futhi ayivamisile ukuholela emdlavuza - kokubili kungavinjelwa ngokunakekelwa okufanele.",
+      "source": "Inhlangano yaseNingizimu Afrika ye-Gastroenterology"
+    }
+  },
+  "signs": {
+    "heading": "Okufanele ukubheke",
+    "lede": "Isilungulela sinephethini evamile - kodwa ezinye izimpawu zixwayisa ngokuthile okubucayi kakhulu.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Isilungulela esijwayelekile",
+        "description": "Ukushisa ngemuva kwethambo lesifuba, ngokuvamile ngemva kokudla. Ukunambitheka okumuncu noma okubabayo ngemuva komphimbo. Okubi nakakhulu ukulala phansi, ukugoba, noma ngemva kokudla okukhulu noma okunamafutha. Ukukhululwa kuma-antacid."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Izici ze-Reflux",
+        "description": "I-Acid efika emphinjeni noma emlonyeni, ikakhulukazi ebusuku. Ukukhwehlela okungapheli noma ukuhayiza. Ngezinye izikhathi izimpawu ezifana ne-asthma noma i-asthma. Okubi nakakhulu ngokukhuluphala noma ukukhulelwa."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Amafulegi abomvu - bonana nodokotela",
+        "description": "Ubunzima noma ubuhlungu bokugwinya, ukudla okunamathelayo, ukuncipha komzimba, ukuhlanza igazi, indle emnyama, ubuhlungu besifuba obunzima — okungenzeka kube yisifo senhliziyo. Akukho kulokhu 'okuyisilungulela nje'."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ubisi lupholisa isilungulela.",
+        "fact": "Ubisi luvimba i-asidi kafushane, bese ngokuvamile lwenza izinto zibe zimbi nakakhulu - amafutha obisi abangela ukukhululwa kwe-asidi eyengeziwe. Sebenzisa ama-antacid adizayinelwe umsebenzi (isb., i-Gaviscon)."
+      },
+      {
+        "myth": "I-Reflux imane nje iwukungakhululeki — ayibangeli umonakalo wangempela.",
+        "fact": "Iminyaka eminingi ye-reflux engelashiwe ingalimaza ulwelwesi lwamapayipi okudla (i-esophagitis), ibangele ukuncipha, futhi kuyaqabukela iholele esimweni esiyingozi. Kufanelekile ukuphathwa, hhayi nje ukubekezela."
+      },
+      {
+        "myth": "Isilungulela njalo ngemva kokudla ukudla okubabayo.",
+        "fact": "Izimbangela ezivamile ziyahlukahluka: ikhofi, ukudla okunamafutha, ushokoledi, utshwala, i-peppermint, i-citrus, ukudla okukhulu, ukudla sekwephuzile. Abantu abahlukene banezicucu ezihlukene. Idayari yokudla iyasiza."
+      },
+      {
+        "myth": "Uma ngincipha, isilungulela sizophela ngomlingo.",
+        "fact": "Ukunciphisa umzimba kusiza kakhulu, ikakhulukazi okhalweni. Kodwa abantu abaningi abazacile bane-reflux futhi - futhi isisindo akusona ukuphela kwesici. Hlanganisa ukuphathwa kwesisindo nezinye izinguquko."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Imikhuba yansuku zonke esiza",
+    "lede": "Izinguquko zendlela yokuphila ngokuvamile zinamandla kakhulu kunemithi ye-reflux emaphakathi kuya emaphakathi. Kufanelekile ukuzama amaviki angu-4 ngaphambi kokuthola amaphilisi unomphela.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "utensils",
+        "title": "Izidlo ezincane, yidla kancane",
+        "description": "Izidlo ezinkulu zigcwalisa isisu futhi ziphushe i-asidi phezulu. Zama izingxenye ezincane, yidla kancane, ungabuyeli emuva imizuzwana ngesikhathi esifanayo."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "Ungadli engakapheli amahora ama-3 ulele",
+        "description": "Ukulala ngesisu esigcwele kuyindlela yokwelapha i-reflux ebusuku. Ukudla kokugcina okungenani amahora ama-3 ngaphambi kokulala. Ukudla okulula kuphela uma kudingeka."
+      },
+      {
+        "color": "orange",
+        "icon": "bed",
+        "title": "Avuse ikhanda lombhede",
+        "description": "Faka amabhlogo angu-10-15cm ngaphansi kwemilenze ye-headboard (hhayi nje imicamelo eyengeziwe - lokhu kugoba intamo). Amandla adonsela phansi agcina i-asidi iphansi ebusuku."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Sika izibangeli zakho",
+        "description": "Okuvamile: ikhofi, utshwala, ukudla okunamafutha, ushokoledi, i-peppermint, i-citrus, ukudla okubabayo, ukubhema, amabhande aqinile okhalweni. Yeka ukubhema ngokuphelele - kwenza i-valve ibe buthaka ngokuqondile."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Zama izinguquko zendlela yokuphila amaviki angu-4",
+        "description": "Izidlo ezincane, ukungadli sekwephuzile, umbhede ophakanyisiwe, khomba izinto ezibangisayo. Cishe uhhafu wabantu uthola impumuzo enkulu kulokhu kuphela - ayikho imithi edingekayo."
+      },
+      {
+        "title": "Zama ama-antacid angaphandle kwekhawunta ngezikhathi ezithile",
+        "description": "I-Gaviscon, i-Rennies, noma umsebenzi ofanayo ngokushesha ngeziqephu zezikhathi ezithile. Itholakala kunoma yiliphi ikhemisi. Ungawasebenzisi nsuku zonke — lokho kuwuphawu lokuthi udinga indlela ehlukile."
+      },
+      {
+        "title": "Uma izimpawu izikhathi ezingu-2+ ngesonto - bona umtholampilo",
+        "description": "Ama-PPI (i-omeprazole, i-esomeprazole) asetshenziswa amaviki ama-4-8 avame ukusebenza kahle kakhulu. Kumahhala emitholampilo kahulumeni. Ungawathathi unomphela ngaphandle kokubuyekezwa kwezokwelapha."
+      },
+      {
+        "title": "Uma kuvela amafulegi abomvu - hamba ngaphandle kokulibala",
+        "description": "Ubunzima bokugwinya, ukuncipha kwesisindo, ukuhlanza igazi, indle emnyama - lokhu kudinga ukuhlolwa okuphuthumayo, ngezinye izikhathi i-endoscopy. Ungazami ukwelashwa okutholakala ekhawuntaleni kwalokhu."
+      },
+      {
+        "title": "Uma ubuhlungu besifuba - thatha inhliziyo kuqala",
+        "description": "Ukuhlasela kwenhliziyo nesilungulela kungase kuzwakale okufanayo. Ngokujuluka, ukuphelelwa umoya, ubuhlungu bomhlathi noma bengalo, nanoma yikuphi ukungaqiniseki — shayela ku-10177. Uphephe kangcono."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Iningi le-reflux lingalawulwa ezingeni lasemtholampilo. Izimpawu eziphikelelayo noma amafulegi abomvu azuza ekudlulisweni kochwepheshe.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Uma ubuhlungu besifuba bungase bube yisifo senhliziyo",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala, iseluleko sendlela yokuphila, kanye nokwelashwa okubhalwe udokotela",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Noma yiliphi ikhemisi lendawo",
+        "description": "Ama-antacid angaphandle kwekhawunta ukuze asetshenziswe ngezikhathi ezithile",
+        "meta": "Asikho incwadi kadokotela edingekayo ye-OTC",
+        "phone": null,
+        "phone_display": "Vakashela ikhemisi",
+        "primary": false
+      }
+    ]
+  }
+}

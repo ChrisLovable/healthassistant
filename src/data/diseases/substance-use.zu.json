@@ -1,0 +1,172 @@
+{
+  "slug": "substance-use",
+  "group_slug": "mental-health",
+  "name": "Ukusetshenziswa kwezidakamizwa nokulutheka",
+  "tagline": "Utshwala, izidakamizwa - kanjani ukukubona, kuphi usizo.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "SANCA (South African National Council on Alcoholism and Drug Dependence)",
+    "Department of Social Development",
+    "WHO",
+    "Central Drug Authority SA"
+  ],
+  "urgent": {
+    "heading": "Okuphuthumayo - shayela manje uma",
+    "primary_message": "Ukweqisa, ukuhoxa kakhulu, noma imicabango yokuzilimaza kudinga usizo olusheshayo. Ungalindi. Ungabi wedwa.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Uqulekile, kunzima ukuvuka, noma akusabeli ngemva kokusebenzisa",
+      "Ukuphefumula kancane kakhulu, ngokungajwayelekile, noma cha (ikakhulukazi ngama-opioid afana ne-heroin noma i-whoonga)",
+      "Izindebe eziluhlaza, izinzipho, noma ubuso",
+      "Ukuhlanza okunamandla okungapheli, ikakhulukazi uma ukozela",
+      "Ukuquleka ngesikhathi sokuhoxa - ikakhulukazi otshwaleni noma benzodiazepines",
+      "Ukudideka okukhulu, ukuyaluza, ukubona izinto ezingekho, noma umkhuhlane",
+      "Imicabango yokuzilimaza, ukuzibulala, noma ukulimaza omunye umuntu"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ukusetshenziswa kwezidakamizwa ngamagama alula",
+    "lede": "Ukusetshenziswa kwezidakamizwa kuba yinkinga uma kuqala ukulimaza impilo yakho, ubudlelwano bakho, umsebenzi wakho, noma umuzwa wakho ngawe - futhi lapho uthola ukuthi awukwazi ukuyeka, noma ngabe ufuna.",
+    "paragraphs": [
+      "Ukulutheka kuyisimo sezempilo, hhayi ukwehluleka ukuziphatha. Into ishintsha indlela umvuzo wobuchopho nezinhlelo zokucindezeleka ezisebenza ngayo, okwenza ukusetshenziswa okuqhubekayo kuzizwe kudingekile ukuze nje uzizwe ujwayelekile. Yingakho amandla engqondo ewodwa ngokuvamile enganele - nokuthi kungani kubalulekile ukwelashwa.",
+      "ENingizimu Afrika, utshwala budala umonakalo omkhulu kakhulu, kulandelwa i-methamphetamine (i-tik, ikakhulukazi eNtshonalanga Kapa), insangu, i-heroin kanye ne-'whoonga'/nyaope (izidakamizwa zasemgwaqweni ezisekelwe ku-heroin), kanye nemithi kadokotela. Indlela yokuphuma ihlukile kuzo zonke, kodwa zonke ziqala ngesinyathelo esifanayo - ukufinyelela."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Isimo sezempilo",
+        "body": "Ukulutheka yisimo sezempilo esiqashelwayo esihlanganisa izinguquko zobuchopho. Ukwelashwa kuyasebenza - ukululama kuyiqiniso."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Okuvamile",
+        "body": "Cishe umuntu oyedwa kwabahlanu waseNingizimu Afrika uzozabalaza nenkinga yokusebenzisa izidakamizwa ngesikhathi esithile. Awuwedwa."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "I-SANCA imahhala",
+        "body": "I-SANCA inezikhungo zokuhlola nokwelashwa zamahhala eNingizimu Afrika yonkana. I-Detox, ukwelulekwa, kanye ne-rehab - alukho usizo lwezokwelapha oludingekayo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Ukuhoxiswa kuyiqiniso",
+        "body": "Ukuhoxiswa kotshwala kanye ne-benzodiazepine kungaba yingozi empilweni - ungalokothi uyeke ukubanda okubandayo wedwa. I-detox yezokwelapha iphephile futhi imahhala emitholampilo eminingi."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukubuyisela akukona mayelana namandla. Kumayelana nokuthola usizo olufanele ngesikhathi esifanele. Umuntu ocela usizo kube kanye akuyena lo muntu obeluthwele yedwa — basuke benesibindi.",
+      "source": "SANCA"
+    }
+  },
+  "signs": {
+    "heading": "Izimpawu ezisetshenziswayo seziyinkinga",
+    "lede": "Ukusetshenziswa kwezidakamizwa ku-spectrum - kusukela ekusetshenzisweni, ekusetshenzisweni kabi, kuye ekuncikeni. Awudingi ukuba phansi ukuze ucele usizo. Ngaphambili kulula.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "trending-up",
+        "title": "Idinga okwengeziwe",
+        "description": "Ukusebenzisa okungaphezu kwalokho obukujwayele ukwenza umphumela ofanayo. Ukuphuza ekuseni kakhulu. Ukusebenzisa lapho uwedwa, noma into yokuqala ekuseni. Ukufihla inani kwabanye."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ayikwazi ukuma",
+        "description": "Ezama ukusika ehluleka. Izethembiso kuwena noma kwabanye ongeke ukwazi ukuzigcina. Ukusebenzisa noma wazi ukuthi kulimaza impilo yakho, umndeni, noma umsebenzi wakho."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "Izimpawu zokuhoxa",
+        "description": "Ukuzizwa ugula (ukuqhaqhazela, ukujuluka, isicanucanu, ukukhathazeka) lapho ungakasebenzisi emahoreni ambalwa. Ukusebenzisa nje ukuzizwa ujwayelekile, hhayi ukuzizwa uphakeme. Uphawu olucacile umzimba usulungisile."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ukulutheka ukwehluleka ukuziphatha noma ubuthakathaka.",
+        "fact": "Amashumi eminyaka ocwaningo lobuchopho akhombisa ukuba umlutha kuhilela izinguquko zangempela emijikelezweni yobuchopho - umvuzo, ingcindezi, ukwenza izinqumo. Kuyisimo sezempilo esisabela ekwelashweni, hhayi ukushiyeka komlingiswa."
+      },
+      {
+        "myth": "Kufanele ushayeke phansi ngaphambi kokuthi ukwelashwa kusebenze.",
+        "fact": "Ngaphambili kulula. Abantu abathola usizo besasebenza, besemndenini, basasebenza banamazinga aphezulu kakhulu okutakula kunalabo abalinda kuze kulahleke yonke into."
+      },
+      {
+        "myth": "Kufanele ngikwazi ukuyeka ngedwa. Ukucela usizo kusho ukuthi ngehlulekile.",
+        "fact": "Abantu abaningi abalulama ekuluthweni bathola usizo lochwepheshe. Ukuzama kukodwa kunezinga eliphansi kakhulu lempumelelo. Ukucela usizo kuyinto eyodwa ephumelela kakhulu ongayenza."
+      },
+      {
+        "myth": "Kanye umlutha, njalo umlutha.",
+        "fact": "Ukubuyisela kungokoqobo futhi kuhlala isikhathi eside kubantu abaningi. Ubuchopho bushintsha ekusetshenzisweni kwezidakamizwa bungaphola ngokuhamba kwesikhathi nokwelashwa. Izigidi eziningi zabantu ziye zakha kabusha ukuphila kwazo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Shayela i-SANCA — ukuhlolwa kwamahhala nokudluliselwa",
+        "description": "0861 472 622 izokuxhumanisa negatsha le-SANCA eliseduze nawe. Balalela, bahlole, babhekisele ekwelashweni kwamahhala. Akukho ukwahlulela."
+      },
+      {
+        "title": "Ungazami ukukhipha utshwala uwedwa",
+        "description": "Ukuhoxa kakhulu utshwala kungabangela ukuquleka ngisho nokufa. Uma uphuza kakhulu nsuku zonke, khuluma nomtholampilo ngaphambi kokuyeka. I-detox yezokwelapha imahhala futhi iphephe kakhulu."
+      },
+      {
+        "title": "Uma usebenzisa ama-opioid - yazi nge-overdose",
+        "description": "I-Heroin, i-whoonga, namaphilisi ezinhlungu kadokotela angayeka ukuphefumula. Ungalokothi usebenzise uwedwa uma ungakwazi ukukugwema. I-Naloxone ihlehlisa ukweqisa umthamo — buza i-SANCA ukuthi iyithathaphi."
+      },
+      {
+        "title": "Tshela umuntu oyedwa omethembayo",
+        "description": "Ilungu lomndeni, umngane, umholi wezenkolo, udokotela — noma ngabe ubani omethemba kakhulu. Ukusho phezulu kanye kwephula imfihlo egcina iqhubeka."
+      },
+      {
+        "title": "Uma umuntu omthandayo usebenzisa",
+        "description": "Khuluma ngokukhathazeka, hhayi ukusongela. 'Ngiyakuthanda futhi ngikhathazekile' kunamandla kunokuthi 'udinga ukuyeka'. I-SANCA iphinde isize imindeni - hhayi abasebenzisi kuphela."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukwelashwa kokusetshenziswa kwezidakamizwa eNingizimu Afrika kufinyeleleka kakhulu kunalokho abantu abaningi abakucabangayo. Amagatsha e-SANCA akhona kuzo zonke izikhungo ezinkulu. Imitholampilo kahulumeni ihlinzeka nge-detox yezokwelapha. Usizo luseduze kunalokho ucabanga.",
+    "helplines": [
+      {
+        "name": "SANCA",
+        "description": "Ukuhlola kwamahhala, ukuqeda ubuthi emzimbeni, ukwelulekwa, nokudluliselwa kwe-rehab",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30 · amagatsha ezweni lonke",
+        "phone": "0861472622",
+        "phone_display": "0861 472 622",
+        "primary": true
+      },
+      {
+        "name": "Ulayini Wokuxhashazwa Kwezidakamizwa (DSD)",
+        "description": "Inombolo yosizo yamahhala yoMnyango Wezokuthuthukiswa Komphakathi yamahora angama-24",
+        "meta": "Mahhala · amahora angu-24 · zonke izilimi zaseNingizimu Afrika",
+        "phone": "0800121314",
+        "phone_display": "0800 12 13 14",
+        "primary": true
+      },
+      {
+        "name": "I-SADAG Mental Health Line",
+        "description": "Ukuxilongwa okukabili, ukucindezeleka nokusetshenziswa kwezidakamizwa kuhlangene",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": false
+      }
+    ]
+  }
+}

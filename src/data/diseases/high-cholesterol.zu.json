@@ -1,0 +1,180 @@
+{
+  "slug": "high-cholesterol",
+  "group_slug": "chronic-lifestyle",
+  "name": "I-cholesterol ephezulu",
+  "tagline": "Izinombolo zisho ukuthini enhliziyweni yakho.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "Lipid and Atherosclerosis Society of South Africa",
+    "WHO",
+    "American Heart Association"
+  ],
+  "what_is_it": {
+    "heading": "I-Cholesterol ngokujwayelekile",
+    "lede": "I-cholesterol iyinto enamafutha umzimba wakho oyidingayo ukuze wakhe amaseli futhi wenze amahomoni. Inkinga uhlobo nenani - uhlobo oluningi olungalungile lunqwabelana ezindongeni zemithambo yegazi futhi lubangele ukuhlaselwa yinhliziyo nokushaywa unhlangothi.",
+    "paragraphs": [
+      "Isibindi sakho senza ingxenye enkulu ye-cholesterol yakho. Okunye futhi kuvela ekudleni, ikakhulukazi emikhiqizweni yezilwane. I-cholesterol ye-LDL ('bad') ithwala amafutha iwayise ezindongeni zemithambo yegazi. I-HDL ('good') cholesterol iyayisusa. Ibhalansi ibalulekile.",
+      "Abanye abantu bathole i-cholesterol ephezulu njengefa (i-hypercholesterolaemia yomndeni) - izinombolo zabo ziphezulu ngokuyingozi kusukela ebuntwaneni, kungakhathaliseki ukuthi badlani. Lesi yisizathu esingaziwa kakhulu sokuhlasela kwenhliziyo kusenesikhathi. Uma isihlobo esiseduze sibe nesifo senhliziyo ngaphambi kweminyaka engama-60, hlolwa."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "headline": "Athule",
+        "body": "I-cholesterol ephezulu ayinazo izimpawu. Wazi ngokuhlolwa kwegazi kuphela."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Imbangela enkulu",
+        "body": "Ngokuhlaselwa yinhliziyo nokushaywa unhlangothi okuningi. I-LDL iyisici esinamandla esingaguquguquka esinamandla esiyaziyo."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "headline": "Ukubalwa kofuzo",
+        "body": "I-cholesterol ephezulu yomndeni ithinta cishe umuntu oyedwa kwabangama-200 - abaningi abazi kuze kube yilapho kuhlaselwa isifo senhliziyo."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Ama-statins ayasebenza",
+        "body": "Amashumi eminyaka obufakazi: ama-statins anciphisa ukuhlaselwa yinhliziyo nokushaywa unhlangothi ngengxenye yesithathu noma ngaphezulu kubantu abasengozini."
+      }
+    ],
+    "pull_quote": {
+      "text": "I-cholesterol akuyona nje inkinga yendlela yokuphila. Abantu abazacile, abaqinile, abadla okunempilo basengaba ne-cholesterol ephezulu eyingozi ezakhini zofuzo. Hlola - ikakhulukazi uma noma ubani emndenini wakho enesifo senhliziyo ngaphambi kwesikhathi.",
+      "source": "I-Lipid kanye ne-Atherossteosis Society yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Ongase ukuqaphele",
+    "lede": "Kubantu abaningi: lutho. I-cholesterol ephezulu yenza umonakalo wayo buthule emashumini eminyaka. Okuwukuphela kwendlela yokwazi ukuhlola igazi.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "eye-off",
+        "title": "Azikho izimpawu zansuku zonke",
+        "description": "I-cholesterol ayikwenzi uzwe lutho. Isibonakaliso sokuqala kubantu abaningi isifo senhliziyo noma unhlangothi eminyakeni engamashumi amane noma amahlanu."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Amazinga aphezulu kakhulu ofuzo",
+        "description": "Amabala aphuzi azungeze amajwabu amehlo noma amaqhubu okunamafutha emathangeni (Achilles, knuckles) angaba izimpawu ze-cholesterol yomndeni. Indandatho empunga ezungeze iris ngaphambi kweminyaka engama-45 ingenye."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "title": "Umlando womndeni uyinkomba",
+        "description": "Abazali, izingane zakini, noma ogogo nomkhulu abanesifo senhliziyo noma imivimbo ngaphambi kweminyaka engama-60 - ikakhulukazi ngaphambi kweminyaka engama-50 - baphakamisa ngokuqinile i-cholesterol ephezulu yofuzo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Abantu abakhuluphele kuphela abathola i-cholesterol ephezulu.",
+        "fact": "Abantu abazacile bathola i-cholesterol ephezulu - imvamisa ivela kufuzo. Ukuma komzimba akusona isignali ethembekile. Ukuhlolwa kwegazi kuphela."
+      },
+      {
+        "myth": "Amaqanda awabi ku-cholesterol.",
+        "fact": "I-cholesterol yokudla evela emaqanda inomphumela omncane ku-cholesterol yegazi kubantu abaningi. Amafutha asuthisiwe namafutha e-trans kubaluleke kakhulu."
+      },
+      {
+        "myth": "Ama-statin abangela ukulahleka kwenkumbulo.",
+        "fact": "Ucwaningo olukhulu alutholanga isixhumanisi. Ama-Statin kwesinye isikhathi abangela ubuhlungu bemisipha - tshela umtholampilo wakho uma kunjalo, zikhona ezinye izindlela."
+      },
+      {
+        "myth": "Uma ngivivinya umzimba, asikho isidingo sokukhathazeka ngokudla.",
+        "fact": "Ukuzivocavoca ngokuvamile kuphakamisa i-HDL (i-cholesterol enhle) kodwa kunomphumela omncane kuphela ku-LDL. Ukudla, isisindo, kanye nemithi kubaluleke kakhulu ku-LDL."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Uzehlisa kanjani izinombolo zakho",
+    "lede": "I-cholesterol isabela kahle ekuhlanganisweni kokudla, isisindo, ukuvivinya umzimba, kanye nemithi lapho kudingeka khona. Abantu abaningi bangahambisa izinombolo zabo kakhulu phakathi nezinyanga.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Ukudla ngendlela yaseMedithera",
+        "description": "Imifino, okusanhlamvu, okusanhlamvu, amantongomane, inhlanzi, amafutha omnqumo. Nciphisa inyama ebomvu, ibhotela, ubisi olugcwele ukhilimu, ukudla okuthosiwe, nenyama egayiwe."
+      },
+      {
+        "color": "coral",
+        "icon": "x-circle",
+        "title": "Sika amafutha e-trans ngokuphelele",
+        "description": "Kufihlwe ezimpahleni eziningi ezibhakwayo, kumajarini, nasezintweni ezidliwayo ezithosiwe. Funda amalebula - noma yini 'enamafutha ayingxenye ye-hydrogenated' isiphumile."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hambisa nsuku zonke",
+        "description": "Ukuzivocavoca kwenyusa i-HDL (uhlobo oluhle) futhi kusiza isisindo. Ngisho nokuhamba ngokushesha imizuzu engama-30 ngosuku kwenza umehluko olinganisekayo."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "title": "Ama-statins lapho kuboniswa khona",
+        "description": "Uma ubungozi bakho buphezulu, noma une-cholesterol yomndeni, ama-statins ayindlela yokwelapha ephumelela kakhulu esinayo. Kumahhala emitholampilo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Thola iphaneli ye-lipid",
+        "description": "Ukuhlola igazi lokuzila ukudla kukala i-cholesterol ephelele, i-LDL, i-HDL, ne-triglycerides. Kumahhala kuyo yonke imitholampilo kahulumeni kusukela eminyakeni engama-40 - noma ngaphambi kwalokho ngomlando womndeni."
+      },
+      {
+        "title": "Yazi izinombolo zakho",
+        "description": "Zibhale phansi. I-LDL engaphansi kwe-3.0 ngokuvamile iyinhloso - ngaphansi kwe-1.8 uma usuvele unesifo senhliziyo noma isifo sikashukela. Okuhlosiwe kungokomuntu siqu - buza umtholampilo wakho."
+      },
+      {
+        "title": "Uma uphakeme - qala ngokudla nokunyakaza",
+        "description": "Abantu abaningi bangehlisa i-LDL ngo-10-15% ngokudla nangokuvivinya umzimba kuphela. Yinike izinyanga ezintathu kuya kweziyisithupha ngaphambi kokuthi ucabangele ukuthi imithi iyadingeka."
+      },
+      {
+        "title": "Uma imithi inconywa - iqale",
+        "description": "Ama-statins asebenza kangcono kakhulu nsuku zonke, isikhathi eside. Ukweqa imithamo kukhansela inzuzo enkulu. Imiphumela engemihle ayijwayelekile futhi ivamise ukulawuleka."
+      },
+      {
+        "title": "Phinda uhlole njalo ezinyangeni eziyi-12",
+        "description": "Uma isizinzile, iphaneli ye-lipid yonyaka ihlola ukuqhubeka futhi ilungise ukwelashwa uma kudingeka. Letha imiphumela yangaphambilini ukuze uyiqhathanise."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Uzoqala kuphi",
+    "lede": "Ukunakekelwa nge-cholesterol kumahhala emitholampilo kahulumeni yaseNingizimu Afrika. Ingxenye enzima kakhulu ukuthola ukuhlolwa kokuqala - uma usunenombolo, indlela eya phambili icacile.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Wonke umtholampilo uhlinzeka ngokuhlolwa kwe-cholesterol mahhala kanye nama-statins amahhala lapho kunqunyelwe khona",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-Heart and Stroke Foundation SA",
+        "description": "Izibali zamahhala zobungozi, isiqondiso sokudla, nokwesekwa",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}

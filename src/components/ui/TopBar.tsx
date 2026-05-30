@@ -12,7 +12,7 @@ export function TopBar() {
     <header className="sticky top-0 z-50 backdrop-blur-md bg-[rgba(247,244,238,0.78)] border-b border-black/5">
       <div className="max-w-md mx-auto px-4 pt-2 pb-3">
         <div className="flex justify-center">
-          <div className="flex bg-white/60 backdrop-blur border border-black/10 rounded-full p-1 shadow-sm">
+          <div className="flex flex-wrap justify-center gap-1 bg-white/60 backdrop-blur border border-black/10 rounded-2xl p-1.5 shadow-sm max-w-full">
             {ALL_LANGS.map((code: Lang) => {
               const available = AVAILABLE_LANGS.includes(code);
               const active = lang === code;
@@ -22,8 +22,9 @@ export function TopBar() {
                   onClick={() => available && setLang(code)}
                   disabled={!available}
                   aria-disabled={!available}
-                  className={`relative px-2.5 py-1 rounded-full text-[11px] font-semibold transition-colors ${active ? "bg-black text-white shadow" : "text-[var(--text-muted)]"} ${available ? "" : "opacity-40 cursor-not-allowed"}`}
-                  title={available ? "" : t("notice.langSoon", lang)}
+                  aria-label={LANG_LABEL[code]}
+                  className={`relative px-2.5 py-1 rounded-full text-[10px] font-semibold whitespace-nowrap transition-colors ${active ? "bg-black text-white shadow" : "text-[var(--text-muted)]"} ${available ? "" : "opacity-40 cursor-not-allowed"}`}
+                  title={available ? LANG_LABEL[code] : t("notice.langSoon", lang)}
                 >
                   {LANG_LABEL[code]}
                   {!available && <span className="absolute -top-1 -right-1 w-1.5 h-1.5 rounded-full bg-amber-400 ring-1 ring-white" />}

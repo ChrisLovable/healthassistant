@@ -1,0 +1,188 @@
+{
+  "slug": "cervical-cancer-hpv",
+  "group_slug": "womens-health",
+  "name": "Umdlavuza womlomo wesibeletho ne-HPV",
+  "tagline": "Kuvikeleka ngomuthi wokugoma nokuhlolwa.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "CANSA (Cancer Association of South Africa)",
+    "National Department of Health",
+    "WHO",
+    "International Agency for Research on Cancer"
+  ],
+  "what_is_it": {
+    "heading": "Umdlavuza womlomo wesibeletho ngamagama alula",
+    "lede": "Umdlavuza womlomo wesibeletho umdlavuza womlomo wesibeletho - ingxenye engezansi yesibeletho. Cishe zonke izimo (ngaphezu kwama-99%) zibangelwa ukutheleleka kwesikhathi eside ngezinhlobo eziyingozi kakhulu ze-HPV (Human Papillomavirus).",
+    "paragraphs": [
+      "I-HPV ivame kakhulu - abantu abaningi abathanda ucansi bayayibamba ngesikhathi esithile. Umzimba ususa izifo eziningi ze-HPV phakathi nonyaka noma emibili. Kodwa uma uhlobo oluyingozi kakhulu luqhubeka iminyaka eyi-10-15, lungabangela amangqamuzana omlomo wesibeletho ukuthi ashintshe kancane abe umdlavuza wangaphambi komdlavuza, bese kuba umdlavuza.",
+      "Lesi sikhathi eside yiso esenza umdlavuza womlomo wesibeletho ungomunye wemidlavuza evikeleke kakhulu emhlabeni. Ukuhlolwa (i-Pap smear noma ukuhlolwa kwe-HPV) kubamba izinguquko zeseli eminyakeni ngaphambi kokuba umdlavuza uqhamuke - lapho ukwelashwa kulula. Umgomo we-HPV uvimbela izifo eziwudalayo kwasekuqaleni."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Okwesibili okuvame kakhulu",
+        "body": "Umdlavuza womlomo wesibeletho ungowesibili kwabesifazane baseNingizimu Afrika. Amanani aphezulu kakhulu kwabesifazane abaneminyaka engu-35 kuya ku-55."
+      },
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "99% i-HPV",
+        "body": "Ngaphezu kuka-99% womdlavuza womlomo wesibeletho ubangelwa ukutheleleka kwe-HPV yesikhathi eside. Ukumisa i-HPV kunqanda umdlavuza."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Umuthi wokugoma wamahhala",
+        "body": "Umgomo we-HPV umahhala emantombazaneni eBanga lesi-5 (futhi manje nabafana ezifundazweni eziningi) ngohlelo lwesikole. Okuhle kakhulu kunikezwe ngaphambi kokuqala kocansi."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Ama-Pap smear asindisa izimpilo",
+        "body": "I-Pap smear yamahhala njalo eminyakeni eyi-10 kusukela eminyakeni engama-30 emitholampilo kahulumeni. Njalo eminyakeni emi-3 uma une-HIV. Ibamba izinguquko ngaphambi komdlavuza."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma wonke umuntu wesifazane waseNingizimu Afrika engagonywa eseyintombazane futhi ahlolwe lapho esekhulile, singawuqeda umdlavuza womlomo wesibeletho phakathi nesizukulwane. Amathuluzi akhona. Bakhululekile.",
+      "source": "I-WHO Cervical Cancer Elimination Initiative"
+    }
+  },
+  "signs": {
+    "heading": "Ongase ukuqaphele",
+    "lede": "Izinguquko zangaphambi kwesikhathi komlomo wesibeletho - okuhlanganisa umdlavuza wangaphambi komdlavuza kanye nomdlavuza wangaphambi kwesikhathi - ngokuvamile azibangeli zimpawu. Yingakho ukuhlolwa kubalulekile. Izimpawu zivela lapho umdlavuza usuthuthuke kakhulu.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "title": "Early - silent",
+        "description": "Umdlavuza wangaphambi komdlavuza kanye nomdlavuza wangaphambi kwesikhathi ngokuvamile awubangeli zimpawu. I-Pap smear noma ukuhlolwa kwe-HPV kuphela okushintsha lokhu kusenesikhathi."
+      },
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Kamuva - ukopha",
+        "description": "Ukopha phakathi kokuya esikhathini, ngemva kocansi, noma ngemva kokunqamuka kokuya esikhathini. Izikhathi ezinzima noma ezinde kunokuvamile. Ukukhishwa okungajwayelekile kwesitho sangasese sowesifazane."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Okuthuthukile — bonana nodokotela",
+        "description": "Ubuhlungu be-pelvic, ubuhlungu beqolo, ubuhlungu ngesikhathi socansi, ukuvuvukala komlenze, igazi emchameni noma esitulweni. Lezi zidinga ukuhlolwa okuphuthumayo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Abesifazane kuphela abanabalingani abaningi abathola i-HPV.",
+        "fact": "I-HPV ivame kakhulu - iningi labantu abathanda ucansi bayayibamba. Ngisho nozakwethu oyedwa angawudlulisela. Ukugoma kuvikela kungakhathaliseki umlando wozakwethu."
+      },
+      {
+        "myth": "Umgomo we-HPV ukhuthaza abantu abasha ukuthi baqale ucansi kusenesikhathi.",
+        "fact": "Iminyaka yocwaningo ayikhombisi ukuxhumana phakathi kokugonyelwa i-HPV kanye nokwenza ucansi kwangaphambi kwesikhathi. Umuthi wokugoma usebenza kangcono uma unikezwa ngaphambi kwanoma yikuphi ukuchayeka ocansini."
+      },
+      {
+        "myth": "Uma benginomgomo we-HPV, angiwadingi ama-Pap smear.",
+        "fact": "Umgomo uvimbela iningi kodwa hhayi zonke izinhlobo ze-HPV eziyingozi kakhulu. Ukuhlola kusabalulekile - umuthi wokugoma kanye nokuhlolwa ndawonye kuwukuvikela okuqine kakhulu."
+      },
+      {
+        "myth": "Umdlavuza womlomo wesibeletho ugijima emindenini - akukho engingakwenza.",
+        "fact": "Umlando womndeni uyingozi encane kakhulu. Ukutheleleka nge-HPV kuyimbangela cishe yawo wonke umdlavuza womlomo wesibeletho - futhi i-HPV iyavinjelwa futhi ibonakale."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokuzivikela",
+    "lede": "Umdlavuza womlomo wesibeletho ungomunye wemidlavuza evikeleke kakhulu ngoba kukhona kokubili umgomo kanye nokuhlolwa okusebenzayo. Wonke umuntu wesifazane omdala kufanele alwazi uhlelo lwakhe.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Umgomo we-HPV",
+        "description": "Kumahhala eNingizimu Afrika emantombazaneni eBanga lesi-5 (nabafana ezifundazweni eziningi). Okuhle kakhulu ngaphambi kokuba umsebenzi wocansi uqale kodwa usebenze kunoma iyiphi iminyaka - cela umtholampilo wakho kuze kube yiminyaka engama-45."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "title": "Ama-Pap smear ajwayelekile",
+        "description": "Kumahhala emitholampilo kusukela eminyakeni engama-30, njalo eminyakeni eyi-10 uma kujwayelekile. Njalo eminyakeni emi-3 uma une-HIV. Qala kusenesikhathi futhi ubuke kaningi uma unomlando wemiphumela engajwayelekile."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Amakhondomu",
+        "description": "Yehlisa ukudluliswa kwe-HPV kodwa ungayiqedi — I-HPV ingasabalala esikhumbeni esingavalwanga yikhondomu. Isasebenziseka, ikakhulukazi ngozakwethu abasha."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Ungabhemi",
+        "description": "Ukubhema kwenza buthaka ikhono lomlomo wesibeletho lokusula ukutheleleka nge-HPV futhi kuphinda kabili ingozi yomdlavuza womlomo wesibeletho kwabesifazane abane-HPV."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Uma unendodakazi efunda iBanga lesi-5",
+        "description": "Qiniseka ukuthi uthola umgomo we-HPV ngohlelo lwesikole. Imithamo emibili, mahhala, inikezwa ngokwehlukana kwezinyanga eziyisithupha. Leli ithuluzi elilodwa elinamandla kunawo wonke lokuvimbela umdlavuza esinalo."
+      },
+      {
+        "title": "Uma uneminyaka engu-30 noma ngaphezulu",
+        "description": "Bhuka i-Pap smear kunoma yimuphi umtholampilo kahulumeni uma ungazange ube nayo eminyakeni eyi-10 edlule. Kumahhala, kuthatha imizuzu emihlanu, kuphumela emavikini angu-2-4."
+      },
+      {
+        "title": "Uma une-HIV",
+        "description": "Ukuhlolwa kwenzeka njalo eminyakeni emi-3 kungakhathaliseki ubudala, kusukela ekuxilongweni kuye phambili. I-HPV iziphatha kabi kakhulu nge-HIV - ungeqi."
+      },
+      {
+        "title": "Uma wopha ngendlela engavamile",
+        "description": "Ukopha phakathi kokuya esikhathini, ngemva kocansi, noma ngemva kokunqamuka kokuya esikhathini - bonana nomtholampilo. Izimbangela eziningi akuwona umdlavuza, kodwa umdlavuza womlomo wesibeletho ungenye yezimbangela ezidinga ukusheshe zibanjwe."
+      },
+      {
+        "title": "Uma i-Pap smear yakho ingajwayelekile",
+        "description": "Ungabi novalo. Imiphumela eminingi engajwayelekile iwumdlavuza wangaphambi komdlavuza ongelashwa ngokuvakasha okukodwa. Landela - isistimu iyasebenza uma ugcina ama-aphoyintimenti akho."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukuhlolwa komlomo wesibeletho, ukwelashwa ngaphambi komdlavuza, kanye nomgomo we-HPV konke kumahhala emitholampilo yomphakathi waseNingizimu Afrika. Ingqalasizinda yokuvikela umdlavuza ikhona - yisebenzise.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Imithi yokugomela i-HPV yamahhala, i-Pap smear, nokulandelelwa kwemiphumela engajwayelekile",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Ucingo losizo lwe-CANSA",
+        "description": "Ulwazi lomdlavuza, ukwesekwa, kanye nokudluliselwa",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30 · mahhala kunoma iyiphi ifoni",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "umugqa wentsha we-loveLife",
+        "description": "Kwabesifazane abasebasha - ulwazi oluyimfihlo mayelana ne-HPV nokuhlolwa",
+        "meta": "Msombuluko–uLwesihlanu 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
+    ]
+  }
+}

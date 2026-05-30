@@ -1,0 +1,223 @@
+{
+  "slug": "meningitis",
+  "group_slug": "emergency-signs",
+  "name": "I-meningitis",
+  "tagline": "Intamo eqinile, ikhanda elibuhlungu, ukuqubuka okunsomi.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "NICD (National Institute for Communicable Diseases)",
+    "WHO",
+    "National Department of Health",
+    "Meningitis Research Foundation"
+  ],
+  "urgent": {
+    "heading": "Kuyaphuthuma — hamba uye esibhedlela manje",
+    "primary_message": "I-bacterial meningitis ingabulala emahoreni ambalwa. Ungalindi zonke izimpawu - phuthuma esibhedlela.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ukuqubuka okunsomi-obomvu AKUBUYI lapho ucindezelwa ngaphansi kwengilazi",
+      "Intamo eqinile — ayikwazi ukuthinta isilevu esifubeni",
+      "Ikhanda elibuhlungu elibuhlungu nomkhuhlane nokuhlanza",
+      "Ukuzwela ukukhanya, imisindo, noma ukuthinta",
+      "Ukudideka, ukozela, noma ubunzima bokuvuka",
+      "Ukuquleka noma ukukhala okukhulu enganeni",
+      "Indawo ethambile evuvukele ekhanda lomntwana, enomkhuhlane kanye nokwenqaba ukuncelisa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "I-meningitis ngamazwi alula",
+    "lede": "I-Meningitis ukutheleleka kwe-meninges - izingqimba ezivikelayo ezizungeze ubuchopho nomgogodla. I-bacterial meningitis ingesinye sezifo ezibulala ngokushesha ezaziwayo.",
+    "paragraphs": [
+      "Iningi le-meningitis libangelwa igciwane noma ibhaktheriya. I-Viral meningitis imvamisa ithambile futhi iba ngcono iyodwa. I-bacterial meningitis iyisimo esiphuthumayo sangempela - ingabulala umuntu onempilo emahoreni ambalwa futhi idinga ama-antibiotics ngokushesha.",
+      "Ngaphandle, awukwazi ukwehlukanisa ngokuthembekile laba bobabili. Kungakho wonke amacala asolwayo kufanele aphathwe njengebhaktheriya kuze kutholakale ubufakazi obuhlukile. INingizimu Afrika iqhuba izinhlelo zokugoma ezifweni eziyingozi kakhulu."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Ibulala ngamahora",
+        "body": "I-bacterial meningitis ingasuka esibonakalisweni sokuqala iye ekufeni esikhathini esingaphansi kwamahora angu-24. Ijubane lokwelashwa liyikho konke."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Umgomo-uvikeleke",
+        "body": "Imithi yokugoma yamahhala ye-SA yezingane (Hib, Pneumococcal, Meningococcal) ivimbela izinhlobo eziyingozi kakhulu. Zithole ngesikhathi."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "headline": "Vala ingcuphe yokuxhumana",
+        "body": "Kusabaleleka ngokukhwehlela, ukuthimula, ukuqabulana, noma ukwabelana ngeziphuzo. Abasondelene nabo banganikezwa ama-antibiotic njengesinyathelo sokuzivikela."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Ukuhlolwa kwe-tumbler",
+        "body": "Cindezela ingilazi ecacile ngokumelene nokuqubuka. Uma amabala engabuni ngaphansi kwengcindezi - phuthuma esibhedlela."
+      }
+    ],
+    "pull_quote": {
+      "text": "Themba umzwelo wakho. Uma okuthile kuzwakala kungalungile kakhulu - ikakhulukazi enganeni - ungalindi isethi egcwele yezimpawu. Hamba esibhedlela. I-Meningitis ingabulala ngaphambi kokuba kuvele zonke izimpawu.",
+      "source": "I-Meningitis Research Foundation"
+    }
+  },
+  "signs": {
+    "heading": "Ongakubuka",
+    "lede": "Izimpawu zingaqala njengomkhuhlane, bese ziba zimbi ngokushesha. Izimpawu zakudala zingase zingaveli ngokulandelana okufanayo - noma ezinganeni nasezinganeni ezincane.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Abantu abadala kanye nezingane ezindala",
+        "description": "Ukushisa okuphezulu, ikhanda elibuhlungu elibuhlungu, intamo eqinile (ayikwazi ukuthinta isilevu esifubeni), ukuzwela okuncane, isicanucanu noma ukuhlanza, ukudideka noma ukozela."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Umqubuko onsomi",
+        "description": "Amachashaza amancane abomvu-nsomi noma amabala abukeka njengemivimbo. Isakazeka ngokushesha. Ayipheli lapho icindezelwa ngengilazi — lokhu kuyisimo esiphuthumayo."
+      },
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Izingane ezisacathula",
+        "description": "Ukukhala kokububula okuphakeme, ukwenqaba ukudla, ukuphaphatheka kakhulu noma ukuqina kakhulu, indawo ethambile eqhumayo, isikhumba esinamabala noma esiphaphathekile, umkhuhlane wezandla nezinyawo ezibandayo."
+      },
+      {
+        "color": "gold",
+        "icon": "activity",
+        "title": "Amaphethelo abandayo kuqala",
+        "description": "Izandla nezinyawo kubanda ngesikhathi umzimba ushisa, ubuhlungu obukhulu emlenzeni, kanye nesikhumba esiphaphathekile ngendlela engavamile kungaba izimpawu zangaphambili kunokuqubuka noma ukuqina kwentamo."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Indlela i-meningitis esakazeka ngayo",
+    "yes": [
+      "Ukukhwehlela nokuthimula kumuntu ophethe amagciwane",
+      "Ukuqabula noma ukuvala ukuxhumana okude",
+      "Ukwabelana ngezinkomishi, amabhodlela amanzi, ugwayi, noma izinto zokusika",
+      "Ukuhlala ezindaweni eziseduze - izindawo zokuhlala zasenyuvesi, izindlu zamasosha, amajele"
+    ],
+    "no": [
+      "Ukuxhumana okuvamile njengokuxhawulana noma ukuba segumbini elilodwa",
+      "Izihlalo zangasese, amachibi okubhukuda, noma izibambo zeminyango",
+      "Omiyane noma ukulunywa yizinambuzane",
+      "Izilwane ezifuywayo nezilwane"
+    ]
+  },
+  "prevention": {
+    "heading": "Ungazivikela kanjani wena nomndeni wakho",
+    "lede": "Imithi yokugoma ivikela ezinhlotsheni eziyingozi kakhulu ze-meningitis yebhaktheriya. Zimahhala kuyo yonke imitholampilo kahulumeni waseNingizimu Afrika yezingane, futhi zinconyelwe abantu abadala abasengcupheni ephezulu.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Imithi yokugoma yamahhala yezingane",
+        "description": "Hib at 6, 10, 14 amasonto. I-pneumococcal emavikini ayisi-6, amasonto ayi-14, izinyanga eziyi-9. I-Meningococcal lapho kuboniswe khona. Landela uhlelo lwe-SA."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "title": "Amaqembu anobungozi obukhulu",
+        "description": "Abafundi basenyuvesi abasezindaweni zokuhlala, ababuthiwe, abavakashela ibhande le-meningitis yase-Afrika noma i-Hajj - buza udokotela wakho mayelana nomuthi wokugomela i-Meningococcal ACWY."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "title": "Uma osondelene naye egula",
+        "description": "Amalungu omndeni kanye nabasondelene nabo be-bacterial meningitis ngokuvamile banikezwa ama-antibiotics okuvimbela yi-Public Health. Zithathe - ziyasebenza."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Bona kusenesikhathi — thatha isinyathelo ngokushesha",
+        "description": "Ukwazi izimpawu kusindisa izimpilo. Themba umzwelo wakho. Uma kukhona okungahambi kahle, phuthuma esibhedlela."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Yizingane kuphela ezithola i-meningitis.",
+        "fact": "Izingane, intsha, kanye nabantu abadala abasebasha basengozini enkulu, kodwa ingahlasela kunoma ibuphi ubudala. Ukuqubuka kwezindawo zokuhlala zentsha nasemanyuvesi kuvamile."
+      },
+      {
+        "myth": "Uma ukuqubuka kusaphela lapho ngicindezela, akusona i-meningitis.",
+        "fact": "Ekuqaleni kwe-meningitis ukuqubuka kusengaphela. Uma kukhona ezinye izimpawu - ikhanda elibuhlungu, imfiva, ukuqina kwentamo - hamba esibhedlela kungakhathaliseki ukuthi yini."
+      },
+      {
+        "myth": "Ama-antibiotics kusenesikhathi emtholampilo anele.",
+        "fact": "I-bacterial meningitis idinga ama-antibiotics emithanjeni esibhedlela, kanye nokuqapha. Ama-antibiotic ethebhulethi kuphela awanele."
+      },
+      {
+        "myth": "Imithi yokugomela i-meningitis ibangela i-meningitis.",
+        "fact": "Imithi yokugoma ivikela izimbangela zamabhaktheriya ezivame kakhulu. Azibangeli lesi sifo. Imithi yokugoma yeshejuli yezingane iphephile futhi isindisa impilo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ukwenze - lapho usola i-meningitis",
+    "items": [
+      {
+        "title": "Yenza ukuhlolwa kwe-tumbler",
+        "description": "Cindezela uhlangothi lwengilazi ecacile ngokuqinile ngokumelene nokuqubuka. Uma amabala ehlala ebonakala engilazini - hamba uye esibhedlela manje."
+      },
+      {
+        "title": "Shayela ku-10177 noma uye ngqo egumbini lezimo eziphuthumayo",
+        "description": "Ithi 'i-meningitis esolwayo' lapho ugijima ukuze ubonakale ngokushesha. Ungalindi isikhathi sokubonana nodokotela."
+      },
+      {
+        "title": "Qaphela ukuthi izimpawu zaqala nini",
+        "description": "Isikhathi sibalulekile. Tshela ithimba lesibhedlela lapho umkhuhlane, ikhanda elibuhlungu, ukuqubuka, noma ukuguquka kokuziphatha kwaqala."
+      },
+      {
+        "title": "Ungalindi zonke izimpawu",
+        "description": "I-triad yakudala yemfiva, ukuqina kwentamo, kanye nekhanda elibuhlungu kungase kungaveli konke ndawonye. Ngayinye iyodwa iyisizathu sokuhlolwa."
+      },
+      {
+        "title": "Tshela oxhumana nabo abaseduze",
+        "description": "Noma ubani owake wabelana nomndeni, inkomishi, noma ukuqabulana ngesonto eledlule kufanele axhumane nePublic Health ukuze athole iseluleko. I-antibiotic prophylaxis ingase inikezwe."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okumele ashayele khona manje",
+    "lede": "I-meningitis yebhaktheriya okusolakala ukuthi ingesinye sezifo ezimbalwa lapho 'ukuya esibhedlela manje' kuyimpendulo efanele - ngisho nango-3am, ngisho noma ungenaso isiqiniseko.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · Amahora angu-24 · ithi 'suspected meningitis'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Isimo esiphuthumayo (iselula)",
+        "description": "Ifinyelela kunoma iyiphi isevisi yezimo eziphuthumayo ngomakhalekhukhwini",
+        "meta": "Kumahhala kunoma iyiphi iselula · amahora angama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi lwezifo ezithathelanayo kanye nokubikwa kokuqubuka kwezifo",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

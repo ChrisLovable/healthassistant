@@ -1,0 +1,158 @@
+{
+  "slug": "contraception",
+  "group_slug": "womens-health",
+  "name": "Ukuvimbela inzalo",
+  "tagline": "Izinketho zakho. Yini mahhala. Yini evumelana nempilo yakho.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Department of Health",
+    "Marie Stopes South Africa",
+    "WHO",
+    "FPAofSA"
+  ],
+  "what_is_it": {
+    "heading": "Ukuvimbela inzalo ngamagama alula",
+    "lede": "Ukuvimbela inzalo kukuvumela ukuthi ukhethe ukuthi unezingane nini futhi nini. INingizimu Afrika ihlinzeka ngezinhlobo eziningi zezindlela - eziningi zimahhala emitholampilo kahulumeni. Izindlela ezehlukene zifanela izimpilo ezahlukene.",
+    "paragraphs": [
+      "Ayikho indlela 'engcono kakhulu' — kuphela ekulungele wena njengamanje. Izinketho zincike eminyakeni yakho, impilo, izinhlelo zezingane, isimo somlingani, nendlela yokuphila. Indlela efanele yileyo ozoyisebenzisa ngokuqhubekayo.",
+      "Yonke imitholampilo kahulumeni ihlinzeka ngokuvimbela inzalo mahhala. Awudingi ukufaka umlingani wakho, abazali (kusukela eminyakeni eyi-12), nanoma ubani omunye. Ukugcinwa kuyimfihlo kuvikelwe umthetho waseNingizimu Afrika - abasebenzi bezempilo abakwazi ukwabelana nokukhetha kwakho ukuvimbela inzalo ngaphandle kwemvume yakho."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Konke kumahhala",
+        "body": "Amaphilisi, imijovo, izimila, ama-IUD, amakhondomu - konke kutholakala mahhala kuyo yonke imitholampilo kahulumeni."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Izinketho eziningi",
+        "body": "Amaphilisi ansuku zonke, imijovo yanyanga zonke, imijovo yezinyanga ezi-3, izimila ezihlala iminyaka emi-3, ama-IUD ahlala iminyaka efika kweyi-10."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "headline": "Kuyimfihlo",
+        "body": "Kusukela eminyakeni eyi-12 ungakwazi ukufinyelela ukuvimbela inzalo ngasese. Abasebenzi bezempilo abakwazi ukutshela abazali noma abalingani ngaphandle kwemvume yakho."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Iphilisi eliphuthumayo",
+        "body": "Iphilisi lasekuseni lisebenza kuze kube yizinsuku ezingu-5 ngemva kocansi — kodwa ngokushesha kuba ngcono. Kumahhala emitholampilo, etholakala emakhemisi amaningi."
+      }
+    ],
+    "pull_quote": {
+      "text": "Amakhondomu kuphela avikela kukho kokubili ukukhulelwa KANYE NEZIFO ezithelelana ngokocansi. Izindlela zamahomoni zisebenza kahle kakhulu ekukhulelweni kodwa azinikezi ukuvikeleka ezifweni. Phinda kabili uma ukwazi.",
+      "source": "UMarie Stopes waseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Iyiphi indlela evumelana nempilo yakho?",
+    "lede": "Ayikho impendulo eyodwa efanele. Fanisa indlela nempilo yakho — futhi khumbula ukuthi ungashintsha noma nini.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "calendar",
+        "title": "Ufuna isikhathi eside, umzamo omncane",
+        "description": "Faka (iminyaka emi-3, induku encane engalweni engenhla) noma i-IUD (iminyaka engu-3-10 kuye ngohlobo). Zombili zisebenza kahle kakhulu futhi ungakhohlwa ngazo uma sezikhona."
+      },
+      {
+        "color": "purple",
+        "icon": "pill",
+        "title": "Ufuna ukulawula kwanyanga zonke",
+        "description": "Iphilisi (elithathwa nsuku zonke ngesikhathi esifanayo) noma umjovo (ngenyanga noma 3-ngenyanga). Kuhle uma ungase ufune ukukhulelwa onyakeni olandelayo noma emibili."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Ufuna ukuvikelwa kwe-STI futhi",
+        "description": "Amakhondomu abesilisa noma abesifazane - ngaso sonke isikhathi, ngezinye izindlela zokuvimbela inzalo noma ngaphandle kwazo. Yilezi kuphela ezivikela i-HIV kanye nezifo ezithathelwana ngocansi."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ukuvimbela inzalo kubangela ukungazali kamuva.",
+        "fact": "Zonke izindlela ezibuyiseleka emuva zivumela ukuzala kwakho kubuye ngemva kokuma - ngokuvamile phakathi nezinyanga. Awukho umthelela wesikhathi eside wokuba nezingane kamuva lapho uzifuna."
+      },
+      {
+        "myth": "Awukwazi ukukhulelwa ngesikhathi sakho sokuqala, noma ngenkathi uncelisa.",
+        "fact": "Ungakwazi ngokuphelele. Sebenzisa njalo ukuvimbela inzalo uma ungafuni ukukhulelwa — okokuqala, ukuya esikhathini, nanoma yisiphi isikhathi ngemva kokuzalwa."
+      },
+      {
+        "myth": "Iphilisi livikela i-HIV kanye nezifo ezithathelwana ngocansi.",
+        "fact": "I-hormonal contraception ivimbela ukukhulelwa kuphela. Ngezifo ezithathelwana ngocansi kanye ne-HIV - amakhondomu ngaso sonke isikhathi, noma i-PrEP uma esengozini enkulu ye-HIV."
+      },
+      {
+        "myth": "Ukuvimbela inzalo okuphuthumayo kuyefana nokukhipha isisu.",
+        "fact": "Ukuvimbela inzalo okuphuthumayo kusebenza ngaphambi kokukhulelwa - kubambezela ukuphuma kweqanda. Akukwazi ukuqeda ukukhulelwa okukhona. Ukunqamula ukukhulelwa kuyinkonzo ehlukile, yezomthetho."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Iya kunoma yimuphi umtholampilo kahulumeni",
+        "description": "Ngena. Cela ukuvimbela inzalo. Bazochaza izinketho futhi bakusize ukhethe. Akukho ukuqokwa okudingekayo, alukho usizo lwezokwelapha oludingekayo."
+      },
+      {
+        "title": "Zama indlela — bese ushintsha uma ingalingani",
+        "description": "Imiphumela engemihle ngendlela eyodwa ayichazi ukuthi ezinye zizokunikeza izinkinga. Abesifazane abaningi bazama 2 noma 3 ngaphambi kokuthola efanele. Ukushintsha kumahhala."
+      },
+      {
+        "title": "Uma uphuthelwa iphilisi - hlola ipheshana",
+        "description": "Amaphilisi ahlukene anemithetho ehlukene. Ngokuvamile: phuza iphilisi eligejiwe ngokushesha nje lapho ukhumbula, futhi usebenzise amakhondomu izinsuku eziyi-7 njengesipele."
+      },
+      {
+        "title": "Uma kwenzeka ucansi ngaphandle kokuvikela",
+        "description": "Ukuvimbela inzalo okuphuthumayo zingakapheli izinsuku ezingu-5. Kumahhala emitholampilo. u-R30–80 emakhemisi amaningi. Ngokushesha kuba ngcono. Ayithathi indawo yokuvimbela inzalo evamile."
+      },
+      {
+        "title": "Abashadile — zama ukunquma ndawonye",
+        "description": "Ukuvimbela inzalo kusebenza kangcono uma bobabili abalingani besekela ukukhetha. Imitholampilo eminingi inikeza izithandani ukwelulekwa. Imiphumela iba ngcono uma nisekhasini elifanayo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukuvimbela inzalo kungenye yezinsizakalo zezempilo zomphakathi ezihlelwe kahle eNingizimu Afrika. Kumahhala, kuyimfihlo, kutholakala kuwo wonke umuntu kusukela eminyakeni eyi-12.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni ihlinzeka ngokuvimba inzalo mahhala kanye nokwelulekwa",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezokwelapha oludingekayo · iminyaka engu-12+",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Marie Stopes SA",
+        "description": "Ukwelulekwa, ukuvimbela inzalo, izinsiza zezempilo zokuzala",
+        "meta": "Msombuluko–uLwesihlanu 08:00–17:00",
+        "phone": "0800117785",
+        "phone_display": "0800 11 77 85",
+        "primary": true
+      },
+      {
+        "name": "umugqa wentsha we-loveLife",
+        "description": "Kubantu abasha — friendly, engaziwa, khulula",
+        "meta": "Msombuluko–uLwesihlanu 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
+    ]
+  }
+}

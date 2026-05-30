@@ -1,0 +1,177 @@
+{
+  "slug": "heart-attack",
+  "group_slug": "emergency-signs",
+  "name": "Tlhaselo ea pelo",
+  "tagline": "Mahlaba a sefuba a sa feteng - letsetsa hona joale.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "South African Heart Association",
+    "WHO",
+    "American Heart Association"
+  ],
+  "urgent": {
+    "heading": "E potlakile - letsetsa hona joale",
+    "primary_message": "Letsetsa ambulense hang-hang. Hlafuna aspirin e le 'ngoe haeba e le teng. U se ke ua ikhannela.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Bohloko ba sefuba, khatello, ho tiea, kapa ho petetsa - ho nka nako e fetang metsotso e seng mekae",
+      "Ho opeloa ke letsoho (hangata le letšehali), mohlahare, molala, mokokotlo kapa mpeng",
+      "Ho hema ka tšohanyetso, ka bohloko ba sefuba kapa ntle le eona",
+      "Mofufutso o batang, ho nyekeloa ke pelo, kapa ho hlatsa",
+      "Bofokoli bo matla ba tšohanyetso, ho tsekela kapa ho akheha",
+      "Ho basali: mokhathala o sa tloaelehang, bohloko bo kang ba ho lla, kapa mokokotlo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ho hlaseloa ke pelo ka mokhoa o hlakileng",
+    "lede": "Ho hlaseloa ke pelo ho etsahala ha phallo ea mali ho karolo ea mesifa ea pelo e thibane ka tšohanyetso. Mosifa o qala ho shoa ka mor'a metsotso e seng mekae.",
+    "paragraphs": [
+      "Bongata ba tlhaselo ea pelo e bakoa ke leqeba le hlahang letlapeng la mafura ka har'a mothapo oa pelo. Ho thibela ho thibela mesifa ea pelo ea oksijene. Ha mothapo o ntse o thibane, mesifa e ea shoa le ho feta.",
+      "Kalafo ea sejoale-joale ea sepetlele e ka bula mothapo o koetsoeng mme ea boloka pelo eohle - empa ha feela u fihla moo kapele. Motsotso o mong le o mong oa tieho ke tšenyo e sa feleng."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Nako = mesifa",
+        "body": "Motsotso o mong le o mong oa mothapo o thibaneng o lahleheloa ke mesifa ea pelo. Kalafo ea lihora tsa pele e ka boloka boholo ba eona."
+      },
+      {
+        "color": "purple",
+        "icon": "heart-pulse",
+        "headline": "'Molai ea ka sehloohong",
+        "body": "Lefu la pelo ke sesosa se ka sehloohong sa lefu le sa tšoaetsanoeng Afrika Boroa."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Atypical ho basali",
+        "body": "Basali hangata ba na le mahlaba a tlase haholo sefubeng - ho e-na le hoo, mokhathala, mahlaba a mehlahare, ho nyekeloa ke pelo, kapa ho hema ka thata. Ho bonolo ho lahla matšoao ana."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "E ka thibeloa haholo",
+        "body": "Ho tsuba, khatello e phahameng ea mali, lefu la tsoekere, k’holeseterole e phahameng, ho se sebetse le botenya li baka tlhaselo e ngata ea pelo. Tsohle lia laoleha."
+      }
+    ],
+    "pull_quote": {
+      "text": "Batho ba bangata ba bolaoang ke lefu la pelo ba shoa pele ba fihla sepetlele - hangata hobane ba ne ba emetse, ba tšepile hore e tla feta. Haeba o sa tiisehe, letsetsa.",
+      "source": "Mokhatlo oa Pelo oa Afrika Boroa"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka 'nang ua se utloa",
+    "lede": "Matšoao a lefu la pelo ha se kamehla a hlollang. Matšoao a bobebe empa a sa khaotse a ntse a hloka tlhokomelo e potlakileng.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Bohloko ba sefuba kapa khatello",
+        "description": "Boikutlo bo boima, ho petetsa, ho tiisa, kapa ho chesa bohareng ba sefuba. E nka ho feta metsotso e seng mekae, kapa e tla le ho tsamaea."
+      },
+      {
+        "color": "orange",
+        "icon": "git-branch",
+        "title": "Bohloko bo hasana ka ntle",
+        "description": "Ho opeloa kapa bohatsu letsohong (hangata le letšehali), mohlahare, molala, mokokotlo kapa mpeng e kaholimo. E ka etsahala ntle le bohloko ba sefuba."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ho hema ka thata",
+        "description": "Ka tšohanyetso bothata ba ho hema, ka linako tse ling e le pontšo feela. E atile haholo ho basali, batho ba baholo, le batho ba nang le lefu la tsoekere."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Ho fufuleloa, ho nyekeloa ke pelo, ho tsekela",
+        "description": "Mofufutso o batang oa clammy, ho nyekeloa ke pelo kapa ho hlatsa, bofokoli ba tšohanyetso kapa ho akheha. Hangata e kopantsoe le matšoao a ka holimo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ho hlaseloa ke pelo kamehla ho bolela bohloko bo tebileng ba sefuba.",
+        "fact": "Litlhaselo tse ngata tsa pelo li qala ka ho se thabise ha bobebe 'me li haha ​​butle. Basali, batho ba baholo, le batho ba nang le lefu la tsoekere hangata ba na le matšoao a sa tloaelehang."
+      },
+      {
+        "myth": "Haeba ke sa le monyenyane ebile ke phetse hantle, nke ke ka tšoaroa ke lefu la pelo.",
+        "fact": "Ho hlaseloa ke pelo ho bacha ba Afrika Boroa ho ntse ho eketseha - ho susumetsoa ke ho tsuba, ho tsuba, ho sebelisa lithethefatsi, histori ea lelapa le mathata a sa lemohuoang a k'holeseterole."
+      },
+      {
+        "myth": "Ho hlobaela ho ke keng ha fela ke ho hlobaela feela.",
+        "fact": "Bohloko bo kang ho opeloa ke pelo bo tšoarellang, bo khutlang, bo tlisoang ke ho fufuleloa kapa ho hema ka thata, kapa bo utloang bo fapane le bo tloaelehileng - bo tlameha ho hlahlojoa."
+      },
+      {
+        "myth": "Ke tla ema hora ho bona hore na e ea feta.",
+        "fact": "Ho leta ke lona lebaka le le leng le leholo ka ho fetisisa leo batho ba bolaoang ke lefu la pelo. Haeba o sa tiisehe ka nako e fetang metsotso e 10 - letsetsa ambulense."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Seo u lokelang ho se etsa - nakong eo u belaellang lefu la pelo",
+    "items": [
+      {
+        "title": "Letsetsa 10177 kapa 112 hang-hang",
+        "description": "E re 'ho belaelloa lefu la pelo'. Li-paramedics li qala kalafo ka ambulense le tsela ea ho ea sepetlele se nang le lefu la pelo."
+      },
+      {
+        "title": "Hlafuna aspirin e le 'ngoe e tloaelehileng (300 mg) haeba e le teng",
+        "description": "Ho hlafuna - e seng ho metsa kaofela - ho kenya aspirin maling kapele. Tlohela ha motho a hanana le 'mele, ho lintho tse fokotsang mali, kapa o sa tsoa tsoa mali."
+      },
+      {
+        "title": "Lula fatše 'me u phomole. Lokolla liaparo tse thata",
+        "description": "Lula ka boiketlo. U se ke ua robala fatše haeba ho hema ho le thata. Lula u khobile matšoafo - ho tšoha ho eketsa khatello ea pelo."
+      },
+      {
+        "title": "U se ke ua ikhannela",
+        "description": "Haeba u ka oela lebiling, u ka shoa ’me ua ntša ba bang kotsi. Emela ambulense - baoki ba liphallelo ba na le lisebelisoa tse pholosang bophelo."
+      },
+      {
+        "title": "Notlolla lemati bakeng sa baoki",
+        "description": "Etsa bonnete ba hore ba ka u fihlela kapele. Haeba u le mong, fihla sebakeng seo motho a ka u fumanang ho sona."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "O ka letsetsa mang hona jwale",
+    "lede": "Seo ho nahanoang hore ke lefu la pelo ke tšohanyetso. Se ke oa ema, u se ke ua khanna, u se ke ua 'bona hore na ho tsamaea joang'.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · e re 'ho hlaseloa ke pelo'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Boemo ba tshohanyetso (mohala)",
+        "description": "E fihlella litšebeletso life kapa life tsa tšohanyetso ka selefouno",
+        "meta": "Mahala ho mobile efe kapa efe · lihora tse 24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Boitsebiso, tataiso ea thibelo, le tšehetso ea baphonyohi",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}

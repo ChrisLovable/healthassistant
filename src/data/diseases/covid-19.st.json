@@ -1,0 +1,195 @@
+{
+  "slug": "covid-19",
+  "group_slug": "infectious",
+  "name": "COVID-19",
+  "tagline": "Seo u lokelang ho se etsa kajeno. COVID e telele. Dikentelo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "NICD",
+    "WHO",
+    "National Department of Health",
+    "SA Medical Research Council"
+  ],
+  "what_is_it": {
+    "heading": "COVID-19 ka mokhoa o hlakileng",
+    "lede": "COVID-19 e bakoa ke vaerase ea SARS-CoV-2. Ka 2026 e se e le ntho e tloaelehileng - e potoloha selemo ho pota, ka maqhubu a selemo. Maemo a mangata ha joale a bobebe, empa vaerase e ntse e bolaea batho ba tlokotsing.",
+    "paragraphs": [
+      "Bongata ba maAforika Borwa ba kile ba ba le COVID-19 kapa ba entilwe. Ho itšireletsa mafung ho kopane ho entse hore lefu lena le be bobebe ho ba bangata. Mefuta e mecha e ntse e hlaha, 'me batho ba tsofetseng, ba se nang matla a ho itšireletsa mafung, le ba sa entoa ba ntse ba le kotsing e kholo ea ho kula ho matla.",
+      "Nako e telele ea COVID - matšoao a tšoarellang likhoeli kamora ts'oaetso - e ama karolo e nang le moelelo ea batho ba folang tšoaetsong e mpe. Mokhathala, ho felloa ke moea, moholi oa boko le bohloko ba sefuba ke lintho tse tloaelehileng. Ho fokotsa palo ea makhetlo ao u tšoaelitsoeng ho fokotsa kotsi ea hau e telele ea COVID."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "refresh-cw",
+        "headline": "Endemic",
+        "body": "Hona joale COVID ke karolo ea bophelo bo sa feleng. Maqhubu a nako a ntse a tsoela pele. Li-boosters li thusa ho fokotsa ho teba, eseng ho emisa tšoaetso ka ho feletseng."
+      },
+      {
+        "color": "coral",
+        "icon": "battery-low",
+        "headline": "COVID e telele",
+        "body": "Hoo e ka bang 10-20% ea tšoaetso e lebisa matšoao likhoeling tse tšoarellang. Tšoaetso e 'ngoe le e' ngoe e eketsa kotsi - tšoaetso e fokolang e molemo."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Liente tsa mahala",
+        "body": "Liente tsohle tsa COVID le li-booster tse ntlafalitsoeng li lula li sa lefelloe litleliniking tsa mmuso. E khothaletsoa selemo le selemo bakeng sa lihlopha tse kotsing e kholo."
+      },
+      {
+        "color": "green",
+        "icon": "home",
+        "headline": "Haholo-holo tlhokomelo ea lapeng",
+        "body": "Maemo a mangata a hloka phomolo, maro le nako. Lithibela-mafu li teng bakeng sa lihlopha tse kotsing e kholo - bona tleliniki nakong ea matsatsi a 5 a matšoao."
+      }
+    ],
+    "pull_quote": {
+      "text": "Mokhahlelo oa seoa o felile. COVID-19 ha e eo. E tšoare joalo ka ntaramane - ente, kenya moea, lula hae ha u kula, 'me u sireletse ba tlokotsing ba u potileng.",
+      "source": "WHO"
+    }
+  },
+  "signs": {
+    "heading": "Seo COVID e shebahalang ka sona hona joale",
+    "lede": "Boholo ba linyeoe tsa hona joale tsa COVID li shebahala joalo ka sefuba kapa feberu e bobebe. Tahlehelo ea khale ea tatso le monko oa maqhubu a pejana ha e sa tloaeleha.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Matšoao a tloaelehileng",
+        "description": "Ho opeloa ke 'metso, nko e ntšang mali, ho khohlela, hlooho e opang, mokhathala, feberu e seng matla, ho opeloa ke 'mele. Hangata ka phoso e tšoauoa ka feberu kapa sefuba."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ha e sa tloaeleha hona joale",
+        "description": "Ho lahleheloa ke tatso kapa monko, phefumoloho e matla haholo, bohloko ba sefuba. Ho ntse ho khoneha - haholo-holo ho batho ba sa entoa."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Fumana thuso ea bongaka haeba",
+        "description": "Ho hema ka thata, bohloko ba sefuba, pherekano, molomo o moputsoa, ​​ho hlatsa ho sa khaotseng, kapa matšoao a ntseng a mpefala ka mor'a ntlafatso ea pele."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Kamoo COVID-19 e hasanang kateng",
+    "yes": [
+      "Ho hema ka marotholi a manyane le li-aerosol tse tsoang ho batho ba tšoaelitsoeng",
+      "Koala sebaka sa nako e telele libakeng tse nang le moea o fokolang oa ka tlung",
+      "Ho ama libaka tse nang le tšoaetso, ebe sefahleho se amang (ha se ntho e tloaelehileng ho feta ea moea)",
+      "Ho motho ea nang le tšoaetso empa a e-s'o utloe a kula"
+    ],
+    "no": [
+      "Ho kopana ho sa tloaelehang ka ntle (ka seoelo ntle le haeba e le haufi haholo le nako e telele)",
+      "Lijo le metsi",
+      "Ho loma ke menoang kapa kokoanyana",
+      "Liphoofolo tse ruuoang lapeng le liphoofolo (tse sa tloaelehang ebile ha li bohlokoa bakeng sa phatlalatso ea batho)"
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "COVID e felile. Ha ho sa hlokahala hore re nahane ka hona.",
+        "fact": "COVID e atile, ha e fele. E ntse e bolaea batho ba tlokotsing mme e baka mathata a nako e telele. Boikutlo ba kamehla bo bohlokoa - eseng ho tšoha."
+      },
+      {
+        "myth": "Haeba ke bile le COVID hang, ha ke na tšireletso.",
+        "fact": "Ho itšireletsa tšoaetsong ea nakong e fetileng ho fela ka mor'a likhoeli 'me ho fapana ka mefuta. Ho tšoaetsoa hape ho tloaelehile. Ente hammoho le tšoaetso ea nakong e fetileng e fana ka tšireletso e matla ka ho fetisisa."
+      },
+      {
+        "myth": "Ente e kotsi ho feta lefu lena.",
+        "fact": "Lilemo tsa data tsa lefats'e li bonts'a liente li fokotsa ho kula ho matla, ho kena sepetlele le lefu. Litla-morao tse matla tsa ente li teng seoelo ebile li fokola haholo ho feta mathata a tebileng a COVID."
+      },
+      {
+        "myth": "COVID e telele ke ea kelello - ha se 'nete.",
+        "fact": "COVID e telele e ngotsoe hantle 'meleng - li-biomarker, tšenyo ea setho, liphetoho tsa 'mele. Ha e hloohong ea mokuli. Kalafo e ntse e ntlafala."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa le ho itšireletsa le ba bang",
+    "lede": "Hangata thibelo e se e le tloaelo - joalo ka feberu. Lihlopha tse kotsing e kholo li ntse li rua molemo haholo ka mehato e sebetsang ea ho itšireletsa.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Lula u ntse u tseba ka booster",
+        "description": "Li-booster tsa selemo le selemo tsa COVID li khothaletsoa bakeng sa batho ba fetang lilemo tse 50, ba sa sebetseng hantle, mafu a sa foleng, le basebeletsi ba tsa bophelo bo botle. Mahala litliliniking."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Moea oa moea",
+        "description": "Bula lifensetere. Ha ho khoneha, suthisa 'moka oa boithabiso ka ntle. Boleng ba moea oa ka tlung ke ntho e le 'ngoe e kholo ka ho fetesisa ea COVID."
+      },
+      {
+        "color": "orange",
+        "icon": "user",
+        "title": "Mask maemong a kotsi haholo",
+        "description": "Lipetlele, litleliniki, lipalangoang tsa sechaba tse phetheselang ka tlung nakong ea maqhubu. Haholo-holo haeba u lula le motho ea tlokotsing."
+      },
+      {
+        "color": "gold",
+        "icon": "home",
+        "title": "Dula hae ha o kula",
+        "description": "Ebang ke COVID, ntaramane, kapa eng kapa eng - ho lula hae ho sireletsa batho ba u potileng. Lekola haeba u na le phihlello."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Lekola haeba u na le phihlello",
+        "description": "Litlhahlobo tse potlakileng tsa antigen li fumaneha li-khemisi tse ngata. Ho tseba ho u thusa ho sireletsa ba bang le ho etsa qeto ea hore na u kotsing e kholo ea li-antivirals."
+      },
+      {
+        "title": "Phomolo, metsi, paracetamol",
+        "description": "Hoa tšoana le feberu. Robala, u noe metsi, laola feberu le mahlaba ka paracetamol kapa ibuprofen."
+      },
+      {
+        "title": "Ho itšehla thajana nakong eo u tšoaetsanoang",
+        "description": "Lula hae bonyane matsatsi a 5 ho tloha ha matšoao a qala. Ho ikoahela ho pota-pota litho tsa lelapa. Qoba ho etela maqheku kapa beng ka uena ba nang le tšoaetso ea 'mele ea ho itšireletsa mafung."
+      },
+      {
+        "title": "Haeba ho le kotsi haholo - bona tleliniki kapele",
+        "description": "Ho feta 60, moimana, boloetse bo sa foleng, immunocompromised? Meriana e thibelang kokoana-hloko (Paxlovid) e sebetsa hantle nakong ea matsatsi a 5 a matšoao. Botsa kapele."
+      },
+      {
+        "title": "Shebella COVID nako e telele",
+        "description": "Matšoao a fetang libeke tse 4 - mokhathala, moholi oa boko, ho felloa ke moea, bohloko ba sefuba - a lokeloa ke tlhahlobo ea bongaka. Mekhoa ea phekolo e teng."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhokomelo ea COVID e kenyelelitsoe litšebeletsong tse tloaelehileng tsa tleliniki. Ha ho mehala e khethehileng e hlokahalang - tleliniki ea hau e tloaelehileng kapa khemisi e ka u thusa.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Liente tsa mahala tsa COVID, li matlafatsa, le tlhahlobo bakeng sa matšoao a matla",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Lenaneo la mahala la NICD",
+        "description": "Lintlha mabapi le mefuta ea hajoale ea COVID le boithuto",
+        "meta": "Mantaha–Labohlano 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

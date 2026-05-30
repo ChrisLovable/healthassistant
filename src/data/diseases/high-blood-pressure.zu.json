@@ -1,0 +1,220 @@
+{
+  "slug": "high-blood-pressure",
+  "group_slug": "chronic-lifestyle",
+  "name": "Umfutho wegazi ophezulu",
+  "tagline": "Umbulali othule - 1 kwabangu-3 abantu abadala baseNingizimu Afrika.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "South African Hypertension Society",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Shayela ku-10177 noma uqonde esibhedlela uma",
+    "primary_message": "Inkinga yomfutho wegazi ophezulu (i-BP engaphezu kuka-180/120 enezimpawu) iyisimo esiphuthumayo. Ungalindi — kungabangela isifo sohlangothi noma isifo senhliziyo.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ukufundwa kwe-BP ngaphezu kuka-180/120 kanye nezimpawu",
+      "Ikhanda elibuhlungu elibuhlungu elinenkinga yokubona noma isiyezi",
+      "Ubuhlungu besifuba noma ukuphelelwa umoya",
+      "Ubuthakathaka obungazelelwe, ukuba ndikindiki, noma ukudideka (kungaba isifo sohlangothi)",
+      "Isicanucanu, ukuhlanza, noma ukukhathazeka okukhulu nge-BP ephezulu",
+      "Ukopha ekhaleni okungeke kume ndawonye nokufunda i-BP ephezulu",
+      "Igazi emchameni noma ukulahlekelwa ngokuzumayo kokulawula esinyeni"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Umfutho wegazi ngokwemibandela ecacile",
+    "lede": "Umfutho wegazi ungamandla egazi eliphusha ezindongeni zemithambo yakho. Uma lawo mandla ehlala ephakeme kakhulu isikhathi eside, alimaza imithambo nezitho ezinikezayo - buthule, iminyaka.",
+    "paragraphs": [
+      "Ukufundwa okuvamile cishe ku-120/80. Umfutho wegazi ophakeme (umfutho wegazi ophezulu) uvamise ukuba ngu-140/90 noma ngaphezulu, ulinganiswa izikhathi ezingaphezu kwesisodwa. Inombolo yokuqala ingcindezi lapho inhliziyo ishaya, eyesibili ingcindezi phakathi kwezigqi.",
+      "Abantu abaningi abanomfutho wegazi ophezulu bazizwa bephile saka. Umonakalo wakha buthule ngemuva - enhliziyweni, ubuchopho, izinso, namehlo - kuze kube yilapho kwenzeka okuthile okubucayi njengokushaywa yisifo sohlangothi noma isifo senhliziyo. Yingakho wonke umuntu omdala edinga ukuhlolwa njalo, ngisho noma uzizwa uphilile."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 ku3",
+        "body": "Abantu abadala baseNingizimu Afrika banomfutho wegazi ophezulu. Abaningi abazi."
+      },
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "headline": "Athule",
+        "body": "Ngokuvamile azikho izimpawu kuze kube yilapho umonakalo sewenziwe. Ukufunda kuphela okukutshela iqiniso."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Kuyalapheka",
+        "body": "Ukuhlolwa kwamahhala kanye nemithi yamahhala kuyo yonke imitholampilo. Izimo eziningi zilawulwa ngethebhulethi eyodwa yansuku zonke."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Inzuzo enkulu",
+        "body": "Ukwehlisa umfutho wegazi kunciphisa ingozi yokushaywa unhlangothi ifike ku-40% kanye nengozi yokuhlaselwa yinhliziyo ifike ku-25%."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma ungazange uhlolwe umfutho wegazi onyakeni odlule, kwenze kule nyanga. Kuthatha imizuzwana engama-30. Kungengeza iminyaka eyi-10 empilweni yakho.",
+      "source": "Inhlangano yaseNingizimu Afrika Yomfutho Wegazi Ophakeme"
+    }
+  },
+  "signs": {
+    "heading": "Ongase uzizwe - nalokho ovame ukungakuzwa",
+    "lede": "Umfutho wegazi ophezulu ubizwa ngokuthi umbulali othule ngenxa yesizathu. Abantu abaningi bazizwa bejwayelekile ngokuphelele. Okuwukuphela kwesibonakaliso esinokwethenjelwa ukufunda ngokwako.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "eye-off",
+        "title": "Ngokuvamile - lutho",
+        "description": "Abantu abaningi abanomfutho wegazi ophezulu abanazo nhlobo izimpawu. Abaningi bathola kuphela lapho beshaywa unhlangothi noma isifo senhliziyo."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Lapho ukufundwa kuphezulu kakhulu",
+        "description": "Ikhanda elibuhlungu elibuhlungu, ukungaboni kahle, ubuhlungu besifuba, ukuphefumula kanzima, noma ukuphuma kwegazi ekhaleni kungenzeka - kodwa emazingeni ayingozi kuphela. Lezi izimo eziphuthumayo."
+      },
+      {
+        "color": "gold",
+        "icon": "activity",
+        "title": "Themba umshini, hhayi imizwa",
+        "description": "Izimpawu azikwazi ukukutshela umfutho wegazi lakho. Ngisho nabantu abanomfutho wegazi ophakeme kakhulu bavame ukuzizwa bephile kahle. Ukufunda kuphela okuyiqiniso."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Uma ngizizwa nginomfutho wegazi ophezulu, ngangizokwazi.",
+        "fact": "Cishe ngokuqinisekile ubungeke. I-Hypertension ithule kubantu abaningi. Okuwukuphela kwendlela yokwazi ukulinganisa."
+      },
+      {
+        "myth": "Ngidinga kuphela ukukhathazeka ngosawoti uma ngiwufaka etafuleni.",
+        "fact": "Usawoti omningi esiwudlayo ufihliwe - esinkwa, inyama egayiwe, izimpushana zesobho, okudliwayo, ngisho noshizi othile. I-shaker iyingxenye encane."
+      },
+      {
+        "myth": "Uma umfutho wegazi wami usujwayelekile, ngiyakwazi ukumisa amaphilisi.",
+        "fact": "Umfutho wegazi lakho ujwayelekile ngenxa yamaphilisi. Bamise, bese ikhwela ihlehla. I-Hypertension ilawulwa, ayilashwa."
+      },
+      {
+        "myth": "Imithi yomfutho wegazi inemiphumela emibi kakhulu.",
+        "fact": "Imithi yanamuhla ibekezelelwa kahle abantu abaningi. Uma eyakho idala izinkinga, tshela umtholampilo wakho - ziningi ezinye izindlela ongakhetha kuzo."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Uzigcina kanjani izinombolo zakho ziphansi",
+    "lede": "Ngisho nezinguquko ezincane zendlela yokuphila zingehlisa umfutho wegazi ngamaphuzu angu-5-10. Abantu abaningi abathola ukwelashwa bangehlisa umthamo wabo ngokusebenza ngendlela efanayo yokuphila ngokuhambisana.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Usawoti omncane",
+        "description": "Pheka ngamakhambi, ilamula, i-garlic, izinongo. Funda amalebula - noma yini engaphezu kuka-1.5g kasawoti ku-100g iphezulu. Khomba ukuthi ube ngaphansi kuka-5g kasawoti ngosuku isiyonke."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hambisa nsuku zonke",
+        "description": "Imizuzu engama-30 yokuhamba ushesha, izinsuku ezi-5 ngeviki, yehlisa umfutho wegazi ngokulinganiswa phakathi kwamasonto. Mahhala, itholakala yonke indawo."
+      },
+      {
+        "color": "orange",
+        "icon": "scale",
+        "title": "Isisindo esinempilo",
+        "description": "Ukulahlekelwa ngisho no-5 kg ​​kungehlisa kakhulu umfutho wegazi. Gxila ekushintsheni okunensayo, okungaguquki - hhayi ukudla okudlayo."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Check regularly",
+        "description": "Wonke umuntu omdala kufanele akalwe umfutho wegazi okungenani minyaka yonke - kaningi uma esemnceleni noma ngaphezulu kwama-50. Kumahhala kuyo yonke imitholampilo nasemakhemisi amaningi."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Uma ungakaze uhlolwe, noma sekuphele unyaka",
+        "description": "Hamba kunoma yimuphi umtholampilo kahulumeni noma ikhemisi ubuze. Imizuzu emibili. Ayikho i-aphoyintimenti. Mahhala."
+      },
+      {
+        "title": "Uma ukufunda kwakho kuphezulu kanye",
+        "description": "Iphinde ihlolwe emasontweni angu-1-2 alandelayo. Ukufundwa okuphezulu okukodwa akusona isifo - kepha kuyisizathu sokuqinisekisa."
+      },
+      {
+        "title": "Uma uxilongwa",
+        "description": "Qala imithi njengoba uyalelwe. Thatha nsuku zonke ngesikhathi esifanayo. Ukweqa imithamo kuvumela ingcindezi ukuthi inyuke futhi yehle - kubi kakhulu kunomfutho ophezulu ozinzile."
+      },
+      {
+        "title": "Uma uzizwa kahle kodwa une-hypertension",
+        "description": "Ungawuyeki umuthi wakho. Iphuzu lokwelashwa ukuzizwa uphilile ngenkathi ugcina izinombolo ziphephile. Qhubeka njengoba kushiwo."
+      },
+      {
+        "title": "Landelela izinombolo zakho",
+        "description": "Thenga ikhabethe lasekhaya uma ukwazi (cishe u-R400 emakhemisi amaningi). Funda kanye noma kabili ngesonto. Letha ilogi ekuvakasheni komtholampilo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Uzoqala kuphi",
+    "lede": "Ukunakekelwa komfutho wegazi kungenye yezinto imitholampilo yomphakathi waseNingizimu Afrika eyenza kahle kakhulu. Ngena. Ayikho i-aphoyintimenti edingekayo.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni ihlinzeka ngokuhlolwa komfutho wegazi mahhala kanye nemithi yomugqa wokuqala yamahhala",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezokwelapha oludingekayo · Umazisi uyasiza",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-Heart and Stroke Foundation SA",
+        "description": "Ulwazi, ukusekela, namathuluzi amahhala okuhlola ubungozi",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  },
+  "learn_more": {
+    "items": [
+      {
+        "heading": "Ukuthi umfutho wegazi ophezulu ulimaza kanjani umzimba",
+        "paragraphs": [
+          "Umfutho wegazi ungamandla egazi eliphusha ezindongeni zemithambo yakho. Lapho ihlala iphakeme iminyaka, lawo mandla engeziwe angashintshi ayaqina kancane futhi awanciphise.",
+          "Yingakho umfutho wegazi ongelashiwe unyusa buthule ingozi yokushaywa unhlangothi, isifo senhliziyo, ukulimala kwezinso nokulahlekelwa ukubona isikhathi eside ngaphambi kokuba uzwe lutho. Ukuthula yikho okwenza kube yingozi."
+        ]
+      },
+      {
+        "heading": "Kusho ukuthini lezi zinombolo ezimbili",
+        "paragraphs": [
+          "Inombolo ephezulu (systolic) ingcindezi lapho inhliziyo yakho ishaya; inombolo engezansi (diastolic) ingcindezi lapho ihlezi phakathi kwezigqi.",
+          "Ngaphansi kuka-120/80 kunempilo. I-140/90 noma ngaphezulu ngaphezu kosuku olulodwa iphezulu. I-180/120 enezimpawu kuyisimo esiphuthumayo - qonda esibhedlela."
+        ]
+      },
+      {
+        "heading": "Ukwelashwa eNingizimu Afrika",
+        "paragraphs": [
+          "Imitholampilo kahulumeni ihlinzeka ngemithi yomfutho wegazi mahhala. Abantu abaningi badinga ithebhulethi engaphezu kweyodwa ukuze bafinyelele izinga eliphephile, okuyinto evamile, hhayi uphawu lokwehluleka.",
+          "Umuthi usebenza kuphela ngenkathi uwuphuza. Ukuma lapho uzizwa uphilile yisona sizathu esivame ukukhuphuka siphindele phezulu."
+        ]
+      }
+    ]
+  }
+}

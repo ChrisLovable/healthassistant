@@ -23,11 +23,13 @@ export function AskMyMedicChatbot() {
 
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const chunksRef = useRef<Blob[]>([]);
-  const messagesEndRef = useRef<HTMLDivElement>(null);
+  const messagesContainerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [messages]);
+    const container = messagesContainerRef.current;
+    if (!container) return;
+    container.scrollTop = container.scrollHeight;
+  }, [messages, sending]);
 
   const sendMessage = useCallback(async (text: string) => {
     if (!text.trim() || sending) return;
@@ -182,7 +184,7 @@ export function AskMyMedicChatbot() {
 
         {/* Chat messages */}
         {isOpen && messages.length > 0 && (
-          <div className="mb-3 max-h-[300px] overflow-y-auto space-y-3 scroll-smooth">
+          <div ref={messagesContainerRef} className="mb-3 max-h-[300px] overflow-y-auto space-y-3 scroll-smooth">
             {messages.map((msg, i) => (
               <div key={i} className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"}`}>
                 <div
@@ -205,7 +207,6 @@ export function AskMyMedicChatbot() {
                 </div>
               </div>
             )}
-            <div ref={messagesEndRef} />
           </div>
         )}
 

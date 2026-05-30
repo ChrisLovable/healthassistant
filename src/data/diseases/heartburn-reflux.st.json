@@ -1,0 +1,187 @@
+{
+  "slug": "heartburn-reflux",
+  "group_slug": "pain",
+  "name": "Pelo e chesa le asiti e nyolohelang (Acid reflux)",
+  "tagline": "Tloaelehileng. E ka phekoleha. Ha e le ntho e 'ngoe hape.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "South African Gastroenterology Society",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Ho opeloa ke pelo le reflux ka mantsoe a hlakileng",
+    "lede": "Heartburn ke boikutlo bo tukang ka sefubeng kapa 'metsong bo bakoang ke asiti ea ka mpeng e phallang ka morao ho phaephe ea lijo. Ha e etsahala hangata, e bitsoa GORD (gastro-oesophageal reflux lefu).",
+    "paragraphs": [
+      "The valve pakeng tsa mpa le phala ea lijo e reretsoe ho lula e koetsoe. Ha e phomotse hangata kapa e telele haholo, asiti e balehela holimo. Phello: maikutlo a chesang, a tukang ka mor'a sefuba - hangata ka mor'a lijo, hangata ho mpefala ho robala.",
+      "Ho otloa ke pelo ka linako tse ling ka mor'a lijo tse ngata ho tloaelehile. Ho nyekeloa ke pelo ho etsahalang habeli ka beke kapa ho feta, kapa ho u tsosang bosiu, ho hloka tlhokomelo. E ka senya phala ea lijo ka lilemo tse ngata. Litaba tse monate: liphetoho tsa mokhoa oa bophelo hammoho le meriana e bonolo li sebetsa hantle ho batho ba bangata."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ho 4",
+        "body": "MaAforika Borwa a ba le ho nyekeloa ke pelo bonyane hang ka beke. Ba bangata ba na le eona ka linako tse ling. E tloaelehile haholo."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "E ka phekoleha",
+        "body": "Liphetoho tsa mokhoa oa bophelo hammoho le meriana e bonolo (PPIs joaloka omeprazole) li sebetsa hantle haholo. Batho ba bangata ba fumana phomolo e kholo nakong ea libeke tse 2."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "E ka etsisa pelo",
+        "body": "Ho nyeheloa ke pelo ho matla ho ka utloahala eka ke lefu la pelo. Ha u belaela - haholo-holo ka ho fufuleloa, ho hema, ho opeloa ke mohlahare kapa letsoho - nka pelo 'me u letse 10177."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Sheba lifolakha tse khubelu",
+        "body": "Bothata ba ho metsa, ho theola boima ba 'mele, ho hlatsa mali, mantle a matšo - tsena ha se ho otloa ke pelo. Bona ngaka ntle le tieho."
+      }
+    ],
+    "pull_quote": {
+      "text": "Haeba u noa meriana ea ho nyekeloa ke pelo letsatsi le leng le le leng ka nako e fetang libeke tse 'maloa, fumana tlhahlobo e nepahetseng. Reflux ea nako e telele ea acid e ka senya phala ea lijo 'me ha se hangata e lebisang mofetšeng - ka bobeli li ka thibeloa ka tlhokomelo e nepahetseng.",
+      "source": "Mokhatlo oa Afrika Boroa oa Thuto ea Mafu"
+    }
+  },
+  "signs": {
+    "heading": "Seo u lokelang ho se ela hloko",
+    "lede": "Ho opeloa ke pelo ho na le mokhoa o tloaelehileng - empa matšoao a mang a lemosa ka ho hong ho tebileng haholoanyane.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Ho nyeheloa ke pelo ho tloaelehileng",
+        "description": "Ho chesa ka mor'a sefuba, hangata ka mor'a lijo. Tatso e bolila kapa e babang bokamorao ba mmetso. Ho hobe le ho feta ho robala, ho kobeha, kapa ka mor'a lijo tse kholo kapa tse mafura. Ho imolla li-antacid."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Matšoao a Reflux",
+        "description": "Asiti e kenang 'metsong kapa molomong, haholo bosiu. Ho khohlela ho sa feleng kapa ho bua mantsoe. Ka linako tse ling matšoao a kang asthma kapa asthma. Ho hobe le ho feta ka boima ba 'mele kapa boimana."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Lifolakha tse khubelu - bona ngaka",
+        "description": "Bothata ba ho metsa kapa bohloko, ho khomarela lijo, ho theola boima ba 'mele, ho hlatsa mali, mantle a matšo, bohloko bo tebileng ba sefuba - tlhaselo ea pelo e ka bang teng. Ha ho le e 'ngoe ea tsona eo e leng 'ho chesa pelo' feela."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Lebese le kokobetsa ho chesa pelo.",
+        "fact": "Lebese le thibela asiti ka bokhuts'oane, ebe hangata le mpefatsa lintho - mafura a lebese a baka ho lokolloa ha asiti. Sebelisa li-antacid tse etselitsoeng mosebetsi (mohlala, Gaviscon)."
+      },
+      {
+        "myth": "Reflux ke boemo bo sa thabiseng feela - ha bo bake tšenyo ea 'nete.",
+        "fact": "Lilemo tse ngata tsa reflux e sa alafshoang li ka senya lesela la phaephe ea lijo (esophagitis), li baka ho fokotseha, 'me hangata li lebisa ho boemo ba precancerous. Ke habohlokoa ho phekoloa, eseng feela ho mamella."
+      },
+      {
+        "myth": "Ho opeloa ke pelo kamehla ka mor'a ho ja lijo tse nang le linoko.",
+        "fact": "Lintho tse tloaelehileng tse susumetsang li fapane: kofi, lijo tse mafura, tsokolate, joala, peppermint, citrus, lijo tse kholo, ho ja morao. Batho ba fapaneng ba na le litlokotsi tse fapaneng. Bukana ea lijo e thusa."
+      },
+      {
+        "myth": "Haeba ke theola boima ba 'mele, ho opeloa ke pelo ho tla fela ka boselamose.",
+        "fact": "Ho theola boima ba 'mele ho thusa haholo, haholo-holo ho pota thekeng. Empa batho ba bangata ba mosesaane le bona ba na le reflux - mme boima ha se eona feela lebaka. Kopanya taolo ea boima le liphetoho tse ling."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mekhoa ea letsatsi le letsatsi e thusang",
+    "lede": "Liphetoho tsa mokhoa oa bophelo hangata li matla ho feta meriana bakeng sa reflux e bonolo ho isa ho e itekanetseng. Ho bohlokoa ho leka libeke tse 4 pele u ka ja lipilisi ka ho sa feleng.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "utensils",
+        "title": "Lijo tse nyane, ja butle",
+        "description": "Lijo tse kholo li tlatsa mpa le ho sutumelletsa asiti holimo. Leka ho ja likaroloana tse nyane, ja butle, u se ke ua khutlela morao ka metsotsoana sebakeng se le seng."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "U se ke ua ja pele ho feta lihora tse 3 u robala",
+        "description": "Ho robala ka mpa e tletseng ke recipe bakeng sa reflux ea bosiu. Lijo tsa ho qetela bonyane lihora tse 3 pele u robala. Seneke se bobebe ha feela se hlokahala."
+      },
+      {
+        "color": "orange",
+        "icon": "bed",
+        "title": "Phahamisa hlooho ea bethe",
+        "description": "Beha li-block tsa 10-15cm ka tlas'a maoto a hlooho ea hlooho (eseng mesamo e eketsehileng - tsena li koba molala). Matla a khoheli a boloka asiti e theohile bosiu."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Khaola lintho tse u susumetsang",
+        "description": "E tloaelehileng: kofi, joala, lijo tse mafura, chokolete, peppermint, citrus, lijo tse nang le linoko, ho tsuba, maqhama a thata a thekeng. Khaotsa ho tsuba ka ho feletseng - e fokolisa valve ka ho toba."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Leka ho fetola mokhoa oa bophelo bakeng sa libeke tse 4",
+        "description": "Lijo tse nyane, ho se je ka morao ho nako, bethe e phahamisitsoeng, tseba lintho tse bakang. Hoo e ka bang halofo ea batho ba fumana phomolo e kholo ho bona feela - ha ho meriana e hlokahalang."
+      },
+      {
+        "title": "Leka li-antacid tse rekisoang ka linako tse ling",
+        "description": "Gaviscon, Rennies, kapa mosebetsi o ts'oanang ka potlako bakeng sa liketsahalo tse itseng. E fumaneha khemisi efe kapa efe. U se ke ua li sebelisa letsatsi le leng le le leng - seo ke pontšo ea hore u hloka mokhoa o fapaneng."
+      },
+      {
+        "title": "Haeba matšoao a 2+ ka beke - bona tleliniki",
+        "description": "Li-PPI (omeprazole, esomeprazole) tse sebelisoang bakeng sa libeke tse 4-8 hangata li sebetsa haholo. Mahala litliliniking tsa mmuso. U se ke ua li nka ka ho sa feleng ntle le tlhahlobo ea bongaka."
+      },
+      {
+        "title": "Haeba lifolakha tse khubelu li hlaha - tsamaea ntle le tieho",
+        "description": "Bothata ba ho metsa, ho theola boima ba 'mele, ho hlatsa mali, mantle a matšo - tsena li hloka tlhahlobo e potlakileng, ka linako tse ling endoscopy. U se ke ua leka kalafo e rekisoang ka theko e tlase bakeng sa tsena."
+      },
+      {
+        "title": "Haeba sefuba se utloa bohloko - nka pelo pele",
+        "description": "Ho hlaseloa ke pelo le ho nyeheloa ke pelo ho ka utloahala joalo. Ka ho fufuleloa, ho felloa ke moea, bohloko ba mohlahare kapa letsoho, kapa ho hloka botsitso leha e le bofe - letsetsa 10177. Ho sireletseha ho molemo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Boholo ba reflux bo ka laoloa maemong a tleliniki. Matšoao a sa feleng kapa lifolakha tse khubelu li rua molemo ka ho fetisetsoa ho litsebi.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Haeba bohloko ba sefuba e ka ba tlhaselo ea pelo",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala, keletso ea mokhoa oa bophelo, le phekolo ea meriana",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Khemisi efe kapa efe ea lehae",
+        "description": "Li-antacid tse rekisoang ka linako tse ling",
+        "meta": "Ha ho lengolo la ngaka le hlokahalang bakeng sa OTC",
+        "phone": null,
+        "phone_display": "Etela khemisi",
+        "primary": false
+      }
+    ]
+  }
+}

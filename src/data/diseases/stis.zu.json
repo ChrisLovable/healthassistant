@@ -1,0 +1,211 @@
+{
+  "slug": "stis",
+  "group_slug": "infectious",
+  "name": "Izifo ezithathelwana ngocansi (STIs)",
+  "tagline": "Okuvamile, kuyalapheka - hlolwa.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Department of Health",
+    "South African National AIDS Council",
+    "WHO",
+    "Marie Stopes SA"
+  ],
+  "what_is_it": {
+    "heading": "Izifo ezithathelana ngokocansi ngendlela esobala",
+    "lede": "Izifo ezithathelwana ngocansi zisuka komunye umuntu ziye komunye ngesikhathi socansi - ngesitho sangasese sowesifazane, sangemuva noma ngomlomo. Zivame kakhulu, ngokuvamile azinazo izimpawu, futhi eziningi zelashwa kalula uma zibanjwe kusenesikhathi.",
+    "paragraphs": [
+      "Izifo ezithathelwana ngocansi ezibangelwa amagciwane (i-chlamydia, i-gonorrhoea, i-syphilis, i-trichomoniasis) ziyelapheka ngokusebenzisa ama-antibiotics. Ama-STI wegciwane (i-herpes, i-HPV, i-HIV, i-hepatitis B) alawulwa isikhathi eside kodwa awelapheki ngokuphelele ngokwelashwa. Kunoma ikuphi, ukuhlola yikho okwenza ukwelashwa kwenzeke.",
+      "Iningi lama-STI alinazo izimpawu ezisobala — ikakhulukazi kwabesifazane. Uma engelashwa, angabangela ukungabi nenzalo, izinkinga zokukhulelwa, nokwandisa ingozi yokuthola noma ukudlulisa i-HIV. Azilona uphawu lokuziphatha okubi. Ziwuphawu lwempilo evamile yocansi kanye nokuhlolwa okufanele."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "eye-off",
+        "headline": "Ngokuvamile kuthule",
+        "body": "Izifo ezithathelwana ngocansi eziningi azibangeli nhlobo izimpawu - ikakhulukazi kwabesifazane. Ukuhlola ukuphela kwendlela ethembekile yokwazi."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Ukuhlola kwamahhala",
+        "body": "Yonke imitholampilo kahulumeni inikeza ukuhlolwa nokwelashwa kwe-STI mahhala, okuyimfihlo. Akukho ukuqokwa, akukho usizo lwezokwelapha."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Eziningi ziyelapheka",
+        "body": "I-Chlamydia, i-gonorrhoea, i-syphilis, ne-trichomoniasis konke kwelapheka ngenkambo emfushane yemithi elwa namagciwane noma umjovo owodwa."
+      },
+      {
+        "color": "green",
+        "icon": "users",
+        "headline": "Phathani ndawonye",
+        "body": "Uma une-STI, ozakwethu bakamuva nabo badinga ukwelashwa - ngisho noma bezizwa bephilile. Uma kungenjalo uzowudlulisela phambili naphambili."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ukuhlolwa kwe-STI kungenye yezinto ezikhathalela kakhulu ongazenzela wena, umuntu olala naye, nanoma ibaphi ozakwethu bakusasa. Kumahhala futhi kuthatha imizuzu.",
+      "source": "UMnyango Wezempilo Kazwelonke"
+    }
+  },
+  "signs": {
+    "heading": "Ongase ukuqaphele - nalokho ongavamile ukukubona",
+    "lede": "Iningi lama-STI lithule. Uma kuvela izimpawu, ziyahlukahluka kuye ngokuthi unasiphi isifo. Izimpawu ezifanayo zingasho izinto ezihlukile - ukuhlolwa kuphela okungasho.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ukukhipha okungajwayelekile",
+        "description": "Kusuka emomozini, epipini, noma endunu. Kungaba namafu, kubephuzi, kuluhlaza, kunuke, noma kuhluke nje kokujwayelekile. Okujwayelekile ku-chlamydia, gonorrhoea, trichomoniasis."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ubuhlungu noma ukushisa",
+        "description": "Lapho uchama, ngesikhathi socansi, noma ngaphansi kwesisu. Kwesinye isikhathi kubhekwe ngephutha negciwane le-urinary tract."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Izilonda, amaqhubu, noma ama-rash",
+        "description": "Ezithweni zangasese, ididi, emlonyeni, noma ezandleni. Kungaba buhlungu noma kungabi buhlungu. Okujwayelekile ku-herpes, ugcunsula, i-HPV."
+      },
+      {
+        "color": "gold",
+        "icon": "thermometer",
+        "title": "Izimpawu ezingabonakali kancane",
+        "description": "Ubuhlungu bomphimbo (igonorrhoea yomlomo), izindlala ezivuvukele, ukugula okufana nomkhuhlane (acute HIV), ukopha okungajwayelekile phakathi nokuya esikhathini (ukutheleleka komlomo wesibeletho)."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Indlela ama-STIs asakazeka ngayo - nokuthi awasakazeki kanjani",
+    "yes": [
+      "Ucansi lwesitho sangasese sowesifazane, sangemuva, noma somlomo ngaphandle kwekhondomu",
+      "Ukwabelana ngamathoyizi ocansi ngaphandle kokuhlanza noma ukumboza",
+      "Ukuthintana kwezitho zangasese zesikhumba nesikhumba (i-HPV, i-herpes - ngisho nangekhondomu)",
+      "Umama emntwaneni ngesikhathi ekhulelwe, ezalwa, noma encelisa (ezinye izifo zocansi)",
+      "Ukuthintana kwegazi negazi (izinaliti zokwabelana, ukumpontshelwa okungahloliwe)"
+    ],
+    "no": [
+      "Ukugona, ukubambana ngezandla, noma ukuqabulana (eziningi zezifo ezithathelwana ngocansi)",
+      "Ukwabelana ngokudla, iziphuzo, amapuleti, noma okokudla",
+      "Izindlu zangasese, amadamu okubhukuda, okugeza, noma amashawa",
+      "Ukulunywa omiyane noma ukuthintana nezinambuzane",
+      "Ukuxhumana okungajwayelekile emsebenzini, esikoleni, noma esidlangalaleni"
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Uma bebukeka bephilile, abanaso isifo esithathelwana ngocansi.",
+        "fact": "Izifo ezithathelwana ngocansi eziningi azibangeli zimpawu ezibonakalayo. Awukwazi ukusho ngokubheka umuntu - kuhlanganise nawe. Ukuhlola ukuphela kwendlela ethembekile."
+      },
+      {
+        "myth": "Awukwazi ukuthola i-STI ngocansi lomlomo.",
+        "fact": "Izifo ezithathelwana ngocansi eziningi zisakazwa ngocansi lomlomo - i-gonorrhoea, i-chlamydia, i-syphilis, i-herpes, i-HPV. Amakhondomu namadamu amazinyo anciphisa ubungozi."
+      },
+      {
+        "myth": "Amakhondomu avikela wonke ama-STI 100% wesikhathi.",
+        "fact": "Amakhondomu asebenza kahle kakhulu ezifweni eziningi zocansi uma esetshenziswa ngendlela efanele ngaso sonke isikhathi. Izifo ezithathelwana ngocansi esikhumbeni sesikhumba njenge-HPV kanye ne-herpes zisengasakazeka ezindaweni ezingamboziwe."
+      },
+      {
+        "myth": "Uma ngelashwa kanye, angivikelekile.",
+        "fact": "Ungathola i-STI yebhaktheriya efanayo futhi ngemva kokwelashwa. Ukuphinda kuhlolwe izinyanga ezi-3 ngemuva kokwelashwa kunconywa i-chlamydia ne-gonorrhoea."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokuzivikela",
+    "lede": "Izifo ezithathelwana ngocansi eziningi ziyagwemeka ngemikhuba embalwa elula. Akekho kubo odinga ukuyeka ucansi - nje ukuba nalo ngokuqaphela okwengeziwe.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Amakhondomu ngaso sonke isikhathi",
+        "description": "Amakhondomu abesilisa noma abesifazane, asetshenziswe ngendlela efanele kusukela ekuqaleni kuze kube sekugcineni. Kumahhala kuyo yonke imitholampilo, amakhemisi amaningi, ngisho nakumagalaji kaphethiloli."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "Umgomo we-HPV",
+        "description": "Kumahhala e-SA kumantombazane afunda iBanga lesi-5 futhi manje abafana ezifundazweni eziningi. Ivikela kumdlavuza womlomo wesibeletho, izinsumpa zangasese neminye imidlavuza."
+      },
+      {
+        "color": "orange",
+        "icon": "check-circle",
+        "title": "Hlola ngaphambi kozakwethu abasha",
+        "description": "Hlolani ngaphambi kocansi nomlingani omusha, kahle ndawonye. Kumahhala, kuyashesha, kuyimfihlo. Imitholampilo eminingi inikeza imiphumela nge-HIV emizuzwini eyi-15."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "title": "I-PrEP ye-HIV",
+        "description": "Iphilisi lansuku zonke elivimbela i-HIV. Kumahhala emitholampilo. Iwusizo kubantu abasengozini enkulu - abalingani abasha njalo, abalingani abane-HIV, abathengisa ngomzimba."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Hlola",
+        "description": "Hamba kunoma yimuphi umtholampilo kahulumeni. Cela isikrini esigcwele se-STI - i-HIV, i-syphilis, i-gonorrhoea, i-chlamydia. Imiphumela eminingi phakathi nemizuzu kuya ezinsukwini."
+      },
+      {
+        "title": "Uma positive - qala ukwelashwa ngosuku olufanayo",
+        "description": "Izifo ezithathelwana ngocansi ezibangelwa amagciwane ngokuvamile ziyelapheka ngenkambo emfushane yemithi elwa namagciwane noma umjovo owodwa. Thatha konke njengoba kushiwo."
+      },
+      {
+        "title": "Tshela ozakwethu bakamuva",
+        "description": "Noma ubani oke waya naye ocansini ezinyangeni eziyisi-6 ezedlule udinga ukuhlolwa. Umtholampilo ungakusiza ubatshele ngokungaziwa uma kudingeka."
+      },
+      {
+        "title": "Alukho ucansi ngenkathi welashwa",
+        "description": "Linda kuze kube yilapho umtholampilo uthi ucacile. Kungenjalo uzolidlulisela kumlingani osanda kwelapha."
+      },
+      {
+        "title": "Phinda uhlole ezinyangeni ezi-3",
+        "description": "Izifo ezithathelwana ngocansi ezibangelwa amagciwane zingabuya uma uzakwethu engazange alashwe. Ukuhlolwa kokulandelela kuqinisekisa ukuthi ukutheleleka sekuhambile."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukuhlolwa kwe-STI kumahhala, kuyashesha, futhi kuyimfihlo kuyo yonke imitholampilo kahulumeni. Ayikho i-medical aid, akukho ukwahlulela, akukho mibuzo ongafuni ukuyiphendula.",
+    "helplines": [
+      {
+        "name": "I-National AIDS Helpline",
+        "description": "Ukwelulekwa okuyimfihlo kwe-STI kanye ne-HIV nokudluliselwa",
+        "meta": "Mahhala · 24 amahora",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "umugqa wentsha we-loveLife",
+        "description": "Okwabantu abasha · abanobungane, abangaziwa, mahhala",
+        "meta": "Msombuluko–uLwesihlanu 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni inikeza ukuhlolwa nokwelashwa kwe-STI mahhala",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

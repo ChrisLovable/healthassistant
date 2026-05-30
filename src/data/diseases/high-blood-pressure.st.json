@@ -1,0 +1,220 @@
+{
+  "slug": "high-blood-pressure",
+  "group_slug": "chronic-lifestyle",
+  "name": "Khatello e phahameng ea mali",
+  "tagline": "'Molai ea khutsitseng - 1 ho batho ba baholo ba 3 SA.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "South African Hypertension Society",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Letsetsa 10177 kapa u ee sepetlele ka kotloloho haeba",
+    "primary_message": "Mathata a khatello ea mali (BP ka holimo ho 180/120 e nang le matšoao) ke tšohanyetso. Se ke oa ema - e ka baka stroke kapa lefu la pelo.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "BP ho bala ka holimo ho 180/120 hammoho le matšoao",
+      "Hlooho e bohloko haholo e nang le mathata a pono kapa ho tsekela",
+      "Bohloko ba sefuba kapa ho hema hanyane",
+      "Bofokoli ba tšohanyetso, bohatsu, kapa pherekano (e ka ba stroke)",
+      "Ho nyekeloa ke pelo, ho hlatsa, kapa ho tšoenyeha ho matla ka BP e phahameng",
+      "Ho tsoa mali ka nko ho ke keng ha emisa hammoho le ho bala BP e phahameng",
+      "Madi ka hara moroto kapa tahlehelo ya tshohanyetso ya ho laola senya"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Khatello ea mali ka mantsoe a hlakileng",
+    "lede": "Khatello ea mali ke matla a mali a phunyeletsang maboteng a methapo ea hau. Ha matla ao a lula a phahame ka nako e telele haholo, a senya methapo le litho tseo ba fanang ka tsona - ka khutso, ka lilemo.",
+    "paragraphs": [
+      "Palo e tloaelehileng ke hoo e ka bang 120/80. Khatello e phahameng ea mali (khatello ea mali) hangata ke 140/90 kapa ho feta, e lekanngoa ka makhetlo a fetang bonngoe. Nomoro ea pele ke khatello ha pelo e otla, ea bobeli ke khatello pakeng tsa ho otla.",
+      "Batho ba bangata ba nang le khatello e phahameng ea mali ba ikutloa ba phetse hantle. Tšenyo e haha ​​​​ka khutso ka morao - ho pelo, boko, liphio le mahlo - ho fihlela ntho e tebileng e kang stroke kapa lefu la pelo e etsahala. Ke ka lebaka leo motho e mong le e mong e moholo a hlokang ho hlahlojoa khafetsa, le haeba u ikutloa u phetse hantle."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 ho 3",
+        "body": "Batho ba baholo ba Afrika Boroa ba na le khatello e phahameng ea mali. Ba bangata ha ba tsebe."
+      },
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "headline": "Khutsa",
+        "body": "Hangata ha ho na matšoao ho fihlela tšenyo e etsoa. Ke ho bala feela ho u bolellang 'nete."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "E ka phekoleha",
+        "body": "Ho hlahlojoa mahala le meriana ea mahala tleliniking e 'ngoe le e 'ngoe. Maemo a mangata a laoloa ka letlapa le le leng la letsatsi."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Moputso o moholo",
+        "body": "Ho theola khatello ea mali ho fokotsa kotsi ea stroke ka 40% le kotsi ea lefu la pelo ka 25%."
+      }
+    ],
+    "pull_quote": {
+      "text": "Haeba ha u e-so hlahlojoe khatello ea mali selemong se fetileng, e etse khoeling ena. Ho nka metsotsoana e 30. E ka eketsa lilemo tse 10 bophelong ba hau.",
+      "source": "Mokhatlo oa Afrika Boroa oa Hypertension"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka 'nang ua se utloa - le seo hangata u sa se utloeng",
+    "lede": "Khatello e phahameng ea mali e bitsoa 'molai ea khutsitseng ka lebaka. Batho ba bangata ba ikutloa ba tloaelehile ka ho feletseng. Letšoao le le leng le ka tšeptjoang ke ho bala ka boeona.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "eye-off",
+        "title": "Hangata - ha ho letho",
+        "description": "Batho ba bangata ba nang le khatello e phahameng ea mali ha ba na matšoao ho hang. Ba bangata ba fumana feela ha ba e-na le stroke kapa lefu la pelo."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Ha lipalo li phahame haholo",
+        "description": "Ho opeloa ke hlooho e matla, pono e lerootho, bohloko ba sefuba, ho hema ka thata, kapa ho tsoa mali a nko - empa maemong a kotsi feela. Tsena ke maemo a tshohanyetso."
+      },
+      {
+        "color": "gold",
+        "icon": "activity",
+        "title": "Tšepa mochine, eseng maikutlo",
+        "description": "Matšoao a ke ke a u bolella khatello ea mali ea hau. Esita le batho ba nang le khatello e matla ea mali hangata ba ikutloa ba phetse hantle. Ho bala feela ke 'nete."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Haeba ke ne ke utloa khatello e phahameng ea mali, ke ne ke tla tseba.",
+        "fact": "Ka sebele u ne u ke ke ua etsa joalo. Hypertension e khutsitse ho batho ba bangata. Tsela feela ea ho tseba ke ho metha."
+      },
+      {
+        "myth": "Ke hloka feela ho tšoenyeha ka letsoai ha ke le tšela tafoleng.",
+        "fact": "Letsoai le lengata leo re le jang le patiloe - ka bohobe, nama e phehiloeng, phofshoana ea sopho, li-takeaways, esita le chisi. The shaker ke karolo e nyenyane."
+      },
+      {
+        "myth": "Hang ha khatello ea mali ea ka e tloaelehile, ke khona ho emisa matlapa.",
+        "fact": "Khatello ea mali ea hau e tloaelehile ka lebaka la matlapa. Ba thibele, mme e hlwella morao. Hypertension e laoloa, ha e phekolehe."
+      },
+      {
+        "myth": "Meriana ea khatello ea mali e na le litla-morao tse tšabehang.",
+        "fact": "Meriana ea kajeno e mamelloa hantle ke batho ba bangata. Haeba ea hau e baka mathata, bolella tleliniki ea hau - ho na le mekhoa e meng e mengata."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho boloka linomoro tsa hau fatše",
+    "lede": "Esita le liphetoho tse nyenyane tsa mokhoa oa bophelo li ka theola khatello ea mali ka lintlha tse 5-10. Batho ba bangata ba leng kalafong ba ka fokotsa tekanyetso ea bona ka mokhoa o ts'oanang oa bophelo ba sebetsa hammoho.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "leaf",
+        "title": "Letsoai le fokolang",
+        "description": "Pheha ka litlama, lemon, konofolo, linoko. Bala lileibole - eng kapa eng e fetang 1.5g letsoai ka 100g e phahame. Leka ho ja ka tlase ho 5g ea letsoai ka letsatsi."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Tsamaea letsatsi le letsatsi",
+        "description": "Metsotso e 30 ea ho tsamaea ka potlako, matsatsi a 5 ka beke, ho theola khatello ea mali ka mokhoa o leka-lekaneng ka mor'a libeke. E lokolohile, e fumaneha hohle."
+      },
+      {
+        "color": "orange",
+        "icon": "scale",
+        "title": "Boima bo botle",
+        "description": "Ho lahleheloa ke lik'hilograma tse 5 ho ka theola khatello ea mali haholo. Tsepamisa maikutlo ho liphetoho tse liehang, tse tsitsitseng - eseng lijo tse sa tsitsang."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Hlahloba khafetsa",
+        "description": "Motho e mong le e mong e moholo o lokela ho lekanyetsoa khatello ea mali bonyane selemo le selemo - hangata haholo haeba e le moeli kapa ka holimo ho 50. Mahala tleliniking e 'ngoe le e 'ngoe le likhemisi tse ngata."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Haeba ha u e-s'o hlahlojoe, kapa e se e fetile selemo",
+        "description": "Tsamaea tleliniking efe kapa efe ea 'muso kapa k'hemisteng' me u botse. Metsotso e 'meli. Ha ho kopano. Mahala."
+      },
+      {
+        "title": "Haeba 'malo oa hau o phahame hang",
+        "description": "E hlahlojoe hape libekeng tse 1-2 tse tlang. Palo e le 'ngoe e phahameng ha se tlhahlobo - empa ke lebaka la ho netefatsa."
+      },
+      {
+        "title": "Haeba u hlahlojoe",
+        "description": "Qala meriana joalokaha u laetsoe. E nke letsatsi le leng le le leng ka nako e le 'ngoe. Ho tlola litekanyetso ho etsa hore khatello e nyolohele holimo le tlase - e mpe ho feta khatello e matla e tsitsitseng."
+      },
+      {
+        "title": "Haeba o ikutloa o phetse hantle empa o na le khatello ea mali",
+        "description": "U se ke ua emisa meriana ea hau. Taba ea kalafo ke ho ikutloa u phetse hantle ha u ntse u boloka linomoro li bolokehile. Tsoela pele hantle feela joalokaha ho laetsoe."
+      },
+      {
+        "title": "Latela linomoro tsa hau",
+        "description": "Reka cuff ea lapeng ha u khona (e ka ba R400 likhemising tse ngata). Bala hang kapa habeli ka beke. Tlisa lethathamo lena maetong a tleliniki."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ho qala kae",
+    "lede": "Tlhokomelo ea khatello ea mali ke e 'ngoe ea lintho tseo litleliniki tsa sechaba tsa Afrika Boroa li li etsang hantle haholo. Kena. Ha ho hlokahale kopano.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e 'ngoe le e 'ngoe ea 'muso e fana ka litlhahlobo tsa mahala tsa khatello ea mali le meriana ea pele ea mahala",
+        "meta": "Ha ho kopano · ha ho thuso ea bongaka e hlokahalang · ID e thusa",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Boitsebiso, tšehetso, le lisebelisoa tsa mahala tsa tlhahlobo ea kotsi",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  },
+  "learn_more": {
+    "items": [
+      {
+        "heading": "Khatello e phahameng ea mali e senya 'mele joang",
+        "paragraphs": [
+          "Khatello ea mali ke matla a mali a phunyeletsang marako a methapo ea hau. Ha e lula e le holimo ka lilemo, matla ao a sa khaotseng a a thatafatsa butle-butle le ho a fokotsa.",
+          "Ke ka lebaka leo khatello e phahameng ea mali e sa alaoeng ka khutso e phahamisang kotsi ea stroke, lefu la pelo, tšenyo ea liphio le tahlehelo ea pono nako e telele pele u utloa letho. Ho khutsa ke hona ho etsang hore e be kotsi."
+        ]
+      },
+      {
+        "heading": "Se boleloang ke lipalo tse peli",
+        "paragraphs": [
+          "Nomoro e holimo (systolic) ke khatello ha pelo ea hau e otla; nomoro e ka tlase (diastolic) ke khatello ha e phomola pakeng tsa ho otla.",
+          "Ka tlase ho 120/80 o phetse hantle. 140/90 kapa ho feta ka letsatsi le fetang le le leng e phahame. 180/120 e nang le matšoao ke tšohanyetso - e-ea sepetlele hang-hang."
+        ]
+      },
+      {
+        "heading": "Kalafo Afrika Boroa",
+        "paragraphs": [
+          "Litleliniki tsa ’muso li fana ka meriana ea khatello ea mali mahala. Batho ba bangata ba hloka matlapa a fetang bonngoe ho fihlela boemo bo sireletsehileng, e leng ntho e tloaelehileng, eseng pontšo ea ho hlōleha.",
+          "Moriana o sebetsa feela ha o o noa. Ho emisa ha o ikutloa o phetse hantle ke lebaka le atileng haholo leo e nyolohang ka lona."
+        ]
+      }
+    ]
+  }
+}

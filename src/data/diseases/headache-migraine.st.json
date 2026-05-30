@@ -1,0 +1,173 @@
+{
+  "slug": "headache-migraine",
+  "group_slug": "pain",
+  "name": "Hlooho e bohloko le hlooho e opang (Migraine)",
+  "tagline": "Tse ngata ha li kotsi. Ba bang ba. Tseba matšoao.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Migraine Action SA",
+    "WHO",
+    "South African Headache Society",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "E-ea sepetlele joale haeba",
+    "primary_message": "Bongata ba hlooho ha bo kotsi. Empa matšoao a itseng a lemosang a ka bolela stroke, ho tsoa mali bokong, kapa meningitis. U se ke ua ema - tsamaea.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ho opeloa ke hlooho ka tšohanyetso 'me lealuma' - hlooho e bohloko ka ho fetesisa ea bophelo ba hau, e tla ka metsotsoana",
+      "Ho opeloa ke hlooho ka feberu le molala o sataletseng kapa lekhopho",
+      "Hlooho e opang ka pherekano, puo e sa hlakang, kapa bofokoli ka lehlakoreng le leng",
+      "Ho opeloa ke hlooho ka mor'a ho tsoa kotsi hloohong, haholo-holo ka ho hlatsa kapa ho otsela",
+      "Hlooho e ncha e u tsosang borokong, kapa e mpefala ha u inama kapa u paqame",
+      "Lekhetlo la pele la hlooho e bohloko ka mor'a lilemo tse 50",
+      "Ho opeloa ke hlooho ka ho oa, ho lahleheloa ke pono, kapa ho lahleheloa ke kelello"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ho opeloa ke hlooho le migraine ka mantsoe a hlakileng",
+    "lede": "Bongata ba hlooho e opang ke tsitsipano ea hlooho - e bakoang ke mesifa e thata, khatello ea maikutlo, ho felloa ke metsi 'meleng, kapa boroko bo bobe. Migraine e fapane - boemo ba methapo moo boko bo fetohang hypersensitive, hangata ka bohloko bo boholo, ho nyekeloa ke pelo, le kutloisiso ea leseli le molumo.",
+    "paragraphs": [
+      "Ho opeloa ke hlooho e thata ho utloahala joalo ka lebanta le tiileng le pota-potileng hlooho, mahlakoreng ka bobeli, le lerootho ebile le tsitsitse. Migraines hangata e otla ka lehlakoreng le le leng, lihora tse 4-72 tsa ho qetela, ebe li u qobella ho robala ka kamoreng e lefifi. Hlooho ea hlooho ea sehlopha ha e fumanehe hangata - e matla, e khuts'oane, ho potoloha leihlo le le leng.",
+      "Boholo ba hlooho bo rarolloa ka ho phomola, metsi, le li-painkillers tse bonolo. Ho opeloa ke hlooho khafetsa kapa ho matla haholo ho hloka ngaka - eseng ho fumana hlahala (tsena ke tse sa tloaelehang) empa ho fumana kalafo e ntle ho feta eo u nang le eona hajoale. Migraine e na le liphekolo tse ngata tse sebetsang tseo batho ba sa tsebeng ka tsona."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "E tloaelehileng haholo",
+        "body": "Hoo e ka bang 12% ea batho ba Afrika Boroa ba na le migraine. Ho opeloa ke hlooho ea tsitsipano ho ama hoo e batlang e le motho e mong le e mong ka linako tse ling."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "E ka phekoleha",
+        "body": "Migraine e na le kalafo e sebetsang - ka bobeli bakeng sa ho emisa litlhaselo le ho li thibela. Haeba ea hau e sa laoloe hantle, ho na le likhetho tse ntle."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Tšebeliso e feteletseng ea li-painkiller",
+        "body": "Ho noa li-painkillers tse bonolo ho feta matsatsi a 2-3 ka beke ho ka baka hlooho e opang haholo. Bua le ngaka ka sena - se tloaelehileng le se phekolehang."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Haholo ha se taba e tebileng",
+        "body": "Lihlahala tsa boko le lisosa tse tebileng li teng seoelo. Lifolakha tse khubelu ka holimo li tšoaea nako ea ho tšoenyeha - bakeng sa ntho e 'ngoe le e' ngoe, ho batla ho le bonolo kamehla."
+      }
+    ],
+    "pull_quote": {
+      "text": "Migraine ha se 'hlooho e mpe feela'. Ke ketsahalo ea methapo ea kutlo e ka sieang motho a sitoa ho sebetsa, ho khanna, kapa ho hlokomela bana ka lihora kapa matsatsi. E tšoaneloa ke phekolo ea sebele.",
+      "source": "Mokhatlo oa Afrika Boroa oa Hlooho"
+    }
+  },
+  "signs": {
+    "heading": "Ho ba arola",
+    "lede": "Ho opeloa ke hlooho ho fapaneng ho arabela kalafong e fapaneng - ho tsebahatsa ea hau ho u thusa ho e alafa.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Hlooho ea tsitsipano",
+        "description": "Letlapa le tiileng le pota-potileng hlooho, mahlakoreng ka bobeli, le lerootho ebile le tsitsitse. Bonolo ho isa boemong bo itekanetseng. Ha ho ho nyekeloa ke pelo. Hangata ka lebaka la khatello ea maikutlo, ho se robale hantle, ho felloa ke metsi 'meleng, khatello ea mahlo, kapa boemo bo bobe."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "Migraine",
+        "description": "Ho otla ha bohloko hangata ka lehlakoreng le le leng, ho itekanetse ho isa ho matla. Hangata ka ho nyekeloa ke pelo, ho hlatsa, leseli le kutloisiso ea molumo. E nka lihora tse 4-72. E ka latela pono ea aura (zigzags, sebaka se foufetseng)."
+      },
+      {
+        "color": "coral",
+        "icon": "zap",
+        "title": "Hlooho ea hlooho ea sehlopha",
+        "description": "Ka tšohanyetso, bohloko bo matla, ba ho phunya leihlo le leng. Ho nosetsa mahlo, tšubuhlellano ea nko ka lehlakoreng le le leng. Ka bokhutšoanyane (15 min - lihora tsa 3) empa litlhaselo tse ngata ka letsatsi ka libeke. E hloka phekolo e khethehileng."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Migraine ke hlooho e mpe feela.",
+        "fact": "Migraine ke boemo ba methapo ea kutlo bo kenyelletsang liphetoho tšebetsong ea motlakase bokong, phallo ea mali le ho ruruha. Ho opeloa ke hlooho ke sesupo se seng sa tse ngata. E tšoanela ho nkoa ka botebo."
+      },
+      {
+        "myth": "Haeba li-painkillers li sa thuse, ha ho letho le tla thusa.",
+        "fact": "Liphekolo tse khethehileng tsa Migraine - li-triptan, li-gepants, le tse ling - li sebetsa ha li-painkillers tse tloaelehileng li sa sebetse. Meriana ea thibelo e ka fokotsa makhetlo a migraine ka halofo. Botsa ngaka ea hau."
+      },
+      {
+        "myth": "Ho opeloa ke hlooho khafetsa ho bolela hlahala.",
+        "fact": "Lihlahala tsa boko ha lia tloaeleha 'me hangata li baka mekhoa e itseng - ho mpefala hoseng, ho hlatsa, matšoao a methapo. Hangata hlooho e opang ke migraine, tsitsipano, kapa tšebeliso e feteletseng ea meriana - eseng hlahala."
+      },
+      {
+        "myth": "Banna ba 'nete ba phunyeletsa feela hlooho.",
+        "fact": "Migraine e ama batho ba bong bo fapaneng. Ho e hlokomoloha ha ho e etse hore e fokotse methapo ea kutlo. Kalafo e teng - ho e sebelisa hoa utloahala, eseng ho fokola."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Bakeng sa hlooho ea tsitsipano ka linako tse ling",
+        "description": "Paracetamol kapa ibuprofen joalokaha ho laetsoe. Hydrate. Phomola ka phaposing e khutsitseng, e lerootho. Lintho tse bakang aterese - ho robala, nako ea skrine, khatello ea maikutlo, khatello ea mahlo."
+      },
+      {
+        "title": "Bakeng sa migraine - nka bohato kapele",
+        "description": "Nka phomolo ea bohloko 'me u phomole hang ha u hlokomela hore migraine e qala. Li-Triptans (sumatriptan) li sebetsa hantle haholo ha li e-na le letšoao la pele ho feta ha bohloko bo phahama. Buisana le tleliniki ka likhetho tsa lengolo la ngaka."
+      },
+      {
+        "title": "Boloka diary ea hlooho",
+        "description": "Letsatsi, nako, mofuta, boima, ke eng e thusitseng, lintho tse ka tsosang maikutlo. Likhoeli tse peli tsa lintlha li tla bontša mekhoa. Tlisa bukana ho ngaka - e molemo haholo ho feta ho e hlalosa ka mohopolo."
+      },
+      {
+        "title": "Haeba u noa li-painkiller ka matsatsi a mangata - bona ngaka",
+        "description": "Ho opeloa ke hlooho ho feta tekano ho tloaelehile ebile ho ka khutlisoa. Ka mokhoa o hanyetsanang, phekolo ke ho emisa sebolaya-bohloko. Ngaka e ka u thusa ho etsa sena ka mokhoa o sireletsehileng."
+      },
+      {
+        "title": "Haeba lifolakha tse khubelu li hlaha - e-ea sepetlele",
+        "description": "Ho opa ha hlooho ka tšohanyetso, hlooho e opang ka feberu / ho satalla molala / lekhopho, hlooho e nang le pherekano kapa bofokoli - tsena li hloka tlhahlobo e potlakileng."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Bongata ba hlooho e opang bo ka laoloa maemong a tleliniki. Melemo e sa khaotseng ea migraine ho tsoa ho phetiso ea methapo ea kutlo - e fumaneha ka sistimi ea sechaba.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Bakeng sa hlooho e opang, hlooho e opang ka matšoao a methapo",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala, li-painkiller, le lengolo la ngaka la migraine",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Khemisi efe kapa efe ea lehae",
+        "description": "Paracetamol le ibuprofen li sebelisoa ka linako tse ling",
+        "meta": "Ha ho lengolo la ngaka le hlokahalang bakeng sa OTC",
+        "phone": null,
+        "phone_display": "Etela khemisi",
+        "primary": false
+      }
+    ]
+  }
+}

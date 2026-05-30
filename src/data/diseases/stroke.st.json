@@ -1,0 +1,177 @@
+{
+  "slug": "stroke",
+  "group_slug": "emergency-signs",
+  "name": "Stroke / Setorouku",
+  "tagline": "LITŠOANTŠISO TSA POTLAKO. Motsotso o mong le o mong oa baloa.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "WHO",
+    "National Department of Health",
+    "American Stroke Association"
+  ],
+  "urgent": {
+    "heading": "E potlakile - letsetsa hona joale",
+    "primary_message": "Letsetsa ambulense hang-hang. Ela hloko nako e tobileng matšoao a qalileng.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Lehlakoreng le leng la sefahleho se kolobileng - kopa hore ba bososele",
+      "Bofokoli ba letsoho ka lehlakoreng le leng - ba kope ho phahamisa matsoho ka bobeli",
+      "Puo e sa hlakang kapa e makatsang — ba kope ho pheta polelo",
+      "Ho opa ha hlooho ka tšohanyetso ho sa tsejoe ke sesosa",
+      "Ho lahleheloa ke pono ka tšohanyetso leihlong le le leng kapa ka bobeli",
+      "Pherekano ya tshohanyetso kapa mathata a ho utlwisisa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Stroke ka mantsoe a hlakileng",
+    "lede": "Ho otloa ke stroke ho etsahala ha phallo ea mali ho karolo ea boko e khaoha ka tšohanyetso. Lisele tsa boko li qala ho shoa ka mor'a metsotso e seng mekae.",
+    "paragraphs": [
+      "Liropo tse ngata li etsahala ha lesela le thiba mothapo oa mali bokong. Palo e nyane e etsahala ha sekepe se phatloha 'me mali a lutla. Ka bobeli ke maemo a tšohanyetso 'me a shebahala a tšoana ka ntle - u ke ke ua tseba hore na ke efe ntle le tlhahlobo ea sepetlele.",
+      "Ha stroke se phekoloa ka potlako, boko bo ka bolokeha haholoanyane. Meriana e thibelang maqeba e sebetsa hantle nakong ea lihora tse 'maloa tsa pele. Ka mor'a moo, tšenyo e ba ea ka ho sa feleng. Ke ka hona metsotso e leng bohlokoa."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Metsotso ea bohlokoa",
+        "body": "Hoo e ka bang lisele tsa boko tse limilione tse 2 lia shoa motsotso o mong le o mong nakong ea stroke. Oache e qala ka letšoao la pele."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "headline": "80,000+",
+        "body": "MaAforika Borwa a na le stroke selemo se seng le se seng. Ke sesosa se ka sehloohong sa kholofalo le lefu la batho ba baholo."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "E ka thibeloang",
+        "body": "Liropo tse ngata li amahanngoa le khatello e phahameng ea mali, ho tsuba, lefu la tsoekere, le lijo - tseo kaofela li ka laoloang."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Ho hlaphoheloa hoa khoneha",
+        "body": "Ho sebetsa ka hora ea pele ho fana ka monyetla o motle oa ho hlaphoheloa ka botlalo. Lipetlele li na le liphekolo tse nkang nako."
+      }
+    ],
+    "pull_quote": {
+      "text": "Haeba u belaella stroke, u se ke ua ema ho bona hore na ho ea joang. Letsetsa ampulense. Esita le haeba matšoao a iponahatsa a le mong - seo ka bosona ke letšoao la temoso.",
+      "source": "Heart and Stroke Foundation SA"
+    }
+  },
+  "signs": {
+    "heading": "Tlhahlobo ea FAST",
+    "lede": "Matšoao a stroke a hlaha ka tšohanyetso. Ha u li lemoha kapele, boko bo ka bolokeha haholoanyane. Hopola POTLAKO.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "smile",
+        "title": "F - Sefahleho se sothehile",
+        "description": "Ba kope ho bososela. Na lehlakore le leng la molomo kapa sefahleho lea akhella, esita le ka mokhoa o poteletseng?"
+      },
+      {
+        "color": "orange",
+        "icon": "trending-down",
+        "title": "A - Bofokoli ba letsoho",
+        "description": "Ba kope ho phahamisa matsoho ka bobeli. Na motho o hoholehela tlase kapa o ikutloa a le botsoa? Na ba ka tšoara bobeli ka ho lekana?"
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "title": "S - Bothata ba ho bua",
+        "description": "Ba kope ho pheta polelo e bonolo. Na lipuo tsa bona ha li utloahale, lia makatsa, kapa li thata ho utloisisa?"
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "title": "T — Nako ea ho letsa",
+        "description": "Haeba u bona leha e le efe ea matšoao ana, letsetsa 10177 hang-hang. Ela hloko nako e tobileng matšoao a qalileng."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Stroke e etsahala feela ho batho ba baholo.",
+        "fact": "Stroke e ka etsahala lilemo life kapa life. Hoo e ka bang stroke e le 'ngoe ho tse 4 e etsahala ho batho ba ka tlase ho lilemo tse 65,' me palo e ntse e eketseha ho bacha."
+      },
+      {
+        "myth": "Haeba matšoao a feta kapele, e ne e se stroke ea sebele.",
+        "fact": "Ketsahalo e khutšoane (TIA kapa 'mini-stroke') ke tlhokomeliso e matla. Hoo e ka bang motho a le mong ho ba 3 ba nang le TIA o tla ba le stroke se felletseng - ba bangata nakong ea lihora tse 48."
+      },
+      {
+        "myth": "Ke lokela ho ba isa sepetlele ka bonna - kapele ho feta ho emela ambulense.",
+        "fact": "Li-paramedics li qala kalafo ka ambulense le tsela e eang sepetleleng se nepahetseng sa stroke. Ho khanna ka bouena ho senya nako ea bohlokoa ebile ho kotsi."
+      },
+      {
+        "myth": "Aspirin e tla thusa nakong ea stroke.",
+        "fact": "Se ke oa fana ka aspirin nakong eo ho belaelloang hore ke stroke. Haeba e le setorouku se tsoang mali (e ka bang 1 ho tse 5), aspirin e tla mpefatsa. Letsetsa ambulense 'me u eme."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Seo u lokelang ho se etsa - nako eo u belaelang hore u na le stroke",
+    "items": [
+      {
+        "title": "Letsetsa 10177 kapa 112 hang-hang",
+        "description": "Bua lentsoe 'stroke' ka ho hlaka. Li-paramedics li tla etelletsa pele le ho ea sepetlele se nang le stroke."
+      },
+      {
+        "title": "Ela hloko nako e tobileng matšoao a qalileng",
+        "description": "Sena se etsa qeto ea hore na ke liphekolo life tse ka khonehang. Esita le nako e lekantsoeng e thusa sehlopha sa sepetlele."
+      },
+      {
+        "title": "U se ke ua fana ka lijo, metsi, kapa meriana",
+        "description": "Motho a ka ba le bothata ba ho metsa. U se ke ua fana ka letho ka molomo - ho akarelletsa le aspirin."
+      },
+      {
+        "title": "Haeba ba sa tsebe letho, ba robale ka lehlakore",
+        "description": "Boemo ba ho hlaphoheloa bo boloka tsela ea moea e hlakile. Haeba ba elelloa, ba boloke ba phutholohile 'me ba kholisehile."
+      },
+      {
+        "title": "Lula le bona ho fihlela ba fanang ka thuso ea bongaka maemong a tšohanyetso ba fihla",
+        "description": "Sheba phefumoloho ya bona. Itokisetse ho etsa CPR haeba ba khaotsa ho hema. Notlolla lemati e le hore baoki ba thuso ea pele ba ka kena."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "O ka letsetsa mang hona jwale",
+    "lede": "Ho belaelloa hore ke stroke ke tšohanyetso. Letsetsa hona joale. U se ke ua khanna kapa ua emela hore matšoao a fetele ka bobona.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · re \"stroke\"",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Boemo ba tshohanyetso (mohala)",
+        "description": "E fihlella litšebeletso life kapa life tsa tšohanyetso ka selefouno",
+        "meta": "Mahala ho mobile efe kapa efe · lihora tse 24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Heart and Stroke Foundation SA",
+        "description": "Tlhahisoleseding, tšehetso, le ho fetisetsoa ho tsosolosoa ka mor'a ho otloa ke setorouku",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}

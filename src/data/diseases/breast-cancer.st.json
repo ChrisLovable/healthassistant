@@ -1,0 +1,203 @@
+{
+  "slug": "breast-cancer",
+  "group_slug": "womens-health",
+  "name": "Kankere ea matsoele le maqhubu",
+  "tagline": "Ho itlhahloba, ho itlhahloba, le seo u lokelang ho se etsa haeba u fumana leqeba.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "CANSA (Cancer Association of South Africa)",
+    "Pink Drive",
+    "National Department of Health",
+    "WHO"
+  ],
+  "urgent": {
+    "heading": "Bona tleliniki bekeng ena haeba",
+    "primary_message": "Leqeba le lecha la matsoele, ho tsoa ha nipple, ho putlama ha letlalo, kapa ho fetoha ha sebopeho - se eme. E hlahlojoe. Bongata ha se mofets'e, empa bo hloka khato e potlakileng.",
+    "phone": "0800226622",
+    "phone_display": "Letsetsa 0800 22 66 22",
+    "red_flags": [
+      "Lefuba le lecha kapa le kobetsa sefuba kapa sephakeng",
+      "Fetola boholo, sebopeho, kapa symmetry ea letsoele le leng",
+      "Ho putlama ha letlalo, ho putlama, kapa sebopeho sa lekhapetla la lamunu",
+      "Nipple e fetela ka hare, kapa ho tsoa bocha (haholo-holo mali)",
+      "Bofubelu ba letlalo bo sa khaotseng, ho hola, kapa lekhopho ka nipple",
+      "Bohloko bo phehellang sebakeng se le seng se itseng",
+      "Li-lymph nodes tse ruruhileng lephatleng kapa ka holim'a lesapo la mokokotlo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Kankere ea matsoele ka mantsoe a hlakileng",
+    "lede": "Kankere ea matsoele ke mofetše o qalang liseleng tsa letsoele - hangata lithapong tsa lebese kapa litšoelesa tse hlahisang lebese. Bongata ba maqeba a matsoele ha se mofetše, empa leqeba le leng le le leng le lecha le hloka ho hlahlojoa.",
+    "paragraphs": [
+      "Kankere ea matsoele ke kankere e atileng haholo ho basali ba Afrika Boroa. Hoo e ka bang motho a le mong ho ba 27 o tla e hlahisa bophelong ba bona. Banna le bona ba ka tšoaroa ke mofetše oa matsoele, leha o fokola haholo - hoo e ka bang a le mong ho ba 1,000.",
+      "Ha e tšoaroa kapele - pele e nama - kankere ea matsoele e ka phekoleha haholo. Ho phela lilemo tse hlano bakeng sa mofetše oa matsoele oa pele ho SA ho feta 80%. Phephetso e teng Afrika Boroa ke ho lemoha ka morao ho nako: basali ba bangata ba bona ngaka hang feela ha mofetše o tsoetse pele, ha phekolo e le thata le liphello li mpefala."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 ho tse 27",
+        "body": "Basali ba Afrika Boroa ba tla tšoaroa ke mofetše oa matsoele bophelong bohle ba bona. Kotsi e nyoloha haholo kamora lilemo tse 50."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "headline": "Maqeba a mangata ha a na kotsi",
+        "body": "Hoo e ka bang maqeba a 8 ho a 10 a matsoele ha se mofetše - li-cysts, fibroadenomas, kapa liphetoho tse tloaelehileng tsa matsoele. Empa leqeba le leng le le leng le lecha le ntse le hloka tlhahlobo."
+      },
+      {
+        "color": "gold",
+        "icon": "clock",
+        "headline": "Pele = ho pholoha",
+        "body": "Ho phela ha lilemo tse hlano ho feta 80% ha ho tšoaroa kapele, ho theoha haholo haeba ho fumanoa morao. Ho lemoha kapele ke ntlha e le 'ngoe e kholo ka ho fetisisa sephethong."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Tlhahlobo ea mahala",
+        "body": "Litlhahlobo tsa mahala tsa matsoele tleliniking e 'ngoe le e 'ngoe. Li-mammograms mahala lipetleleng tsa mmuso bakeng sa basali ba kaholimo ho lilemo tse 40 ba nang le mabaka a kotsi. CANSA tlhahlobo ea mohala le eona."
+      }
+    ],
+    "pull_quote": {
+      "text": "Bongata ba maqeba a matsoele ha se mofetše. Empa u ke ke ua tseba ka ho ikutloa u le mong. Leqeba le leng le le leng le lecha le sa feteng nakong e le 'ngoe ea ho ilela khoeli le lokeloa ke ho etela tleliniking. U se ke ua 'leta' me u bone' ka likhoeli.",
+      "source": "Pink Drive Afrika Boroa"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se batlang",
+    "lede": "Tseba hore na matsoele a hao ka tloaelo a shebahala joang le hore na a ikutloa joang. Liphetoho tse tsoang ho tloaelo ea hau ke tsona tsa bohlokoa - eseng hore na matsoele a hau a bapisoa joang le a motho e mong.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Makhopho le ho teteana",
+        "description": "Sehlahisoa se secha sefubeng kapa sephakeng. Sebaka se ikutloang se fapane - se tiile, se teteaneng, kapa se teteaneng ho feta lesela le potolohileng. Bongata ba bona ha se mofetše empa kaofela bo hloka ho hlahlojoa."
+      },
+      {
+        "color": "coral",
+        "icon": "eye",
+        "title": "Ho fetoha ha sebopeho kapa letlalo",
+        "description": "Letsoele le le leng le shebahala le fapane le pele - boholo, sebopeho, kapa boemo bo fetohang. Letlalo la dimpling, puckering, kapa lekhapetla la lamunu. Bofubedu bo sa feleng kapa lekgopho."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Nnyo e fetoha",
+        "description": "Nnyo e fetohela ka hare (e ncha), lekhopho leo e seng lebese la letsoele (haholo-holo le nang le mali kapa le hlakileng ho tloha ka lehlakoreng le leng), kapa lekhopho le nang le matsoele."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Kankere ea matsoele e etsahala ho basali ba baholo feela.",
+        "fact": "Kotsi e nyoloha haholo kamora lilemo tse 50, empa mofets'e oa matsoele o etsahala ka lilemo life kapa life. Kankere ea basali ba banyane e na le ho ba mabifi le ho feta - sehlopha se seng le se seng sa lilemo se hloka ho tseba matšoao."
+      },
+      {
+        "myth": "Haeba ho se motho lelapeng leso ea kileng a ba le mofetše oa matsoele, ke bolokehile.",
+        "fact": "Ke kankere ea matsoele e le 1 ho e 10 feela eo ka ho hlakileng e amanang le liphatsa tsa lefutso tse futsitsoeng. Hangata li etsahala ho basali ba se nang histori ea malapa. E mong le e mong o hloka ho tseba matšoao."
+      },
+      {
+        "myth": "Ho roala bra kapa ho sebelisa deodorant ho baka mofetše oa matsoele.",
+        "fact": "Leha e le ho bonahatsoa ho baka mofetše oa matsoele thutong efe kapa efe e tšepahalang. Tsena ke litšōmo tse sitisang lintho tseo e hlileng e leng tsa bohlokoa - ho lemoha kapele le mabaka a tsejoang a kotsi."
+      },
+      {
+        "myth": "Hlama e nyenyane ha ho letho le lokelang ho tšoenyeha ka eona.",
+        "fact": "Boholo ha bo u bolelle hore na leqeba ke mofetše. Likankere tse ling tse mabifi li nyane ha li fumanoa; boholo ba likhohlopo tse kholo ha se mofetše. Etsa bonnete ba hore hlama efe kapa efe e ncha - ho sa tsotelehe boholo ba eona."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho fokotsa kotsi le ho e tšoara kapele",
+    "lede": "Lintho tse ling tsa kotsi tseo u ke keng ua li fetola (lilemo, liphatsa tsa lefutso, thobalano). Tse ngata tseo u ka li khonang. Ho lemoha kapele ke selelekela se matla sa ho pholoha.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "search",
+        "title": "Tseba se tloaelehileng sa hau",
+        "description": "Sheba 'me u utloe matsoele a hau hang ka khoeli, hantle ka mor'a nako ea hau. Liphetoho ho tsoa ho tloaelo ea hau ke tsona tsa bohlokoa - tloaelana le seo 'tloaelehileng' e leng sona bakeng sa hau."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "title": "Tlhahlobo ea bongaka tleliniking",
+        "description": "Tlhahlobo ea matsoele ea mahala ea kliniki tleliniking efe kapa efe ea 'muso - selemo le selemo ho tloha ho lilemo tse 30. Basebeletsi ba bophelo bo botle ba fumana lintho tseo u ka li fosoang."
+      },
+      {
+        "color": "orange",
+        "icon": "scan",
+        "title": "Mammogram ho tloha ho 40",
+        "description": "Li-mammogram li khothaletsoa lilemo tse ling le tse ling tse 2 ho tloha ho lilemo tse 40, selemo le selemo haeba ho na le kotsi e kholo. Lipetlele tsa mmuso li fana ka li-mammograms tsa mahala bakeng sa basali ba kotsing."
+      },
+      {
+        "color": "gold",
+        "icon": "leaf",
+        "title": "Mekhoa ea bophelo",
+        "description": "Boloka boima ba 'mele bo botle, fokotsa joala (tlas'a seno se le seng ka letsatsi), e-ba mafolofolo' meleng, anyesa ha u khona. Tsena li fokotsa kotsi ka boinyenyefatso empa ka tsela e nang le moelelo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Haeba u ka fumana lesela le lecha",
+        "description": "Ela hloko ha u e fumana. Bona tleliniki nakong ea libeke tse peli tse tlang. Haeba u se u le haufi le ho khaotsa ho ilela khoeli, u se ke ua ema ho feta nako leha e le efe - bona motho kapele."
+      },
+      {
+        "title": "Itlhahlobe khoeli le khoeli",
+        "description": "Hang ka khoeli, ka mor'a nako ea hau. Sheba seiponeng ka matsoho a phahamisitsoeng. Utloa letsoele le letsoho le leng le le leng ka ho sisinyeha ha selikalikoe. Ho ema le ho paqama. Metsotso e mehlano."
+      },
+      {
+        "title": "Tlhahlobo ea kliniki ea selemo le selemo ho tloha ho 30",
+        "description": "Tsamaea ka tleliniking efe kapa efe. Kopa tlhahlobo ea matsoele ea bongaka. E lokolohile, e nka metsotso, 'me e fumana lintho tseo u ke keng ua li utloa."
+      },
+      {
+        "title": "Mammogram ho tloha lilemo tse 40",
+        "description": "Lilemo tse ling le tse ling tse 2 ho tloha ho 40, selemo le selemo haeba ho le kotsing e kholo (histori ea lelapa, matsoele a teteaneng, lefutso la BRCA). E sa thabiseng empa e potlakile - ebile e pholosa bophelo."
+      },
+      {
+        "title": "Haeba u fumanoa - fihla setsing sa mofetše",
+        "description": "Kalafo e sebetsa haholo litsing tse kholo tsa mofetše lipetlele. Botsa ka phetiso. CANSA e ka thusa ho tsamaisa sistimi."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhokomelo ea mofetše oa matsoele Afrika Boroa e hlophisitsoe hantle litsing tse kholo. Pele ho sistimi eo u e kenyang, liphetho li tla ba betere.",
+    "helplines": [
+      {
+        "name": "Mohala oa thuso oa CANSA",
+        "description": "Lintlha tsa mofets'e, tšehetso, lipehelo tsa tlhahlobo ea mohala",
+        "meta": "Mon–Labohlano 08:00–16:30 · mahala fonong efe kapa efe",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "Pinki Drive",
+        "description": "Tlhahlobo ea matsoele ea mahala le litlhahlobo tsa bongaka ho pholletsa le SA",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0867466374",
+        "phone_display": "086 PINKDRIVE",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Litlhahlobo tsa mahala tsa matsoele tsa bongaka le ho romelloa li-mammogram",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": false,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "acne",
+  "group_slug": "skin",
+  "name": "Acne",
+  "tagline": "E ka phekoleha. U se ke ua khetha. Sheba ngaka bakeng sa boima bo feteletseng.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Dermatological Society of South Africa",
+    "American Academy of Dermatology",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Makhopho ka mantsoe a hlakileng",
+    "lede": "Makhopho ke se etsahalang ha oli le lisele tsa letlalo le shoeleng li thibela li-pores. Ka linako tse ling lesoba le koetsoeng le ruruha ke libaktheria tse tloaelehileng tsa letlalo - ke ha u fumana matheba a mafubelu, a bohloko. Ha e bakoe ke ho ba litšila.",
+    "paragraphs": [
+      "Li-acne li atile haholo ho bacha hobane liphetoho tsa li-hormone li eketsa tlhahiso ea oli. Empa le batho ba baholo ba e fumana - haholo-holo basali ba lilemong tsa bo-20 le bo-30, hangata ba le haufi le mohlahare. Hoo e ka bang 85% ya maAforika Borwa a tla ba le maqoqomete ka nako e itseng.",
+      "Hangata makhopho a bobebe a arabela kalafong e rekisoang le mekhoa e metle ea letlalo. Makhopho a itekanetseng ho isa ho a matla - haholo-holo a nang le cysts, scarring, kapa bohloko - o hloka ngaka. Liphekolo tse sebetsang hantle tsa ngaka li teng. Likhopo tse matla tse sa phekoloeng li ka siea maqeba a sa feleng ’me tsa ama boitlhompho ka lilemo."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "85%",
+        "body": "Ea maAforika Borwa a fumana maqoqomete ka nako e itseng. Ke e 'ngoe ea maemo a tloaelehileng a letlalo lefatšeng."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "E ka phekoleha",
+        "body": "Esita le li-acne tse matla li arabela kalafo ea kajeno. Hang ha u qala, u tla tlameha ho phela le maqeba a fokolang."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "U se ke ua khetha",
+        "body": "Ho kha, ho petetsa le ho hohla ka thata ho mpefatsa makhopho le ho baka mabadi a sa feleng. Thata ka ho fetisisa tloaelo ho senya - le ea bohlokoa ka ho fetisisa."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Not your fault",
+        "body": "Makhopho ha a bakoe ke ho silafala, ho ja chokolete, kapa eng kapa eng eo u e entseng. Hangata ke li-hormone le liphatsa tsa lefutso."
+      }
+    ],
+    "pull_quote": {
+      "text": "Mohato o le mong o matla oa ho phekola maqoqomete a makhopho ke ho qala kapele - pele leqeba le qala. Haeba litlhare tse rekisoang li sa sebetse ka mor'a libeke tse 8, bona ngaka.",
+      "source": "Mokhatlo oa Dermatological of South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Mefuta ea li-acne - le hore na ho tebile hakae",
+    "lede": "Makhopho a tloha matheba a seng makae ho isa ho li-cysts tse tebileng, tse bohloko. Mofuta oa bohlokoa hobane o fetola phekolo.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Bonolo - li-blackheads le li-whiteheads",
+        "description": "Maqhubu a manyane a se nang ho ruruha ho hoholo. Hangata e arabela lihlahisoa tse ntle tsa letlalo le lihlahisoa tse rekisoang. Leka benzoyl peroxide kapa salicylic acid pele."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "E itekanetseng - e khubelu, matheba a chesang",
+        "description": "Li-papules tse khubelu le li-pustules ho pholletsa le sefahleho, sefuba, mokokotlo. Leka ho sebelisa li-over-the-counter ka libeke tse 8. Haeba ho se na ntlafatso - bona ngaka. Likhetho tsa lengolo la ngaka li sebetsa betere."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "E matla - li-cysts le scarring",
+        "description": "Makhopho a tebileng, a bohloko a lulang libeke. E siea maqeba. Bona ngaka kapele kamoo ho ka khonehang. Isotretinoin (Roaccutane) e sebetsa haholo bakeng sa sena."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Tsokolete, lijo tse mafura le tsoekere li baka makhopho.",
+        "fact": "Bopaki bo fokola 'me bo fapana pakeng tsa batho. Lijo tse nang le tsoekere e ngata / tse nang le lebese le phahameng li ka mpefatsa makhopho ho tse ling, empa ha li li bake. Li-hormone le liphatsa tsa lefutso li bohlokoa haholo."
+      },
+      {
+        "myth": "Hlatsoa sefahleho sa hau haholoanyane - hoo ho tla e hlakola.",
+        "fact": "Ho hlatsuoa ho feta tekano hoa omella le ho halefisa letlalo, ho mpefatsa makhopho. Mohloekisi o bonolo habeli ka letsatsi o lekane. Likhohla tse bohale li chesa letlalo 'me li mpefatsa bofubelu."
+      },
+      {
+        "myth": "Sesepa sa meno, lero la lemone, le bicarb li sebetsa e le kalafo ea lapeng.",
+        "fact": "Bohle ba ka halefisa kapa ba chesa letlalo mme ba mpefatsa leqeba. Sebelisa lihlahisoa tse nepahetseng tsa maqoqomete - benzoyl peroxide, salicylic acid, retinoids - e etselitsoeng ho sebetsa ka mokhoa o sireletsehileng."
+      },
+      {
+        "myth": "Tanning e tlosa maqoqomete.",
+        "fact": "Ho fifala ha letlalo ho ka omisa letlalo ka nakoana, ho etsa hore matheba a se ke a bonahala. Ka nako e telele, ts'enyo ea letsatsi e mpefatsa leqeba le ho tsofatsa letlalo la hao. Phekola makhopho - sireletsa letlalo la hau."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mekhoa ea letsatsi le letsatsi e thusang",
+    "lede": "Ha o khone ho thibela makhopho ka botlalo - empa o ka fokotsa ho phatloha, ho ts'ehetsa kalafo le ho thibela maqeba.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Mohloekisi o bonolo habeli ka letsatsi",
+        "description": "Hoseng le mantsiboea - metsi a thehiloeng, a se nang monko o monate. U se ke ua hohla. U se ke ua sebelisa sesepa sa bar kapa li-scrubs letlalong le nang le makhopho."
+      },
+      {
+        "color": "purple",
+        "icon": "sun",
+        "title": "Non-comedogenic SPF letsatsi le letsatsi",
+        "description": "Tšireletso ea letsatsi e bohlokoa esita le ka makhopho. Batla 'non-comedogenic' (e ke ke ea thibela li-pores) ho label. Li-brand tse ngata tse kholo li na le tsena."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "U se ke ua khetha - u se ke ua pepeta",
+        "description": "Ho kha ho sutumelletsa tšoaetso ho teba le ho fetola matheba maqeba. Letšoao le tsoang sebakeng se khethiloeng le ka nka likhoeli tse 6. Letšoao le tsoang sebakeng se leqeleng - mohlomong libeke tse 2."
+      },
+      {
+        "color": "gold",
+        "icon": "watch",
+        "title": "Fana ka liphekolo libeke tse 8",
+        "description": "Kalafo ea makhopho e nka libeke tse 6-12 ho bontša phello e felletseng. Se ke oa chencha matsatsi a mang le a mang. Khomarela mokhoa o le mong 'me u ahlole ka letšoao la libeke tse 8."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Qala ka ho reka li-acne tse bobebe",
+        "description": "Benzoyl peroxide 2.5% gel kapa salicylic acid hlatsoa. Sebelisa hang ka letsatsi bakeng sa beke, ebe habeli haeba ho mamelloa. E fumaneha khemisi efe kapa efe ntle le lengolo la ngaka."
+      },
+      {
+        "title": "Haeba ho se na ntlafatso ka mor'a libeke tse 8 - bona ngaka",
+        "description": "Mahala tleliniking efe kapa efe ya mmuso. Li-retinoids tsa li-topical le lithibela-mafu li sebetsa hantle ho feta OTC bakeng sa makhopho a itekanetseng."
+      },
+      {
+        "title": "Haeba e le matla kapa e hlaba - bona haufinyane",
+        "description": "Li-cystic acne tse matla li ka siea maqeba a sa feleng. Kalafo e kang isotretinoin (Roaccutane) e sebetsa haholo. Litliliniki tsa 'muso li ka lebisa ho ngaka ea letlalo."
+      },
+      {
+        "title": "Tšoara sebaka sohle, eseng matheba feela",
+        "description": "Sebelisa liphekolo ka mokhoa o fokolang sebakeng se amehileng - eseng feela matheba a motho ka mong. E thibela ho phatloha ho latelang ho fapana le ho ts'oara."
+      },
+      {
+        "title": "Sireletsa letlalo la hao letsatsing",
+        "description": "Kalafo ea makhopho e etsa hore letlalo le se ke la chesoa ke letsatsi. Sebelisa non-comedogenic SPF 30+ letsatsi le letsatsi. Letsatsi le boetse le mpefatsa matšoao a lefifi a siiloeng ke matheba a fetileng."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Boholo ba li-acne bo ka phekoloa lapeng kapa tleliniking ea tlhokomelo ea mantlha. Melemo e matla ea makhopho ho tsoa ho dermatology - e fumaneha ka sistimi ea sechaba.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala ea li-acne le phekolo ea ngaka",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Khemisi efe kapa efe ea lehae",
+        "description": "Over-the-counter benzoyl peroxide, salicylic acid, retinoid creams",
+        "meta": "Ha ho lengolo la ngaka le hlokahalang bakeng sa lihlahisoa tsa OTC",
+        "phone": null,
+        "phone_display": "Etela khemisi",
+        "primary": false
+      }
+    ]
+  }
+}

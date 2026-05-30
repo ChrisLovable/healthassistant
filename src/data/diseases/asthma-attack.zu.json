@@ -1,0 +1,178 @@
+{
+  "slug": "asthma-attack",
+  "group_slug": "emergency-signs",
+  "name": "Ukuhlaselwa kwe-asthma",
+  "tagline": "Ukuhefuzela okungeke kudambe — yenza ngokushesha.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Asthma Education Programme SA",
+    "Global Initiative for Asthma (GINA)",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Okuphuthumayo - shayela manje",
+    "primary_message": "Sebenzisa i-blue reliever inhaler. Uma kungekho ngcono emizuzwini eyi-10 — shayela ku-10177.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Uphelelwa umoya ukukhuluma ngemisho egcwele",
+      "Izindebe, izinzipho, noma ubuso buphenduka luhlaza noma bumpunga",
+      "Isifuba simunca phakathi kwezimbambo ngokuphefumula ngakunye",
+      "I-reliever inhaler ayisizi noma iphele ngaphansi kwamahora angu-4",
+      "Ukozela, ukudideka, noma ukukhathala ngenxa yomzamo wokuphefumula",
+      "Isifuba esithulile - ukuhefuza kuyama ngoba ukugeleza komoya kuphansi kakhulu ukwenza umsindo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ukuhlasela kwe-asthma ngamazwi alula",
+    "lede": "Ukuhlasela kwesifuba somoya kulapho imigudu yomoya emaphashini iqina ngokuzumayo, ikhukhumale, futhi igcwale amafinyila - okwenza kube nzima ukukhipha nokukhipha umoya.",
+    "paragraphs": [
+      "Iningi lokuhlaselwa yisifuba somoya kunesibangela - igciwane, intuthu, impova, uthuli, umoya obandayo, ukuvivinya umzimba, noma ukucindezeleka ngokomzwelo. Ukuqina kwemisipha yomzila womoya, ulwelwesi luyavuvukala, futhi amafinyila avala okusele kwendlela yokuphefumula.",
+      "I-reliever inhaler (ngokuvamile eluhlaza okwesibhakabhaka) iphumuza imisipha yomzila womoya phakathi nemizuzu. Uma kungasebenzi, noma uma ukuhlaselwa kuza kaningi, umuntu udinga usizo oluphuthumayo - ukuhlaselwa okunzima kungabulala."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku10",
+        "body": "Cishe ingane eyodwa kweziyi-10 yaseNingizimu Afrika inesifuba somoya. Abantu abadala abaningi banayo ngaphandle kokuqaphela."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Usabulala",
+        "body": "Amakhulu abantu baseNingizimu Afrika abulawa yisifuba somoya minyaka yonke - ukufa okuningi kuyagwemeka ngokwelashwa okufanele."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "Ama-inhalers amabili",
+        "body": "I-reliever eluhlaza okwesibhakabhaka (esetshenziswa ngesikhathi sokuhlaselwa) kanye ne-brown preventer (esetshenziswa nsuku zonke) - isivimbeli yiso esikugcina ungangeni enkingeni."
+      },
+      {
+        "color": "green",
+        "icon": "activity",
+        "headline": "Phila ngokugcwele",
+        "body": "Isifuba somoya esilawulwa kahle akufanele sikuvimbele kwezemidlalo, isikole, umsebenzi, noma ukulala. Uma kunjalo - ukwelashwa kwakho kudinga ukulungiswa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma ufinyelela i-inhaler yakho yokukhulula ngaphezu kokuphindwe kabili ngesonto, i-asthma yakho ayilawulwa kahle. Bonana nodokotela - ungagcini nje ngokugcwalisa okuluhlaza okwesibhakabhaka.",
+      "source": "I-Global Initiative ye-Asthma"
+    }
+  },
+  "signs": {
+    "heading": "Yeka ukuhlasela kubukeka",
+    "lede": "Ukuhlasela kwesifuba somoya kuvame ukukhula emahoreni amaningi, kwesinye isikhathi ngezinsuku. Uma welapha kusenesikhathi, kuba lula ukuyeka.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ukuhefuzela",
+        "description": "Umsindo wekhwela uma uphefumula, kwesinye isikhathi ungene. Isifuba esithulile lapho kuhlaselwa kakhulu sisho ukuthi ukugeleza komoya kwehle ngendlela eyingozi."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ukuphelelwa umoya",
+        "description": "Ukuzabalaza ukuthola umoya ogcwele. Awukwazi ukuqeda umusho ngaphandle kokumisa isikhashana. Isifuba sizizwa siqinile."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Ukukhwehlela okunganqamuki",
+        "description": "Ukukhwehlela okomile, okungapheli, kuvame ukubi kakhulu ebusuku noma ekuseni kakhulu. Ngezinye izikhathi uphawu kuphela ezinganeni."
+      },
+      {
+        "color": "gold",
+        "icon": "user",
+        "title": "Ulimi lomzimba",
+        "description": "Sizingele phambili, amahlombe aphakanyisiwe, izimbambo zidonsa umoya ngamunye, ukuphefumula ngokushesha, ukukhathala."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Izingane zikhula ngenxa yesifuba somoya.",
+        "fact": "Abanye bayakwenza, abaningi abakwenzi. Ngisho nalapho izimpawu seziphelile, ukuzwela kwendlela yokuphefumula kungabuya kunoma iyiphi iminyaka. Gcina i-inhaler yokuvimbela iqhubeka njengoba kuyalelwe."
+      },
+      {
+        "myth": "Ama-inhalers e-steroid ayingozi.",
+        "fact": "Ama-steroid ahogelwe kusivimbeli esinsundu umthamo ophansi kakhulu futhi usebenza endaweni emaphashini. Ziphephe kakhulu kune-oral steroids edingekayo lapho ukuhlaselwa kuba kubi."
+      },
+      {
+        "myth": "Uma ukwazi ukukhuluma, ukuhlasela akubi kakhulu.",
+        "fact": "Inkulumo enomkhawulo emishwaneni emifushane - noma amagama angawodwa - kuwuphawu oluyingozi. Isifuba esithule sibi kakhulu, asingcono."
+      },
+      {
+        "myth": "Umuthi wesifuba somoya udingeka kuphela uma uzwa izimpawu.",
+        "fact": "Isivikeli (brown) inhaler kufanele sisetshenziswe nsuku zonke, ngisho nalapho uzizwa uphilile. Ilawula ukuvuvukala okuyisisekelo okubangela ukuhlaselwa."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ukwenze ngesikhathi sokuhlasela",
+    "items": [
+      {
+        "title": "Hlala uqonde. Khulula izingubo ezimpintshayo",
+        "description": "Ungalali phansi. Ukuhlala uphakamise izingalo kwenza ukuphefumula kube lula. Hlala uzolile - ukwethuka kubhebhethekisa ukuphefumula."
+      },
+      {
+        "title": "Sebenzisa i-blue reliever inhaler - 1 puff",
+        "description": "Sebenzisa i-spacer uma unaso. Linda imizuzwana engama-30 ukuya kwengama-60. Phinda ingqikithi yokukhukhumeza okungafika ku-10 emizuzwini eyi-10 yokuqala."
+      },
+      {
+        "title": "Uma kungekho ngcono emizuzwini eyi-10 — shayela ku-10177",
+        "description": "Ithi 'ukuhlasela kwesifuba somoya okunzima'. Qhubeka nokusebenzisa okokukhulula njalo emizuzwini embalwa kuze kufike abezimo eziphuthumayo."
+      },
+      {
+        "title": "Uma ziwa noma ziba luhlaza okwesibhakabhaka - shayela ngokushesha",
+        "description": "Ungalindi imizuzu eyi-10. Ukuhlasela okunzima kungasongela ukuphila ngokushesha."
+      },
+      {
+        "title": "Ngemva kokuhlasela - bona udokotela",
+        "description": "Konke ukuhlasela obekudinga okungaphezu komthamo ojwayelekile wokudambisa kuwuphawu uhlelo lwakho lwesifuba somoya ludinga ukulungiswa. Ungakweqi ukulandelela."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okufanele ashayele",
+    "lede": "Uma i-inhaler eluhlaza okwesibhakabhaka ingasebenzi noma ukuhlaselwa kuya kaningi, thola usizo. Isifuba somoya siyelapheka.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · amahora angu-24 · ithi 'asthma attack'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Isimo esiphuthumayo (iselula)",
+        "description": "Ifinyelela kunoma iyiphi isevisi yezimo eziphuthumayo ngomakhalekhukhwini",
+        "meta": "Kumahhala kunoma iyiphi iselula · amahora angama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni ihlinzeka ngokuhlolwa kwesifuba somoya kanye nama-inhalers",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

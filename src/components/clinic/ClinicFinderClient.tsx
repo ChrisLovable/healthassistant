@@ -4,8 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { mapsDirectionsUrl } from "@/lib/maps";
 import { X } from "lucide-react";
-
-type Lang = "en" | "af" | "xh";
+import type { Lang } from "@/lib/i18n/lang";
 type FinderType = "medical" | "pharmacy";
 type TravelMode = "driving" | "walking";
 
@@ -68,8 +67,8 @@ const LABELS = {
     title: "Fumana uncedo olukufuphi",
     subtitle: "Sibonisa iindawo ezikufuphi ngokomgama. Cofa enye ukuze ufumane indlela.",
     back: "Buyela",
-    medical: "Eyona ndawo yonyango ikufuphi",
-    pharmacy: "Eyona farmasi ikufuphi",
+    medical: "Iziko lezonyango elikufutshane",
+    pharmacy: "Ikhemesti ekufutshane",
     optionsTitle: "Iindawo ezikufuphi",
     clickDirections: "Cofa ukuze ufumane indlela",
     routeThere: "Ndikhokele apho",
@@ -86,6 +85,52 @@ const LABELS = {
     noResults: "Akukho ndawo ifunyenwe kufuphi. Zama kwakhona.",
     tryAgain: "Zama kwakhona",
     note: "Iikliniki zikarhulumente zibonelela ngonyango olusisiseko simahla. Phatha i-ID yakho nekhadi lekliniki ukuba unalo.",
+  },
+  zu: {
+    title: "Thola usizo oluseduze",
+    subtitle: "Sibonisa izindawo eziseduze ngezilinganiso zebanga. Thepha eyodwa ukuze uthole indlela.",
+    back: "Emuva",
+    medical: "Isikhungo sezokwelapha esiseduze",
+    pharmacy: "Ikhemisi eliseduze",
+    optionsTitle: "Izindawo eziseduze",
+    clickDirections: "Chofoza ukuze uthole izikhombisi-ndlela",
+    routeThere: "Indlela lapho",
+    openRoute: "Vula indlela",
+    driving: "Shayela",
+    walking: "Hamba ngezinyawo",
+    eta: "Isikhathi",
+    distance: "Ibanga",
+    routeLoading: "Ithola imininingwane yendlela...",
+    cancel: "Khansela",
+    loading: "Ithola izindawo eziseduze...",
+    locate: "Sebenzisa indawo yami",
+    locationError: "Indawo iyadingeka ukuze sibonise izindawo eziseduze.",
+    noResults: "Azikho izindawo ezitholakele eduze. Sicela uzame futhi.",
+    tryAgain: "Zama futhi",
+    note: "Imitholampilo kahulumeni inikeza ukwelashwa okuyisisekelo kwamahhala. Letha i-ID yakho nekhadi lekliniki uma unalo.",
+  },
+  st: {
+    title: "Fumana thuso e haufi",
+    subtitle: "Re bontša libaka tse haufi ka ho hlophisa ka bohole. Tobetsa e 'ngoe ho fumana tsela.",
+    back: "Morao",
+    medical: "Setsi sa bongaka se haufi",
+    pharmacy: "Khemisi e haufi",
+    optionsTitle: "Libaka tse haufi",
+    clickDirections: "Tobetsa ho fumana tsela",
+    routeThere: "Tsela moo",
+    openRoute: "Bula tsela",
+    driving: "Khanna",
+    walking: "Tsamaea",
+    eta: "Nako",
+    distance: "Bohole",
+    routeLoading: "Re fumana lintlha tsa tsela...",
+    cancel: "Hlakola",
+    loading: "Re batla libaka tse haufi...",
+    locate: "Sebelisa sebaka sa ka",
+    locationError: "Sebaka sa hau se hlokahala ho bontša libaka tse haufi.",
+    noResults: "Ha ho libaka tse fumanoeng haufi. Leka hape.",
+    tryAgain: "Leka hape",
+    note: "Litliliniki tsa 'muso li fana ka tlhokomelo ea motheo ea mahala. Tlisa ID ea hau le karete ea tleliniki haeba u na le eona.",
   },
 } as const;
 

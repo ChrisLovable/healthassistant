@@ -1,0 +1,173 @@
+{
+  "slug": "depression",
+  "group_slug": "mental-health",
+  "name": "Ho tepella maikutlo",
+  "tagline": "Ea sebele. Tloaelehileng. E ka phekoleha. Ha u mong.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "SADAG (South African Depression and Anxiety Group)",
+    "WHO",
+    "National Department of Health Mental Health Directorate",
+    "South African Society of Psychiatrists"
+  ],
+  "urgent": {
+    "heading": "Bua le motho hona joale",
+    "primary_message": "Haeba u nahana ho ipolaea, kapa ho intša kotsi - ka kopo ikopanye. Ts'ehetso ea mahala, ea lekunutu ea fumaneha hona joale. Ha ua tlameha ho ba maqakabetsing ho letsetsa.",
+    "phone": "0800567567",
+    "phone_display": "SADAG 0800 567 567",
+    "red_flags": [
+      "Mehopolo ea ho felisa bophelo ba hau kapa hore ba bang ba ka phela betere ntle le uena",
+      "Ho ikutloa u le bohatsu ka ho feletseng, u se na thuso, kapa u khaohantsoe le uena",
+      "Ho fana ka thepa e nang le moelelo kapa ho dumedisa",
+      "Ho ikhula ho matla ho motho e mong le e mong",
+      "Ho utloa mantsoe, ho bona lintho tseo ba bang ba sa li tsebeng, kapa ho ikutloa e se oa sebele",
+      "Ho se khone ho itlhokomela - ho se je, ho hlatsoa, ​​​​ho tsoha betheng ka matsatsi",
+      "Khutso ea tšohanyetso ka mor'a ho tepella maikutlo nako e telele - sena e ka ba temoso, eseng ho hlaphoheloa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ho tepella maikutlo ka mantsoe a bonolo",
+    "lede": "Ho tepella maikutlo ke boemo ba 'nete ba bongaka - eseng bofokoli, eseng maikutlo a mabe, eseng 'ho hlonama feela'. E fetola tsela eo boko bo sebetsang ka eona, tsela eo ’mele o ikutloang ka eona le tsela eo ntho e ’ngoe le e ’ngoe e shebahalang ka eona. Mme e a phekoleha.",
+    "paragraphs": [
+      "E mong le e mong o ikutloa a hloname ka linako tse ling. Ho tepella maikutlo ho fapane. Ke boima bo sa feleng - maikutlo a tlaase a sa khaotseng, ho lahleheloa ke thahasello linthong tseo u neng u li thabela pele, mokhathala oo boroko bo sa o lokiseng, maikutlo a ho hloka thuso kapa ho hloka tšepo. E nka libeke kapa likhoeli, eseng lihora kapa matsatsi.",
+      "Ho tepella maikutlo ho ama motho a le mong ho ba 6 ba Afrika Boroa bophelong ba bona. E matha ka malapa. E ka bakoa ke khatello ea maikutlo, ho kula, tahlehelo, liphetoho tsa li-hormone, kapa ho se letho ka ho khetheha. Ka kalafo - kalafo, meriana, kapa ka bobeli - batho ba bangata ba ntlafala haholo. Ba bangata ba fola ka ho feletseng."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ho 6",
+        "body": "MaAforika Borwa a tla ba le kgatello ya maikutlo bophelong bohle ba bona. Ke e 'ngoe ea maemo a tloaelehileng a bongaka a teng."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "E ka phekoleha",
+        "body": "Hoo e ka bang 80% ea batho ba nang le khatello ea maikutlo ba ntlafala haholo ka kalafo. Ba bangata ba fola ka ho feletseng. Thuso ea sebetsa."
+      },
+      {
+        "color": "coral",
+        "icon": "phone",
+        "headline": "SADAG ke mahala",
+        "body": "0800 567 567 ke mohala oa mahala oa ho ipolaea oa Afrika Boroa - baeletsi ba koetliselitsoeng ho mamela, ka lipuo tse ngata, lihora tse 24."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "Eseng bofokoli",
+        "body": "Ho tepella maikutlo ke boemo ba bongaka bo amanang le liphetoho k'hemistri ea boko. Ho bolella motho e mong hore a 'tlohe ho eona' ho tšoana le ho bolella motho ea nang le lefu la tsoekere hore a thatafatse insulin. Ha e sebetse."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ho hahamalla thuso hase bofokoli. Ke e ’ngoe ea lintho tse sebete, tse thata ka ho fetisisa tseo motho ea tepeletseng maikutlo a ka li etsang. Haeba u ntse u nahana ka eona - etsa mohala. Motho ka lehlakoreng le leng o itokisitse.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Ho tepella maikutlo ho shebahala joang",
+    "lede": "Ho tepella maikutlo ho bonahala ho fapane ho batho ba fapaneng. Matšoao a mang ke a maikutlo, a mang a 'mele, a mang ke a sechaba. Libeke tse peli tsa matšoao ana boholo ba letsatsi ke moeli oa ho nka ka botebo.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "cloud",
+        "title": "Tsa maikutlo",
+        "description": "Ho hlonama ho sa feleng kapa ho hloka tšepo, ho hloka tšepo, ho ikutloa u se na thuso kapa u le molato, ho teneha kapa khalefo (hangata e hloloheloa banna), ho lahleheloa ke thahasello linthong tseo u neng u li thabela pele."
+      },
+      {
+        "color": "orange",
+        "icon": "battery-low",
+        "title": "Ea nama",
+        "description": "Ho khathala hoo boroko bo sa lokiseng, ho fetoha ha takatso ea lijo (hangata ho ja hanyenyane kapa ho feta ka tloaelo), mahlaba le mahlaba, ho tsamaea butle kapa puo, khathatso ea boroko - e ka ba ho hongata haholo kapa ho sitoa ho robala."
+      },
+      {
+        "color": "coral",
+        "icon": "user-x",
+        "title": "Kahisano le kelello",
+        "description": "Ho ikhula ho metsoalle le ba lelapa, ho loanela ho etsa liqeto kapa ho tsepamisa maikutlo mehopolong e phehellang ea ho intša kotsi kapa lefu. Mehopolo ena e tloaelehile khatellong ea maikutlo - le lebaka la ho hahamalla thuso, eseng ho itšehla thajana."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ho tepella maikutlo ke bofokoli feela - u lokela ho khona ho itokolla hammoho.",
+        "fact": "Ho tepella maikutlo ke boemo ba sebele ba bongaka bo amanang le liphetoho k'hemik'hale ea boko. Ho bolella motho ea nang le khatello ea maikutlo hore a 'tlohe ho eona' ho tšoana le ho bolella motho ea nang le lefu la tsoekere hore a thatafatse insulin. Ha e sebetse mme e ba soabisa."
+      },
+      {
+        "myth": "Li-antidepressants lia lemalla 'me li fetola seo u leng sona.",
+        "fact": "Li-antidepressants tsa sejoale-joale ha li lemalle - leha li lokela ho fokotsoa butle ha li emisa. Ha li fetole botho ba hau. Ba phahamisa moholi e le hore u ka ba uena hape."
+      },
+      {
+        "myth": "Khatello ea maikutlo Afrika e mpa e le tlhahlobo ea Bophirimela.",
+        "fact": "Ho tepella maikutlong ho etsahala hohle Lefatšeng, moetlong o mong le o mong, ka litekanyetso tse tšoanang. Tsela eo e iponahatsang ka eona e ka fapana (matšoao a mangata a 'mele litsong tse ling), empa boemo bo ka sehloohong ke ba bokahohle - ebile boa phekoleha."
+      },
+      {
+        "myth": "Ho bua ka ho ipolaea ho etsa hore ho be bonolo ho etsahala.",
+        "fact": "Se fapaneng ke 'nete. Ho botsa 'na u na le maikutlo a ho ipolaea' ho bontša tlhokomelo 'me ho fana ka sebaka sa ho fumana thuso. Ho khutsa le ho qoba ke tsona tse mpefatsang lintho."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Haeba o le mathateng - letsetsa SADAG hona joale",
+        "description": "0800 567 567 ha e lefelloe mohala ofe kapa ofe, lihora tse 24. Baeletsi ba koetlisetsoa ho mamela. Ha ho hlokahale hore u be 'maqakabetsing a lekaneng' - ikemisetse feela."
+      },
+      {
+        "title": "Haeba u khona - bolella motho a le mong",
+        "description": "Motsoalle, setho sa lelapa, moetapele oa tumelo, mookameli. Ho e bua ka lentsoe le phahameng hang ho senya ho itšehla thajana. Ha o a tlameha ho e hlalosa ka ho phethahala."
+      },
+      {
+        "title": "E-ea tleliniking ho ea hlahlojoa",
+        "description": "Litliliniki tsa 'muso li fana ka tlhahlobo ea mahala ea bophelo ba kelello le kalafo. Kopa 'mooki oa bophelo bo botle ba kelello' kapa ngaka. Meriana e thibelang ho imeloa kelellong ha e lefelloe litleliniking haeba ho hlokahala."
+      },
+      {
+        "title": "Haeba o khona ho laola lintho tsa letsatsi le letsatsi",
+        "description": "Fumana khanya ea letsatsi hoseng, tsamaea ha u khona, ja lijo tse nyenyane tse tloaelehileng esita le ntle le takatso ea lijo, robala ka mokhoa o tloaelehileng. Ha ho le e 'ngoe ea tsona e phekolang khatello ea maikutlo - empa e thusa kalafo hore e sebetse hantle."
+      },
+      {
+        "title": "Haeba motho eo u mo ratang a na le khatello ea maikutlo",
+        "description": "Mamela ntle le ho leka ho lokisa. U se ke ua re 'thabela' kapa 'ba bang ba na le bothata le ho feta'. E re, 'Ke mona, kea u bona, ke eng e ka thusang'. Ba khothaletse ho bitsa SADAG hammoho."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "O ka letsetsa mang hona jwale",
+    "lede": "Afrika Boroa e na le ts'ehetso ea mahala, ea lekunutu ea bophelo bo botle ba kelello e fumanehang lihora tse 24 ka letsatsi. Ha o hloke thuso ea bongaka, ID, kapa phetisetso. Fono feela.",
+    "helplines": [
+      {
+        "name": "SADAG Suicide Crisis Line",
+        "description": "Keletso ea mahala, ea lekunutu ka lipuo tse ngata tsa SA",
+        "meta": "Mahala · lihora tse 24 · baeletsi ba koetlisitsoeng",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "LifeLine Afrika Boroa",
+        "description": "Keletso ea mahala, tsietsi, tlhekefetso, le tšehetso ea maikutlo",
+        "meta": "Lihora tse 24 · mahala fonong efe kapa efe",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala ea bophelo ba kelello le meriana ha ho hlokahala",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": false,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

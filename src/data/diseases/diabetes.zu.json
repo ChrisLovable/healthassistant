@@ -1,0 +1,195 @@
+{
+  "slug": "diabetes",
+  "group_slug": "chronic-lifestyle",
+  "name": "Isifo sikashukela",
+  "tagline": "Isifo esingelapheki esikhula ngokushesha e-SA.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Diabetes SA",
+    "International Diabetes Federation",
+    "WHO",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "Shayela ku-10177 noma uqonde esibhedlela uma",
+    "primary_message": "Ushukela wegazi ophakeme kakhulu noma ophansi kakhulu ungabeka impilo engozini emahoreni ambalwa. Lezi zimpawu zisho ukuthi — ungalindi.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ukoma ngokweqile ngokuphefumula okusheshayo - kungaba yi-diabetesic ketoacidosis (DKA)",
+      "Ukuphefumula okunezithelo noma okupholisha izinzipho (okujwayelekile kwe-DKA)",
+      "Isicanucanu esikhulu nokuhlanza nobuhlungu besisu",
+      "Ukudideka, ukozela, noma ubunzima bokuvuka",
+      "Ushukela wegazi ophansi - ukuthuthumela, ukujuluka, ukudideka okungathuthuki ngoshukela",
+      "Ukuquleka noma ukulahlekelwa ukwazi",
+      "Unyawo noma umlenze okhombisa ukutheleleka ngokuzumayo noma ibala elimnyama (unyawo lwesifo sikashukela)"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Isifo sikashukela ngokwemibandela ecacile",
+    "lede": "Isifo sikashukela yilokho okwenzekayo lapho umzimba wakho ungakwazi ukuphatha kahle ushukela osegazini lakho. Kungenzeka ukuthi amanyikwe wakho awayenzi i-insulin eyanele (Uhlobo 1), noma umzimba wakho uyeka ukuphendula ku-insulin ngendlela efanele (Uhlobo 2).",
+    "paragraphs": [
+      "I-insulin iyi-hormone etshela amangqamuzana akho ukuthi akhiphe ushukela (glucose) egazini futhi awusebenzisele amandla. Ngaphandle kwe-insulin eyanele - noma ngamangqamuzana angayinaki - ushukela uyanqwabelana egazini futhi ulimaze imithambo yegazi, imizwa, amehlo, izinso nezinyawo ngokuhamba kweminyaka.",
+      "Uhlobo loku-1 luvamise ukuqala ebuntwaneni noma ebudaleni obuncane futhi ludinga imijovo ye-insulin impilo yonke. Uhlobo 2 - okuyilona oluvame kakhulu - lukhula lapho umuntu esekhulile futhi luxhumene kakhulu nesisindo, ukudla, umlando womndeni, kanye nobuhlanga. I-Early Type 2 ngezinye izikhathi ingashintshwa ngokudla kanye nokulahlekelwa isisindo kuphela."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "4.5 million",
+        "body": "Abantu baseNingizimu Afrika baphila nesifo sikashukela. Cishe ingxenye ayazi ukuthi inaso."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-up",
+        "headline": "Uhlobo 2 = 90%",
+        "body": "Isifo sikashukela esiningi kubantu abadala siwuHlobo lwesi-2 - sixhumene kakhulu nesisindo, umlando womndeni, nokudla."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ukunakekelwa kwamahhala",
+        "body": "Ukuhlolwa kwesifo sikashukela, imithi ephuzwayo, kanye ne-insulin konke kumahhala kuyo yonke imitholampilo kahulumeni."
+      },
+      {
+        "color": "green",
+        "icon": "refresh-cw",
+        "headline": "Ibuyiselwa emuva kusenesikhathi",
+        "body": "Iziguli eziningi ezisanda kuxilongwa zohlobo 2 zingabuyela kushukela wegazi ojwayelekile ngokudla, ukuncipha kwesisindo, nokuzivocavoca."
+      }
+    ],
+    "pull_quote": {
+      "text": "Minyaka yonke imitholampilo ibona iziguli zilahlekelwa izinzwane, izinso, namehlo ngenxa yesifo sikashukela - cishe njalo ngenxa yokuthi lesi sifo sasihamba phambili ngaphambi kokuhlolwa. Hlola. Kumahhala.",
+      "source": "Isifo sikashukela SA"
+    }
+  },
+  "signs": {
+    "heading": "Ongase ukuqaphele",
+    "lede": "Isifo sikashukela singakhula kancane ngokuhamba kweminyaka (Uhlobo 2) noma sivele emasontweni ambalwa (Uhlobo 1). Izimpawu zakudala kulula ukuzikhumbula - futhi abantu abaningi abanazo nhlobo kuze kuvele izinkinga.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ezintathu zakudala",
+        "description": "Ukuchama njalo, ukoma okukhulu, nokuncipha kwesisindo okungachazeki - ikakhulukazi ndawonye, ​​ikakhulukazi emasontweni ambalwa."
+      },
+      {
+        "color": "coral",
+        "icon": "battery-low",
+        "title": "Ukukhathala nokululama kancane",
+        "description": "Ukukhathala okungajwayelekile, ukungaboni kahle, ukusikeka kanye nezifo ezithatha isikhathi eside ukuphola, imvubelo evamisile noma izifo zomchamo."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "title": "Izimpawu eziyisixwayiso zohlobo 1",
+        "description": "Ukwehla kwesisindo okungazelelwe ngokoma okukhulu, ikakhulukazi ezinganeni noma kubantu abadala. Ukuphalaza, ukuphefumula okujulile ngokushesha, umoya onezithelo, ukozela — isimo esiphuthumayo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Isifo sikashukela sibangelwa ukudla ushukela omningi.",
+        "fact": "Ushukela unomthelela ekuzuzeni isisindo, okuyisici esiyingozi. Kodwa izakhi zofuzo, ukuma komzimba, ubuhlanga, kanye nokudla okuphelele kubaluleke kakhulu kunoshukela kuphela."
+      },
+      {
+        "myth": "Uma ungayidingi i-insulin, isifo sikashukela sakho asisibi kakhulu.",
+        "fact": "Isifo sikashukela sohlobo 2 sibangela izinkinga eziningi - ukuhlaselwa yinhliziyo, unhlangothi, ubumpumputhe, ukwehluleka kwezinso, ukunqunywa kwezitho - njengoHlobo loku-1."
+      },
+      {
+        "myth": "Abanesifo sikashukela ngeke baphinde bawudle ushukela.",
+        "fact": "Inani elincane likashukela ekudleni okunomsoco ngokuvamile lilungile. Okubalulekile indlela yokudla iyonke, hhayi ukudla okukodwa."
+      },
+      {
+        "myth": "Uma isifo sikashukela sihlasela emndenini wami, akukho engingakwenza.",
+        "fact": "Indlela yokuphila yehlisa ubungozi boHlobo 2 ngaphezu kuka-50%, ngisho nomlando womndeni oqinile. Izakhi zofuzo zilayisha isibhamu; indlela yokuphila idonsa inhlamvu."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Uwehlisa kanjani ubungozi bakho",
+    "lede": "Ukuvimbela kunamandla kakhulu uma kuqalwa ngaphambi kokuba kuvele izinkinga. Uma unomzali, ingane yakini, noma ingane enoHlobo 2 — ubungozi bakho buphezulu kakhulu futhi kuyindaba yokuhlolwa.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "scale",
+        "title": "Isisindo esinempilo",
+        "description": "Ikakhulukazi okhalweni. Ukulahlekelwa ngo-5–10% wesisindo somzimba engozini yohlobo 2 ngaphezu kwengxenye."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Hambisa nsuku zonke",
+        "description": "Imizuzu engama-30 yomsebenzi omaphakathi - ukuhamba, ukugibela ibhayisikili, ukulima, ukudansa - izinsuku eziningi zesonto."
+      },
+      {
+        "color": "orange",
+        "icon": "leaf",
+        "title": "Ibhalansi yepuleti",
+        "description": "Gcwalisa uhhafu wepuleti lakho ngemifino, ingxenye yesine nge-protein engenamafutha, ikota ngezinhlamvu. Sika iziphuzo ezinoshukela kuqala - umthelela omkhulu kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "title": "Isikrini uma usengozini",
+        "description": "Umlando womndeni, ukukhuluphala ngokweqile, iminyaka engaphezu kuka-40, umlando wesifo sikashukela ngesikhathi sokukhulelwa - cela ukuhlolwa koshukela egazini ngomunwe. Kumahhala kuyo yonke imitholampilo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Hlola",
+        "description": "Ukuhlolwa koshukela wegazi ngeminwe kumahhala kuyo yonke imitholampilo nasemakhemisi amaningi. Ukufunda ngokungahleliwe ngaphezu kwe-11, noma ukuzila ukudla ngaphezu kwe-7, kuphakamisa isifo sikashukela."
+      },
+      {
+        "title": "Uma uxilongwa, qala ukwelashwa",
+        "description": "Ukudla kanye nokuzivocavoca kukodwa kungase kusebenze ku-Type 2 yakuqala. Iningi labantu ekugcineni lizodinga imithi yomlomo noma i-insulin. Konke mahhala emitholampilo kahulumeni."
+      },
+      {
+        "title": "Thatha imithi nsuku zonke",
+        "description": "Ngisho nangezinsuku uzizwa kahle. Ikakhulukazi ngezinsuku ozizwa kahle. Isifo sikashukela senza umonakalo waso buthule kuyilapho ushukela uphezulu."
+      },
+      {
+        "title": "Hlola izinyawo zakho nsuku zonke",
+        "description": "Isifo sikashukela silimaza imizwa ezinyaweni zakho - ungathola izilonda ezimbi futhi ungazizwa. Bheka, nuka, zizwela. Bonana nomtholampilo nganoma yisiphi isilonda esingapholi."
+      },
+      {
+        "title": "Ukuhlolwa kwamehlo nezinso kwaminyaka yonke",
+        "description": "Isifo samehlo esinesifo sikashukela kanye nesifo sezinso sithule size sithuthuke. Ukuhlolwa kwaminyaka yonke kuyawathola ngesikhathi ukuze enze okuthile."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Uzoqala kuphi",
+    "lede": "Ukunakekelwa kwesifo sikashukela eNingizimu Afrika kumahhala lapho kunesidingo. Ingxenye enzima iyaqala - uma usukwenzile, uhlelo lwasemtholampilo lungathwala umthwalo omningi.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Yonke imitholampilo kahulumeni inikeza ukuhlolwa kwesifo sikashukela mahhala, imithi, kanye ne-insulin",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Isifo sikashukela SA",
+        "description": "Ulwazi, amaqembu okusekela, nokudluliselwa kwezazi zokudla",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0118863765",
+        "phone_display": "011 886 3765",
+        "primary": false
+      }
+    ]
+  }
+}

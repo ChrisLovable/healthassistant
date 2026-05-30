@@ -1,0 +1,203 @@
+{
+  "slug": "breast-cancer",
+  "group_slug": "womens-health",
+  "name": "Umdlavuza webele",
+  "tagline": "Zihlole, uzihlole, nokuthi wenzeni uma uthola isigaxa.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "CANSA (Cancer Association of South Africa)",
+    "Pink Drive",
+    "National Department of Health",
+    "WHO"
+  ],
+  "urgent": {
+    "heading": "Bheka umtholampilo kuleli sonto uma",
+    "primary_message": "Isigaxa esisha sebele, ukukhishwa kwezingono, ukubola kwesikhumba, noma izinguquko zomumo — ungalindi. Ihlole. Iningi aliwona umdlavuza, kodwa lawo adinga isinyathelo esisheshayo.",
+    "phone": "0800226622",
+    "phone_display": "Shayela ku-0800 22 66 22",
+    "red_flags": [
+      "Isigaxa esisha noma ukujiya ebeleni noma ekhwapheni",
+      "Shintsha ngosayizi, umumo, noma ukulinganisa kwebele elilodwa",
+      "Ukushona kwesikhumba, i-puckering, noma ukuthungwa kwekhasi eliwolintshi",
+      "Ingono iphendukela ngaphakathi, noma ukuphuma okusha (ikakhulukazi okunegazi)",
+      "Ububomvu besikhumba obuqhubekayo, ukukala, noma ukuqubuka ingono",
+      "Ubuhlungu obuqhubekayo endaweni ethile ethile",
+      "Ama-lymph nodes avuvuke ekhwapheni noma ngaphezu kwe-collarbone"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Umdlavuza webele ngamagama alula",
+    "lede": "Umdlavuza webele umdlavuza oqala emangqamuzaneni ebele - ngokuvamile emiseleni yobisi noma ezindlaleni ezikhiqiza ubisi. Izigaxa eziningi zamabele aziwona umdlavuza, kodwa zonke izigaxa ezintsha zidinga ukuhlolwa.",
+    "paragraphs": [
+      "Umdlavuza webele uvame kakhulu kwabesifazane baseNingizimu Afrika. Cishe oyedwa kwabangama-27 uzoyithuthukisa ekuphileni kwakhe. Amadoda angathola nomdlavuza webele, nakuba ungavamile kakhulu - cishe oyedwa kwabayi-1,000.",
+      "Uma ubanjwa kusenesikhathi - ngaphambi kokuba usakazeke - umdlavuza webele uyelapheka kakhulu. Iminyaka emihlanu yokusinda komdlavuza webele osesigabeni sokuqala eNingizimu Afrika ingaphezu kwama-80%. Inselele eNingizimu Afrika ukubonwa sekwephuzile: abesifazane abaningi babona udokotela kuphela uma umdlavuza usuthuthukile, lapho ukwelashwa kuba nzima futhi nemiphumela iba mibi kakhulu."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "1 ku27",
+        "body": "Abesifazane baseNingizimu Afrika bazoba nomdlavuza webele ekuphileni kwabo. Ingozi ikhuphuka kakhulu ngemva kweminyaka engama-50."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "headline": "Izigaxa eziningi azilungile",
+        "body": "Cishe izigaxa zebele eziyi-8 kweziyi-10 aziwona umdlavuza - ama-cysts, ama-fibroadenomas, noma izinguquko ezivamile zebele. Kodwa zonke izigaxa ezintsha zisadinga ukuhlolwa."
+      },
+      {
+        "color": "gold",
+        "icon": "clock",
+        "headline": "Early = ukusinda",
+        "body": "Ukusinda kweminyaka emihlanu kungaphezu kwama-80% uma kubanjwa kusenesikhathi, kwehla kakhulu uma kutholwa sekwephuzile. Ukutholwa kusenesikhathi kuyisici esisodwa esikhulu somphumela."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Ukuhlolwa kwamahhala",
+        "body": "Ukuhlolwa kwamabele emtholampilo kwamahhala kuyo yonke imitholampilo. Amamammograms mahhala ezibhedlela zikahulumeni kwabesifazane abangaphezu kweminyaka engama-40 abanezici eziyingozi. Ukuhlolwa kweselula kwe-CANSA nakho."
+      }
+    ],
+    "pull_quote": {
+      "text": "Izigaxa zamabele eziningi aziwona umdlavuza. Kodwa awukwazi ukubona ngokuzizwa uwedwa. Sonke isigaxa esisha esingasuki emjikelezweni owodwa wokuya esikhathini sifanelwe ukuvakashelwa emtholampilo. 'Ungalindi futhi ubone' izinyanga.",
+      "source": "I-Pink Drive eNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Okufanele ukubheke",
+    "lede": "Yazi ukuthi amabele akho ngokuvamile abukeka kanjani futhi azizwa kanjani. Izinguquko kusukela kokujwayelekile kwakho yizona ezibalulekile - hhayi ukuthi amabele akho aqhathaniswe newomunye umuntu.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Izigaxa nokujiya",
+        "description": "Isigaxa esisha ebeleni noma ekhwapheni. Indawo ezwakala ihlukile - iqinile, iminyene, noma ijiyile kunezicubu ezizungezile. Iningi aliwona umdlavuza kodwa wonke adinga ukubhekwa."
+      },
+      {
+        "color": "coral",
+        "icon": "eye",
+        "title": "Ukushintsha kwesimo noma isikhumba",
+        "description": "Ibele elilodwa elibukeka lihlukile kunangaphambili — usayizi, umumo, noma ukushintsha indawo. I-Dimpling, i-puckering, noma isikhumba se-orange-peel. Ububomvu obuqhubekayo noma ukuqubuka."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Ingono iyashintsha",
+        "description": "Ingono iphendukela ngaphakathi (entsha), ukukhishwa okungelona ubisi lwebele (ikakhulukazi okunegazi noma okucacile ohlangothini olulodwa), noma umqubuko engonweni."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Umdlavuza webele wehlela abesifazane asebekhulile kuphela.",
+        "fact": "Ingozi ikhuphuka kakhulu ngemva kweminyaka engama-50, kodwa umdlavuza webele uyenzeka kunoma iyiphi iminyaka. Umdlavuza wabesifazane abasebancane uvame ukuba nolaka kakhulu - iqembu ngalinye leminyaka yobudala lidinga ukwazi izimpawu."
+      },
+      {
+        "myth": "Uma kungekho muntu emndenini wami oke waba nomdlavuza webele, ngiphephile.",
+        "fact": "Cishe umdlavuza wamabele owodwa kuphela kwabayishumi ohlotshaniswa ngokusobala nezakhi zofuzo. Iningi lenzeka kwabesifazane abangenawo umlando womndeni. Wonke umuntu udinga ukwazi izimpawu."
+      },
+      {
+        "myth": "Ukugqoka ubhodisi noma ukusebenzisa isiqedaphunga kubangela umdlavuza webele.",
+        "fact": "Akukho futhi okubonisiwe ukuthi kubangele umdlavuza webele kunoma yiluphi ucwaningo oluthembekile. Lezi yizinganekwane eziphazamisa izinto ezibalulekile - ukutholwa kusenesikhathi kanye nezici eziyingozi ezaziwayo."
+      },
+      {
+        "myth": "Isigaxa esincane akuyona into yokukhathazeka ngaso.",
+        "fact": "Usayizi awukutsheli ukuthi isigaxa siwumdlavuza. Eminye imidlavuza enolaka mincane uma itholakala; izigaxa eziningi ezinkulu aziwona umdlavuza. Hlola noma yisiphi isigaxa esisha - ngaphandle kosayizi."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Indlela yokunciphisa ingozi futhi uyibambe kusenesikhathi",
+    "lede": "Ezinye izici eziyingozi ongeke uziguqule (iminyaka yobudala, izakhi zofuzo, ubulili). Abaningi ongakwenza. Ukutholwa kusenesikhathi kuyisibikezelo esinamandla sokusinda.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "search",
+        "title": "Yazi okujwayelekile kwakho",
+        "description": "Bheka futhi uzwe amabele akho kanye ngenyanga, kahle ngemva kokuya esikhathini. Ushintsho olusuka kokujwayelekile kwakho lubalulekile - jwayelana nokuthi yini 'okuvamile' kuwe."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "title": "Ukuhlolwa komtholampilo emtholampilo",
+        "description": "Ukuhlolwa kwamabele emtholampilo kwamahhala kunoma yimuphi umtholampilo kahulumeni - minyaka yonke kusukela eminyakeni engama-30. Abasebenzi bezempilo bathola izinto ongase uziphuthele."
+      },
+      {
+        "color": "orange",
+        "icon": "scan",
+        "title": "I-Mammogram kusuka ku-40",
+        "description": "Ama-mammograms anconywa njalo eminyakeni emi-2 kusukela eminyakeni engama-40, ngonyaka uma kunengozi enkulu. Izibhedlela zikahulumeni zinikeza ama-mammograms mahhala kwabesifazane abasengozini."
+      },
+      {
+        "color": "gold",
+        "icon": "leaf",
+        "title": "Izici zendlela yokuphila",
+        "description": "Gcina isisindo esinempilo, nciphisa utshwala (ngaphansi kwesiphuzo esingu-1 ngosuku), sebenza ngokomzimba, ncelisa uma ukwazi. Lokhu kunciphisa ingozi ngesizotha kodwa ngendlela enenjongo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Uma uthola isigaxa esisha",
+        "description": "Qaphela ukuthi uyitholile nini. Bonana nomtholampilo emasontweni amabili ezayo. Uma ususondele noma usudlulile ekunqamukeni kokuya esikhathini, ungalindi noma yimuphi 'umjikelezo' — bona othile ngokushesha."
+      },
+      {
+        "title": "Zihlole nyanga zonke",
+        "description": "Kanye ngenyanga, ngemva kokuya esikhathini. Bheka esibukweni uphakamise izingalo. Izwa ibele ngalinye kanye nekhwapha ngokunyakazisa isiyingi. Emile ecambalala. Imizuzu emihlanu."
+      },
+      {
+        "title": "Ukuhlolwa komtholampilo kwaminyaka yonke kusuka ku-30",
+        "description": "Hamba uye kunoma yimuphi umtholampilo. Cela ukuhlolwa kwebele emtholampilo. Kumahhala, kuthatha imizuzu, futhi uthola izinto ongeke ukwazi ukuzizwa ngokwakho."
+      },
+      {
+        "title": "I-Mammogram kusukela eminyakeni engama-40",
+        "description": "Njalo eminyakeni emi-2 ukusuka ku-40, minyaka yonke uma kusengozini enkulu (umlando womndeni, amabele aminyene, isakhi sofuzo se-BRCA). Kuyadabukisa kodwa kuyashesha — futhi kusindisa ukuphila."
+      },
+      {
+        "title": "Uma uxilongwa - fika esikhungweni somdlavuza",
+        "description": "Ukwelashwa kuphumelela kakhulu ezikhungweni ezinkulu zomdlavuza ezibhedlela. Buza mayelana nokudluliselwa. I-CANSA ingasiza ukuzulazula ohlelweni."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Ukunakekelwa komdlavuza webele eNingizimu Afrika kuhlelwe kahle ezikhungweni ezinkulu. Uma kuqala kusistimu oyifakayo, iba ngcono imiphumela.",
+    "helplines": [
+      {
+        "name": "Ucingo losizo lwe-CANSA",
+        "description": "Ulwazi lomdlavuza, ukwesekwa, ukudluliselwa kokuhlolwa kweselula",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30 · mahhala kunoma iyiphi ifoni",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "I-Pink Drive",
+        "description": "Ukuhlolwa kwamabele okuhambahambayo kanye nezivivinyo zomtholampilo zonkana zaseNingizimu Afrika",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0867466374",
+        "phone_display": "086 PINKDRIVE",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamabele emtholampilo kwamahhala nokudluliselwa kuma-mammogram",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": false,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

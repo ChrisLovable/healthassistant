@@ -1,0 +1,180 @@
+{
+  "slug": "eczema",
+  "group_slug": "skin",
+  "name": "I-eczema",
+  "tagline": "Isikhumba esilumayo, esomile. I-Moisturise. Phatha izibangeli.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Allergy Foundation South Africa",
+    "Dermatological Society of South Africa",
+    "WHO",
+    "National Eczema Association"
+  ],
+  "what_is_it": {
+    "heading": "I-eczema ngemibandela ecacile",
+    "lede": "I-eczema (ebizwa nangokuthi i-atopic dermatitis) yisimo sesikhumba sesikhathi eside lapho umgoqo wesikhumba ungawubambi kahle umswakama futhi ucasuka kalula. Umphumela: omile, uyaluma, amabala avuthayo - kwesinye isikhathi avutha kabi, kwesinye isikhathi azolile.",
+    "paragraphs": [
+      "I-eczema ivame ukuqala ebuntwaneni - cishe ingane eyodwa kwezi-5 zaseNingizimu Afrika iba nayo. Abaningi bayathuthuka ngokukhula, nakuba ingabuya noma nini. I-eczema eqala kubantu abadala nayo ivamile. Ivamise ukuhambisana nesifuba somoya, i-hay fever, noma ukungezwani nokudla okuthile - 'i-atopic triad'.",
+      "I-eczema ayitheleleki. Akubangwa ukungcola noma ukungahlanzeki. Isithiyo sesikhumba ku-eczema sihlukile nje ngokofuzo - sinezimbotshana eziningi, sisebenza kakhulu. Izindaba ezinhle: ngokuswakama kwansuku zonke kanye nokuphathwa kwe-trigger, abantu abaningi bayigcina ilawulwa kahle."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ku5",
+        "body": "Izingane zaseNingizimu Afrika zine-eczema. Abaningi bayathuthuka ngokukhula. I-eczema yabantu abadala ivamile futhi."
+      },
+      {
+        "color": "green",
+        "icon": "droplet",
+        "headline": "I-Moisturizer iyawina",
+        "body": "Ukuswakama kwansuku zonke - ngisho noma isikhumba sibukeka sisihle - ukwelashwa kwe-eczema okukodwa okunamandla kakhulu. Yeqa izinsuku ezimbalwa bese umlilo uyabuya."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ayithelelani",
+        "body": "Awukwazi ukubamba i-eczema. Ayibangelwa ukungcola noma inhlanzeko. Kuyinkinga yokuvimbela isikhumba sofuzo, ngokuvamile ehambisana nengxenye yokungezwani komzimba."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Ama-steroid creams ayasebenza",
+        "body": "Ama-topical steroids ngesikhathi sokuvutha aphephile uma esetshenziswa ngendlela efanele. Bathulisa ukuvuvukala ukuze isikhumba siphole."
+      }
+    ],
+    "pull_quote": {
+      "text": "Iningi le-eczema lilawulwa kahle ngezinyathelo ezimbili ezilula: moisturise kabili ngosuku nsuku zonke, futhi usebenzise ukhilimu we-steroid lapho uvutha. Iphutha abantu abaningi elenzayo ukumisa okokuthambisa uma isikhumba sibukeka sisihle.",
+      "source": "I-Allergy Foundation yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Ibukeka kanjani i-eczema",
+    "lede": "I-eczema ibonakala ezindaweni ezijwayelekile futhi inamaphethini ajwayelekile. Ukubukeka kungahluka kumathoni esikhumba ahlukene - esikhumbeni esimnyama singabonakala simpunga, sinsomi, noma sibe nsundu ngokumnyama kunencwadi ebomvu.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "circle",
+        "title": "Izingane kanye nezingane ezincane",
+        "description": "Izihlathi, isikhumba sekhanda, nezingalo nemilenze yangaphandle. Okubomvu (noma okumnyama, esikhumbeni esiMnyama), omile, amabalashana avame ukuba wuqweqwe. Kuyaluma kakhulu - izingane zinwaya ngisho zilele."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Izingane ezindala kanye nabantu abadala",
+        "description": "Ukugoqa kwesikhumba — ngaphakathi kwezindololwane, ngemuva kwamadolo, izihlakala, intamo, amaqakala. Iziqephu zesikhumba esijiyile, esinamaxolo, esilumayo. Izandla namajwabu ajwayelekile kubantu abadala."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Isikhathi sokukhathazeka - ukutheleleka",
+        "description": "Uma amabalazwe ekhala, aphuzi, abe buhlungu kakhulu, noma asakazeke ngokushesha - angase atheleleke. Idinga ukuhlolwa komtholampilo ukuze uthole ama-antibiotics noma ukwelashwa kwe-antiviral."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ama-steroid creams azolimaza isikhumba sami.",
+        "fact": "Esetshenziswa ngendlela efanele ezifundweni ezimfushane ngesikhathi sokuvutha, ama-topical steroids aphephile futhi ayasebenza. Ukuzigwema kubangela ukulimala okwengeziwe - i-eczema engalawuleki engapheli ishubisa isikhumba futhi ibangele izifo."
+      },
+      {
+        "myth": "I-eczema ibangelwa okuthile ekudleni.",
+        "fact": "I-allergies yangempela yokudla ibangela i-eczema kwezinye izingane - kodwa i-eczema eningi ayiqhutshwa ukudla. Gwema ukuqeda ukudla ngaphandle kweseluleko sezokwelapha; zingadala umonakalo wangempela wokudla okunomsoco."
+      },
+      {
+        "myth": "Uma ukunwaya ngokwanele, ungakunwaya.",
+        "fact": "Ukunwaya kulimaza kakhulu umgoqo wesikhumba, kukhiphe amakhemikhali engeziwe wokulunywa, futhi kudala umjikelezo ononya wokulunywa. Ukuminyanisa okubandayo, okokuthambisa, nama-antihistamine kuyasiza - ukunwaya akusizi."
+      },
+      {
+        "myth": "Izingane zikhula njalo ngenxa ye-eczema.",
+        "fact": "Abaningi bayakwenza, kodwa abaningi abakwenzi. Ngisho nalabo 'abakhula' bangaba namaqhubu lapho sebekhulile. Imikhuba yokunakekela isikhumba impilo yonke - izihlanzi ezithambile, okokuthambisa nsuku zonke - kufanelekile ukwakha kusenesikhathi."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Imikhuba yansuku zonke egcina ivutha",
+    "lede": "Ukuphathwa kwe-eczema kumayelana nokunakekelwa kwesikhumba nsuku zonke - imikhuba emincane evimbela ukuqubuka okulandelayo.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Moisturise kabili ngosuku, nsuku zonke",
+        "description": "Isimanzi esijiyile esinganamakha phakathi kwemizuzu emi-3 yokugeza izivaluli emanzini. Qhubeka noma ngabe isikhumba sibukeka sisihle - yilokhu okuvimbela ukuqubuka okulandelayo."
+      },
+      {
+        "color": "purple",
+        "icon": "shower",
+        "title": "Amabhavu amafushane afudumele noma amashawa",
+        "description": "Amanzi ashisayo ahlubula isikhumba. Sebenzisa amanzi ayisivivi, ukugeza okunganamakha (hhayi insipho evamile), imizuzu engu-5-10 ubukhulu. Komisa kancane — ungahlikihli."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Yazi futhi ugweme izibangeli zakho",
+        "description": "Izimbangela ezivamile: ukushisa nokujuluka, uboya kanye nezindwangu zokwenziwa, izinsipho ezinokhahlo kanye nezinto zokuhlanza, ukucindezeleka, izifo (izilwane ezifuywayo, uthuli). Gcina idayari ye-flare ukuze ubone eyakho."
+      },
+      {
+        "color": "gold",
+        "icon": "snowflake",
+        "title": "Igumbi lokulala elipholile, elipholile",
+        "description": "Ukushisa nomjuluko kuba kubi kakhulu ukulunywa ebusuku. Gcina ikamelo lokulala lipholile, sebenzisa amashidi kakotini, futhi ungafaki izingane ngokweqile. Isipholile sizolile."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ukwenze uma ivutha",
+    "items": [
+      {
+        "title": "Faka ukhilimu we-steroid kuma-flare asebenzayo",
+        "description": "Itholakala emitholampilo - ngokuvamile i-hydrocortisone (emnene) ebusweni nasezinsaneni, inamandla emzimbeni. Sebenzisa kancane emapheshana abomvu kabili ngosuku kuze kuthuleke. Bese ume."
+      },
+      {
+        "title": "Gcina umswakama - ngisho nangaphezu kwe-steroid",
+        "description": "Faka isicelo se-moisturizer imizuzu engama-30 ngemuva kwe-steroid, noma ngezinye izikhathi. I-moisturizer isekela ukuphulukiswa - ungayeki ngoba usebenzisa i-steroid."
+      },
+      {
+        "title": "Thatha i-antihistamine uma uluma kakhulu",
+        "description": "I-Cetirizine noma i-loratadine isiza ngokuluma, ikakhulukazi ebusuku. Itholakala phezu kwekhawunta kunoma yiliphi ikhemisi. Iwusizo ikakhulukazi ezinganeni ezinwaya ekulaleni kwazo."
+      },
+      {
+        "title": "Uma isikhumba sikhala noma sitheleleka - hamba uye emtholampilo",
+        "description": "Uqweqwe oluphuzi, ukusabalala okubuhlungu, umkhuhlane - kungase kube ukutheleleka kwebhaktheriya (i-staph) noma i-eczema herpeticum (igciwane, elibi kakhulu). Idinga ukwelashwa ngokushesha."
+      },
+      {
+        "title": "Nge-eczema enzima noma okunzima ukuyilawula",
+        "description": "Imitholampilo kahulumeni ingadlulisela kudokotela wesikhumba. Ukwelashwa okusha okufana ne-dupilumab (umjovo we-biologic) kuguqule i-eczema enzima eminyakeni yamuva."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Iningi le-eczema lilawulwa kahle ezingeni lasemtholampilo. Izimo ezinzima ziyazuza ekudlulisweni kwe-dermatology - kutholakala ngohlelo lomphakathi.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala kwe-eczema, ama-moisturisers, nama-steroid creams",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-Allergy Foundation SA",
+        "description": "Ulwazi, ukwesekwa, kanye nokudluliselwa kodokotela abangabazi",
+        "meta": "Msombuluko–uLwesihlanu 08:30–16:30",
+        "phone": "0214474360",
+        "phone_display": "021 447 4360",
+        "primary": true
+      }
+    ]
+  }
+}

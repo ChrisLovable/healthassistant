@@ -45,6 +45,13 @@ const VIDEOS = [
 
 export function FirstAidVideos() {
   const { lang } = useLang();
+  const titles = {
+    en: ["CPR", "Choking", "Recovery Position", "Heart Attack", "Stroke", "Shock"],
+    af: ["KPR", "Verstikking", "Herstelposisie", "Hartaanval", "Beroerte", "Skok"],
+    xh: ["CPR", "Ukukrwitshwa", "Indawo yokululama", "Uhlaselo lwentliziyo", "Istroke", "I-shock"],
+    zu: ["CPR", "Ukuklinyeka", "Isimo sokululama", "Ukuhlasela kwenhliziyo", "Isifo sohlangothi", "Ukushaqeka"],
+    st: ["CPR", "Ho bipetsoa", "Boemo ba ho hlaphoheloa", "Tlhaselo ea pelo", "Stroke / Setorouku", "Boemo ba shock"],
+  } as const;
   const descriptions = {
     en: [
       "How to perform CPR",
@@ -64,22 +71,31 @@ export function FirstAidVideos() {
     ],
     xh: [
       "Indlela yokwenza i-CPR",
-      "Nceda umntu oginyekileyo",
+      "Nceda umntu okrwitshwayo",
       "Indawo ekhuselekileyo kumntu ongaphenduliyo",
       "Qaphela iimpawu uze uphendule",
-      "Iimpawu ze-FAST nento omawuyenze",
-      "Indlela yokunyanga i-shock",
+      "Iimpawu ze-FAST kunye nento omawuyenze",
+      "Indlela yokunceda umntu ose-shock-ini",
     ],
     zu: [
-      "How to perform CPR",
-      "Help someone who is choking",
-      "Safe position for unconscious person",
-      "Recognize and respond",
-      "FAST signs and action",
-      "How to treat shock",
+      "Indlela yokwenza i-CPR",
+      "Siza umuntu oklinywayo",
+      "Isimo esiphephile somuntu ongaphenduli",
+      "Bona izimpawu bese uthatha isinyathelo",
+      "Izimpawu ze-FAST nokuthi wenzeni",
+      "Indlela yokuphatha ukushaqeka",
+    ],
+    st: [
+      "Mokhoa oa ho etsa CPR",
+      "Thusa motho ea bipetsoeng",
+      "Boemo bo sireletsehileng bakeng sa motho ea sa arabeleng",
+      "Lemoha matšoao 'me u arabele",
+      "Matšoao a FAST le seo u lokelang ho se etsa",
+      "Mokhoa oa ho thusa motho ea leng boemong ba shock",
     ],
   } as const;
-  const L = descriptions[lang];
+  const T = titles[lang] ?? titles.en;
+  const L = descriptions[lang] ?? descriptions.en;
 
   return (
     <section className="px-4 py-4">
@@ -113,7 +129,7 @@ export function FirstAidVideos() {
               </div>
               <div className="flex-1 min-w-0">
                 <p className="text-[12px] font-semibold text-[var(--text)] leading-tight">
-                  {video.title}
+                  {T[index]}
                 </p>
                 <p className="text-[9px] text-[var(--text-muted)] leading-tight">
                   {L[index]}

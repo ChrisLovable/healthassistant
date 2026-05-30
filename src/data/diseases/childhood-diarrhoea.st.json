@@ -1,0 +1,200 @@
+{
+  "slug": "childhood-diarrhoea",
+  "group_slug": "child-baby",
+  "name": "Letšollo la bana",
+  "tagline": "ORS e pholosa bophelo. Tseba matšoao a ho felloa ke metsi 'meleng.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Department of Health",
+    "WHO Child Health",
+    "NICD",
+    "UNICEF South Africa"
+  ],
+  "urgent": {
+    "heading": "Urgent — fihla tleliniking kapa sepetlele",
+    "primary_message": "Ho felloa ke metsi 'meleng ho ngoana e monyenyane ho ka bolaea ka mor'a lihora tse seng kae. Haeba u bona leha e le efe ea matšoao ana, u se ke ua ema. Eya.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ngoana ea nyoriloeng haholo empa a sa khone ho noa",
+      "Mahlo a tebile, molomo o omeletseng, ha ho meokho ha o lla",
+      "Letheba le bonojoana le tebileng holim'a hlooho ea lesea",
+      "Moroto o monyane haholo kapa o se nang letho ka lihora tse 6+",
+      "Lethargy - ngoana oa otsela, o thata ho tsoha, kapa ha a arabele",
+      "Mali a lets'ollo",
+      "Feberu e phahameng (ho feta 39 ° C) le letšollo",
+      "Ho hlatsa ho thibelang ho boloka mokelikeli ofe kapa ofe o le tlase",
+      "Letšollo le nka matsatsi a fetang 7"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Letšollo la bongoana ka mantsoe a hlakileng",
+    "lede": "Letšollo le hlephileng, mantle a metsi - a mararo kapa ho feta ka lihora tse 24. Ho bana ba banyenyane, kotsi ha se letšollo ka bolona. Ke dehydration e latelang.",
+    "paragraphs": [
+      "Mele ea bana e menyenyane 'me e felloa ke metsi kapele. Ngoana ea lahlehetsoeng ke metsi a mangata oa fokola, ebe oa otsela, ebe oa nyatsa - ka linako tse ling ka mor'a lihora tse ngata. Letšollo e ntse e le e 'ngoe ea lisosa tse ka sehloohong tsa lefu ho bana ba Afrika Boroa ba ka tlase ho lilemo tse 5.",
+      "Bongata ba letšollo la bongoana le na le kokoana-hloko 'me le fela ka mor'a matsatsi a 3-5. Kalafo e kholo ke ho nkela maro a lahlehileng sebaka - Oral Rehydration Solution (ORS) ke tekanyetso ea khauta. Mahala tleliniking e nngwe le e nngwe. E pholositse bana ba limilione lefatšeng ka bophara."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "'Molai ea ka holimo",
+        "body": "Lefu la letšollo e ntse e le e 'ngoe ea lipolao tse ka sehloohong tsa bana ba SA ba ka tlase ho lilemo tse 5 - hoo e batlang e le ka lebaka la khaello ea metsi."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "headline": "ORS e pholosa bophelo",
+        "body": "Oral Rehydration Solution e thibela le ho alafa boholo ba ho felloa ke metsi 'meleng. Mahala tleliniking e nngwe le e nngwe. Theko e tlaase, e bonolo, e sebetsang."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Ente ea rotavirus",
+        "body": "Ente ea bana ea mahala ea SA e thibela sesosa se atileng haholo sa letšollo le matla. E fanoa ka libeke tse 6 le libeke tse 14. O seke oa tlola."
+      },
+      {
+        "color": "green",
+        "icon": "x-circle",
+        "headline": "Ha ho lithibela-mafu",
+        "body": "Bongata ba letšollo ke vaerase. Lithibela-mafu ha li thuse - 'me li ka mpefatsa mefuta e meng. U se ke ua li botsa; kopa ORS."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ngoana a ka ba le limililithara tse makholo tsa letšollo ka letsatsi. 250ml e 'ngoe le e 'ngoe ea mantle a lahlehileng e hloka ho nkeloa sebaka ke 250ml ea ORS - kapa ho feta. Boloka senoelo se lokile.",
+      "source": "WHO Bophelo bo Botle ba Bana"
+    }
+  },
+  "signs": {
+    "heading": "Mokhoa oa ho bona dehydration",
+    "lede": "Ho felloa ke metsi 'meleng ho hlaha ka mekhahlelo. Ho e tšoara nakong ea 'lenyora' ho etsa hore ngoana a tsoe sepetlele.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Bonolo - phekoleha lapeng",
+        "description": "Ngoana o nyoriloe, o noa ka tjantjello, ha a bapale hanyenyane, moroto o le lefifinyana empa lileiri li ntse li le metsi. Fana ka ORS, lebese la letsoele, kapa metsi a hloekileng."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "E itekanetseng - ea tleliniking",
+        "description": "Ngoana ea nyoriloeng haholo, molomo o omeletseng, maleiri a fokolang a metsi, a sa phomole kapa a teneha, mahlo a tebileng, letlalo le lieha ho khutlela morao ha le piniloe. Tleliniki — ha e so sepetlele."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "E matla - sepetlele hona joale",
+        "description": "Ngoana o fokola haholo hore a ka noa, oa otsela kapa ha a arabele, ha a lla, ha a na leleiri le metsi bakeng sa lihora tse 6+, sebaka se bonolo se tebileng sa lesea. Ena ke tšohanyetso."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Kamoo letšollo la bongoaneng le jalang kateng",
+    "yes": [
+      "Tsela ea mantle - ke mantle a manyane a kenang lijong, matsohong kapa metsing",
+      "Metsi a silafetseng libakeng tse se nang phepelo e sireletsehileng",
+      "Matsoho a sa hlapang ka mor'a ho fetola ntloana kapa leleiri",
+      "Ho arolelana lintho tsa ho bapala, li-dummies kapa libotlolo libakeng tsa tlhokomelo ea bana",
+      "Lijo tse khaotsoeng kapa tse sa phehoang hantle"
+    ],
+    "no": [
+      "Teething - ho sa tsotellehe ho phehella tšōmo",
+      "Ho khaola meno a macha",
+      "Ho nyantša - lebese la letsoele le hlile le sireletsa khahlanong le letšollo",
+      "Ho ja lijo tse babang hanyenyane (ho bana ba baholoanyane)"
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho sireletsa ngoana oa hau",
+    "lede": "Bongata ba letšollo la bana bo ka thibeloa ka liente, metsi a hloekileng, le ho hlapa matsoho hantle. E loketse boiteko bo fokolang ba letsatsi le letsatsi.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ente ea rotavirus",
+        "description": "Ente ea mahala ea bana ea SA nakong ea libeke tse 6 le libeke tse 14. E thibela sesosa se atileng haholo sa letšollo le matla la bongoana. Le ka mohla u se ke ua e tlola."
+      },
+      {
+        "color": "purple",
+        "icon": "droplet",
+        "title": "Matsoho a hloekileng, metsi a hloekileng",
+        "description": "Hlapa matsoho ka sesepa pele ho lijo, ka mor'a ntloana, ka mor'a ho fetola leleiri. Sebelisa metsi a sireletsehileng ho noa le ho pheha. Pheha haeba u sa tiisehe."
+      },
+      {
+        "color": "orange",
+        "icon": "heart",
+        "title": "Anya haeba u khona",
+        "description": "Lebese la letsoele le na le masole a 'mele a sireletsang khahlanong le lets'ollo. Ho nyantša feela bakeng sa likhoeli tse 6 ke e 'ngoe ea litšireletso tse matla ka ho fetisisa."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "title": "Tšireletseho ea lijo",
+        "description": "Pheha nama ka botlalo, kenya lijo tse setseng ka sehatsetsing hang-hang, hlatsoa litholoana le meroho. U se ke ua fa bana ba banyenyane lebese le sa tsoakoang kapa mahe a sa butsoang hantle."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Qala ORS setulong sa pele se hlephileng",
+        "description": "Kopanya sachet e le 'ngoe ho litara e le 1 ea metsi a hloekileng (kapa joalo ka ha pakete e bolela). Ho noa hangata hanyane ka mor'a setulo se seng le se seng se hlephileng - 50-100ml bakeng sa bana ba ka tlase ho lilemo tse 2, 100-200ml bakeng sa bana ba baholoanyane."
+      },
+      {
+        "title": "Tsoela pele ho anyesa kapa lebese le phofo",
+        "description": "U se ke ua khaotsa ho anyesa nakong ea letšollo - lebese la letsoele lea sireletsa. Tsoela pele ho etsa foromo. Masea a hloka lijo tse tloaelehileng hammoho le ORS e eketsehileng."
+      },
+      {
+        "title": "Fana ka li-supplement tsa zinki",
+        "description": "Mahala litliliniking hammoho le ORS. Zinc e khutsufatsa letšollo ka 25% mme e fokotsa ho teba. Fana ka matsatsi a 10-14 joalo ka ha u eletsoa."
+      },
+      {
+        "title": "Sheba matšoao a dehydration",
+        "description": "Sheba lileiri tse metsi, likhapha ha u lla, ho falimeha. Penya letlalo ka mpeng ka bonolo - e lokela ho khutlela morao kapele. Haeba ho bonahala eka ho na le ntho e sa tsamaeeng hantle, e-ea tleliniking."
+      },
+      {
+        "title": "E-ea tleliniking kapa sepetlele haeba boemo bo mpefala",
+        "description": "E itekanetseng dehydration - tleliniking. Matla a ho felloa ke metsi 'meleng - sepetlele. U se ke ua hakanya. Kalafo (mekelikeli ea IV) e potlakile ebile e pholosa bophelo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhokomelo ea letšollo la bana ke e 'ngoe ea litsamaiso tse matla ka ho fetisisa tsa bophelo bo botle ba sechaba tsa Afrika Boroa. ORS ea mahala, liente tsa mahala, tlhokomelo ea mahala ea sepetlele ha ho hlokahala. E sebelise pele ho nako.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Bakeng sa ho felloa ke metsi ka matla ho ngoana",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "ORS ea mahala, zinki, le tlhahlobo bakeng sa bana ba kulang",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Childline SA",
+        "description": "Mohala oa mahala oa bophelo le boiketlo ba bana ba lihora tse 24",
+        "meta": "E lokolohile fonong efe kapa efe · lihora tse 24",
+        "phone": "116",
+        "phone_display": "116",
+        "primary": false
+      }
+    ]
+  }
+}

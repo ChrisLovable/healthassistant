@@ -1,0 +1,175 @@
+{
+  "slug": "uti",
+  "group_slug": "pain",
+  "name": "Tšoaetso ea moroto (UTI)",
+  "tagline": "E tloaelehileng ho basali. Lithibela-mafu tse hlokahalang. U se ke ua iphapanyetsa.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "South African Urology Association",
+    "WHO",
+    "National Department of Health",
+    "NICD"
+  ],
+  "urgent": {
+    "heading": "Fumana tleliniking kapa sepetlele ka potlako haeba",
+    "primary_message": "Tšoaetso e bonolo ea senya e ka fetela ho liphio le mali. Matšoao a ka tlase a bolela hore tšoaetso e tsoetse pele - e hloka kalafo kapele.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Feberu e phahameng, ho thothomela, kapa ho fufuleloa ka matšoao a UTI",
+      "Bohloko bo boholo ka morao kapa lehlakoreng (ho pota-potile liphio)",
+      "Ho nyekeloa ke pelo le ho hlatsa tse ke keng tsa emisa",
+      "Pherekano kapa ho otsela ho feteletseng - haholo-holo ho batho ba baholo",
+      "Mali a morotong (ho feta palo e nyane)",
+      "Matšoao a UTI nakong ea bokhachane - le ka mohla u se ke ua emela",
+      "Matšoao a UTI ho ngoana kapa lesea",
+      "Matšoao a UTI ho monna (a sa tloaeleha, hangata a tebile haholo)"
+    ]
+  },
+  "what_is_it": {
+    "heading": "UTI ka mantsoe a bonolo",
+    "lede": "Tšoaetso ea moroto e etsahala ha libaktheria - hangata tse tsoang ka maleng - li kena ka har'a moroto 'me li ikatisa. Boholo bo ama senya (cystitis). Ka linako tse ling li fihla liphio (pyelonephritis), e leng ntho e tebileng haholoanyane.",
+    "paragraphs": [
+      "Li-UTI li atile haholo ho basali hobane mothapo oa moroto (urethra) o mokhutšoanyane, kahoo libaktheria li fihla senyeng habonolo. Hoo e ka bang halofo ea basali ba na le bonyane UTI e le 'ngoe bophelong ba bona. UTI ho banna, bana, kapa boimana ha bo atile 'me bo hloka tlhokomelo e haufi.",
+      "Li-UTI tse ngata tse bonolo tsa senya li hlaka kapele ka nako e khuts'oane ea lithibela-mafu. Ha li sa phekoloe, li ka hasana ho ea holimo ho liphio, moo tšoaetso e fetohang e tebileng haholo - ka linako tse ling e beha bophelo kotsing. U se ke ua iphapanyetsa matšoao ka tšepo ea hore ba tla tsamaea."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Halofo ea basali",
+        "body": "E tla ba le bonyane UTI e le 'ngoe bophelong ba bona. Ba bangata ba na le tse 'maloa. Ke le leng la mabaka a atileng haholo a ho etela tleliniking."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Lithibela-mafu lia sebetsa",
+        "body": "Li-UTI tse bonolo haholo li hlakile ka mor'a matsatsi a 2-3 ka nako e khuts'oane ea lithibela-mafu. Noa metsi a mangata hammoho."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "E ka ata",
+        "body": "UTI e sa phekoloeng e ka ata ho liphio - pyelonephritis. Sena se baka feberu, bohloko ba mokokotlo, 'me ka linako tse ling sepsis. Tšohanyetso ea sebele."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "headline": "Pee ka mor'a thobalano",
+        "body": "Thobalano ke sesosa se tloaelehileng sa UTI ho basali. Ho rota ka mor'a metsotso e 30 ho ntša libaktheria. Mokhoa o bonolo oa thibelo ea letsatsi le letsatsi."
+      }
+    ],
+    "pull_quote": {
+      "text": "U se ke ua leka ho phekola matšoao a UTI ka lero la cranberry le metsi feela. Li ka thusa ho thibela tšoaetso ea nakong e tlang empa li ke ke tsa hlakola e leng teng. Fumana lithibela-mafu - kalafo ea pele e thibela ho ameha ha liphio.",
+      "source": "Mokhatlo oa Afrika Boroa oa Urology"
+    }
+  },
+  "signs": {
+    "heading": "Mokhoa oa ho bolela seo u nang le sona",
+    "lede": "UTI ea senya le UTI ea liphio li na le matšoao a mang - empa UTIs ea liphio e eketsa feberu le mokokotlo. Phapang e bohlokoa haholo.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "UTI ea senya (cystitis)",
+        "description": "Ho tjhesa ha o rota, ho hloka ho rota kgafetsa, ho hloka ho rota ka potlako empa ho tswe hanyane feela, moroto o nang le maru kapa o monko, ho se thabise ha maleng kapa ka mpeng. Ha ho feberu."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "UTI ea liphio (pyelonephritis)",
+        "description": "Tsohle tse ka holimo PLUS feberu, ho thothomela, bohloko bo boholo ka morao kapa lehlakoreng, ho nyekeloa ke pelo le ho hlatsa. Sena se hloka kalafo e potlakileng - ka linako tse ling sepetlele."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "title": "UTI ka lihlopha tse khethehileng",
+        "description": "Bokhachane, bana, batho ba baholo le banna - UTIs e ka ba e sa totobalang haholo (pherekano ho batho ba hōlileng, ho teneha feela ho masea) le ho feta. Kamehla hlahloba."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho fokotsa menyetla ea hau",
+    "lede": "Haeba u fumana UTIs khafetsa, litloaelo tsa letsatsi le letsatsi li etsa phapang ea 'nete. Lintho tse nyenyane, tse entsoeng ka mokhoa o tsitsitseng.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Noa metsi a mangata",
+        "description": "Ikemisetse ho ja lilithara tse 1.5-2 ka letsatsi, haholo maemong a leholimo a chesang kapa ka boikoetliso. Moroto o hlapolotsoeng le ho ntša metsi khafetsa ho thibela libaktheria ho ikatisa."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Pela ha ho hlokahala",
+        "description": "U se ke ua e tšoara. Pea ka botlalo - u se ke ua potlaka. Ho tšoara moroto ho fa libaktheria nako ea ho ikatisa ka har'a senya se futhumetseng, se lefifi."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Hlakola ka mor'a metsotso e 30 ka mor'a thobalano",
+        "description": "E tlosa libaktheria tse ka 'nang tsa kena nakong ea thobalano. Mohlomong mokhoa o le mong oa thibelo o atlehang ka ho fetisisa bakeng sa basali ba kopanelang liphate."
+      },
+      {
+        "color": "gold",
+        "icon": "wind",
+        "title": "Hlakola ka pele ho isa morao",
+        "description": "Haholo-holo ka mor'a ho tsoa mala. E thibela libaktheria tsa maleng ho fihla ka har'a moroto - mohloli o atileng haholo oa libaktheria tsa UTI."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "E-ea tleliniking ho fumana lithibela-mafu tse nepahetseng",
+        "description": "Mahala tleliniking efe kapa efe ya mmuso. Tlhahlobo ea moroto e tiisa tšoaetso. Mokhoa o mokhuts'oane oa lithibela-mafu (hangata matsatsi a 3-5) o tlosa UTI e ngata. O seke wa leka ho e ntsha."
+      },
+      {
+        "title": "Noa metsi a mangata",
+        "description": "Haholo-holo ha matšoao a ntse a sebetsa. E thusa ho tlosa libaktheria, ho kokobetsa bohloko ha u rota. Sepheo sa bonyane lilithara tse 2 ka letsatsi nakong ea tšoaetso."
+      },
+      {
+        "title": "Qetella lithibela-mafu - le haeba ho le betere",
+        "description": "Batho ba bangata ba ikutloa ba le betere ka mor'a lihora tse 24-48. Tsela e feletseng ke eona e felisang libaktheria le ho thibela ho khutla. Ho emisa kapele ho tsoala khanyetso."
+      },
+      {
+        "title": "Haeba feberu kapa bohloko ba morao bo hlaha - tsamaea ntle le tieho",
+        "description": "Tsena li bolela hore tšoaetso e fihlile liphio. E hloka kalafo e potlakileng e matla - ka linako tse ling sepetlele. U se ke ua ema ho fihlela hoseng."
+      },
+      {
+        "title": "Haeba u tšoaroa ke UTI hangata - bona ngaka",
+        "description": "Li-UTI tse tloaelehileng (3+ ka selemo) li hloka lipatlisiso. Ho ka 'na ha e-ba le sesosa se ka phekolehang,' me mekhoa ea thibelo ea nako e telele e teng."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "UTIs ke le leng la mabaka a tloaelehileng ao batho ba etelang litleliniki. Kalafo ha e lefelloe, e potlakile, 'me e sebetsa - ha ho hlokahale hore u utloe bohloko.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Bakeng sa liphio UTI e nang le feberu e phahameng, bohloko bo boholo ba mokokotlo, kapa ho hlatsa",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala ea moroto, tlhahlobo, le lithibela-mafu",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

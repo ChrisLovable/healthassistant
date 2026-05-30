@@ -1,0 +1,176 @@
+{
+  "slug": "fungal-skin",
+  "group_slug": "skin",
+  "name": "Mafu a letlalo a bakoang ke fungus",
+  "tagline": "Leoto la moatlelete, seboko, jock itch. Theko e tlaase ho phekola.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Dermatological Society of South Africa",
+    "WHO",
+    "NICD",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Tšoaetso ea fungal letlalong ka mantsoe a hlakileng",
+    "lede": "Tšoaetso ea letlalo la fungal e bakoa ke li-fungus tse nyenyane tse se nang kotsi tse phelang likarolong tse futhumetseng, tse mongobo tsa 'mele. Ha li hola ho feta tekano, li baka ho hlohlona, ​​makhopho, hangata a bōpehileng joaloka lesale. E tena empa ka kakaretso ho bonolo ho e phekola.",
+    "paragraphs": [
+      "Mefuta e tloaelehileng: leoto la moatlelete (pakeng tsa menoana), jock itch (groin), ringworm (kae kapa kae - ha e le hantle fungus, eseng seboko), fungus ea manala, seboko sa letlalo ho bana. Leha ho na le mabitso a fapaneng, kaofela a bakoa ke li-fungus tse tšoanang.",
+      "Ba bangata ba arabela ka tranelate ea antifungal e sebelisoang bakeng sa libeke tse 2-4. Tse ling - li-fungus tsa manala, tšoaetso ea letlalo la hlooho - li hloka matlapa a lengolo la ngaka. Batho ba nang le lefu la tsoekere, tsamaiso ea 'mele ea ho itšireletsa mafung e fokolang, kapa HIV ba ka 'na ba fumana tšoaetso e matla le ho feta kapa khafetsa."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "E tloaelehileng haholo",
+        "body": "Leoto la moatlelete feela le ama batho ba baholo ba fihlang ho 70% ka nako e itseng. Li-Ringworm le jock itch li atile lefatšeng ka bophara."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Ho bonolo ho phekola",
+        "body": "Bongata ba mafu a fungal letlalong lea hlaka ka tranelate e rekisoang ka mor'a libeke tse 2-4. E theko e tlase, e fumaneha khemisi efe kapa efe."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "E a tshwaetsana",
+        "body": "Li-fungus li hasana holim'a lithaole, mabatong a shaoara, limmete tsa boikoetliso, lieta tse arolelanoang. E phekole - 'me u se ke ua arolelana lithaole kapa lieta nakong ea phekolo."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Boloka o omme",
+        "body": "Fungus e rata letlalo le futhumetseng le le mongobo. Omisa ka ho feletseng ka mor'a ho itlhatsoa, ​​fetola likausi tse fufuleloa le liaparo tsa ka tlaase, u ntše lieta. Thibelo hangata e mabapi le ho omella."
+      }
+    ],
+    "pull_quote": {
+      "text": "Haeba 'lesale' letlalong le sa hlake ka tranelate ea antifungal ka libeke tse 4, bona ngaka. Maemo a mang a letlalo a shebahala joalo ka seboko - 'me tranelate ea steroid e tla mpefatsa seboko sa 'nete.",
+      "source": "Mokhatlo oa Dermatological of South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Mekhoa e tloaelehileng",
+    "lede": "Tšoaetso ea fungal kaofela e na le chebahalo e hlohloneng, ea makhopho, hangata e nang le sebopeho sa lesale - empa moo e hlahang teng ea fapana.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Leoto la moatlelete",
+        "description": "Ho hlohlona, ​​ho phunyeha, ho phunya letlalo pakeng tsa menoana - haholo-holo ea 4 le ea 5. E ka hasana ho soles. Monko. E mpefala hlabula le lieta tse fufuleloa."
+      },
+      {
+        "color": "purple",
+        "icon": "circle",
+        "title": "Seboko (tinea corporis)",
+        "description": "Bofubelu bo pota-potileng (kapa bo lefifi, letlalong le Letšo) patch ea scaly e nang le setsi se hlakileng - se shebahala joaloka lesale. Butle-butle e hola ka ntle. E tloaelehileng matsohong, molala, 'mele. Ho hlohlona."
+      },
+      {
+        "color": "coral",
+        "icon": "user",
+        "title": "Jock itch le letlalo la hlooho",
+        "description": "Jock itch: bofubelu, lekhopho le hlabang ka mameno a groin - le tloaelehileng ho banna, ka mor'a ho fufuleloa. Seboko sa letlalo la hlooho: ho lahleheloa ke moriri o mosoeu ka sekhahla - ho tloaelehile ho bana, ho hloka matlapa."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Mokhoa oa ho ata ha mafu a fungal",
+    "yes": [
+      "Ho kopana ka ho toba letlalong le letlalo le motho ea tšoaelitsoeng",
+      "Lithaole tse arolelanoang, line ea bethe, liaparo, borashe ba moriri",
+      "Ho tsamaea u sa roala lieta mekatong e silafetseng - lishaoara tsa sechaba, likamore tsa ho fetola boikoetliso ba 'mele, matamo a ho sesa",
+      "Lieta tse arolelanoang, haholo-holo lisebelisoa tsa lipapali",
+      "Ho tsoa ho liphoofolo tse ruuoang lapeng (likatse le lintja li ka jara liboko)",
+      "Ho tloha lisebelisoa tsa mofufutso libakeng tsa boikoetliso kapa lipapali"
+    ],
+    "no": [
+      "Ho kopana feela joalo ka ho tsukutla matsoho kapa ho haka",
+      "Ho arolelana dijo kapa dino",
+      "Ho ba ka phaposing e le nngwe",
+      "Moea kapa moea"
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho qoba ho e fumana hape",
+    "lede": "Fungus e khutla haeba maemo a lula a futhumetse ebile a le mongobo. Mekhoa e menyenyane ea letsatsi le letsatsi e thibela ho pheta-pheta hangata.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Omella hantle ka mor'a ho hlatsoa",
+        "description": "Haholo-holo pakeng tsa menoana, ka groin, tlas'a matsoele, ka mameno a letlalo. Pat omisa. Letlalo le omeletseng ke lehae le se nang botsoalle bakeng sa li-fungus."
+      },
+      {
+        "color": "purple",
+        "icon": "shirt",
+        "title": "K'hothone e hloekileng, fetola hangata",
+        "description": "Likausi tsa k'hothone le liaparo tsa kahare li phefumoloha hantle ho feta li-synthetics. Fetola letsatsi le letsatsi le ka mor'a ho fufuleloa. U se ke ua boela ua apara liaparo tsa boikoetliso tse mofufutso."
+      },
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "U se ke ua tsamaea u sa roala lieta pontšeng",
+        "description": "Lishaoara tsa sechaba, likamore tsa ho fetola boikoetliso ba 'mele, libaka tsa matamo a ho sesa - roala meqathatso kapa meqathatso. Bongata ba mafu a maoto a fungal a tsoa libakeng tsena."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "U se ke ua arolelana lithaole kapa lieta",
+        "description": "Esita le litho tsa lelapa. Haeba motho a e-na le tšoaetso ea fungal, sebelisa lithaole tse arohaneng ho fihlela e hlakotsoe."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Qala ho reka tranelate ea antifungal",
+        "description": "Clotrimazole kapa terbinafine - sebelisa habeli ka letsatsi sebakeng se amehileng hammoho le 2cm ho potoloha. Tsoela pele ho qeta libeke tse 2 ka mor'a hore lekhopho le hlakole ho thibela ho khutla."
+      },
+      {
+        "title": "Boloka sebaka se omme 'me se pepesehile moeeng",
+        "description": "U se ke ua tlamisa. Apara liaparo tse hlephileng. Letlalo le hema. Phofo (eseng tranelate) hoseng e ka thusa ho groin kapa maotong bakeng sa ho monya mofufutso."
+      },
+      {
+        "title": "Tšoara mohloli",
+        "description": "Hlatsoa lithaole tsohle, libethe le liaparo tse ammeng tšoaetso ka metsi a chesang. Lahla kapa u bolaee lieta tsa khale haeba leoto la moatlelete le lula le khutla."
+      },
+      {
+        "title": "Haeba ho se betere libeke tse 4 - bona ngaka",
+        "description": "Maemo a mang a shebahalang a tšoana ha a arabele ho antifungal. Li-fungus tsa manala le seboko sa letlalo la hlooho li hloka matlapa. Litliliniki tsa mmuso li fana ka bobeli mahala."
+      },
+      {
+        "title": "Haeba u na le lefu la tsoekere kapa HIV - tsamaea kapele",
+        "description": "Tšoaetso ea fungal e ka ba matla le ho feta 'me ea ata ka potlako. E-ea tleliniking ka lets'oao la pele - u se ke oa emela ho leka ho ea lebenkeleng ka libeke."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Bongata ba mafu a letlalo a fungal bo hlapolla ka tranelate e theko e tlaase. Haeba li sa etse joalo, litliliniki tsa 'muso li fana ka phekolo ea mahala ea ngaka.",
+    "helplines": [
+      {
+        "name": "Khemisi efe kapa efe ea lehae",
+        "description": "Litlolo tsa antifungal tse rekisoang - clotrimazole, terbinafine",
+        "meta": "Ha ho lengolo la ngaka le hlokahalang bakeng sa tranelate",
+        "phone": null,
+        "phone_display": "Etela khemisi",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala le phekolo ea meriana ea antifungal haeba ho hlokahala",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

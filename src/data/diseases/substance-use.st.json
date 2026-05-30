@@ -1,0 +1,172 @@
+{
+  "slug": "substance-use",
+  "group_slug": "mental-health",
+  "name": "Tšebeliso e mpe ea lithethefatsi le ho lemalla",
+  "tagline": "Joala, lithethefatsi - mokhoa oa ho e lemoha, moo u ka fumanang thuso.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "SANCA (South African National Council on Alcoholism and Drug Dependence)",
+    "Department of Social Development",
+    "WHO",
+    "Central Drug Authority SA"
+  ],
+  "urgent": {
+    "heading": "E potlakile - letsetsa hona joale haeba",
+    "primary_message": "Ho sebelisa lithethefatsi ho feta tekano, ho ikhula ka matla, kapa mehopolo ea ho intša kotsi e hloka thuso hang-hang. Se eme. Se be mong.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ho idibala, ho thata ho tsoha, kapa ho se arabele ka mora ho sebedisa",
+      "Ho hema butle haholo, ka mokhoa o sa tloaelehang, kapa che ho hang (haholo-holo ka li-opioid tse kang heroine kapa whoonga)",
+      "Melomo e putsoa, ​​manala kapa sefahleho",
+      "Ho hlatsa ho matla hoo ho ke keng ha emisa, haholo-holo haeba o otsela",
+      "Ho tsieleha nakong ea ho tlohela - haholo-holo ho tloha joala kapa benzodiazepines",
+      "Pherekano e matla, ho ferekana, lipono, kapa feberu",
+      "Mehopolo ea ho intša kotsi, ho ipolaea, kapa ho utloisa motho e mong bohloko"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Tšebeliso ea lithethefatsi ka mantsoe a bonolo",
+    "lede": "Tšebeliso ea lithethefatsi e fetoha bothata ha e qala ho senya bophelo ba hau, likamano tsa hau, mosebetsi oa hau, kapa maikutlo a hau - 'me ha u fumana u sitoa ho emisa, leha u batla.",
+    "paragraphs": [
+      "Ho lemalla ke boemo ba bongaka, eseng ho hlōleha boitšoarong. Ntho e fetola tsela eo moputso oa boko le tsamaiso ea khatello ea kelello e sebetsang ka eona, e etsa hore tšebeliso e tsoelang pele e ikutloe e hlokahala hore feela u ikutloe u tloaelehile. Ke ka lebaka leo matla a le mong hangata a sa lekaneng - le hore na hobaneng kalafo e le bohlokoa.",
+      "Mo Afrika Borwa, tahi e baka kotsi e kgolo ka ho fetisisa, e latelwe ke methamphetamine (tik, haholo-holo Kapa Bophirima), matekoane, heroine le 'whoonga'/nyaope (lithethefatsi tsa seterateng tse thehiloeng heroine), le meriana e fanoeng ke ngaka. Tsela ea ho tsoa e fapane bakeng sa e mong le e mong, empa kaofela ba qala ka mohato o le mong - ho hahamalla."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Boemo ba bongaka",
+        "body": "Ho lemalla ke boemo ba bongaka bo tsebahalang bo amang liphetoho tsa boko. Kalafo e sebetsa - ho hlaphoheloa ke 'nete."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Tloaelehileng",
+        "body": "Hoo e ka bang motho a le mong ho ba bahlano ba Afrika Boroa o tla loana le bothata ba ho sebelisa lithethefatsi ka nako e itseng. Ha o mong."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "SANCA ke mahala",
+        "body": "SANCA e tsamaisa litsi tsa mahala tsa tlhahlobo le kalafo ho pholletsa le Afrika Boroa. Detox, tlhabollo, le rehab - ha ho hlokahale thuso ea bongaka."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Ho ntša chelete ke ntho ea sebele",
+        "body": "Ho tlosoa ha joala le benzodiazepine ho ka beha bophelo kotsing - le ka mohla u se ke ua tlohela ho bata ha u le mong. Detox ea bongaka e bolokehile ebile ha e lefelloe litleliniking tse ngata."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ho hlaphoheloa ha se taba ea boikemisetso. E mabapi le ho fumana thuso e nepahetseng ka nako e nepahetseng. Motho ea kopang thuso hang ha se eena motho ea ntseng a e jara a le mong - ba se ba ntse ba le sebete.",
+      "source": "SANCA"
+    }
+  },
+  "signs": {
+    "heading": "Matšoao a sebelisoang a fetohile bothata",
+    "lede": "Tšebeliso ea lithethefatsi e fumaneha ka bongata - ho tloha ts'ebelisong, ts'ebelisong e mpe, ho its'etleha. Ha ho hlokahale hore u be boemong bo tlaase ho kopa thuso. Pele ho bonolo.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "trending-up",
+        "title": "Ho hlokahala ho feta",
+        "description": "Ho sebelisa ho feta kamoo u neng u tloaetse ho etsa phello e tšoanang. Ho noa pele ho letsatsi. Ho sebelisa ha u le mong, kapa ntho ea pele hoseng. Ho patela ba bang chelete eo."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Ha e khone ho emisa",
+        "description": "Ho leka ho fokotsa le ho hloleha. Litšepiso ho uena kapa ba bang tseo u ke keng ua li boloka. Ho e sebelisa leha u tseba hore e baka kotsi bophelong ba hau, lelapa kapa mosebetsing."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "Matšoao a ho tlohela",
+        "description": "Ho ikutloa u kula (ho thothomela, ho fufuleloa, ho nyekeloa ke pelo, ho tšoenyeha) ha u e-s'o sebelise lihora tse 'maloa. Ho sebelisa ho ikutloa ho tloaelehile, eseng ho ikutloa u phahame. Pontšo e hlakileng ea hore 'mele o fetohile."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ho lemalla ke ho hlōleha boitšoarong kapa bofokoli.",
+        "fact": "Lilemo tse mashome tsa lipatlisiso tsa boko li bonts'a bokhoba bo kenyelletsa liphetoho tsa 'nete lipotolohong tsa boko - moputso, khatello ea maikutlo, ho etsa liqeto. Ke boemo ba bongaka bo arabelang kalafo, eseng bofokoli ba sebopeho."
+      },
+      {
+        "myth": "U tlameha ho oela fatše pele kalafo e ka sebetsa.",
+        "fact": "Pele ho bonolo. Batho ba fumanang thuso ha ba ntse ba sebetsa, ba ntse ba le malapeng, ba ntse ba sebetsa ba na le litekanyetso tse phahameng haholo tsa ho hlaphoheloa ho feta ba emelang ho fihlela ntho e 'ngoe le e' ngoe e lahlehile."
+      },
+      {
+        "myth": "Ke lokela ho khona ho tlohela ka bonna. Ho kopa thuso ho bolela hore ke hlolehile.",
+        "fact": "Batho ba bangata ba hlaphoheloang bothateng bona ba fumana thuso ea litsebi. Ho leka u le mong ho na le sekhahla sa katleho se tlase haholo. Ho kopa thuso ke ntho e sebetsang ka ho fetisisa eo u ka e etsang."
+      },
+      {
+        "myth": "Hang ha e le lekhoba la tahi, kamehla lekhoba la tahi.",
+        "fact": "Ho hlaphoheloa ke ntho ea sebele ebile e tšoarella ho batho ba bangata. Boko bo fetoha tšebelisong ea lithethefatsi bo ka fola ka nako le kalafo. Batho ba limilione tse ngata ba tsosolositse bophelo ba bona."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Letsetsa SANCA - tlhahlobo le ho romelloa mahala",
+        "description": "0861 472 622 e tla o hokela lekaleng la SANCA le haufi le wena. Ba mamela, ba hlahloba, ba bua ka phekolo ea mahala. Ha ho kahlolo."
+      },
+      {
+        "title": "U se ke ua leka ho ntša joala bo chefo u le mong",
+        "description": "Ho khaotsa ho noa haholo ho ka baka ho tsietsana esita le lefu. Haeba u noa haholo letsatsi le leng le le leng, bua le tleliniki pele u emisa. Detox ea bongaka ha e lefelloe ebile e bolokehile haholoanyane."
+      },
+      {
+        "title": "Haeba u sebelisa li-opioids - tseba ka overdose",
+        "description": "Heroin, whoonga, le lipilisi tse kokobetsang bohloko tse fanoeng ke ngaka li ka emisa ho hema. Le ka mohla u se ke ua sebelisa u le mong haeba u ka e qoba. Naloxone e khutlisa tšebeliso e feteletseng - botsa SANCA hore na e ka e fumana hokae."
+      },
+      {
+        "title": "Bolella motho a le mong eo u mo tšepang",
+        "description": "Setho sa lelapa, motsoalle, moetapele oa tumelo, ngaka - mang kapa mang eo u mo tšepang haholo. Ho e bua ka lentsoe le phahameng hang ho senya sephiri se bolokang ho tsoela pele."
+      },
+      {
+        "title": "Haeba motho eo u mo ratang a sebelisa",
+        "description": "Bua ka ho tšoenyeha, eseng tšoso. 'Kea u rata 'me ke tšoenyehile' e matla ho feta 'o hloka ho emisa'. SANCA e boetse e thusa malapa - eseng basebelisi feela."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Kalafo ea tšebeliso ea lithethefatsi Afrika Boroa e fumaneha ho feta kamoo batho ba bangata ba nahanang kateng. Makala a SANCA a teng setsing se seng le se seng se seholo. Litliliniki tsa mmuso li fana ka detox ea bongaka. Thuso e haufi ho feta kamoo o nahanang.",
+    "helplines": [
+      {
+        "name": "SANCA",
+        "description": "Tekolo ea mahala, detox, tlhabollo, le phetisetso ea rehab",
+        "meta": "Mon–Labohlano 08:00–16:30 · makala naheng ka bophara",
+        "phone": "0861472622",
+        "phone_display": "0861 472 622",
+        "primary": true
+      },
+      {
+        "name": "Tšebeliso e Mpe ea Lithethefatsi (DSD)",
+        "description": "Mohala oa thuso oa Lefapha la Ntlafatso ea Sechaba oa lihora tse 24 mahala",
+        "meta": "Mahala · lihora tse 24 · lipuo tsohle tsa SA",
+        "phone": "0800121314",
+        "phone_display": "0800 12 13 14",
+        "primary": true
+      },
+      {
+        "name": "SADAG Mental Health Line",
+        "description": "Bakeng sa tlhahlobo e habeli, khatello ea maikutlo le tšebeliso ea lithethefatsi li kopane",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": false
+      }
+    ]
+  }
+}

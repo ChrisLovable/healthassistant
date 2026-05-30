@@ -1,0 +1,186 @@
+{
+  "slug": "vaccinations",
+  "group_slug": "child-baby",
+  "name": "Ukugonywa kwezingane",
+  "tagline": "Uhlelo lwamahhala lwe-SA. Konke ukudubula kubalulekile.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "National Department of Health (EPI-SA)",
+    "NICD",
+    "WHO",
+    "South African Paediatric Association"
+  ],
+  "what_is_it": {
+    "heading": "Ukugonywa kwezingane ngamazwi alula",
+    "lede": "Imithi yokugoma iqeqesha amasosha omzimba wengane ukuthi alwe nezifo ngaphambi kokuba ahlangane nazo empilweni yangempela. Uhlelo Olunwetshiwe LwaseNingizimu Afrika Lokugomela (i-EPI-SA) luvikela ezifweni ezibulala kakhulu izingane - konke kumahhala kuyo yonke imitholampilo kahulumeni.",
+    "paragraphs": [
+      "Umuthi wokugoma ufundisa umzimba ukubona igciwane noma amagciwane ngokuwubonisa inguqulo engenangozi. Lapho kufika into yangempela, amasosha omzimba asuke eselungile. Imithi yokugoma ivimbele izigidi zokufa emhlabeni jikelele - imvukuzane iyodwa esetshenziselwa ukubulala izingane eziyizigidi ezingu-2.6 ngonyaka ngaphambi komgomo.",
+      "Uhlelo lwe-SA luqala ngesikhathi sokuzalwa futhi luqhubeka phakathi neminyaka yesikole. Namathela kukho. Ukweqiwa kwesibhamu esisodwa akuziqedi ezinye, kodwa kushiya igebe ekuvikelekeni. Uma usalele ngemuva, ungabamba - khuluma nomtholampilo. Incwadi ethi Road to Health ilandelela wonke umthamo."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "Izifo eziningi",
+        "body": "Uhlelo lwamahhala lwe-SA luvikela i-TB, uvendle, isimungumungwane, i-hepatitis B, i-pneumococcal, i-rotavirus, i-HPV, nokunye."
+      },
+      {
+        "color": "gold",
+        "icon": "gift",
+        "headline": "Konke kumahhala",
+        "body": "Yonke imithi yokugoma ohlelweni imahhala kuyo yonke imitholampilo kahulumeni. Ayikho i-medical aid, akukho ukuqokwa okudingekayo ukuze kuthathwe izithombe ezijwayelekile."
+      },
+      {
+        "color": "green",
+        "icon": "book-open",
+        "headline": "Incwadi ethi Road to Health",
+        "body": "Yonke ingane yaseNingizimu Afrika ithola incwadi ethi Road to Health lapho izalwa. Yilethe kukho konke ukuvakasha emtholampilo - ilandelela yonke imithi yokugoma, isisindo, kanye nengqopha-mlando."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Isimungumungwana sibuyile",
+        "body": "Ukwehla kwamazinga okugoma kubuyise ukubheduka kwesimungumungwane eNingizimu Afrika. Isimungumungwana singabulala, singaboni, noma sibangele ukulimala kwengqondo. Umuthi wokugoma uphephile futhi uyasebenza."
+      }
+    ],
+    "pull_quote": {
+      "text": "Imithi yokugoma iwukungenelela kwezempilo okubiza kakhulu emlandweni wesintu. IRandi ngalinye elichithwa ekugonyweni kwezingane longa okuningi ezindlekweni zokunakekelwa kwezempilo - nokunye okuningi ezimpilweni.",
+      "source": "I-WHO"
+    }
+  },
+  "signs": {
+    "heading": "Uhlelo lwezingane lwaseNingizimu Afrika",
+    "lede": "Nakhu lapho ingane yakho ithola umgomo ngamunye. Ukuvakasha kwamaviki angu-6, amaviki angu-10, angu-14, izinyanga ezingu-9 kanye nezinyanga ezingu-18 yikona okubalulekile — ungakweqi.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Ekuzalweni",
+        "description": "I-BCG (emelene ne-TB) kanye nepholiyo yomlomo yokuqala iyehla. Inikezwa ngaphambi kokuba umama nengane baphume ewodini lababelethayo."
+      },
+      {
+        "color": "orange",
+        "icon": "calendar",
+        "title": "6, 10, kanye namaviki angu-14",
+        "description": "I-Pentavalent (5-in-1: i-diphtheria, i-tetanus, i-pertussis, i-Hib, i-hepatitis B), amaconsi e-rotavirus, i-pneumococcal, uvendle. Konke ukuvakasha emtholampilo okufanayo."
+      },
+      {
+        "color": "green",
+        "icon": "smile",
+        "title": "Izinyanga eziyisi-9 neziyi-18",
+        "description": "Umuthi wokugomela isimungumungwane kukho kokubili ukuvakasha, kanye nama-booster ezinyangeni eziyi-18. Ibalulekile ekuvikelekeni kwesimungumungwane — ungalokothi ukweqe lokhu."
+      },
+      {
+        "color": "gold",
+        "icon": "graduation-cap",
+        "title": "Iminyaka yesikole",
+        "description": "I-Tetanus kanye ne-diphtheria booster eminyakeni engu-6 ne-12. Umgomo we-HPV ebangeni lesi-5 wamantombazane (nabafana ezifundazweni eziningi) — ngohlelo lwesikole."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Imithi yokugoma idala i-autism.",
+        "fact": "Amashumi eminyaka ocwaningo olukhulu ezigidini zezingane alubonisi ukuxhumana phakathi kwemithi yokugoma kanye ne-autism. Ucwaningo lwangempela lwango-1998 lwatholakala luwumgunyathi futhi lwahoxiswa. Umbhali ulahlekelwe ilayisense yakhe yezokwelapha."
+      },
+      {
+        "myth": "Ukutheleleka kwemvelo kunikeza ukuzivikela okungcono kunemithi yokugoma.",
+        "fact": "Ukutheleleka kwemvelo kwesinye isikhathi kunikeza ukungatheleleki okunamandla - kepha ngezindleko zesifo ngokwaso. Isimungumungwana singabulala noma sibangele ukulimala kwengqondo. Uvendle ungakhubaza. Imithi yokugoma inikeza ukuzivikela ngaphandle kwengozi."
+      },
+      {
+        "myth": "Imithi yokugoma eminingi esondelene kakhulu ingaphezu kwamandla omzimba.",
+        "fact": "Amasosha omzimba omntwana alawula izinkulungwane zamagciwane amasha nsuku zonke ngenxa yokuphefumula yedwa. Amaprotheni ambalwa emgomeni ayiconsi olwandle. Uhlelo lubekwe isikhathi ukuze luvikeleke eminyakeni esengozini kakhulu."
+      },
+      {
+        "myth": "Uma wonke umuntu egonyiwe, ingane yami ayiwudingi.",
+        "fact": "Ukugonywa komhlambi kusebenza kuphela lapho abantu abaningi begonyiwe. Njengoba amazinga okugoma ehla, izifo ziyabuya - njengoba sibona ngesimungumungwane eNingizimu Afrika. Ungabi yigebe."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Ukuthola nokulandelela imithi yokugoma",
+    "lede": "Imithi yokugoma isebenza kangcono uma inikezwe ngesikhathi nangendlela efanele. Uhlelo lwasemtholampilo lukwenza kube lula uma uletha incwadi.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "book-open",
+        "title": "Gcina incwadi ethi Road to Health",
+        "description": "Konke ukuvakasha emtholampilo kuya kule ncwadi. Yipasipoti yengane yakho yezokwelapha yeminyaka yokuqala eyi-6. Kugcine kuphephile futhi ulethe ngaso sonke isikhathi."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "title": "Namathela ohlelweni",
+        "description": "Ukugonywa ngesikhathi kuvikela eminyakeni esengozini kakhulu. Uma weqiwe umthamo, umtholampilo uyakubamba — ungalindi unyaka ozayo."
+      },
+      {
+        "color": "orange",
+        "icon": "thermometer",
+        "title": "Ukusabela okuthambile kuvamile",
+        "description": "Ukushisa okuncane, ububomvu, noma ukuxokozela osukwini noma ezimbili ngemva kokugoma kuvamile. IParacetamol iyasiza. Ukusabela okunamandla kuyivelakancane kakhulu — hamba emtholampilo uma ukhathazekile."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "title": "Imithi yokugoma yokubamba nokuhamba",
+        "description": "Uma ingane yakho yeqiwe ukuthwebula izithombe noma uya phesheya, buza umtholampilo mayelana nezinhlelo zokuyifica kanye nemigomo yokuvakasha. Imithamo eminingi egejiwe inganikezwa kamuva."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Izinyathelo zakho ezilandelayo",
+    "items": [
+      {
+        "title": "Bheka incwadi ethi Road to Health",
+        "description": "Vula ikhasi lokugoma. Bona ukuthi iziphi izithombe ingane yakho ezitholile nokuthi yiziphi okufanele zithathwe. Uma ungenayo incwadi, buza emtholampilo - bazokukhipha."
+      },
+      {
+        "title": "Uma ingane yakho idlulelwe yisikhathi - hamba manje",
+        "description": "Hamba kunoma yimuphi umtholampilo nencwadi. Imithi yokugoma eminingi egejiwe inganikezwa ngosuku olufanayo. Akukho ukwahlulela, azikho izindleko ezengeziwe."
+      },
+      {
+        "title": "Uma ulahlekelwe incwadi",
+        "description": "Imitholampilo eminingi inamarekhodi kagesi futhi ngokuvamile ingabheka lokho okunikeziwe. Izincwadi ezishintshwayo zimahhala."
+      },
+      {
+        "title": "Uma ingane yakho yaba nokusabela ngaphambilini",
+        "description": "Tshela umtholampilo. Ukusabela okudlule okuningi akuvimbi imithamo yesikhathi esizayo - ezinye izindlela noma izinyathelo zokuphepha ziyatholakala."
+      },
+      {
+        "title": "Uma indodakazi yakho ifunda iBanga lesi-5",
+        "description": "Qiniseka ukuthi uthola umuthi wokugomela i-HPV wamahhala ngohlelo lwesikole. Imithamo emibili, ngokwehlukana kwezinyanga eziyisithupha. Ivimbela iningi lomdlavuza womlomo wesibeletho."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Uhlelo lokugoma lwe-SA lungenye yezingxenye ezifinyeleleka kakhulu ohlelweni lwezempilo. Vele uphathe ingane yakho kanye nencwadi ethi Road to Health.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukugonywa kwamahhala kwezingane kushejuli ye-EPI",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "I-NICD Hotline",
+        "description": "Ulwazi lomgomo, imibuzo yokuphepha, imigomo yokuhamba",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "severe-allergic-reaction",
+  "group_slug": "emergency-signs",
+  "name": "Karabelo e matla ea ho kula (anaphylaxis)",
+  "tagline": "Ho ruruha, bothata ba ho hema - tšohanyetso.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Allergy Foundation South Africa",
+    "WHO",
+    "World Allergy Organization",
+    "National Department of Health"
+  ],
+  "urgent": {
+    "heading": "E potlakile - sebelisa EpiPen hona joale",
+    "primary_message": "Sebelisa adrenaline auto-injector (EpiPen) hang-hang ka har'a serope se ka ntle. Ebe u letsetsa 10177.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ho ruruha sefahleho, melomo, leleme, kapa qoqotho",
+      "Ho hema ka thata, ho hema ka thata kapa 'metso o thata",
+      "Lentsoe le hlabang kapa bothata ba ho koenya",
+      "Li-hives tsa tšohanyetso kapa maro a makhubedu a atileng mmeleng",
+      "Ho otla ha pelo ka potlako, ho tsekela kapa ho akheha",
+      "Ho hlatsa, mahlaba a matla ka mpeng, kapa letšollo la tšohanyetso"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Anaphylaxis ka mantsoe a bonolo",
+    "lede": "Anaphylaxis ke ts'oaetso e matla ea 'mele oohle e ka bolaeang ka mor'a metsotso e seng mekae haeba e sa phekoloe.",
+    "paragraphs": [
+      "Ho etsahala ha sesole sa 'mele se sebetsana le ntho eo hangata e seng kotsi - lijo, ho hlaba, moriana kapa latex. Methapo ea mali ea lutla, moea oa ruruha, khatello ea mali ea theoha.",
+      "Adrenaline (epinephrine) ke eona feela kalafo ea pele. Injector e ikemetseng e kang EpiPen e e kenya ka har'a mesifa ea serope. Li-antihistamine le li-inhalers ha li nke sebaka. Ka mor'a ho sebelisa EpiPen, motho o ntse a hloka tlhokomelo ea sepetlele hobane matšoao a ka khutla lihora tse ngata hamorao."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "zap",
+        "headline": "Metsotso",
+        "body": "Anaphylaxis e matla e ka bolaea nakong ea metsotso e 15. Lebelo la kalafo ke tsohle."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-circle",
+        "headline": "Lintho tse ka sehloohong tse susumetsang",
+        "body": "Matokomane, makotomane a lifate, likhofu, tlhapi, lebese, mahe, linotši kapa maqeba a bobi, meriana (hangata e thibelang likokoana-hloko), le latex."
+      },
+      {
+        "color": "orange",
+        "icon": "refresh-cw",
+        "headline": "Leqhubu la bobeli",
+        "body": "Ho fihla ho motho a le mong ho ba 5 o na le karabelo ea bobeli kamora lihora tse 4-12, le kamora ho ntlafatsa. Tlhokomelo ea sepetlele ke ea bohlokoa."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "headline": "EpiPen pele",
+        "body": "Adrenaline auto-injector ke eona feela kalafo ea pele. Ho bolokehile ho sebelisoa - ho e thibela ke hona ho bakang kotsi."
+      }
+    ],
+    "pull_quote": {
+      "text": "Haeba o sa tsebe hantle hore na ke anaphylaxis - sebelisa EpiPen leha ho le joalo. Kotsi ea ho e sebelisa ho sa hlokahale e nyenyane. Kotsi ea ho se e sebelise e ka ba kotsi.",
+      "source": "Allergy Foundation Afrika Boroa"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se bonang",
+    "lede": "Anaphylaxis hangata e qala ka mor'a metsotso e seng mekae ea ho pepeseha. Matšoao a kenyelletsa tsamaiso ea 'mele e fetang e le' ngoe - letlalo, phefumoloho, phallo ea mali, kapa mala.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "user",
+        "title": "Letlalo",
+        "description": "Li-hives kapa li-welts tse khubelu, ho hlohlona ho matla, ho phalla, ho ruruha ha sefahleho, molomo, leleme kapa mahlo."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Ho hema",
+        "description": "Ho lla, 'metso o thata, lentsoe le hlabang, bothata ba ho metsa, ho khohlela ho sa khaotseng, ho thatafalloa ke ho hema."
+      },
+      {
+        "color": "purple",
+        "icon": "activity",
+        "title": "Ho potoloha",
+        "description": "Ho otla ka potlako, khatello e tlase ea mali, ho tsekela, ho akheha, letlalo le boreleli kapa la clammy, le oa."
+      },
+      {
+        "color": "gold",
+        "icon": "alert-triangle",
+        "title": "Mala le kakaretso",
+        "description": "Mahlaba a ka mpeng, ho hlatsa, lets'ollo la tšohanyetso. Boikutlo ba timetso ke letšoao le hlokomelehang la temoso."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Li-antihistamine li lekane ho emisa anaphylaxis.",
+        "fact": "Li-antihistamine li phekola matšoao a fokolang a ho hana. Ha ba khone ho fetola anaphylaxis. Adrenaline ke eona feela kalafo ea pele."
+      },
+      {
+        "myth": "Ke lokela ho ema 'me ke bone hore na e mpefala pele ke sebelisa EpiPen.",
+        "fact": "E sebelise hang ha ho belaelloa hore ho na le anaphylaxis. Tieho ke sesosa se atileng haholo sa lefu. Adrenaline e bolokehile - ho e thibela ho kotsi."
+      },
+      {
+        "myth": "Haeba ba ikutloa ba le betere ka mor'a EpiPen, ha ho hlokahale hore ba ee sepetlele.",
+        "fact": "Ba ntse ba hloka tlhokomelo ea sepetlele. Matšoao a ka khutla ka mor'a lihora tse ngata (biphasic reaction). EpiPen ea bobeli e ka hlokahala."
+      },
+      {
+        "myth": "U hloka feela EpiPen haeba u kile ua ba le maikutlo a matla pele.",
+        "fact": "Boitšoaro bo matla ba pele bo ka hlaha ntle le temoso, haholo-holo ho batho ba tsejoang ke lijo kapa likokoanyana. Bua le ngaka ka ho fumana EpiPen."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Seo u lokelang ho se etsa - motsotso le motsotso",
+    "items": [
+      {
+        "title": "Sebelisa EpiPen ka har'a serope se ka ntle",
+        "description": "Ka liaparo ho lokile. Tšoara ka tieo metsotsoana e 10. Ela hloko nako eo u e sebelisitseng."
+      },
+      {
+        "title": "Letsetsa 10177 kapa 112 hang-hang",
+        "description": "E re \"anaphylaxis\". Esita le haeba motho a bonahala a le betere, o hloka tlhokomelo ea sepetlele."
+      },
+      {
+        "title": "Li behe fatše, phahamisa maoto",
+        "description": "E thusa khatello ea mali. Haeba li hlatsa, li behe ka lehlakore. Haeba ho hema ho le thata, ba lumelle hore ba lule - ba se ke ba ema."
+      },
+      {
+        "title": "EpiPen ea Bobeli haeba ho se na ntlafatso ka metsotso e 5",
+        "description": "Fana ka tekanyo ea bobeli seropeng se seng. Li-EpiPen tse ngata li tla ka 2-pack ka lebaka lena."
+      },
+      {
+        "title": "Lula le bona ho fihlela ba fanang ka thuso ea bongaka maemong a tšohanyetso ba fihla",
+        "description": "Sheba ho phefumoloha le ho otla ha pelo. Itokisetse ho etsa CPR. Fana ka EpiPen e sebelisitsoeng ho baoki ba fanang ka thuso ea bongaka maemong a tšohanyetso."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "O ka letsetsa mang hona jwale",
+    "lede": "Anaphylaxis e lula e le ts'ohanyetso, le haeba matšoao a kokobela kamora EpiPen. Fumana motho sepetlele.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · re \"anaphylaxis\"",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Boemo ba tshohanyetso (mohala)",
+        "description": "E fihlella litšebeletso life kapa life tsa tšohanyetso ka selefouno",
+        "meta": "Mahala ho mobile efe kapa efe · lihora tse 24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Allergy Foundation SA",
+        "description": "Tlhahisoleseding, tšehetso, le ho fumana setsebi sa allergy",
+        "meta": "Mantaha–Labohlano 08:00–16:30",
+        "phone": "0214474360",
+        "phone_display": "021 447 4360",
+        "primary": false
+      }
+    ]
+  }
+}

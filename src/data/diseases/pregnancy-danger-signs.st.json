@@ -1,0 +1,152 @@
+{
+  "slug": "pregnancy-danger-signs",
+  "group_slug": "womens-health",
+  "name": "Matšoao a kotsi a bokhachane",
+  "tagline": "Ho tsoa mali, bohloko bo boholo, ha ho na motsamao - nako ea ho kena.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Department of Health",
+    "Saving Mothers Report",
+    "WHO",
+    "South African Society of Obstetricians and Gynaecologists"
+  ],
+  "urgent": {
+    "heading": "E-ea sepetlele joale haeba",
+    "primary_message": "Matšoao a kotsi a bokhachane a ka bolela phapang lipakeng tsa bophelo le lefu - ho 'm'a kapa lesea. Se eme. U se ke ua hakanya. Eya.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ho tsoa mali a mangata ka botšehaling - ho feta nako e tloaelehileng",
+      "Bohloko bo matla ba ka mpeng kapa mokokotlong bo ke keng ba kokobela",
+      "Hlooho e bohloko haholo ka pono e lerootho kapa matheba a ho bona",
+      "Ho ruruha ho matla ha sefahleho, matsoho kapa maoto ka tšohanyetso",
+      "Ngoana ha a sisinyehe joalo ka tloaelo (kamora libeke tse 28)",
+      "Ho phatloha ha metsi pele ho libeke tse 37",
+      "Feberu e ka holimo ho 38°C",
+      "Ho hlatsa ho ke keng ha emisa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Lebaka leo sena se leng bohlokoa",
+    "lede": "Ka kakaretso bokhachane bo bolokehile Afrika Boroa, empa mafu a bakhachane a ntse a ata haholo - 'me boholo ba bona bo ka thibeloa. Ho tseba matšoao a kotsi le ho nka khato ka potlako ho pholosa bophelo.",
+    "paragraphs": [
+      "Afrika Boroa e tlaleha mafu a bakhachane a fetang 1,000 selemo se seng le se seng. Tlaleho ea Saving Mothers e bontša hore boholo bo etsahala linthong tse ka thibeloang - ho tsoa mali, khatello e phahameng ea mali, tšoaetso, mathata a maemo a neng a le teng pele. Mafu a mangata a etsahala hobane matšoao a lemosang a ile a tlosoa kapa tlhokomelo e liehile.",
+      "Ha ho hlokahale hore u tsebe hore na phoso ke efe. U hloka feela ho hlokomela hore ho na le phoso, 'me u ee sepetlele. Tlhokomelo ea mahala ea pelehi e fumaneha sepetleleng se seng le se seng sa mmuso. Tšepa tlhaho ea hau - haeba ho na le ho hong ho utloang ho fosahetse, mohlomong ho joalo."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "1,000+",
+        "body": "Basali ba Afrika Boroa ba shoa nakong ea bokhachane kapa pelehi selemo le selemo. Bongata ba mafu ana a ka thibeloa."
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "headline": "MomConnect",
+        "body": "Tšehetso ea mahala ea WhatsApp ea bokhachane ho tsoa ho NdoH ka lipuo tsohle tsa SA. Romela 'Hi' ho 079 631 2456 ho ngolisa."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Tlhokomelo ea mahala",
+        "body": "Liketelo tsohle tsa bakhachane, pelehi, le tlhokomelo ea tšohanyetso ea pelehi li mahala sepetleleng se seng le se seng sa 'muso le tleliniking."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Itšepe",
+        "body": "Haeba ho na le ho hong ho phoso, kena. Basebeletsi ba tsa bophelo bo botle ba ka mpa ba u bona ntle le letho ho e-na le ho fetoa ke ntho e tebileng."
+      }
+    ],
+    "pull_quote": {
+      "text": "Lefu le leng le le leng la bakhachane le na le pale ka mor'a lona ea matšoao a lemosang a fositsoeng kapa a lahliloeng. Haeba u imme 'me u tšoenyehile, karabo e nepahetseng e lokela ho hlahlojoa kamehla. Kamehla.",
+      "source": "Saving Mothers Report, South Africa"
+    }
+  },
+  "signs": {
+    "heading": "Matšoao a lemosang ka mokhahlelo oa bokhachane",
+    "lede": "Matšoao a mang a bohlokoa ka nako efe kapa efe. Tse ling li bohlokoa ho feta ka linako tse ling. Ha u belaela - hlahloba.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "droplet",
+        "title": "Libeke tse 12 tsa pele",
+        "description": "Ho tsoa mali haholo, mahlaba a bohloko a lehlakoreng le le leng (e ka ba ectopic pregnancy — e behang bophelo kotsing), ho hlatsa ho matla ho thibelang ho theola metsi, feberu e ka holimo ho 38°C."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Ka mor'a libeke tse 12",
+        "description": "Ho tsoa mali haholo, hlooho e bohloko e nang le liphetoho tsa pono (ho ka etsahala hore ebe preeclampsia), ho ruruha ho matla, ho tsamaea ha lesea butle kapa ho emisa (kamora libeke tse 28)."
+      },
+      {
+        "color": "purple",
+        "icon": "clock",
+        "title": "Haufi kapa ka nako (kamora libeke tse 37)",
+        "description": "Ho honyela khafetsa, ho phatloha ha metsi, ho tsoa mali, ho fokotseha ha motsamao oa lesea, hlooho e bohloko haholo kapa mahlaba ka mpeng. Se leke ho beha nako ea lintho lapeng - kena."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Haeba letšoao la kotsi le hlaha - e-ea sepetlele",
+        "description": "U se ke ua ikhannela haeba u ka e qoba. Letsetsa ambulense kapa motho e mong a u khanne. Nka karete ea hau ea bokhachane kapa buka ea tleliniki."
+      },
+      {
+        "title": "U se ke ua leka ho beha nako matšoao lapeng",
+        "description": "Bohloko bo matla, ho tsoa mali, kapa liphetoho tsa pono ha li hloke nako. Kena. Pre-eclampsia le ectopic pregnancy li ka bolaea ka mor'a lihora tse seng kae."
+      },
+      {
+        "title": "E-ea sepetleleng seo u se behileng kapa se haufi le uena",
+        "description": "Lipetlele tsa mmuso li tlameha ho amohela maemo a tšohanyetso a bakhachane ho sa tsotelehe hore na u behile hokae. Nka lirekoto tsa hau haeba u na le tsona."
+      },
+      {
+        "title": "Haeba o sa tiisehe - molaetsa ho MomConnect",
+        "description": "Ts'ehetso ea mahala ea WhatsApp - romella 'Hi' ho 079 631 2456. Tleliniki ea hau e ka u eletsa hore na u kene. Ha u sa tsebe hantle, khetha sepetlele."
+      },
+      {
+        "title": "Eba teng ketelong e 'ngoe le e 'ngoe ea bakhachane",
+        "description": "Matšoao a mangata a kotsi a bonoa kapele ketelong ea bakhachane. Mahala tleliniking e nngwe le e nngwe. Lenaneo le thibela maemo a tšohanyetso."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Boemo ba tšohanyetso ba bakhachane bo hloka sepetlele, eseng tleliniki. E-ea sepetleleng sa mmuso se nang le lits'ebeletso tsa pelehi - Tygerberg, Charlotte Maxeke, Steve Biko, King Edward, le ba bang ho potoloha le naha.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · ho re 'matla a bokhachane'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Boemo ba tshohanyetso (mohala)",
+        "description": "E fihlella litšebeletso life kapa life tsa tšohanyetso ka selefouno",
+        "meta": "Mahala ho mobile efe kapa efe · lihora tse 24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "MomConnect",
+        "description": "Tšehetso ea mahala ea bokhachane le keletso ka WhatsApp",
+        "meta": "Lipuo tsohle tsa SA · NdoH",
+        "phone": "0796312456",
+        "phone_display": "WhatsApp 079 631 2456",
+        "primary": false
+      }
+    ]
+  }
+}

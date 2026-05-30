@@ -1,0 +1,218 @@
+{
+  "slug": "pneumonia",
+  "group_slug": "infectious",
+  "name": "Nyumonia",
+  "tagline": "'Molai ea hloahloa oa ba ka tlase ho lilemo tse 5 le ho feta lilemo tse 65.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "NICD",
+    "WHO",
+    "National Department of Health",
+    "American Thoracic Society"
+  ],
+  "urgent": {
+    "heading": "Ho potlakile - bona tleliniki hona joale",
+    "primary_message": "Pneumonia ho bana ba banyenyane le batho ba hōlileng e ka bolaea ka mor'a lihora tse seng kae. Ho hema ka thata, melomo e putsoa, ​​bofokoli bo matla - ho ea sepetlele.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Ho hema ka thata kapa ho hema kapele haholo",
+      "Molomo o moputsoa, ​​lintlha tsa menoana kapa sefahleho",
+      "Ha e khone ho boloka maro a theoha - ho hlatsa tsohle",
+      "Bohloko ba sefuba bo mpefalang ka ho hema",
+      "Pherekano kapa ho otsela ho sa tloaelehang, haholo ho batho ba tsofetseng",
+      "Ho ngoana ea ka tlase ho lilemo tse 5: sefuba se anyang pakeng tsa likhopo, ho hana ho fepa, ho hloka taolo",
+      "Khohlela e hlahisang mafome a mafome, a matala kapa a makhopho a mali"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Pneumonia ka mantsoe a bonolo",
+    "lede": "Pneumonia ke tšoaetso ea matšoafo a moea (alveoli) ka lets'oafo le le leng kapa ka bobeli. Mekotla e tlala mokelikeli kapa boladu, ho etsa hore ho be thata ho hema le ho lapa oksijene mmeleng.",
+    "paragraphs": [
+      "Boholo ba nyumonia bo bakoa ke baktheria - Streptococcus pneumoniae ke eona e atileng haholo. Livaerase le li-fungus le tsona li ka e baka. Hangata tšoaetso e latela sefuba kapa ntaramane, ha sesole sa 'mele se fokola.",
+      "Hangata batho ba baholo ba phelang hantle ba fola hantle ka lithibela-mafu kapa tlhokomelo ea tšehetso. Kotsi e tsepamisitsoe lihlopheng tse tharo: bana ba ka tlase ho lilemo tse 5, batho ba baholo ho feta lilemo tse 65, le batho ba nang le maemo a sa foleng kapa HIV. Lihlopheng tsena, pneumonia ke e 'ngoe ea lipolao tse ka sehloohong tsa Afrika Boroa."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "'Molai ea ka holimo",
+        "body": "Pneumonia ke e 'ngoe ea lisosa tse ka sehloohong tsa lefu ho bana ba SA ba ka tlase ho lilemo tse 5 le batho ba baholo ba ka holimo ho lilemo tse 65."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Ente e ka thibeloang",
+        "body": "Ente ea pneumococcal - mahala bakeng sa bana, e khothalletsoang ho feta lilemo tse 65 le boloetse bo sa foleng. E fokotsa mofuta o tloaelehileng haholo."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "headline": "E phekolehang",
+        "body": "Pneumonia ea baktheria e arabela ho lithibela-mafu ka mor'a matsatsi a seng makae. Kalafo e tlameha ho phethoa ka botlalo - le ka mohla u se ke oa emisa kapele."
+      },
+      {
+        "color": "green",
+        "icon": "alert-circle",
+        "headline": "Hangata ho latela feberu",
+        "body": "Li-pneumonia tse ngata li qala e le tšoaetso ea sefuba ea kokoana-hloko e fetohang baktheria. Ke ka lebaka lena feberu e ntseng e mpefala kamora matsatsi a 5-7 e hloka tlhahlobo ea bongaka."
+      }
+    ],
+    "pull_quote": {
+      "text": "Pneumonia ho ngoana e monyane e ka tloha ho khohlela ho ea ho e mahlonoko ka lihora tse 24. Haeba ngoana a phefumoloha ka potlako, a hana ho fepa, kapa a e-na le sefuba sa sefuba - u se ke ua emela hoseng. Tsamaea hona joale.",
+      "source": "WHO"
+    }
+  },
+  "signs": {
+    "heading": "Seo pneumonia e shebahalang ka sona",
+    "lede": "Matšoao a nyumonia a qala ho tsamaea hanyenyane-pneumonia ho ea ho matla le ho beha bophelo kotsing. Bana le batho ba baholo hangata ba bontša matšoao a sa tloaelehang.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Matšoao a khale",
+        "description": "Ho khohlela (hangata ho na le mamina a botala bo botala, a mosehla, kapa a mafome), feberu le mohatsela, ho hema ka thata, mahlaba a sefuba a mpefalang ha motho a hema."
+      },
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Batho ba hōlileng ba ka 'na ba se be le feberu",
+        "description": "Batho ba baholo hangata ba hlaha ka pherekano, bofokoli, ho oa, kapa ho mpefala ha maemo a tlase - ntle le feberu e hlakileng kapa khohlela."
+      },
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Bana",
+        "description": "Ho phefumoloha ka potlako, ho hula ka sefubeng (ho hula ka har'a likhopo kapa ka tlas'a likhopo ka phefumoloho e 'ngoe le e' ngoe), ho hana ho fepa, ho korotla, melomo e putsoa - tsena li hloka tlhokomelo e potlakileng."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Kamoo nyumonia e namang kateng",
+    "yes": [
+      "Ho khohlela le ho thimola ho jala libaktheria kapa livaerase ho tsoa ho batho ba tšoaelitsoeng",
+      "Khokahano e haufi-ufi malapeng, tlhokomelong ea bana, kapa mahaeng a tlhokomelo",
+      "Takatso ea lijo, lino, kapa tse ka hare ho mpa matšoafong (ho batho ba baholo ba hōlileng kapa ba fokolang)",
+      "Ho latela tšoaetso e 'ngoe ea phefumoloho joalo ka feberu kapa COVID"
+    ],
+    "no": [
+      "Ho kopana ho sa tloaelehang joalo ka ho ts'oarana ka matsoho (ho sa tloaelehang)",
+      "Menoang kapa likokoanyana",
+      "Lijo le metsi (ntle le takatso)",
+      "Litulo tsa ntloana kapa bokaholimo (ha bo na letho)"
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho fokotsa kotsi",
+    "lede": "Bongata ba nyumonia ho bana ba banyenyane, maqheku, le batho ba kulang ho sa foleng bo ka thibeloa ka liente, ho hlapa matsoho, le ho alafa mafu a tšoaetsanoang a matšoafo kapele.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ente ea pneumococcal",
+        "description": "E mahala bakeng sa bana libeke tse 6, libeke tse 14 le likhoeli tse 9. E khothaletsoa batho ba baholo ba kaholimo ho lilemo tse 65 le bokuli bo sa foleng - botsa tleliniking."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "Ente ea selemo le selemo ea feberu",
+        "description": "Hangata feberu e lebisa ho pneumonia. Ho thibela sefuba ho thibela li-pneumonia tse ngata tsa bobeli. Mahala bakeng sa lihlopha tse kotsing e kholo."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "Se tsube",
+        "description": "Ho tsuba ho senya tšireletso ea matšoafo 'me ke sesosa se seholo sa pneumonia. Ho tlohela ho fokotsa kotsi nakong ea likhoeli."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Bohloeki ba matsoho",
+        "description": "Hlapa matsoho khafetsa, haholo-holo ha u le haufi le bana ba banyenyane, beng ka uena ba hōlileng, kapa mang kapa mang ea nang le boloetse bo sa foleng."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ke batho ba baholo feela ba tšoaroang ke pneumonia.",
+        "fact": "Pneumonia e ka hlasela lilemo life kapa life. Bana, bacha, baatlelete - bohle baa e fumana. Ho ba bangata, e ea phekoleha - empa e tlameha ho phekoloa."
+      },
+      {
+        "myth": "Litlhare tsa sefuba le mouoane li lekane ho phekola pneumonia.",
+        "fact": "Pneumonia ea baktheria e hloka lithibela-mafu. Litlhare tsa mouoane le tsa lapeng li ka kokobetsa matšoao empa li ke ke tsa hlakola tšoaetso. Bona ngaka."
+      },
+      {
+        "myth": "Haeba ke ikutloa ke le betere ka mor'a matsatsi a 'maloa, nka emisa lithibela-mafu tsa ka.",
+        "fact": "Ho emisa lithibela-mafu kapele ho etsa hore libaktheria tse ling li phele, li itšoare, 'me li khutlisetse tšoaetso - ka linako tse ling e mpe le ho feta. Qetella thupelo e felletseng."
+      },
+      {
+        "myth": "Pneumonia e lula e tšoana - e tšoare hang 'me u qetile.",
+        "fact": "Likokoana-hloko tse fapaneng li baka pneumonia e fapaneng, 'me lithibela-mafu tse nepahetseng lia fapana. Ke kahoo ngaka - eseng ho iphekola - e lokelang ho khetha phekolo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Sheba tleliniki bakeng sa tšoaetso efe kapa efe e phehellang ea sefuba",
+        "description": "Ho khohlela ho sa ntlafalang ka mor'a matsatsi a 7, haholo-holo ka feberu, bohloko ba sefuba, kapa bothata ba ho hema, ho hloka tlhahlobo ea bongaka."
+      },
+      {
+        "title": "Haeba e fumanoa - nka thupelo e felletseng ea lithibela-mafu",
+        "description": "Boholo ba pneumonia ea baktheria bo phekoloa ka matsatsi a 5-7 a lithibela-mafu. Nka tekanyo e 'ngoe le e 'ngoe le haeba u ikutloa u le betere - ho emisa kapele ho ka etsa hore ts'oaetso e boele hape."
+      },
+      {
+        "title": "Phomola ka botlalo ho fihlela o fola",
+        "description": "Pneumonia e khathatsa 'mele. Rera bonyane beke u se mosebetsing kapa sekolong. Ho potlakela ho lieha ho hlaphoheloa le ho baka mathata."
+      },
+      {
+        "title": "Sheba matšoao a kotsi",
+        "description": "Ho phefumoloha ka potlako kapa ka mosebetsi o boima, melomo e putsoa, ​​pherekano, bohloko ba sefuba, ho sitoa ho boloka maro a theoha - e-ea sepetlele hang-hang."
+      },
+      {
+        "title": "Fumana liente ka mor'a ho hlaphoheloa",
+        "description": "Ha u se u hlaphohetsoe, botsa tleliniki ea hau ka liente tsa pneumococcal le ntaramane haeba ha u e-so li fumane. E thibela karolo e latelang."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Pneumonia e bobebe e ka phekoloa lapeng ka lithibela-mafu tse tsoang tleliniking. Pneumonia e matla ke tšohanyetso ea sepetlele.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · bakeng sa bothata bo boholo ba ho hema",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Boemo ba tshohanyetso (mohala)",
+        "description": "E fihlella litšebeletso life kapa life tsa tšohanyetso ka selefouno",
+        "meta": "Mahala ho mobile efe kapa efe · lihora tse 24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Liente tsa mahala tsa pneumococcal, lithibela-mafu, le tlhahlobo",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": false,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

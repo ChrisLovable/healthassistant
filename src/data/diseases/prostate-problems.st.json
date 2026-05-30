@@ -1,0 +1,180 @@
+{
+  "slug": "prostate-problems",
+  "group_slug": "mens-health",
+  "name": "Mathata a tšoelesa ea senyama (Prostate)",
+  "tagline": "E tloaelehileng ka mor'a 50. Tse ngata lia phekoleha.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "CANSA (Cancer Association of South Africa)",
+    "South African Urology Association",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Mathata a prostate ka mantsoe a bonolo",
+    "lede": "Prostate ke tšoelesa e nyenyane ka tlas'a senya, e pota-potiloeng ke moroto. Ka tlhaho e hola ka botsofali. Ka lilemo tse 60, banna ba bangata ba na le ho atolosoa ha tšoelesa ea senya. Katoloso e ngata ha e na thuso - empa e lokela ho hlahlojoa.",
+    "paragraphs": [
+      "Lintho tse tharo tse ka sehloohong li ka ’na tsa senyeha ka tšoelesa ea senya: e ka hōla (BPH—benign prostatic hyperplasia), e ka ruruha kapa ea tšoaetsoa (prostatitis), kapa ea tšoaroa ke kankere. Ka boraro ba tsona li baka matšoao a tšoanang a moroto.",
+      "Kankere ea tšoelesa ea senya ke kankere e atileng haholo ho banna ba Afrika Boroa. Ha e tšoaroa kapele, e phekoleha haholo. Qholotso ke hore banna ha ba bue ka matšoao ana ebile ha ba ee tlhahlobong. Ho hlahlojoa ho tloha 50 - kapa 40 haeba Black kapa le histori ea lelapa - ke e 'ngoe ea lintho tsa bohlokoa ka ho fetisisa tseo monna a ka li etsang."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "users",
+        "headline": "E tloaelehileng haholo",
+        "body": "Kankere ea tšoelesa ea senya ke kankere e atileng haholo ho banna ba SA. Hoo e ka bang motho a le mong ho ba robeli o tla e hlahisa bophelong ba bona."
+      },
+      {
+        "color": "purple",
+        "icon": "calendar",
+        "headline": "Qala ka 50",
+        "body": "Tlhahlobo ea selemo le selemo ho tloha ho lilemo tse 50 - kapa ho tloha ho 40 haeba u le Motšo kapa u na le nalane ea lelapa ea mofetše oa tšoelesa ea senya."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Pele = ho folisoa",
+        "body": "Kankere ea pele ea tšoelesa ea senya e na le 95% ea ho phela lilemo tse 5. Ho tšoaroa morao, ho pholoha ho theoha haholo. Phapang ke ho hlahloba."
+      },
+      {
+        "color": "green",
+        "icon": "shield",
+        "headline": "Haholo-holo hase kankere",
+        "body": "Matšoao a mangata a ho ntša moroto ho banna ba hōlileng a bakoa ke ho hola hantle, eseng mofetše. Empa u ke ke ua tseba ntle le ho hlahloba."
+      }
+    ],
+    "pull_quote": {
+      "text": "Banna ba batho ba batšo ba Afrika Boroa ba na le kotsi e batlang e imena habeli ea bophelo bohle ba banna ba makhooa, 'me hangata ba hlahisa bacha ba nang le lefu le matla le ho feta. Ho hlahlojoa ho tloha ho 40 - eseng 50 - ke pitso e nepahetseng bakeng sa banna ba Batšo.",
+      "source": "Mokhatlo oa Afrika Boroa oa Urology"
+    }
+  },
+  "signs": {
+    "heading": "Seo u lokelang ho se ela hloko",
+    "lede": "Matšoao a mangata a tšoelesa ea senya a hlaha ka lebaka la ho eketseha ha kotsi (BPH). Matšoao a tšoanang a ka boela a supa kankere, tšoaetso, kapa maemo a mang. Etsa hore li hlahlojoe.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ho fetoha ha moroto",
+        "description": "Molapo o fokolang, o tlameha ho sututsa, ho tsubella qetellong, ho utloa senya ha se na letho, ho tsoha hangata bosiu, ho hlokahala hore hang-hang u tsamaee."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Bohloko kapa madi",
+        "description": "Ho chesa ha u ntša metsi (ho ka etsahala hore e be tšoaetso), mali a morotong kapa peō ea botona - e hloka tlhahlobo e potlakileng. E ka ba tšoaetso, BPH, kapa mofetše."
+      },
+      {
+        "color": "purple",
+        "icon": "trending-down",
+        "title": "Lipontšo tsa morao-rao tsa temoso",
+        "description": "Bohloko ba masapo (haholo-holo morao kapa letheka), ho lahleheloa ke boima bo sa hlalosoang, mokhathala, ho ruruha ha maoto - ho ka bontša lefu le tsoetseng pele. Bona ngaka ntle le tieho."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Haeba ke khona ho rota, prostate ea ka e hantle.",
+        "fact": "Banna ba bangata ba nang le mofetše oa tšoelesa ea senya ba na le ho ntša metsi ka mokhoa o tloaelehileng - haholo-holo nakong ea ha phekolo e sebetsa hantle. Ho hlahloba, eseng matšoao, ho e tšoara kapele."
+      },
+      {
+        "myth": "Litlhahlobo tsa tšoelesa ea senya li tlotlolla ebile ha li na thuso.",
+        "fact": "Tlhahlobo e nka metsotsoana e 30 'me ha e phutholohe, ha e utloise bohloko. Tlhahlobo ea mali ea PSA ke thupa ea nale. Ka bobeli li ka eketsa lilemo tse 15+ bophelong ba hau."
+      },
+      {
+        "myth": "Kalafo e tla ntlohela ke se na matla.",
+        "fact": "Liphekolo tsa morao-rao li molemo haholo ho boloka ts'ebetso ho feta nakong e fetileng. Litla-morao li fapana ho ea ka sethala le khetho ea kalafo. Bua le ngaka ea hau ea urologist - eseng marang-rang."
+      },
+      {
+        "myth": "Ke lefu la monna-moholo - Ke sa le monyane haholo hore nka tšoenyeha.",
+        "fact": "Kankere ea tšoelesa ea senya e ka hlaha ho tloha ho lilemo tse 40, haholo ho banna ba Batšo kapa ba nang le nalane ea malapa. Tataiso e tloaelehileng bakeng sa lihlopha tse kotsing e kholo ke ho hlahloba ho tloha ho 40."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho fokotsa kotsi le ho e tšoara kapele",
+    "lede": "Kankere ea tšoelesa ea senya e ke ke ea thibeloa ka botlalo, empa u ka fokotsa kotsi le ho e tšoara kapele. Mokhoa oa bophelo o bohlokoa; tlhahlobo e bohlokoa le ho feta.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "title": "Tlhahlobo ea selemo le selemo ho tloha ho 50",
+        "description": "Tlhahlobo ea mali ea PSA hammoho le tlhahlobo ea rectal ea digital. Mahala tleliniking efe kapa efe ya mmuso. Selemo le selemo ho tloha ho 50 - kapa 40 haeba ba batsho, nalane ea lelapa, kapa kotsi e tsebahalang ea lefutso."
+      },
+      {
+        "color": "purple",
+        "icon": "leaf",
+        "title": "Ho ja ka mokhoa oa Mediterranean",
+        "description": "Meroho, tamati e phehiloeng (lycopene), tlhapi, oli ea mohloaare, legumes. Nama e khubelu e fokolang le lebese. E hokahane le kotsi e tlase ea mofetše oa prostate lipatlisisong."
+      },
+      {
+        "color": "orange",
+        "icon": "activity",
+        "title": "Tsamaea khafetsa",
+        "description": "Banna ba mahlahahlaha ba na le sekhahla se tlase sa mofetše oa tšoelesa ea senya le liphetho tse betere ha ba fumanoa. Metsotso e 30 ea ts'ebetso e itekanetseng matsatsi a mangata. Lipalo tsa ho tsamaea."
+      },
+      {
+        "color": "gold",
+        "icon": "scale",
+        "title": "Boima bo botle",
+        "description": "Botenya bo amahanngoa le mofetše o mabifi oa tšoelesa ea senya le liphello tse mpe haholo. Boloka boima bo botle, haholo-holo ho pota thekeng."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Haeba u le lilemo li 50 kapa ho feta (40+ bakeng sa kotsi e phahameng)",
+        "description": "Behela tlhahlobo ea tšoelesa ea senya tleliniking efe kapa efe ea 'muso. Tlhahlobo ea mali ea PSA hammoho le tlhahlobo. Mahala. Pheta ea selemo. Nka motsoalle haeba e u thusa ho tsamaea."
+      },
+      {
+        "title": "Haeba u na le matšoao a ho ntša metsi - li hlahlobe",
+        "description": "U se ke ua 'emela'. Bongata ba lisosa boa phekoleha, ho kenyeletsoa mofetše ha o ka tšoaroa kapele. Ketelo ea tleliniki e u fa likarabo, eseng likhakanyo."
+      },
+      {
+        "title": "Haeba PSA e phahamisitsoe",
+        "description": "Se ke oa tšoha - lisosa tse ngata ha se mofetše (tšoaetso, BPH, esita le libaesekele tsa morao-rao). Ngaka ea hau e tla hlophisa liteko tse ling ha ho hlokahala."
+      },
+      {
+        "title": "Haeba u fumanoe - etela sehlopha sa urology",
+        "description": "Litsi tse kholo tsa mofetše lipetlele li na le lihlopha tse ikhethang tsa urology. CANSA e thusa ho tsamaea. Ho na le likhetho tse ngata tsa kalafo - ho kenyelletsa le ho lebela ho letela mofetše o ntseng o hola butle."
+      },
+      {
+        "title": "Bolellang bara le bana babo lona",
+        "description": "Kankere ea tšoelesa ea senya e na le liphatsa tsa lefutso. Haeba u e-na le eona, beng ka uena ba banna ba lokela ho itlhahloba pejana - hangata lilemo tse 10 pele ho lilemo tsa hau tsa tlhahlobo."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhahlobo le kalafo ea tšoelesa ea senya ke mahala litleliniking le lipetlele tsa mmuso. Ntho e thata ka ho fetisisa ke ho qala moqoqo. Hang ha u etsa joalo, tsamaiso e hlokomela tse ling kaofela.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Litlhahlobo tsa mahala tsa PSA le litlhahlobo tsa tšoelesa ea senya tleliniking e 'ngoe le e 'ngoe ea mmuso",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Mohala oa thuso oa CANSA",
+        "description": "Lintlha tsa mofets'e, lihlopha tsa ts'ehetso, ts'ebetso ea kalafo",
+        "meta": "Mon–Labohlano 08:00–16:30 · mahala fonong efe kapa efe",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      }
+    ]
+  }
+}

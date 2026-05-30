@@ -1,0 +1,180 @@
+{
+  "slug": "acne",
+  "group_slug": "skin",
+  "name": "I-acne",
+  "tagline": "Kuyalapheka. Ungakhethi. Bonana nodokotela ukuze uthole izinkinga.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Dermatological Society of South Africa",
+    "American Academy of Dermatology",
+    "WHO",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Izinduna ngamagama alula",
+    "lede": "Izinduna yilokho okwenzekayo lapho amafutha namaseli esikhumba afile evimba izimbotshana. Kwesinye isikhathi imbobo evalekile ivuvukala amagciwane esikhumba ajwayelekile - yilapho uthola khona amabala abomvu, abuhlungu. Akubangwa ukungcola.",
+    "paragraphs": [
+      "Izinduna zivame kakhulu entsheni ngoba izinguquko zamahomoni zandisa ukukhiqizwa kukawoyela. Kodwa nabantu abadala bayayithola - ikakhulukazi abesifazane abaneminyaka engu-20 no-30, ngokuvamile eduze komhlathi. Cishe u-85% wabantu baseNingizimu Afrika uzoba nezinduna ngesinye isikhathi.",
+      "Izinduna ezithambile ngokuvamile ziphendula ekwelapheni okuthe xaxa kanye nemikhuba emihle yesikhumba. Izinduna ezimaphakathi ukuya kwezinzima - ikakhulukazi ezinamaqhubu, izibazi, noma ubuhlungu - zidinga udokotela. Imithi esebenzayo kadokotela ikhona. Izinduna ezinzima ezingalashwa zingashiya izibazi ezingapheli futhi zithinte ukuzethemba iminyaka."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "85%",
+        "body": "Kubantu baseNingizimu Afrika bathola izinduna ngesinye isikhathi. Kungesinye sezimo zesikhumba ezivame kakhulu emhlabeni."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kuyalapheka",
+        "body": "Ngisho nezinduna ezinzima zisabela ekwelashweni kwesimanje. Uma uqala kusenesikhathi, kuzoncipha izibazi oyohlala nazo."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Ungakhethi",
+        "body": "Ukukha, ukukhama, nokukhuhla kanzima kwenza izinduna zibe zimbi kakhulu futhi kubangele izibazi ezingapheli. Umkhuba onzima ukwephula - futhi okubaluleke kakhulu."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Akulona iphutha lakho",
+        "body": "Izinduna azibangelwa ukungcola, ukudla ushokoledi, nanoma yini oyenzile. Ikakhulukazi amahomoni kanye nezakhi zofuzo."
+      }
+    ],
+    "pull_quote": {
+      "text": "Isinyathelo esisodwa esinamandla ekwelapheni izinduna siqala kusenesikhathi - ngaphambi kokuthi kuqale isibazi. Uma ukwelapha ngaphandle kwekhawunta kungasebenzi ngemva kwamaviki angu-8, bonana nodokotela.",
+      "source": "I-Dermatological Society yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Izinhlobo zezinduna - nokuthi zingathí sina kangakanani",
+    "lede": "Izinduna zisukela ezindaweni ezimbalwa kuye kumathumba ajulile, abuhlungu. Uhlobo lubalulekile ngoba lushintsha indlela yokwelapha.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "circle",
+        "title": "Okuphansi — ama-blackhead nama-whitehead",
+        "description": "Amaqhubu amancane ngaphandle kokuvuvukala okuningi. Ivamise ukuphendula ekunakekelweni kwesikhumba okuhle kanye nemikhiqizo ethengwayo. Zama i-benzoyl peroxide noma i-salicylic acid kuqala."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Okulingene - amabala abomvu, avuvukele",
+        "description": "Ama-papules abomvu nama-pustules ebusweni, esifubeni, emuva. Zama ukwelashwa ngaphandle kwekhawunta amaviki angu-8. Uma kungekho ngcono - bonana nodokotela. Izinketho zemithi kadokotela zisebenza kangcono."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "title": "Okubi - ama-cysts kanye nezibazi",
+        "description": "Izigaxa ezijulile, ezibuhlungu ezihlala amasonto. Ishiya izibazi. Bonana nodokotela ngokushesha ngangokunokwenzeka. I-Isotretinoin (i-Roaccutane) iphumelela kakhulu kulokhu."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ushokoledi, ukudla okunamafutha, noshukela kubangela izinduna.",
+        "fact": "Ubufakazi bubuthakathaka futhi buhluka phakathi kwabantu. Ukudla okunoshukela omningi/okunobisi oluningi kungase kwenze izinduna zibe zimbi kakhulu kwezinye, kodwa azibangeli. Ama-hormone nezakhi zofuzo kubaluleke kakhulu."
+      },
+      {
+        "myth": "Geza ubuso bakho kakhulu — lokho kuzokusula.",
+        "fact": "Ukugeza ngokweqile kuyoma futhi kucasule isikhumba, okwenza izinduna zibe zimbi kakhulu. Ukuhlanza okumnene kabili ngosuku kwanele. Izikhuhla eziqinile zishisa isikhumba futhi zibe bomvu kakhulu."
+      },
+      {
+        "myth": "Umuthi wokuxubha, ujusi kalamula, kanye ne-bicarb kusebenza njengokwelashwa kwasekhaya.",
+        "fact": "Konke kungacunula noma kushise isikhumba futhi kubhebhethekise izibazi. Sebenzisa imikhiqizo efanele yezinduna - i-benzoyl peroxide, i-salicylic acid, i-retinoids - eyenzelwe ukusebenza ngokuphepha."
+      },
+      {
+        "myth": "Ukushuka kususa izinduna.",
+        "fact": "Ukushuka kungamisa isikhumba okwesikhashana, kwenze amabala angabonakali. Isikhathi eside, ukulimala kwelanga kwandisa izibazi futhi kwandisa isikhumba sakho. Yelapha izinduna — vikela isikhumba sakho."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Imikhuba yansuku zonke esiza",
+    "lede": "Awukwazi ukuvimbela ngokuphelele izinduna - kodwa unganciphisa ukuqubuka, ukwesekwa kokwelashwa, futhi uvimbele izibazi.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Ukuhlanza okumnene kabili ngosuku",
+        "description": "Morning and evening — amanzi-based, amakha-free. Ungakhuhli. Ungasebenzisi insipho yebha noma izikhuhla eziqinile esikhumbeni esithandwa yizinduna."
+      },
+      {
+        "color": "purple",
+        "icon": "sun",
+        "title": "I-SPF engeyona i-comedogenic nsuku zonke",
+        "description": "Ukuvikela ilanga kubalulekile ngisho nezinduna. Bheka i-'non-comedogenic' (ngeke ivimbe izimbotshana) kulebula. Imikhiqizo eminingi emikhulu inalawa."
+      },
+      {
+        "color": "orange",
+        "icon": "x-circle",
+        "title": "Ungakhethi — ungamimi",
+        "description": "Ukukha kuphusha ukutheleleka kujule futhi kuphendule amabala abe yizibazi. Uphawu oluvela endaweni ekhethiwe lungahlala izinyanga eziyisi-6. Umaki osuka endaweni engakwesokunxele - mhlawumbe amaviki ama-2."
+      },
+      {
+        "color": "gold",
+        "icon": "watch",
+        "title": "Nikeza ukwelashwa amaviki angu-8",
+        "description": "Ukwelashwa kwezinduna kuthatha amaviki angu-6-12 ukukhombisa umphumela ogcwele. Ungashintshi njalo ezinsukwini ezimbalwa. Namathela endleleni eyodwa futhi wahlulele ngamamaki wamaviki angu-8."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Qala nge-over-the-counter ukuze uthole izinduna ezithambile",
+        "description": "I-Benzoyl peroxide 2.5% ijeli noma i-salicylic acid yokugeza. Sebenzisa kanye ngosuku isonto lonke, bese kabili uma ubekezelelwe. Itholakala kunoma yiliphi ikhemisi ngaphandle kwencwadi kadokotela."
+      },
+      {
+        "title": "Uma kungekho ngcono ngemva kwamasonto angu-8 - bonana nodokotela",
+        "description": "Kumahhala kunoma yimuphi umtholampilo kahulumeni. Imithi ye-retinoid ye-topical kanye nama-antibiotics asebenza kangcono kakhulu kune-OTC ye-acne emaphakathi."
+      },
+      {
+        "title": "Uma kunzima noma kunezibazi - bheka maduze",
+        "description": "I-cystic acne enzima ingashiya izibazi ezihlala njalo. Ukwelashwa okufana ne-isotretinoin (i-Roaccutane) kusebenza kahle kakhulu. Imitholampilo kahulumeni ingadlulisela kudokotela wesikhumba."
+      },
+      {
+        "title": "Phatha yonke indawo, hhayi nje amabala",
+        "description": "Faka imithi yokwelapha kancane endaweni ethintekile - hhayi nje ezindaweni ezingazodwana. Igwema ukuqubuka okulandelayo esikhundleni sokubamba."
+      },
+      {
+        "title": "Vikela isikhumba sakho elangeni",
+        "description": "Ukwelashwa kwezinduna kwenza isikhumba singazweli elangeni. Sebenzisa i-SPF engeyona i-comedogenic 30+ nsuku zonke. Ilanga liphinde lenze amamaki amnyama ashiywe amachashaza adlule."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Izinduna eziningi zingelashwa ekhaya noma emtholampilo wokunakekelwa okuyisisekelo. Izinzuzo zezinduna ezinzima ekudlulisweni kwe-dermatology - kutholakala ohlelweni lomphakathi.",
+    "helplines": [
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwama-acne kwamahhala kanye nokwelashwa okubhaliwe",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      },
+      {
+        "name": "Noma yiliphi ikhemisi lendawo",
+        "description": "Ngaphandle kwe-counter benzoyl peroxide, i-salicylic acid, okhilimu be-retinoid",
+        "meta": "Asikho incwadi kadokotela edingekayo emikhiqizweni ye-OTC",
+        "phone": null,
+        "phone_display": "Vakashela ikhemisi",
+        "primary": false
+      }
+    ]
+  }
+}

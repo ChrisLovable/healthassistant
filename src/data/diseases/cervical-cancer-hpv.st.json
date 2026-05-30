@@ -1,0 +1,188 @@
+{
+  "slug": "cervical-cancer-hpv",
+  "group_slug": "womens-health",
+  "name": "Kankere ea molomo oa popelo le HPV",
+  "tagline": "E ka thibeloa ka ente le tlhahlobo.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "CANSA (Cancer Association of South Africa)",
+    "National Department of Health",
+    "WHO",
+    "International Agency for Research on Cancer"
+  ],
+  "what_is_it": {
+    "heading": "Kankere ea matsoele ka mokhoa o hlakileng",
+    "lede": "Kankere ea popelo ke mofetše oa molomo oa popelo - karolo e ka tlase ea popelo. Hoo e ka bang linyeoe tsohle (tse fetang 99%) li bakoa ke tšoaetso ea nako e telele le mefuta e kotsi ea HPV (Human Papillomavirus).",
+    "paragraphs": [
+      "HPV e atile haholo - batho ba bangata ba kopanelang liphate ba e tšoara ka nako e itseng. 'Mele o tlosa tšoaetso e ngata ea HPV nakong ea selemo kapa tse peli. Empa haeba mofuta o kotsi o tsoela pele ka lilemo tse 10-15, o ka etsa hore lisele tse molomong oa pōpelo li fetohe butle-butle ho ba pele ho mofetše, ebe kankere.",
+      "Kemiso ena e telele ea nako ke eona e etsang hore mofetše oa molomo oa popelo e be o mong oa mofetše o ka thibeloang ka ho fetisisa lefatšeng. Ho hlahloba (Pap smear kapa HPV test) ho tšoara liphetoho tsa lisele lilemo pele kankere e hlaha - ha phekolo e le bonolo. Ente ea HPV e thibela tšoaetso e e bakang qalong."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "alert-triangle",
+        "headline": "Ea bobeli e tloaelehileng haholo",
+        "body": "Kankere ea molomo oa popelo ke mofetše oa bobeli o atileng ho basali ba SA. Litefiso tse phahameng ka ho fetisisa ke tsa basali ba lilemo tse 35 ho isa ho tse 55."
+      },
+      {
+        "color": "purple",
+        "icon": "shield-check",
+        "headline": "99% HPV",
+        "body": "Ho feta 99% ea kankere ea molomo oa popelo e bakoa ke tšoaetso ea nako e telele ea HPV. Ho emisa HPV ho emisa mofetše."
+      },
+      {
+        "color": "gold",
+        "icon": "syringe",
+        "headline": "Ente ea mahala",
+        "body": "Ente ea HPV ke mahala bakeng sa banana ba Kereiti ea 5 (le bashanyana hona joale liprofinseng tse ngata) ka lenaneo la sekolo. Molemo ka ho fetisisa o fanoeng pele ho thobalano."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Pap smear e pholosa bophelo",
+        "body": "Pap smear mahala lilemo tse ling le tse ling tse 10 ho tloha ho lilemo tse 30 litleliniking tsa mmuso. Lilemo tse ling le tse ling tse 3 haeba u le HIV positive. Ho tšoasa ho fetoha pele ho mofetše."
+      }
+    ],
+    "pull_quote": {
+      "text": "Haeba mosali e mong le e mong Afrika Boroa a ka entoa e sa le ngoanana 'me a hlahlojoa ha a se a holile, re ka felisa mofetše oa popelo nakong ea moloko. Lisebelisoa li teng. Ba lokolohile.",
+      "source": "WHO Cervical Cancer Elimination Initiative"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se hlokomelang",
+    "lede": "Liphetoho tsa pele tsa molomo oa popelo - ho kenyelletsa pele ho mofets'e le mofets'e oa pele - hangata ha li bake matšoao. Ke ka lebaka leo tlhahlobo e leng bohlokoa. Matšoao a hlaha ha mofetše o tsoetse pele.",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "eye-off",
+        "title": "Early - khutsa",
+        "description": "Pele ho mofetše le mofets'e oa pele hangata ha li na matšoao. Ke Pap smear kapa tlhahlobo ea HPV feela e ka fetolang sena kapele."
+      },
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Hamorao - ho tsoa mali",
+        "description": "Ho tsoa mali pakeng tsa linako, ka mor'a thobalano, kapa ka mor'a ho khaotsa ho ilela khoeli. Linako tse boima kapa tse telele ho feta tloaelo. Ho tsoa ho sa tloaelehang ka botšehaling."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "E tsoetseng pele - bona ngaka",
+        "description": "Bohloko ba hlaka, bohloko ba mokokotlo, bohloko nakong ea thobalano, ho ruruha ha leoto, mali a moroto kapa mantle. Tsena li hloka tlhahlobo e potlakileng."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ke basali ba nang le balekane ba bangata feela ba fumanang HPV.",
+        "fact": "HPV e atile haholo - batho ba bangata ba kopanelang liphate ba e tšoara. Esita le molekane a le mong a ka e fetisetsa. Ente e sireletsa ho sa tsotelehe nalane ea balekane."
+      },
+      {
+        "myth": "Ente ea HPV e khothaletsa bacha ho qala thobalano pele ho nako.",
+        "fact": "Lilemo tsa lipatlisiso ha li bontše kamano lipakeng tsa ente ea HPV le thobalano ea pejana. Moento o sebetsa hantle ha o fuoa pele o pepesehela thobalano."
+      },
+      {
+        "myth": "Haeba ke ne ke na le ente ea HPV, ha ke hloke Pap smear.",
+        "fact": "Ente e thibela boholo empa eseng mefuta eohle ea HPV e kotsing e kholo. Ho hlahlojoa ho ntse ho hlokahala - ente hammoho le tlhahlobo hammoho ke tšireletso e matla ka ho fetisisa."
+      },
+      {
+        "myth": "Kankere ea molomo oa popelo e sebetsa malapeng - ha ho letho leo nka le etsang.",
+        "fact": "Histori ea lelapa ke kotsi e nyane haholo. Ts'oaetso ea HPV ke sesosa sa hoo e batlang e le mofetše oa molomo oa popelo - 'me HPV e ka thibeloa ebile e ka bonoa."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa",
+    "lede": "Kankere ea molomo oa popelo ke e 'ngoe ea mefuta e ka thibeloang ka ho fetisisa hobane ho na le ente le tlhahlobo e sebetsang. Mosali e mong le e mong e moholo o lokela ho tseba morero oa hae.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Ente ea HPV",
+        "description": "Mahala ho SA bakeng sa banana ba Kereiti ya 5 (le bashanyana diprofinseng tse ngata). Haholo-holo pele thobalano e qala empa e sebetsa leha e le efe lilemo - botsa tleliniki ea hau ho fihlela lilemo tse 45."
+      },
+      {
+        "color": "purple",
+        "icon": "check-circle",
+        "title": "Hangata Pap smears",
+        "description": "Mahala litleliniking ho tloha ho lilemo tse 30, lilemo tse ling le tse ling tse 10 haeba ho tloaelehile. Lilemo tse ling le tse ling tse 3 haeba u le HIV positive. Qala pele ho nako 'me u hlahlobe khafetsa haeba u na le nalane ea liphetho tse sa tloaelehang."
+      },
+      {
+        "color": "orange",
+        "icon": "shield",
+        "title": "Likhohlopo",
+        "description": "Fokotsa phetiso ea HPV empa u se ke oa e felisa - HPV e ka ata ho tloha letlalong le sa koaheloang ke khohlopo. E ntse e sebetsa, haholo-holo le balekane ba bacha."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Se tsube",
+        "description": "Ho tsuba ho fokolisa matla a molomo oa popelo ho tlosa tšoaetso ea HPV le ho eketsa kotsi ea mofetše oa molomo oa popelo habeli ho basali ba nang le HPV."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Haeba u na le morali oa Kereiti ea 5",
+        "description": "Etsa bonnete ba hore o fumana ente ea HPV ka lenaneo la sekolo. Litekanyetso tse peli, mahala, tse fanoang ka likhoeli tse tšeletseng tse arohaneng. Ena ke sesebelisoa se le seng se matla ka ho fetisisa sa thibelo ea mofetše seo re nang le sona."
+      },
+      {
+        "title": "Haeba u le lilemo li 30 kapa ho feta",
+        "description": "Behela Pap smear tleliniking efe kapa efe ea 'muso haeba ha u e-so be le eona lilemong tse 10 tse fetileng. E lokolohile, e nka metsotso e mehlano, e fella ka libeke tse 2-4."
+      },
+      {
+        "title": "Haeba u na le HIV",
+        "description": "Ho hlahlojoa ke lilemo tse ling le tse ling tse 3 ho sa tsotellehe lilemo, ho tloha ka ho hlahlojoa ho ea pele. HPV e sebetsa ka thata le HIV - u se ke oa tlola."
+      },
+      {
+        "title": "Haeba o tsoa mali ka mokhoa o sa tloaelehang",
+        "description": "Ho tsoa mali pakeng tsa linako, ka mor'a thobalano, kapa ka mor'a ho khaotsa ho ilela khoeli - bona tleliniki. Lisosa tse ngata ha se mofetše, empa mofetše oa popelo ke sesosa se seng se hlokang ho tšoaroa kapele."
+      },
+      {
+        "title": "Haeba Pap smear ea hau e sa tloaeleha",
+        "description": "Se ke sa tshaba. Litholoana tse ngata tse sa tloaelehang ke tsa pele ho mofets'e o ka phekolehang ka ketelo e le 'ngoe. Latela - sistimi e ea sebetsa haeba u boloka litumellano tsa hau."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhahlobo ea molomo oa popelo, kalafo ea pele ho mofetše, le ente ea HPV kaofela ha li lefelloe litleliniking tsa sechaba tsa Afrika Boroa. Lisebelisoa tsa thibelo ea mofetše li teng - li sebelise.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Meento ea mahala ea HPV, Pap smears, le ho latella liphetho tse sa tloaelehang",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Mohala oa thuso oa CANSA",
+        "description": "Tlhahisoleseding ea mofets'e, tšehetso, le ho fetisetsoa",
+        "meta": "Mon–Labohlano 08:00–16:30 · mahala fonong efe kapa efe",
+        "phone": "0800226622",
+        "phone_display": "0800 22 66 22",
+        "primary": true
+      },
+      {
+        "name": "loveLife youth line",
+        "description": "Bakeng sa basali ba bacha - leseli la lekunutu mabapi le HPV le tlhahlobo",
+        "meta": "Mantaha–Labohlano 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": false
+      }
+    ]
+  }
+}

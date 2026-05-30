@@ -1,0 +1,223 @@
+{
+  "slug": "meningitis",
+  "group_slug": "emergency-signs",
+  "name": "Meningitis",
+  "tagline": "Molala o sataletseng, hlooho e bohloko, lekhopho le pherese.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "NICD (National Institute for Communicable Diseases)",
+    "WHO",
+    "National Department of Health",
+    "Meningitis Research Foundation"
+  ],
+  "urgent": {
+    "heading": "Urgent - ea sepetlele hona joale",
+    "primary_message": "Bacterial meningitis e ka bolaea ka mor'a lihora tse seng kae. U se ke ua emela matšoao 'ohle - fihla sepetlele hang-hang.",
+    "phone": "10177",
+    "phone_display": "Letsetsa 10177",
+    "red_flags": [
+      "Lekhopho le bokhubelu bo bopherese le HA LE FUMANE ha le totoba ka tlas'a khalase",
+      "Molala o thata - ha o khone ho ama selelu ho ea sefubeng",
+      "Hlooho e bohloko haholo ka feberu le ho hlatsa",
+      "Kutloelo-bohloko ho khanya, melumo, kapa ho thetsoa",
+      "Pherekano, ho otsela, kapa bothata ba ho tsoha",
+      "Ho tsieleha kapa sello se phahameng sa lesea",
+      "Ho ruruha hloohong ea lesea, ka feberu le ho hana ho fepa"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Meningitis ka mantsoe a bonolo",
+    "lede": "Meningitis ke tšoaetso ea meninges - likarolo tse sireletsang tse pota-potileng boko le lesapo la mokokotlo. Bacterial meningitis ke e 'ngoe ea mafu a bolaeang ka potlako a tsejoang.",
+    "paragraphs": [
+      "Hangata meningitis e bakoa ke kokoana-hloko kapa baktheria. Viral meningitis hangata ha e bobebe 'me e ntlafala ka bo eona. Bacterial meningitis ke tšohanyetso ea 'nete - e ka bolaea motho ea phetseng hantle ka mor'a lihora tse ngata mme e hloka lithibela-mafu kapele.",
+      "Ho tsoa ka ntle, u ke ke ua khona ho khetholla tse peli ka botšepehi. Ke ka hona nyeoe e 'ngoe le e 'ngoe e belaelloang e tlamehang ho tšoaroa joalo ka baktheria ho fihlela ho netefalitsoe ka tsela e fapaneng. Afrika Boroa e tsamaisa mananeo a ente khahlanong le mefuta e kotsi ka ho fetisisa."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "E bolaea ka lihora",
+        "body": "Bacterial meningitis e ka tloha matšoao a pele ho isa lefung ka nako e ka tlase ho lihora tse 24. Lebelo la kalafo ke tsohle."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Ente e ka thibeloang",
+        "body": "Liente tsa mahala tsa bana tsa SA (Hib, Pneumococcal, Meningococcal) li thibela mefuta e kotsi ka ho fetisisa. Li fumane ka nako."
+      },
+      {
+        "color": "gold",
+        "icon": "users",
+        "headline": "Kotsi ea ho koala",
+        "body": "E hasana ka ho khohlela, ho ethimola, ho aka, kapa ho arolelana lino-mapholi. Batho ba haufi ba ka fuoa lithibela-mafu e le tšireletso."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Teko ea tumbler",
+        "body": "Tobetsa khalase e hlakileng khahlanong le lekhopho. Haeba matheba a sa nyamele tlas'a khatello - e-ea sepetlele ka ho toba."
+      }
+    ],
+    "pull_quote": {
+      "text": "Tšepa kelello ea hau. Haeba ho na le ho hong ho phoso haholo - haholo-holo ho ngoana - u se ke ua emela matšoao a felletseng. E-ea sepetlele. Meningitis e ka bolaea pele matšoao 'ohle a hlaha.",
+      "source": "Meningitis Research Foundation"
+    }
+  },
+  "signs": {
+    "heading": "Seo u lokelang ho se shebella",
+    "lede": "Matšoao a ka qala joalo ka feberu, ebe a mpefala kapele. Matšoao a khale a ka 'na a se ke a hlaha ka tatellano e tšoanang - kapa ho hang ho masea le bana ba banyenyane.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "thermometer",
+        "title": "Batho ba baholo le bana ba baholo",
+        "description": "Feberu e phahameng, hlooho e bohloko haholo, molala o sataletseng (o sitoa ho ama selelu sefubeng), kutlo e bobebe, ho nyekeloa ke pelo kapa ho hlatsa, pherekano kapa ho otsela."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Lekhopho le pherese",
+        "description": "Matheba a manyane a bokgubedu bo pherese kapa dipatso tse shebahalang eka ke matetetso. E ata ka potlako. Ha e nyamele ha e hatelloa ka khalase - sena ke tšohanyetso."
+      },
+      {
+        "color": "purple",
+        "icon": "baby",
+        "title": "Bana le bana ba banyenyane",
+        "description": "Sello se phahameng haholo sa ho lla, ho hana lijo, ho fofa haholo kapa ho satalla haholo, letheba le hlabang, letlalo le letšo kapa le lerootho, feberu e nang le matsoho le maoto a batang."
+      },
+      {
+        "color": "gold",
+        "icon": "activity",
+        "title": "Lipheletso tse batang pele",
+        "description": "Matsoho le maoto a batang ha 'mele o ntse o chesa, mahlaba a matla a maoto, le letlalo le letšo ka mokhoa o sa tloaelehang e ka ba matšoao a pejana ho feta lekhopho kapa molala o sataletseng."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Kamoo meningitis e jalang kateng",
+    "yes": [
+      "Ho khohlela le ho ethimola ho motho ya jereng baktheria",
+      "Ho aka kapa ho koala kamano e telele",
+      "Ho arolelana linoelo, libotlolo tsa metsi, lisakerete, kapa lijana",
+      "Ho lula libakeng tse haufi - libaka tsa bolulo tsa univesithi, matlo a sesole, lichankana"
+    ],
+    "no": [
+      "Ho kopana feela joalo ka ho ts'oarana ka matsoho kapa ho ba ka phapusing e le 'ngoe",
+      "Litulo tsa matloana, matamo a ho sesa, kapa maoatla a mamati",
+      "Ho longoa ke menoang kapa likokoanyana",
+      "Liphoofolo tse ruuoang lapeng le liphoofolo"
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa le ba lelapa la hau",
+    "lede": "Meento e sireletsa khahlanong le mefuta e kotsi ka ho fetisisa ea meningitis ea baktheria. Ke mahala tleliniking e 'ngoe le e 'ngoe ea 'muso ea SA bakeng sa bana, 'me e khothaletsoa ho batho ba baholo ba kotsing e kholo.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "syringe",
+        "title": "Liente tsa mahala tsa bongoana",
+        "description": "Hib ka libeke tse 6, 10, 14. Pneumococcal libeke tse 6, libeke tse 14, likhoeli tse 9. Meningococcal moo e bontšitsoeng. Latela kemiso ea SA."
+      },
+      {
+        "color": "purple",
+        "icon": "users",
+        "title": "Lihlopha tse nang le kotsi e kholo",
+        "description": "Baithuti ba univesithi libakeng tsa bolulo, ba ngolisitsoeng sesoleng, baeti ba lebanta la African meningitis kapa Hajj - botsa ngaka ea hau ka ente ea Meningococcal ACWY."
+      },
+      {
+        "color": "gold",
+        "icon": "shield-check",
+        "title": "Haeba motho ea haufi a kula",
+        "description": "Litho tsa malapa le batho ba haufi le lefu la meningitis ea baktheria hangata ba fuoa lithibela-mafu ke Public Health. Ba nke - ba sebetsa."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-circle",
+        "title": "Lemoha kapele — nka khato kapele",
+        "description": "Ho tseba matšoao ho pholosa bophelo. Tšepa kelello ea hau. Haeba ho na le ho hong ho phoso, leba sepetlele."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Ke masea le bana feela ba tšoaroang ke meningitis.",
+        "fact": "Masea, bacha, le bacha ba baholo ba kotsing e kholo, empa e ka hlasela lilemo life kapa life. Ho qhoma ha bolulo ba bacha le ba univesithi ho tloaelehile."
+      },
+      {
+        "myth": "Haeba lekhopho le ntse le fela ha ke le hatella, ha se meningitis.",
+        "fact": "Qalong ea meningitis lekhopho le ntse le ka fela. Haeba matšoao a mang a le teng - hlooho, feberu, ho satalla molala - e-ea sepetlele ho sa tsotellehe hore na ke eng."
+      },
+      {
+        "myth": "Li-antibiotics tsa pele tsa tleliniki li lekane.",
+        "fact": "Bacterial meningitis e hloka lithibela-mafu tse kenngoang ka methapo sepetlele, hammoho le ho hlahlojoa. Li-antibiotics tsa letlapa feela ha lia lekana."
+      },
+      {
+        "myth": "Meento ea meningitis e baka meningitis.",
+        "fact": "Meento e sireletsa khahlanong le lisosa tse atileng haholo tsa baktheria. Ha li bake lefu lena. Meento ea kemiso ea bongoana e bolokehile ebile e pholosa bophelo."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Seo u lokelang ho se etsa - nako eo u belaelang meningitis",
+    "items": [
+      {
+        "title": "Etsa tlhahlobo ea tumbler",
+        "description": "Tobetsa lehlakore la khalase e hlakileng ka tieo khahlanong le lekhopho. Haeba matheba a lula a bonahala ka khalase - e-ea sepetlele hona joale."
+      },
+      {
+        "title": "Letsetsa 10177 kapa u ee ka kotloloho kamoreng ea tšohanyetso",
+        "description": "E re 'ho belaelloang meningitis' ha u ntse u potlaka hore u tle u bonoe hang-hang. Se ke oa emela kopano ea ngaka."
+      },
+      {
+        "title": "Hlokomela hore na matšoao a qalile neng",
+        "description": "Nako ea bohlokoa. Bolella sehlopha sa sepetlele ha feberu, hlooho e opang, lekhopho, kapa phetoho ea boitšoaro e qalile."
+      },
+      {
+        "title": "U se ke ua emela matšoao 'ohle",
+        "description": "Mofuta o tloaelehileng oa feberu, molala o sataletseng le hlooho e ka 'na ea se ke ea bonahala kaofela hammoho. E 'ngoe le e 'ngoe e le 'ngoe ke lebaka la ho hlahlojoa."
+      },
+      {
+        "title": "Bolella mabitso a haufi",
+        "description": "Mang kapa mang ea arolelaneng le lelapa, senoelo, kapa ho aka bekeng e fetileng o tlameha ho ikopanya le Public Health bakeng sa likeletso. Ho ka fanoa ka lithibela-mafu prophylaxis."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "O ka letsetsa mang hona jwale",
+    "lede": "Ho belaelloang hore ke bacterial meningitis ke a mang a mafu a seng makae ao 'ho ea sepetlele hona joale' e leng karabo e nepahetseng - le ka 3am, leha o sa tiiseha.",
+    "helplines": [
+      {
+        "name": "Ambulense ea tšohanyetso",
+        "description": "Ts'ebeletso ea bongaka ea tšohanyetso ea mmuso",
+        "meta": "Mahala · lihora tse 24 · re re 'suspected meningitis'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Boemo ba tshohanyetso (mohala)",
+        "description": "E fihlella litšebeletso life kapa life tsa tšohanyetso ka selefouno",
+        "meta": "Mahala ho mobile efe kapa efe · lihora tse 24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "Lenaneo la mahala la NICD",
+        "description": "Boitsebiso ba mafu a tšoaetsanoang le tlaleho ea ho qhoma",
+        "meta": "Mantaha–Labohlano 08:00–16:00",
+        "phone": "0800029999",
+        "phone_display": "0800 029 999",
+        "primary": false
+      }
+    ]
+  }
+}

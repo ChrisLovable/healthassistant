@@ -1,0 +1,211 @@
+{
+  "slug": "stis",
+  "group_slug": "infectious",
+  "name": "Mafu a tšoaetsanoang ka thobalano (STIs)",
+  "tagline": "E tlwaelehileng, e a phekoleha — etsa diteko.",
+  "read_time_minutes": 5,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "National Department of Health",
+    "South African National AIDS Council",
+    "WHO",
+    "Marie Stopes SA"
+  ],
+  "what_is_it": {
+    "heading": "Mafu a likobo ka mokhoa o hlakileng",
+    "lede": "Mafu a tšoaetsanoang ka thobalano a fetisoa ho tloha ho motho e mong ho ea ho e mong nakong ea thobalano - ka botšehaling, ka morao kapa ka molomo. Li tloaelehile haholo, hangata ha li na matšoao, 'me boholo ba tsona li phekoloa habonolo ha li tšoaroa kapele.",
+    "paragraphs": [
+      "Mafu a likobo a baktheria (chlamydia, gonorrhoea, syphilis, trichomoniasis) a ka phekoleha ka ho sebelisa lithibela-mafu. Likokoana-hloko tsa likobo (herpes, HPV, HIV, hepatitis B) li laoloa ka nako e telele empa ha li phekolehe ka phekolo. Ka tsela efe kapa efe, tlhahlobo ke eona e etsang hore kalafo e khonehe.",
+      "Bongata ba mafu a likobo ha bo na matšoao a totobetseng - haholo-holo ho basali. Ha li sa phekoloe, li ka baka ho hloka thari, mathata a boimana, le ho eketsa kotsi ea ho fumana kapa ho fetisetsa HIV. Ha se pontšo ea boitšoaro bo bobe. Ke pontšo ea bophelo bo tloaelehileng ba thobalano le tlhahlobo ea bohlokoa."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "eye-off",
+        "headline": "Hangata ho khutsa",
+        "body": "Boholo ba mafu a likobo ha a na matšoao ho hang - haholo ho basali. Teko ke eona feela tsela e tšepahalang ea ho tseba."
+      },
+      {
+        "color": "purple",
+        "icon": "shield",
+        "headline": "Liteko tsa mahala",
+        "body": "Tleliniki e 'ngoe le e 'ngoe ea 'muso e fana ka tlhahlobo le kalafo ea mahala, ea lekunutu ea STI. Ha ho kopano, ha ho na thuso ea bongaka."
+      },
+      {
+        "color": "gold",
+        "icon": "check-circle",
+        "headline": "Tse ngata lia phekoleha",
+        "body": "Chlamydia, gonorrhoea, syphilis, le trichomoniasis kaofela li phekoloa ka nako e khutšoanyane ea lithibela-mafu kapa ente e le 'ngoe."
+      },
+      {
+        "color": "green",
+        "icon": "users",
+        "headline": "Tšoara hammoho",
+        "body": "Haeba o na le STI, balekane ba morao tjena le bona ba hloka kalafo - leha ba ikutloa ba phetse hantle. Ho seng joalo u tla e fetisa pele le pele."
+      }
+    ],
+    "pull_quote": {
+      "text": "Tlhahlobo ea STI ke e 'ngoe ea lintho tse tsotellang tseo u ka li etsang - bakeng sa hau, ho motho eo u robalang le eena, le balekane ba kamoso. Ke mahala ebile e nka metsotso.",
+      "source": "Lefapha la Naha la Bophelo bo Botle"
+    }
+  },
+  "signs": {
+    "heading": "Seo u ka se hlokomelang - le seo hangata u sa se boneng",
+    "lede": "Bongata ba mafu a likobo bo khutsitse. Ha matšoao a hlaha, a fapana ho itšetlehile ka hore na u na le tšoaetso efe. Matšoao a tšoanang a ka bolela lintho tse fapaneng - ke tlhahlobo feela e ka bolelang.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "droplet",
+        "title": "Ho tsoa ka mokhoa o sa tloaelehang",
+        "description": "Ho tloha ka hara botshehadi, botoneng, kapa ka maraong. E ka ba maru, tshehla, tala, monko, kapa e fapaneng feela le e tlwaelehileng. E tloaelehile ho chlamydia, gonorrhoea, trichomoniasis."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Bohloko kapa ho chesa",
+        "description": "Ha u ntša metsi, nakong ea thobalano, kapa ka tlase ho mpa. Ka linako tse ling e nkoa e le tšoaetso ea moroto."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Maqeba, maqeba, kapa lekhopho",
+        "description": "Ka litho tsa botona kapa botšehali, anus, molomong kapa matsohong. E ka ba bohloko kapa e se ke ea e-ba bohloko. E tloaelehileng ho herpes, syphilis, HPV."
+      },
+      {
+        "color": "gold",
+        "icon": "thermometer",
+        "title": "Matšoao a sa bonahaleng haholo",
+        "description": "Ho opeloa ke 'metso (oral gonorrhoea), litšoelesa tse ruruhileng, boloetse bo kang ba ntaramane (HIV e bohale), ho tsoa mali ka mokhoa o sa tloaelehang pakeng tsa linako (tšoaetso ea molomo oa popelo)."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Kamoo mafu a likobo a jalang kateng - le kamoo a sa atang kateng",
+    "yes": [
+      "Thobalano ka hara botshehadi, ka morao kapa ka molomo ntle le khohlopo",
+      "Ho arolelana lipapali tsa thobalano ntle le ho li hloekisa kapa ho li koahela",
+      "Ho kopana ha litho tsa botona le botšehali tsa letlalo le letlalo (HPV, herpes - esita le ka khohlopo)",
+      "'M'e ho lesea nakong ea kemaro, tsoalo, kapa a nyantša (mafu a likobo)",
+      "Ho kopana le mali le mali (ho arolelana linale, tšelo e sa hlahlojoang)"
+    ],
+    "no": [
+      "Ho kopa, ho tšoarana ka matsoho, kapa ho akana (bakeng sa mafu a likobo a mangata)",
+      "Ho arolelana lijo, lino, lipoleiti, kapa lijo",
+      "Matloana, matamo a ho sesa, libate, kapa lishaoara",
+      "Ho longoa ke menoang kapa ho kopana le kokoanyana",
+      "Ho kopana ho sa tloaelehang mosebetsing, sekolong, kapa phatlalatsa"
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Haeba ba shebahala ba phetse hantle, ha ba na lefu la likobo.",
+        "fact": "Boholo ba mafu a likobo ha bo bake matšoao a bonahalang. U ke ke ua tseba ka ho sheba motho e mong - ho kenyeletsa le uena. Teko ke eona feela tsela e tšepahalang."
+      },
+      {
+        "myth": "U ke ke ua fumana lefu la likobo ka thobalano ea molomo.",
+        "fact": "Mafu a likobo a mangata a ata ka thobalano ea molomo - gonorrhoea, chlamydia, syphilis, herpes, HPV. Likhohlopo le matamo a meno li fokotsa kotsi."
+      },
+      {
+        "myth": "Likhohlopo li sireletsa khahlanong le mafu a likobo 100% ea nako.",
+        "fact": "Likhohlopo li sebetsa hantle haholo khahlanong le mafu a likobo ha li sebelisoa ka nepo nako le nako. Mafu a likobo a letlalo le letlalo joalo ka HPV le herpes a ntse a ka ata ho tsoa libakeng tse sa koaheloang."
+      },
+      {
+        "myth": "Haeba ke ile ka phekoloa hang, ha ke na tšireletso.",
+        "fact": "U ka fumana lefu lena la baktheria hape ka mor'a ho phekoloa. Ho etsa tlhahlobo hape likhoeli tse 3 kamora kalafo ho khothaletsoa bakeng sa chlamydia le gonorrhoea."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mokhoa oa ho itšireletsa",
+    "lede": "Bongata ba mafu a likobo bo ka thibeloa ka mekhoa e seng mekae e bonolo. Ha ho le e 'ngoe ea tsona e hlokang ho tlohela thobalano - ho e etsa ka tlhokomeliso e eketsehileng.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "shield",
+        "title": "Likhohlopo nako le nako",
+        "description": "Likhohlopo tsa banna kapa tsa basali, li sebelisoa ka nepo ho tloha qalong ho fihlela qetellong. Mahala tleliniking e 'ngoe le e 'ngoe, likhemisi tse ngata, esita le liteishene tse ling tsa peterole."
+      },
+      {
+        "color": "purple",
+        "icon": "syringe",
+        "title": "Ente ea HPV",
+        "description": "Mahala ho SA bakeng sa banana ba Kereiting ya 5 mme jwale bashanyana diprofinseng tse ngata. E sireletsa khahlanong le mofetše oa popelo, li-warts tsa genital warts le mefuta e meng ea mofetše."
+      },
+      {
+        "color": "orange",
+        "icon": "check-circle",
+        "title": "Lekola pele ho balekane ba bacha",
+        "description": "Leka pele ho thobalano le molekane e mocha, hantle hammoho. E lokolohile, e potlakile, e lekunutu. Litleliniki tse ngata li fana ka sephetho ka metsotso e 15 bakeng sa HIV."
+      },
+      {
+        "color": "gold",
+        "icon": "pill",
+        "title": "PrEP bakeng sa HIV",
+        "description": "Pilisi ea letsatsi le letsatsi e thibelang HIV. Mahala litliliniking. E thusa batho ba kotsing e kholo - ho ba le balekane ba bacha khafetsa, balekane ba nang le HIV, barekisi ba thobalano."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Mehato ea hau e latelang",
+    "items": [
+      {
+        "title": "Lekola",
+        "description": "Tsamaea tleliniking efe kapa efe ea mmuso. Kopa sekirini se felletseng sa STI - HIV, syphilis, gonorrhoea, chlamydia. Liphetho tse ngata nakong ea metsotso ho isa matsatsing."
+      },
+      {
+        "title": "Haeba e ntle - qala kalafo ka letsatsi lona leo",
+        "description": "Hangata mafu a likobo a baktheria a phekoloa ka nako e khutšoanyane ea lithibela-mafu kapa ente e le 'ngoe. Nka tsohle kamoo ho laetsoeng."
+      },
+      {
+        "title": "Bolella balekane ba hau ba morao-rao",
+        "description": "Mang kapa mang eo o entseng thobalano le eena likhoeling tse 6 tse fetileng o hloka ho hlahlojoa. Tleliniki e ka u thusa ho ba bolella u sa itsebahatse ha ho hlokahala."
+      },
+      {
+        "title": "Ha ho thobalano ha u ntse u phekoloa",
+        "description": "Ema ho fihlela tleliniki e re u hlaketsoe. Ho seng joalo u tla e khutlisetsa ho molekane eo u sa tsoa mo tšoara."
+      },
+      {
+        "title": "Etsa tlhahlobo hape ka mor'a likhoeli tse 3",
+        "description": "Mafu a likobo a baktheria a ka khutla haeba molekane a sa phekoloa. Teko e latelang e tiisa hore tšoaetso e felile."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Tlhahlobo ea mafu a likobo ke mahala, kapele, 'me ke lekunutu tleliniking e 'ngoe le e 'ngoe ea mmuso. Ha ho na thuso ea bongaka, ha ho kahlolo, ha ho lipotso tseo u sa batleng ho li araba.",
+    "helplines": [
+      {
+        "name": "Mohala oa Naha oa Thuso ka AIDS",
+        "description": "Keletso ea lekunutu ea mafu a likobo le HIV le ho fetisoa",
+        "meta": "Mahala · lihora tse 24",
+        "phone": "0800012322",
+        "phone_display": "0800 012 322",
+        "primary": true
+      },
+      {
+        "name": "loveLife youth line",
+        "description": "Bakeng sa bacha · ba botsoalle, ba sa tsejoe, ba lokolohile",
+        "meta": "Mantaha–Labohlano 09:00–20:00 · Sat 09:00–18:00",
+        "phone": "0800121900",
+        "phone_display": "0800 121 900",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tleliniki e 'ngoe le e 'ngoe ea 'muso e fana ka tlhahlobo le kalafo ea STI mahala",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": false,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

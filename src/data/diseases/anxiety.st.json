@@ -1,0 +1,158 @@
+{
+  "slug": "anxiety",
+  "group_slug": "mental-health",
+  "name": "Matšoenyeho",
+  "tagline": "Ho feta ho tšoenyeha. Ho na le lisebelisoa tse thusang.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "SADAG",
+    "WHO",
+    "South African Society of Psychiatrists",
+    "National Department of Health Mental Health Directorate"
+  ],
+  "what_is_it": {
+    "heading": "Matšoenyeho ka mantsoe a hlakileng",
+    "lede": "Matšoenyeho ke seo u se utloang ha alamo ea 'mele oa hau e lla khafetsa, ka lentsoe le phahameng haholo, kapa ho se na kotsi ea sebele e teng. E mong le e mong o ikutloa a tšoenyehile ka linako tse ling. Lefu la ho tšoenyeha ke ha le kena tseleng ea bophelo bo tloaelehileng.",
+    "paragraphs": [
+      "Ho na le mefuta e mengata: matšoenyeho a akaretsang (ho tšoenyeha kamehla), ho tšoha (maqhubu a tšohanyetso a tšabo e matla), matšoenyeho a sechaba (tšabo ea ho ahloloa), phobias tse itseng, PTSD kamora ho sithabela maikutlo. Lia kopana 'me li arolelana melao-motheo ea phekolo.",
+      "Matšoenyeho a na le karolo e matla ea 'mele - pelo e mathang, ho fufuleloa, ho hema ka thata, ho tsekela, ho nyekeloa ke pelo, ho thothomela. 'Mele o utloa eka o kotsing le ha kelello e tseba hore ha ho joalo. Sena ke 'nete, eseng 'tsohle tse hloohong ea hau'. E ea phekoleha."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "E tloaelehileng haholo",
+        "body": "Mathata a ho tšoenyeha ke sehlopha se atileng haholo sa maemo a bophelo bo botle ba kelello lefatšeng. Hoo e ka bang motho a le mong ho ba 5 ba Afrika Boroa o ba le phihlelo ka nako e itseng."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "E ka phekoleha",
+        "body": "Cognitive Behavioral Therapy (CBT), meriana, le liphetoho tsa mokhoa oa bophelo li sebetsa hantle ho batho ba bangata. Ha o a tlameha ho phela le yona."
+      },
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "headline": "Le 'meleng",
+        "body": "Matšoenyeho a utloahala 'meleng - ho otla ha pelo, ho hema, ho tsekela. Hangata batho ba nahana hore ba na le lefu la pelo. Ho e hlokomela ho ea thusa."
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "headline": "Thuso ea mahala",
+        "body": "SADAG le LifeLine li fana ka tlhabollo ea mahala ea matšoenyeho. Likliniki li fana ka tlhahlobo le kalafo mahala. Thuso e haufi ho feta kamoo o nahanang."
+      }
+    ],
+    "pull_quote": {
+      "text": "Ho tšoenyeha ha se pontšo ea bofokoli. Ke sesupo sa hore alamo ea hau e sebetsa nako e eketsehileng. Litaba tse monate: lisebelisoa tsa alamo li ka koetlisoa hape.",
+      "source": "SADAG"
+    }
+  },
+  "signs": {
+    "heading": "Matšoenyeho a shebahala joang",
+    "lede": "Matšoenyeho a bonahala ka litsela tse tharo tse ka sehloohong—’meleng, kelellong le boitšoarong. Mohlomong u hlokomela tse ling tsa tsona.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Mmeleng",
+        "description": "Pelo e mathang, ho phefumoloha ka potlako kapa ho ikutloa u sa khone ho hema, ho fufuleloa, ho thothomela, ho nyekeloa ke pelo kapa ho ferekana ke mala, ho tsekela, sefuba se thata, ho thothomela, ho chesa kapa ho bata."
+      },
+      {
+        "color": "orange",
+        "icon": "cloud",
+        "title": "Kelellong",
+        "description": "Matšoenyeho a sa khaotseng - esita le ka lintho tse nyane, tšabo, lebelo la kelello, ho lebella tse mpe, ho sitoa ho tsepamisa mohopolo, ho ts'oara menahano ea 'ho thoe'ng, bothata ba ho robala."
+      },
+      {
+        "color": "purple",
+        "icon": "user-x",
+        "title": "Boitšoarong",
+        "description": "Ho qoba maemo a etsang hore o tshwenyehe, o hloka ho tiisetswa kamehla, ho hlahlojwa le ho hlahlojwa, ho teneha, ho ikhula bathong, ho sebedisa jwala kapa dintho tse itseng ho kokobetsa maikutlo."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Matšoenyeho ke ho tšoenyeha haholo feela. Khaotsa ho nahana ho feta tekano.",
+        "fact": "Mathata a ho tšoenyeha a ama liphetoho tsa 'nete bokong le 'meleng - eseng feela menahano. Ho bolella motho e mong hore 'feela u khaotse ho tšoenyeha' ho tšoana le ho bolella motho ea nang le lefu la tsoekere hore 'feela u laole tsoekere ea hao'. Ha e sebetse."
+      },
+      {
+        "myth": "Meriana ea ho tšoenyeha ea lemalla 'me e u fetola zombie.",
+        "fact": "Meriana ea sejoale-joale e khahlanong le ho tšoenyeha (SSRIs haholo) ha e lemalle. E khutsisa tsamaiso ea alamo ka ho lekaneng hore phekolo le litsebo tsa ho sebetsana le boemo li ka sebetsa. Ha e fetole seo o leng sona."
+      },
+      {
+        "myth": "Ha o sa e bone, ha se nnete.",
+        "fact": "Matšoenyeho ke boemo ba bongaka bo nang le liphetoho tse lekantsoeng k'hemistri ea boko, lebelo la pelo le maemo a lihormone. Taba ea hore ba bang ha ba e bone ha e bolele hore ha e etsahale."
+      },
+      {
+        "myth": "Hang ha u e-na le matšoenyeho, u ba le eona bophelo bohle.",
+        "fact": "Batho ba bangata ba fumanang kalafo e nepahetseng bakeng sa matšoenyeho ba bona ntlafatso e kholo mme ba bangata ba fola ka botlalo. Esita le matšoenyeho a tebileng a arabela kalafo le meriana ha e fuoa monyetla."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Se o lokelang ho se etsa",
+    "items": [
+      {
+        "title": "Ithute ho hema bocha",
+        "description": "Ha matšoenyeho a eketseha: phefumoloha bakeng sa lipalo tse 4, tšoara 4, tsoa bakeng sa 6. Ho tsoa ha nako e telele ho khutsisa tsamaiso ea methapo. E sebelise nakong ea ho tšoha - e sebetsa ka mor'a motsotso."
+      },
+      {
+        "title": "E bolele ha u e utloa",
+        "description": "Ho re 'hona ke ho tšoenyeha, eseng lefu la pelo' ho thusa ho arola alamo ea 'mele kotsing ea sebele. E fokotsa ho tšoha-ho tšoha."
+      },
+      {
+        "title": "Khaola caffeine haeba u khona",
+        "description": "Caffeine ka ho toba e etsisa matšoao a ho tšoenyeha - pelo e mathang, jitteriness. Batho ba bangata ba bona lintlafatso tse kholo libekeng tse 2-3 tsa ho fokotsa kapa ho emisa."
+      },
+      {
+        "title": "E-ea tleliniking ho ea hlahlojoa",
+        "description": "Litliliniki tsa mmuso li fana ka tlhahlobo ea mahala ea bophelo ba kelello. Bua le mooki oa bophelo bo botle ba kelello. Thuso le meriana e thehiloeng ho CBT ha ho hlokahala ke mahala."
+      },
+      {
+        "title": "Haeba e le litlhaselo tsa ho tšoha ka ho khetheha",
+        "description": "Bala ka taolo ea tlhaselo ea ts'abo - ho tseba mohlala (tlhōrō ka metsotso e 10, ha ho mohla e kotsi, e feta kamehla) ho nka boholo ba tšabo ho bona."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ho letsetsa mang",
+    "lede": "Ho tšoenyeha ho arabela hantle haholo kalafong. Karolo e thata ka ho fetisisa ke ho finyella khetlo la pele. SADAG le LifeLine li etsa hore ho be bonolo - mahala, lekunutu, ha ho kahlolo.",
+    "helplines": [
+      {
+        "name": "SADAG Mental Health Line",
+        "description": "Keletso ea mahala, ea lekunutu bakeng sa matšoenyeho, tšabo, le khatello ea maikutlo",
+        "meta": "Mahala · lihora tse 24 · baeletsi ba koetlisitsoeng",
+        "phone": "0800567567",
+        "phone_display": "0800 567 567",
+        "primary": true
+      },
+      {
+        "name": "LifeLine Afrika Boroa",
+        "description": "Keletso ea mahala, tšehetso ea maikutlo, ho sithabela maikutlo",
+        "meta": "Lihora tse 24 · mahala fonong efe kapa efe",
+        "phone": "0861322322",
+        "phone_display": "0861 322 322",
+        "primary": true
+      },
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo le kalafo ea mahala ea bophelo ba kelello ha ho hlokahala",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": false,
+        "link": "/tleliniki-finder"
+      }
+    ]
+  }
+}

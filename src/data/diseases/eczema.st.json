@@ -1,0 +1,180 @@
+{
+  "slug": "eczema",
+  "group_slug": "skin",
+  "name": "Eczema",
+  "tagline": "Ho hlohlona, ​​letlalo le omeletseng. Mongobo. Laola lintho tse susumetsang.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ho hlahloba ha tleliniki ho ntse ho emetse",
+  "sources": [
+    "Allergy Foundation South Africa",
+    "Dermatological Society of South Africa",
+    "WHO",
+    "National Eczema Association"
+  ],
+  "what_is_it": {
+    "heading": "Eczema ka mantsoe a bonolo",
+    "lede": "Eczema (hape e bitsoa atopic dermatitis) ke boemo ba letlalo ba nako e telele moo lesela le sa tšoareng mongobo hantle 'me le teneha habonolo. Sephetho: se omeletseng, se hlohlona, ​​li-patches tse ruruhileng - ka linako tse ling li tuka hampe, ka linako tse ling li khutsitse.",
+    "paragraphs": [
+      "Hangata eczema e qala bongoaneng - hoo e ka bang ngoana a le mong ho ba 5 ba Afrika Boroa o na le eona. Ba bangata ba ntlafala ka lilemo, le hoja e ka khutla neng kapa neng. Eczema ea batho ba baholo le eona e tloaelehile. Hangata e tsamaisana le asthma, hay fever, kapa lijo tse hananang le tsona - 'atopic triad'.",
+      "Eczema ha e tšoaetsane. Ha e bakoe ke ho silafala kapa ho se hloeke hantle. Tšitiso ea letlalo ho eczema e fapane ka liphatsa tsa lefutso - e na le porous, e sebetsang haholoanyane. Litaba tse monate: ka tsamaiso ea letsatsi le letsatsi ea ho nosetsa le ho kenya letsoho, batho ba bangata ba e boloka e laoloa hantle."
+    ]
+  },
+  "facts": {
+    "heading": "Lintho tse 'nè tseo u lokelang ho li tseba",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "1 ho 5",
+        "body": "Bana ba Afrika Boroa ba na le eczema. Ba bangata baa ntlafala ka lilemo. Eczema ea batho ba baholo le eona e tloaelehile."
+      },
+      {
+        "color": "green",
+        "icon": "droplet",
+        "headline": "Moisturizer e hlola",
+        "body": "Ho nosetsa letsatsi le letsatsi - leha letlalo le shebahala hantle - ke kalafo e matla ka ho fetisisa ea eczema. Tloha matsatsi a seng makae mme mollo oa khutla."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Ha e tšoaetsane",
+        "body": "Ha o khone ho tšoara eczema. Ha e bakoe ke litšila kapa bohloeki. Ke bothata ba liphatsa tsa lefutso tsa mokoallo oa letlalo, hangata bo nang le karolo ea allergic."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Li-cream tsa steroid lia sebetsa",
+        "body": "Li-topical steroids nakong ea li-flares li bolokehile ha li sebelisoa ka nepo. Li kokobetsa ho ruruha hoo letlalo le ka folisang."
+      }
+    ],
+    "pull_quote": {
+      "text": "Boholo ba eczema bo laoloa hantle ka mehato e 'meli e bonolo: moisturise habeli ka letsatsi letsatsi le leng le le leng,' me u sebelise tranelate ea steroid ha e tuka. Phoso eo batho ba bangata ba e etsang ke ho emisa moisturizer ha letlalo le shebahala hantle.",
+      "source": "Allergy Foundation Afrika Boroa"
+    }
+  },
+  "signs": {
+    "heading": "Kamoo eczema e shebahalang kateng",
+    "lede": "Eczema e hlaha libakeng tse tloaelehileng 'me e na le mekhoa e tloaelehileng. Ponahalo e ka fapana ho ea ka mebala e fapaneng ea letlalo - letlalong le lefifi le ka bonahala le le thokoa, le pherese, kapa le sootho ho feta buka e khubelu.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "circle",
+        "title": "Bana le bana ba banyenyane",
+        "description": "Marama, letlalo la hlooho, le matsoho a ka ntle le maoto. E khubelu (kapa e fifetse, letlalong le Letšo), e ommeng, hangata e nang le likhohlopo. Ho hlohlona haholo - masea a ingoaea le ha a robetse."
+      },
+      {
+        "color": "purple",
+        "icon": "user",
+        "title": "Bana ba baholo le batho ba baholo",
+        "description": "Memeno ea letlalo - ka hare ho litsoe, ka mor'a mangole, matsoho, molala, maqaqailana. Maqeba a letlalo le teteaneng, le scaly, le ho hlohlona. Matsoho le mahlo a mahlo a tloaelehileng ho batho ba baholo."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "title": "Nako ea ho tšoenyeha - tšoaetso",
+        "description": "Haeba maqeba a lla, a soeufala, a le bohloko haholo, kapa a nama ka potlako - e ka tšoaetsoa. E hloka tlhahlobo ea kliniki bakeng sa lithibela-mafu kapa kalafo ea antiviral."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Seo eleng nnete le seo eseng sona",
+    "items": [
+      {
+        "myth": "Litlolo tsa steroid li tla senya letlalo la ka.",
+        "fact": "E sebelisoa ka nepo bakeng sa lithuto tse khutšoane nakong ea li-flares, li-topical steroids li bolokehile ebile lia sebetsa. Ho li qoba ho baka kotsi e eketsehileng - eczema e sa foleng e sa laoleheng e tenya letlalo mme e baka tšoaetso."
+      },
+      {
+        "myth": "Eczema e bakoa ke ntho e itseng lijong.",
+        "fact": "Ho kula ha 'nete ha lijo ho baka eczema ho bana ba bang - empa boholo ba eczema ha bo tsamaise lijo. Qoba ho felisa lijo ntle le keletso ea bongaka; li ka baka kotsi ea sebele ea phepo e nepahetseng."
+      },
+      {
+        "myth": "Haeba u ngoapa ho lekaneng, u ka khona ho e fata.",
+        "fact": "Ho ingwaya ho senya lepheko la letlalo le ho feta, ho ntša lik'hemik'hale tse eketsehileng tsa ho hlohlona, ​​'me ho baka potoloho e mpe ea ho hlohlona. Li-compress tse batang, li-moisturiser, le li-antihistamine lia thusa - ho ngoapa ha ho thuse."
+      },
+      {
+        "myth": "Bana ba lula ba tsoa ho eczema.",
+        "fact": "Ba bangata ba etsa joalo, empa ba bangata ha ba etse joalo. Esita le ba ‘hōlang’ ba ka ba le malakabe ha ba se ba hōlile. Mekhoa ea bophelo bohle ea tlhokomelo ea letlalo - lihloekisi tse bonolo, moisturizer ea letsatsi le letsatsi - li loketse ho hahoa esale pele."
+      }
+    ]
+  },
+  "prevention": {
+    "heading": "Mekhoa ea letsatsi le letsatsi e thibelang ho phatloha",
+    "lede": "Taolo ea eczema e mabapi le tlhokomelo ea letsatsi le letsatsi ea letlalo - litloaelo tse nyane tse thibelang ho phatloha ho latelang.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Moisturise habeli ka letsatsi, letsatsi le letsatsi",
+        "description": "Sesenyi se setenya se se nang monko o monate nakong ea metsotso e 3 ka mor'a ho itlhatsoa ka metsing. Tsoela pele le ha letlalo le shebahala hantle - sena ke sona se thibelang ho phatloha ho latelang."
+      },
+      {
+        "color": "purple",
+        "icon": "shower",
+        "title": "Libate kapa lishaoara tse futhumetseng tse futhumetseng",
+        "description": "Metsi a chesang a hlobolisa letlalo. Sebelisa metsi a foofo, hlatsoa ntle le monko o monate (eseng sesepa se tloaelehileng), metsotso e 5-10 ho feta. Pat dry - u se ke ua itlotsa."
+      },
+      {
+        "color": "orange",
+        "icon": "wind",
+        "title": "Tseba 'me u qobe lintho tse u qholotsang",
+        "description": "Lintho tse tloaelehileng tse susumetsang: mocheso le mofufutso, boea le masela a maiketsetso, lisepa tse thata le li-detergents, khatello ea kelello, li-allergen (liphoofolo tse ruuoang lapeng, lerōle). Boloka diary ea flare ho bona ea hau."
+      },
+      {
+        "color": "gold",
+        "icon": "snowflake",
+        "title": "Kamore e pholileng, e khutsitseng",
+        "description": "Mocheso le mofufutso li mpefatsa ho hlohlona ha bosiu. Boloka kamore ea ho robala e pholile, sebelisa lilakane tsa k'hothone, 'me u se ke ua bokella bana ho feta tekano. Cooler e khutsitse haholoanyane."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Seo u lokelang ho se etsa ha se tuka",
+    "items": [
+      {
+        "title": "Sebelisa tranelate ea steroid bakeng sa li-flares tse sebetsang",
+        "description": "E fumaneha litleliniking - hangata hydrocortisone (e bonolo) bakeng sa sefahleho le masea, e matla bakeng sa 'mele. Sebelisa hanyenyane holim'a li-patches tse khubelu habeli ka letsatsi ho fihlela ho khutsitse. Ebe u emisa."
+      },
+      {
+        "title": "Boloka mongobo - esita le ho feta steroid",
+        "description": "Sebelisa moisturizer metsotso e 30 ka mor'a steroid, kapa ka linako tse ling. Moisturizer e tšehetsa pholiso - u se ke oa emisa hobane u sebelisa steroid."
+      },
+      {
+        "title": "Nka antihistamine bakeng sa ho hlohlona ho matla",
+        "description": "Cetirizine kapa loratadine thusa ka ho hlohlona, ​​haholo-holo bosiu. E fumaneha ka holim'a khaontara khemisi efe kapa efe. Haholo-holo molemo bakeng sa bana ba scratch ha ba robetse."
+      },
+      {
+        "title": "Haeba letlalo le lla kapa le tšoaetsoa - e-ea tleliniking",
+        "description": "Yellow crusting, bohloko ho ata, feberu - e ka 'na ba tšoaetso ea baktheria (staph) kapa eczema herpeticum (vaerase, tebileng haholoanyane). E hloka kalafo kapele."
+      },
+      {
+        "title": "Bakeng sa eczema e matla kapa e thata ho e laola",
+        "description": "Litliliniki tsa 'muso li ka lebisa ho ngaka ea letlalo. Liphekolo tse ncha tse kang dupilumab (biologic injection) li fetotse eczema e matla lilemong tsa morao tjena."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Moo u ka eang teng",
+    "lede": "Boholo ba eczema bo laoloa hantle maemong a tleliniki. Linyeoe tse matla li rua molemo ho fetisetsoa ho dermatology - e fumanehang ka sistimi ea sechaba.",
+    "helplines": [
+      {
+        "name": "Fumana tleliniki e haufi le uena",
+        "description": "Tlhahlobo ea mahala ea eczema, moisturiser, le litlolo tsa steroid",
+        "meta": "Ha ho kopano · ha ho hlokahale thuso ea bongaka",
+        "phone": null,
+        "phone_display": "Fumana tleliniki",
+        "primary": true,
+        "link": "/tleliniki-finder"
+      },
+      {
+        "name": "Allergy Foundation SA",
+        "description": "Tlhahisoleseding, tshehetso, le phetiso ya ngaka",
+        "meta": "Mantaha–Labohlano 08:30–16:30",
+        "phone": "0214474360",
+        "phone_display": "021 447 4360",
+        "primary": true
+      }
+    ]
+  }
+}

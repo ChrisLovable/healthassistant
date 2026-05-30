@@ -1,7 +1,7 @@
 {
   "slug": "contraception",
   "group_slug": "womens-health",
-  "name": "Ukuthintela ukukhawula",
+  "name": "Ucwangciso-ntsapho",
   "tagline": "Iinketho zakho. Yintoni simahla. Yintoni efanele ubomi bakho.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
@@ -14,8 +14,8 @@
     "FPAofSA"
   ],
   "what_is_it": {
-    "heading": "Ukuthintela ukukhulelwa ngokwemigaqo ecacileyo",
-    "lede": "Ukuthintela ukukhawula kukuvumela ukuba ukhethe ukuba unabantwana nini na xa unabo. UMzantsi Afrika ubonelela ngeendlela ezininzi ezahlukeneyo - ezininzi zisimahla kwiikliniki zikarhulumente. Iindlela ezahlukeneyo zilungele ubomi obahlukeneyo.",
+    "heading": "Ukuthintela ukukhulelwa ngamazwi alula",
+    "lede": "Ucwangciso-ntsapho kukuvumela ukuba ukhethe ukuba unabantwana nini na xa unabo. UMzantsi Afrika ubonelela ngeendlela ezininzi ezahlukeneyo - ezininzi zisimahla kwiikliniki zikarhulumente. Iindlela ezahlukeneyo zilungele ubomi obahlukeneyo.",
     "paragraphs": [
       "Akukho ndlela 'engcono' - kuphela eyona ilungileyo kuwe ngoku. Ukhetho luxhomekeke kwiminyaka yakho, impilo, izicwangciso zabantwana, imeko yeqabane kunye nendlela yokuphila. Indlela elungileyo yile oya kuyisebenzisa rhoqo.",
       "Zonke iikliniki zikarhulumente zibonelela ngoqingqo-nzala simahla. Awudingi ukubandakanya iqabane lakho, abazali (ukususela kwiminyaka eyi-12), okanye nabani na ongomnye. Ukugcinwa kweemfihlo kukhuselwe ngumthetho waseMzantsi Afrika - abasebenzi bezempilo abanako ukwabelana nabanye ngokhetho lwakho locwangciso ngaphandle kwemvume yakho."
@@ -82,7 +82,7 @@
     "heading": "Yintoni eyinyani kwaye yintoni engeyiyo",
     "items": [
       {
-        "myth": "Ukuthintela ukukhawula kubangela ubudlolo kamva.",
+        "myth": "Ucwangciso-ntsapho kubangela ubudlolo kamva.",
         "fact": "Zonke iindlela ezibuyiselwa umva vumela ukuchuma kwakho kubuye emva kokuyeka-kaninzi kwiinyanga. Akukho mpembelelo yexesha elide yokuba nabantwana kamva xa ubafuna."
       },
       {

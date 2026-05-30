@@ -1,0 +1,176 @@
+{
+  "slug": "fungal-skin",
+  "group_slug": "skin",
+  "name": "Izifo zesikhumba ezibangelwa ukhunta",
+  "tagline": "Unyawo lomsubathi, umbandamu, ijoki itch. Kushibhile ukwelapha.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Dermatological Society of South Africa",
+    "WHO",
+    "NICD",
+    "National Department of Health"
+  ],
+  "what_is_it": {
+    "heading": "Izifo zesikhumba ze-fungal ngokwemibandela ecacile",
+    "lede": "Izifo zesikhumba zesikhunta zibangelwa isikhunta esincane esingenabungozi esihlala ezingxenyeni ezifudumele nezimanzi zomzimba. Uma sezikhule ngokweqile, zibangela ukulunywa, ama-scaly, ngokuvamile amise okwendandatho. Kuyacasula kodwa ngokuvamile kulula ukuyelapha.",
+    "paragraphs": [
+      "Izinhlobo ezivamile: unyawo lomsubathi (phakathi kwezinzwane), i-jock itch (igroin), i-ringworm (noma yikuphi - empeleni isikhunta, hhayi isibungu), ukhunta wezinzipho, umbandamu wesikhumba ezinganeni. Naphezu kwamagama ahlukene, wonke abangelwa isikhunta esifanayo.",
+      "Iningi liphendula ukhilimu we-antifungal we-over-the-counter ofakwe amaviki angu-2-4. Ezinye - ukhunta wezinzipho, izifo zesikhumba - zidinga amaphilisi kadokotela. Abantu abanesifo sikashukela, amasosha omzimba abuthakathaka, noma i-HIV bangase bathole izifo ezimbi kakhulu noma eziphindelelayo."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "purple",
+        "icon": "users",
+        "headline": "Okujwayelekile kakhulu",
+        "body": "Unyawo lomsubathi lulodwa luthinta abantu abadala abangafika ku-70% ngesikhathi esithile. I-ringworm kanye ne-jock itch kuvamile emhlabeni jikelele."
+      },
+      {
+        "color": "green",
+        "icon": "check-circle",
+        "headline": "Kulula ukwelapha",
+        "body": "Izifo eziningi zesikhunta ziyacaca ngokhilimu othengwayo emasontweni angu-2-4. Kushibhile, kutholakala kunoma yiliphi ikhemisi."
+      },
+      {
+        "color": "coral",
+        "icon": "alert-circle",
+        "headline": "Iyathathelana",
+        "body": "Isikhunta sisakazeka kumathawula, phansi eshaweni, kumata wokuzivocavoca, ezicathulweni ezihlanganyelwe. Yilaphe — futhi ungabelani ngamathawula noma izicathulo ngesikhathi sokwelashwa."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Gcina womile",
+        "body": "Ukhunta uthanda isikhumba esifudumele, esimanzi. Yomisa kahle ngemva kokugeza, shintsha amasokisi ajulukile nezingubo zangaphansi, khipha umoya izicathulo. Ukuvimbela kumayelana nokomisa."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma 'indandatho' esikhumbeni ingaqedi ngokhilimu we-antifungal emavikini angu-4, bonana nodokotela. Ezinye izimo zesikhumba zibukeka njengezikelemu - futhi ukhilimu we-steroid uzokwenza isibanda sangempela sibe sibi nakakhulu.",
+      "source": "I-Dermatological Society yaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Amaphethini ajwayelekile",
+    "lede": "Izifo zesikhunta zonke zifana nokuluma, uqweqwe, nokubukeka okumise okwendandatho - kodwa lapho zivela khona kuyehluka.",
+    "items": [
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Unyawo lomdlali",
+        "description": "Isikhumba esilumayo, esiqhekekayo, esixebuka phakathi kwezinzwane - ikakhulukazi isi-4 kanye nesi-5. Ingasakazeka ematheni. Uyanuka. Kuba kubi ehlobo kanye nezicathulo ezijulukayo."
+      },
+      {
+        "color": "purple",
+        "icon": "circle",
+        "title": "Isikelemu (tinea corporis)",
+        "description": "Ibala elibomvu elijikelezayo (noma elimnyama, esikhumbeni esiMnyama) elinesikhumba esimaphakathi esicacile — sibukeka njengendandatho. Kancane kancane ikhula ngaphandle. Okujwayelekile ezingalweni, intamo, umzimba. Kuyaluma."
+      },
+      {
+        "color": "coral",
+        "icon": "user",
+        "title": "Jock itch kanye ne-scalp tinea",
+        "description": "I-Jock itch: ukuqubuka okubomvu, okulumayo emagoqeni e-groin - okuvamile emadodeni, ngemva kokujuluka. I-scalp ringworm: ukulahleka kwezinwele ezimagqabhagqabha ngokukalwa - kuvame ezinganeni, kudinga amaphilisi."
+      }
+    ]
+  },
+  "spreads": {
+    "heading": "Ukuthi izifo zefungal zisakazeka kanjani",
+    "yes": [
+      "Ukuthintana okuqondile kwesikhumba nesikhumba nomuntu onegciwane",
+      "Amathawula ahlanganyelwe, ilineni lombhede, izingubo zokugqoka, amabhulashi ezinwele",
+      "Ukuhamba ungafake zicathulo ezitezi ezingcolile - amashawa omphakathi, amagumbi okushintshela ejimini, amadekhi echibi lokubhukuda",
+      "Izicathulo ezihlanganyelwe, ikakhulukazi igiya lezemidlalo",
+      "Kusuka ezifuyweni (amakati nezinja zingathwala umbandamu)",
+      "Kusukela kumishini yokujuluka ezindaweni zokujima noma kwezemidlalo"
+    ],
+    "no": [
+      "Ukuxhumana okungajwayelekile njengokuxhawula noma ukugona",
+      "Ukwabelana ngokudla noma iziphuzo",
+      "Ukuba ekamelweni elilodwa",
+      "Umoya noma umoya"
+    ]
+  },
+  "prevention": {
+    "heading": "Ungakugwema kanjani ukuyithola futhi",
+    "lede": "Isikhunta siyabuya uma izimo zihlala zifudumele futhi zimanzi. Imikhuba emincane yansuku zonke ivimbela ukuphindaphinda okuningi.",
+    "items": [
+      {
+        "color": "green",
+        "icon": "droplet",
+        "title": "Yomisa kahle ngemva kokugeza",
+        "description": "Ikakhulukazi phakathi kwezinzwane, e-groin, ngaphansi kwamabele, emiphethweni yesikhumba. Ome kancane. Isikhumba esomile siyikhaya elingenabungane lesikhunta."
+      },
+      {
+        "color": "purple",
+        "icon": "shirt",
+        "title": "Ukotini ohlanzekile, shintsha njalo",
+        "description": "Amasokisi kakotini nezingubo zangaphansi ziphefumula kangcono kunezokwenziwa. Shintsha nsuku zonke nangemva kokujuluka. Ungaphinde ugqoke izingubo zokuzivocavoca ezijulukayo."
+      },
+      {
+        "color": "orange",
+        "icon": "footprints",
+        "title": "Ungahambi ungagqokanga izicathulo emphakathini",
+        "description": "Amashawa omphakathi, amagumbi okushintshela ejimini, amadekhi echibi lokubhukuda - gqoka izihlikihli noma izimbadada. Izifo eziningi zezinyawo ze-fungal zivela kulezi zindawo."
+      },
+      {
+        "color": "gold",
+        "icon": "x-circle",
+        "title": "Ungabelani ngamathawula noma izicathulo",
+        "description": "Ngisho namalungu omndeni. Uma othile enokutheleleka kwefungal, sebenzisa amathawula ahlukene kuze kube yilapho esesuliwe."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ngikwenze",
+    "items": [
+      {
+        "title": "Qala phezu-the-counter antifungal cream",
+        "description": "I-Clotrimazole noma i-terbinafine - gcoba kabili ngosuku endaweni ethintekile kanye no-2cm ukuyizungezile. Qhubeka amasonto ama-2 ngemva kokuba ukuqhuma kuphelile ukuze uvimbele ukubuya."
+      },
+      {
+        "title": "Gcina indawo yomile futhi ivuleleke emoyeni",
+        "description": "Ungabhandishi. Gqoka izingubo ezixegayo. Vumela isikhumba siphefumule. Impushana (hhayi ukhilimu) ekuseni ingasiza emabeleni noma ezinyaweni ekumunceni umjuluko."
+      },
+      {
+        "title": "Phatha umthombo",
+        "description": "Geza wonke amathawula, izingubo zokulala, nezingubo ezithinte isifo emanzini ashisayo. Lahla noma ubulale amagciwane izicathulo ezindala uma unyawo lomsubathi lulokhu lubuya."
+      },
+      {
+        "title": "Uma kungengcono emavikini angu-4 - bonana nodokotela",
+        "description": "Ezinye izimo ezifanayo aziphenduli ku-antifungal. Ukhunta lwezinzipho kanye nezikelemu zasekhanda zidinga amaphilisi. Imitholampilo kahulumeni ihlinzeka ngazo zombili mahhala."
+      },
+      {
+        "title": "Uma unesifo sikashukela noma i-HIV - hamba kusenesikhathi",
+        "description": "Ukutheleleka kwesikhunta kungaba nzima kakhulu futhi kusakazeke ngokushesha. Yiya emtholampilo uma ubona kuqala — ungalindi ukuzama ezitolo amasonto."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Lapho okumele uye khona",
+    "lede": "Izifo eziningi zesikhunta zesikhumba ziyacaca ngokhilimu oshibhile otholakala ezitolo. Uma bengakwenzi, imitholampilo kahulumeni ihlinzeka ngokwelashwa kwencwadi kadokotela mahhala.",
+    "helplines": [
+      {
+        "name": "Noma yiliphi ikhemisi lendawo",
+        "description": "Ama-antifungal creams angaphezu kwe-counter - clotrimazole, terbinafine",
+        "meta": "Ayikho incwadi kadokotela edingekayo ukuze uthole ukhilimu",
+        "phone": null,
+        "phone_display": "Vakashela ikhemisi",
+        "primary": true
+      },
+      {
+        "name": "Thola umtholampilo oseduze nawe",
+        "description": "Ukuhlolwa kwamahhala kanye nemithi yokwelashwa kwe-antifungal uma kudingeka",
+        "meta": "Akukho ukuqokwa · alukho usizo lwezempilo oludingekayo",
+        "phone": null,
+        "phone_display": "Thola umtholampilo",
+        "primary": true,
+        "link": "/umtholampilo-finder"
+      }
+    ]
+  }
+}

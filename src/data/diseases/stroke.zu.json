@@ -1,0 +1,177 @@
+{
+  "slug": "stroke",
+  "group_slug": "emergency-signs",
+  "name": "Isifo sohlangothi",
+  "tagline": "Izimpawu ezisheshayo. Umzuzu nomzuzu ubalulekile.",
+  "read_time_minutes": 3,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "WHO",
+    "National Department of Health",
+    "American Stroke Association"
+  ],
+  "urgent": {
+    "heading": "Okuphuthumayo - shayela manje",
+    "primary_message": "Shayela i-ambulensi ngokushesha. Qaphela isikhathi esiqondile izimpawu zaqala.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Olunye uhlangothi lobuso obulengayo - bacele ukuthi bamamatheke",
+      "Ubuthakathaka bengalo ngakolunye uhlangothi — bacele ukuthi baphakamise izingalo zombili",
+      "Inkulumo engacacile noma engajwayelekile — bacele ukuthi baphinde umusho",
+      "Ikhanda elibuhlungu kungazelelwe ngaphandle kwesizathu esaziwayo",
+      "Ukulahlekelwa umbono kungazelelwe kwelinye noma womabili iso",
+      "Ukudideka okungazelelwe noma ukuqonda inkinga"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Stroke ngamazwi alula",
+    "lede": "I-stroke kwenzeka lapho ukugeleza kwegazi engxenyeni yobuchopho kunqamuka kungazelelwe. Amaseli obuchopho aqala ukufa emizuzwini embalwa.",
+    "paragraphs": [
+      "Imivimbo eminingi iyenzeka lapho ihlule livimba imithambo yegazi ebuchosheni. Inani elincane lenzeka lapho umkhumbi uqhuma futhi igazi lingena ngaphakathi. Kokubili kuyizimo eziphuthumayo futhi kubukeka ngendlela efanayo ngaphandle - awukwazi ukubona ukuthi iyiphi ngaphandle kweskena sasesibhedlela.",
+      "Uma isifo sohlangothi selashwa ngokushesha, kulapho ubuchopho bungasinda khona. Imithi evala amahlule isebenza kahle kakhulu emahoreni ambalwa okuqala. Ngemva kwalokho, umonakalo uba unomphela. Yingakho imizuzu ibalulekile."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Amaminithi abalulekile",
+        "body": "Cishe amangqamuzana obuchopho ayizigidi ezingu-2 afa umzuzu ngamunye ngesikhathi sohlangothi. Iwashi liqala kuphawu lokuqala."
+      },
+      {
+        "color": "purple",
+        "icon": "alert-triangle",
+        "headline": "80,000+",
+        "body": "Abantu baseNingizimu Afrika bahlaselwa isifo sohlangothi minyaka yonke. Yimbangela ehamba phambili yokukhubazeka nokufa kwabantu abadala."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Kuyagwemeka",
+        "body": "Imivimbo eminingi ixhumene nomfutho wegazi ophakeme, ukubhema, isifo sikashukela, nokudla - konke lokhu kungalawuleka."
+      },
+      {
+        "color": "green",
+        "icon": "heart",
+        "headline": "Ukululama kungenzeka",
+        "body": "Ukusebenza ngehora lokuqala kunikeza ithuba elihle kakhulu lokululama ngokugcwele. Izibhedlela zinemithi yokwelapha ethatha isikhathi eside."
+      }
+    ],
+    "pull_quote": {
+      "text": "Uma usola isifo sohlangothi, ungalindi ukubona ukuthi kuhamba kanjani. Shayela ucingo i-ambulensi. Ngisho noma izimpawu zidlula ngokwazo - lokho ngokwakho kuwuphawu oluyisixwayiso.",
+      "source": "I-Heart and Stroke Foundation SA"
+    }
+  },
+  "signs": {
+    "heading": "Ukuhlolwa kwe-FAST",
+    "lede": "Izimpawu zokushaywa unhlangothi zivela ngokuzumayo. Lapho uzibona ngokushesha, kulapho ubuchopho bungasinda khona. Khumbula FAST.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "smile",
+        "title": "F - Ubuso obude",
+        "description": "Bacele bamamatheke. Ingabe uhlangothi olulodwa lomlomo noma lobuso luyashona, ngisho nangobuqili?"
+      },
+      {
+        "color": "orange",
+        "icon": "trending-down",
+        "title": "A - Ubuthakathaka bengalo",
+        "description": "Bacele ukuthi baphakamise izingalo zombili. Ingabe umuntu ukhukhuleka aye phansi noma azizwe endikindiki? Bangakwazi ukubamba bobabili ngokulinganayo?"
+      },
+      {
+        "color": "purple",
+        "icon": "message-circle",
+        "title": "S - Ubunzima bokukhuluma",
+        "description": "Bacele ukuthi baphinde umusho olula. Ingabe inkulumo yabo iphithene, iyinqaba, noma inzima ukuyiqonda?"
+      },
+      {
+        "color": "gold",
+        "icon": "phone",
+        "title": "T — Isikhathi sokufona",
+        "description": "Uma ubona noma yiziphi zalezi zimpawu, shayela ku-10177 ngokushesha. Qaphela isikhathi esiqondile izimpawu zaqala."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ukushaywa unhlangothi kwenzeka kubantu abadala kuphela.",
+        "fact": "Imivimbo ingenzeka kunoma ibuphi ubudala. Cishe i-stroke eyodwa kwezi-4 kwenzeka kubantu abangaphansi kweminyaka engama-65, futhi inani liyenyuka kwabancane abadala."
+      },
+      {
+        "myth": "Uma izimpawu zidlula ngokushesha, kwakungesona isifo sohlangothi sangempela.",
+        "fact": "Isiqephu esifushane (i-TIA noma 'i-mini-stroke') siyisixwayiso esibucayi. Cishe umuntu oyedwa kwabangu-3 abane-TIA uzoba ne-stroke egcwele - abaningi phakathi namahora angu-48."
+      },
+      {
+        "myth": "Kufanele ngibayise esibhedlela ngokwami ​​- ngokushesha kunokulinda i-ambulensi.",
+        "fact": "Abezimo eziphuthumayo baqala ukwelashwa nge-ambulensi kanye nomzila oya esibhedlela esifanele esikwazi ukushaywa unhlangothi. Ukuzishayela kumosha isikhathi esibucayi futhi kuyingozi."
+      },
+      {
+        "myth": "I-Aspirin izosiza ngesikhathi sokushaywa unhlangothi.",
+        "fact": "Unganikezi i-aspirin ngesikhathi sohlangothi olusolekayo. Uma kuwuhlangothi olophayo (cishe isigameko esi-1 kwezingu-5), i-aspirin izokwenza kube kubi nakakhulu. Shayela i-ambulensi ulinde."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ukwenze - lapho usola isifo sohlangothi",
+    "items": [
+      {
+        "title": "Shayela ku-10177 noma ku-112 ngokushesha",
+        "description": "Isho ngokucacile igama elithi 'stroke'. Abezimo eziphuthumayo bazobeka phambili futhi baqonde esibhedlela esikwazi ukushaywa unhlangothi."
+      },
+      {
+        "title": "Qaphela isikhathi esiqondile izimpawu zaqala",
+        "description": "Lokhu kunquma ukuthi yiziphi izindlela zokwelapha ezingenzeka. Ngisho nesikhathi esilinganiselwe kusiza ithimba lasesibhedlela."
+      },
+      {
+        "title": "Ungakuniki ukudla, amanzi, noma imithi",
+        "description": "Umuntu angase abe nenkinga yokugwinya. Unganikezi lutho ngomlomo - kuhlanganise ne-aspirin."
+      },
+      {
+        "title": "Uma equlekile, walalise ngohlangothi",
+        "description": "Indawo yokutakula igcina indlela yomoya icacile. Uma beqaphela, bagcine benethezekile futhi beqinisekisiwe."
+      },
+      {
+        "title": "Hlala nabo kuze kufike abezimo eziphuthumayo",
+        "description": "Bheka ukuphefumula kwabo. Balungele ukwenza i-CPR uma beyeka ukuphefumula. Vula umnyango ukuze abezimo eziphuthumayo bakwazi ukungena."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okumele ashayele khona manje",
+    "lede": "I-stroke okusolwa ukuthi iyisimo esiphuthumayo. Shaya manje. Ungazishayeli noma ulinde ukuthi izimpawu zidlulele ngokwazo.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · amahora angu-24 · ithi 'stroke'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Isimo esiphuthumayo (iselula)",
+        "description": "Ifinyelela kunoma iyiphi isevisi yezimo eziphuthumayo ngomakhalekhukhwini",
+        "meta": "Kumahhala kunoma iyiphi iselula · amahora angama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "I-Heart and Stroke Foundation SA",
+        "description": "Ulwazi, ukusekelwa, kanye nokudluliselwa kokuvuselelwa ngemva kokushaywa unhlangothi",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}

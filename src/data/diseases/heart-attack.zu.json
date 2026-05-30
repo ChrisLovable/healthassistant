@@ -1,0 +1,177 @@
+{
+  "slug": "heart-attack",
+  "group_slug": "emergency-signs",
+  "name": "Ukuhlasela kwenhliziyo",
+  "tagline": "Ubuhlungu besifuba obungadluli — shayela manje.",
+  "read_time_minutes": 4,
+  "last_reviewed": "2026-05-21",
+  "next_review": "2026-11-21",
+  "reviewer": "Ukubuyekezwa komtholampilo kulindile",
+  "sources": [
+    "Heart and Stroke Foundation SA",
+    "South African Heart Association",
+    "WHO",
+    "American Heart Association"
+  ],
+  "urgent": {
+    "heading": "Okuphuthumayo - shayela manje",
+    "primary_message": "Shayela i-ambulensi ngokushesha. Hlafuna i-aspirin eyodwa uma ikhona. Ungazishayeli wena.",
+    "phone": "10177",
+    "phone_display": "Shayela ku-10177",
+    "red_flags": [
+      "Ubuhlungu besifuba, ingcindezi, ukucinana, noma ukumpintshana — okuhlala isikhathi esingaphezu kwemizuzu embalwa",
+      "Ubuhlungu obusakazekela engalweni (ngokuvamile kwesokunxele), umhlathi, intamo, iqolo, noma isisu",
+      "Ukuphefumula okungazelelwe, noma ngaphandle kobuhlungu besifuba",
+      "Umjuluko obandayo, isicanucanu, noma ukuhlanza",
+      "Ubuthakathaka obukhulu obungazelelwe, isiyezi, noma ukuquleka",
+      "Kwabesifazane: ukukhathala okungajwayelekile, ubuhlungu obunjengokuqunjelwa, noma iqolo"
+    ]
+  },
+  "what_is_it": {
+    "heading": "Ukuhlasela kwenhliziyo ngesinye isikhathi",
+    "lede": "Ukuhlaselwa yinhliziyo kwenzeka lapho ukugeleza kwegazi kuya engxenyeni yemisipha yenhliziyo kuvaleka kungazelelwe. Umsipha uqala ukufa emizuzwini embalwa.",
+    "paragraphs": [
+      "Ukuhlasela kwenhliziyo okuningi kubangelwa ihlule elakheka ku-fatty plaque ngaphakathi komthambo wenhliziyo. Ukuvinjelwa kubulala imisipha yenhliziyo yomoya-mpilo. Uma umthambo uvalekile isikhathi eside, imisipha iyafa.",
+      "Ukwelashwa kwesimanje esibhedlela kungavula umthambo ovalekile futhi kusindise inhliziyo esele - kodwa kuphela uma ufika lapho ngokushesha. Iminithi ngalinye lokulibaziseka liwumonakalo ongapheli."
+    ]
+  },
+  "facts": {
+    "heading": "Izinto ezine okufanele uzazi",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "clock",
+        "headline": "Isikhathi = umsipha",
+        "body": "Umzuzu nomzuzu womthambo ovalekile ulahlekelwa imisipha yenhliziyo. Ukwelashwa emahoreni okuqala kungasindisa iningi lakho."
+      },
+      {
+        "color": "purple",
+        "icon": "heart-pulse",
+        "headline": "Umbulali ohamba phambili",
+        "body": "Ukuhlasela kwenhliziyo siyimbangela ehamba phambili yokufa okungathathelwana eNingizimu Afrika."
+      },
+      {
+        "color": "orange",
+        "icon": "alert-triangle",
+        "headline": "Atypical kwabesifazane",
+        "body": "Abesifazane bavame ukuba nobuhlungu besifuba obungajwayelekile - esikhundleni salokho, ukukhathala, ubuhlungu bemihlathi, isicanucanu, noma ukuphelelwa umoya. Lezi zimpawu kulula ukuzichitha."
+      },
+      {
+        "color": "gold",
+        "icon": "shield",
+        "headline": "Kuyagwemeka kakhulu",
+        "body": "Ukubhema, umfutho wegazi ophakeme, isifo sikashukela, i-cholesterol ephezulu, ukungasebenzi, nokukhuluphala kushayela iningi lokuhlaselwa yinhliziyo. Konke kuyalawuleka."
+      }
+    ],
+    "pull_quote": {
+      "text": "Abantu abaningi ababulawa isifo senhliziyo bafa ngaphambi kokuba bafike esibhedlela - ngokuvamile ngoba babelindile, benethemba lokuthi kuzodlula. Uma ungenaso isiqiniseko, shayela.",
+      "source": "Inhlangano Yenhliziyo YaseNingizimu Afrika"
+    }
+  },
+  "signs": {
+    "heading": "Ongase uzizwe",
+    "lede": "Izimpawu zokuhlaselwa yinhliziyo azihlali zimangalisa. Izimpawu ezithambile kodwa ezibeleselayo zisadinga ukunakwa okuphuthumayo.",
+    "items": [
+      {
+        "color": "coral",
+        "icon": "heart-pulse",
+        "title": "Ubuhlungu besifuba noma ingcindezi",
+        "description": "Umuzwa osindayo, ocindezelayo, oqinile, noma oshisayo phakathi kwesifuba. Ihlala ngaphezu kwemizuzu embalwa, noma iza iphinde ihambe."
+      },
+      {
+        "color": "orange",
+        "icon": "git-branch",
+        "title": "Ubuhlungu obusakazekela ngaphandle",
+        "description": "Ubuhlungu noma ukuba ndikindiki engalweni (ngokuvamile kwesokunxele), umhlathi, intamo, iqolo, noma isisu esingaphezulu. Kungenzeka ngaphandle kobuhlungu besifuba."
+      },
+      {
+        "color": "purple",
+        "icon": "wind",
+        "title": "Ukuphelelwa umoya",
+        "description": "Kungazelelwe ubunzima bokuphefumula, ngezinye izikhathi uphawu olulodwa. Okuvame kakhulu kwabesifazane, abantu abadala, kanye nabantu abanesifo sikashukela."
+      },
+      {
+        "color": "gold",
+        "icon": "droplet",
+        "title": "Ukujuluka, isicanucanu, isiyezi",
+        "description": "Umjuluko obandayo we-clammy, isicanucanu noma ukuhlanza, ubuthakathaka obungazelele noma ukuquleka. Ngokuvamile kuhlanganiswe nezimpawu ezingenhla."
+      }
+    ]
+  },
+  "myths": {
+    "heading": "Okuyiqiniso nokungelona",
+    "items": [
+      {
+        "myth": "Ukuhlaselwa yinhliziyo njalo kusho ubuhlungu besifuba obumangalisayo.",
+        "fact": "Ukuhlasela kwenhliziyo okuningi kuqala ngokungaphatheki kahle futhi kwakha kancane. Abesifazane, abantu abadala asebekhulile, kanye nabantu abanesifo sikashukela bavame ukuba nezimpawu ze-atypical."
+      },
+      {
+        "myth": "Uma ngimncane futhi ngifanelekile, angikwazi ukuhlaselwa yinhliziyo.",
+        "fact": "Ukuhlaselwa yinhliziyo entsheni yaseNingizimu Afrika kuyakhula - okuqhutshwa ukubhema, ukufutha, ukusebenzisa izidakamizwa, umlando womndeni, kanye nezinkinga ze-cholesterol ezingatholakali."
+      },
+      {
+        "myth": "Ukuqunjelwa okungeke kuphele kuwukungagayeki kahle.",
+        "fact": "Ubuhlungu obufana nesilungulela obuhlala njalo, obubuyayo, obufika nokujuluka noma ukuphelelwa umoya, noma obuzwakala buhlukile kobujwayelekile - kufanele buhlolwe."
+      },
+      {
+        "myth": "Ngizolinda ihora ukuze ngibone ukuthi liyadlula yini.",
+        "fact": "Ukulinda yisona sizathu esikhulu esenza abantu babulawe yisifo senhliziyo. Uma ungenasiqiniseko isikhathi esingaphezu kwemizuzu eyi-10 — shayela i-ambulensi."
+      }
+    ]
+  },
+  "action_steps": {
+    "heading": "Okufanele ukwenze - lapho usola isifo senhliziyo",
+    "items": [
+      {
+        "title": "Shayela ku-10177 noma ku-112 ngokushesha",
+        "description": "Ithi 'isifo senhliziyo esisolwayo'. Abezimo eziphuthumayo baqala ukwelashwa nge-ambulensi kanye nendlela eya esibhedlela esinamandla enhliziyo."
+      },
+      {
+        "title": "Hlafuna i-aspirin eyodwa evamile (300 mg) uma ikhona",
+        "description": "Ukuhlafuna - ukungagwinyi ngokuphelele - kungenisa i-aspirin egazini ngokushesha. Yeqa uma i-allergic, ezintweni ezinciphisa igazi, noma usanda ukopha."
+      },
+      {
+        "title": "Hlala phansi uphumule. Khulula izingubo ezimpintshayo",
+        "description": "Hlala ngokukhululeka. Ungaqambi amanga uma ukuphefumula kunzima. Hlala uzolile - ukwethuka kukhulisa ukucindezelwa kwenhliziyo."
+      },
+      {
+        "title": "Ungazishayeli wena",
+        "description": "Uma uwela esondweni, ungafa futhi ulimaze abanye. Linda i-ambulensi — abezimo eziphuthumayo baphatha izinto ezisindisa ukuphila."
+      },
+      {
+        "title": "Bavulele abezimo eziphuthumayo umnyango",
+        "description": "Qiniseka ukuthi bangakufinyelela ngokushesha. Uma uwedwa, fika endaweni lapho othile angakuthola khona."
+      }
+    ]
+  },
+  "get_help": {
+    "heading": "Ubani okumele ashayele khona manje",
+    "lede": "Ukuhlasela kwenhliziyo okusolwayo kuyisimo esiphuthumayo. Ungalindi, ungashayeli, 'ungaboni ukuthi kuhamba kanjani'.",
+    "helplines": [
+      {
+        "name": "I-ambulensi yezimo eziphuthumayo",
+        "description": "Inkonzo yezempilo ephuthumayo kahulumeni",
+        "meta": "Mahhala · amahora angu-24 · ithi 'isifo senhliziyo'",
+        "phone": "10177",
+        "phone_display": "10177",
+        "primary": true
+      },
+      {
+        "name": "Isimo esiphuthumayo (iselula)",
+        "description": "Ifinyelela kunoma iyiphi isevisi yezimo eziphuthumayo ngomakhalekhukhwini",
+        "meta": "Kumahhala kunoma iyiphi iselula · amahora angama-24",
+        "phone": "112",
+        "phone_display": "112",
+        "primary": true
+      },
+      {
+        "name": "I-Heart and Stroke Foundation SA",
+        "description": "Ulwazi, isiqondiso sokuvimbela, nokusekelwa kwabasindile",
+        "meta": "Msombuluko–uLwesihlanu 08:00–16:30",
+        "phone": "0860000254",
+        "phone_display": "0860 000 254",
+        "primary": false
+      }
+    ]
+  }
+}
