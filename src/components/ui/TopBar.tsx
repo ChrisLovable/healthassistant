@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useLang } from "@/lib/i18n/provider";
 import { ALL_LANGS, AVAILABLE_LANGS, LANG_LABEL, type Lang } from "@/lib/i18n/lang";
 import { t } from "@/lib/i18n/translations";
@@ -9,7 +10,7 @@ export function TopBar() {
 
   return (
     <header className="sticky top-0 z-50 backdrop-blur-md bg-[rgba(247,244,238,0.78)] border-b border-black/5">
-      <div className="max-w-md mx-auto px-4 py-2">
+      <div className="max-w-md mx-auto px-4 pt-2 pb-3">
         <div className="flex justify-center">
           <div className="flex bg-white/60 backdrop-blur border border-black/10 rounded-full p-1 shadow-sm">
             {ALL_LANGS.map((code: Lang) => {
@@ -30,6 +31,16 @@ export function TopBar() {
               );
             })}
           </div>
+        </div>
+        <div className="mt-2 flex justify-center">
+          <Image
+            src="/images/logo.png"
+            alt="MyMedic"
+            width={512}
+            height={512}
+            priority
+            className="w-[90vw] max-w-full h-auto rounded-[10px]"
+          />
         </div>
       </div>
     </header>
