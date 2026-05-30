@@ -119,6 +119,16 @@ export const T = {
   "videos.title":            { en: "First Aid Videos", af: "Noodhulpvideo's", xh: "Iividiyo zoNcedo lokuQala" },
   "videos.subtitle":         { en: "Learn life-saving techniques", af: "Leer tegnieke wat lewens red", xh: "Funda iindlela zokusindisa ubomi" },
   "videos.credit":           { en: "Videos by St John Ambulance & British Heart Foundation", af: "Video's deur St John Ambulance & British Heart Foundation", xh: "Iividiyo zeSt John Ambulance kunye neBritish Heart Foundation" },
+
+  // PWA install
+  "pwa.installTitle":        { en: "Install MyMedic on your phone", af: "Installeer MyMedic op jou foon", xh: "Faka iMyMedic kwifowuni yakho" },
+  "pwa.installBody":         { en: "Add to your home screen for quick access anytime.", af: "Voeg by jou tuisskerm vir vinnige toegang enige tyd.", xh: "Yongeza kwisikrini sasekhaya ukuze ufike ngokukhawuleza nanini na." },
+  "pwa.installButton":       { en: "Install app", af: "Installeer app", xh: "Faka i-app" },
+  "pwa.installing":          { en: "Installing…", af: "Installeer…", xh: "Iyafakwa…" },
+  "pwa.dismiss":             { en: "Not now", af: "Nie nou nie", xh: "Hayi ngoku" },
+  "pwa.iosBody":             { en: "Install MyMedic for one-tap access from your home screen.", af: "Installeer MyMedic vir een-tik toegang vanaf jou tuisskerm.", xh: "Faka iMyMedic ukuze ufike ngokucofa kube kanye kwisikrini sasekhaya." },
+  "pwa.iosHint":             { en: "Tap Share, then Add to Home Screen", af: "Tik Deel, dan Voeg by tuisskerm", xh: "Cofa Yabelana, emva koko Yongeza kwisikrini sasekhaya" },
+  "pwa.androidFallback":     { en: "Tap your browser menu (⋮) and choose Install app.", af: "Tik jou blaaier-kieslys (⋮) en kies Installeer app.", xh: "Cofa imenyu yebhrawuza (⋮) ukhethe uFaka i-app." },
 } as const;
 
 export type TranslationKey = keyof typeof T;
