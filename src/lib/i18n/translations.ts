@@ -5,7 +5,11 @@ type Entry = { en: string; af?: string; zu?: string; xh?: string };
 export const T = {
   // Home
   "home.hero.title":         { en: "Health information you can trust.", af: "Gesondheidsinligting wat jy kan vertrou.", xh: "Ulwazi lwezempilo onokuluthemba." },
-  "home.hero.subtitle":      { en: "Tap a category or ask MyMedic any medical or pharmacy question.", af: "Tik 'n kategorie of vra MyMedic enige mediese of apteekvraag.", xh: "Cofa kudidi okanye ubuze iMyMedic nawuphi na umbuzo wezonyango okanye wefama." },
+  "home.hero.disclaimer":    {
+    en: "MyMedic provides general health information only and does not offer medical advice, diagnosis, or treatment, and it should not be used as a replacement for consultation with a qualified healthcare professional or doctor.",
+    af: "MyMedic verskaf slegs algemene gesondheidsinligting en bied nie mediese advies, diagnose of behandeling nie, en dit moet nie gebruik word as 'n vervanging vir konsultasie met 'n gekwalifiseerde gesondheidswerker of dokter nie.",
+    xh: "IMyMedic ibonelela ngolwazi lwezempilo jikelele kuphela kwaye ayiniki eluleko lwezonyango, ukuqondiswa okanye unyango, kwaye ayimele isetyenziswe endaweni yokubonisana nengcali yezempilo eqeqeshiweyo okanye ugqirha.",
+  },
   "home.browse.title":       { en: "Browse by category", af: "Blaai per kategorie", xh: "Khangela ngeendidi" },
   "home.browse.subtitle":    { en: "Tap any category to see the conditions inside.", af: "Tik enige kategorie om die toestande binne te sien.", xh: "Cofa naluphi na udidi ukuze ubone iimeko ezingaphakathi." },
   "home.footer.line1":       { en: "© MyMedic ·", af: "© MyMedic ·", xh: "© MyMedic ·" },

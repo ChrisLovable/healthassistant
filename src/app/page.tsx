@@ -19,8 +19,8 @@ export default async function HomePage() {
           <h1 className="font-serif font-bold text-[24px] text-[var(--text)] tracking-tight leading-[1.08]">
             {t("home.hero.title", lang)}
           </h1>
-          <p className="text-[12px] text-[var(--text-muted)] mt-2 leading-relaxed">
-            {t("home.hero.subtitle", lang)}
+          <p className="text-[11px] text-[var(--text-muted)] mt-2 leading-relaxed">
+            {t("home.hero.disclaimer", lang)}
           </p>
         </section>
 
