@@ -1,4 +1,5 @@
-import { NextRequest, NextResponse } from "next/server";
+﻿import { NextRequest, NextResponse } from "next/server";
+import { buildLanguageDirective } from "@/lib/chat-language-prompt";
 
 const SYSTEM_PROMPT = `You are MyMedic, a trusted health information assistant for South Africa. Your purpose is to provide accurate, helpful health information while always prioritising user safety.
 
@@ -103,7 +104,7 @@ export async function POST(request: NextRequest) {
       body: JSON.stringify({
         model: "claude-sonnet-4-20250514",
         max_tokens: 1024,
-        system: SYSTEM_PROMPT + (lang === "af" ? "\n\n## Language\nRespond entirely in Afrikaans (South African Afrikaans). Give all guidance, including emergency advice, in clear, simple Afrikaans. Keep phone numbers, proper nouns and abbreviations (HIV, TB, COVID-19, PrEP, PEP) unchanged." : ""),
+        system: SYSTEM_PROMPT + "\n\n" + buildLanguageDirective(lang),
         messages: messages.map((m) => ({
           role: m.role,
           content: m.content,

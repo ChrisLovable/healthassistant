@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useCallback, useEffect } from "react";
-import { Mic, Square, Send, Loader2, X, Phone } from "lucide-react";
+import { Mic, Square, Send, Loader2, X, Phone, Copy, Check } from "lucide-react";
 import { Sticker } from "@/components/ui/Sticker";
 import { useLang } from "@/lib/i18n/provider";
 import { t } from "@/lib/i18n/translations";
@@ -20,6 +20,7 @@ export function AskMyMedicChatbot() {
   const [error, setError] = useState<string | null>(null);
   const [messages, setMessages] = useState<Message[]>([]);
   const [isOpen, setIsOpen] = useState(false);
+  const [copiedIndex, setCopiedIndex] = useState<number | null>(null);
 
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const chunksRef = useRef<Blob[]>([]);
@@ -163,7 +164,19 @@ export function AskMyMedicChatbot() {
   const clearChat = () => {
     setMessages([]);
     setIsOpen(false);
+    setCopiedIndex(null);
   };
+
+  const copyQa = useCallback(async (question: string, answer: string, index: number) => {
+    const text = `${t("chatbot.copyQuestion", lang)}\n${question}\n\n${t("chatbot.copyAnswer", lang)}\n${answer}`;
+    try {
+      await navigator.clipboard.writeText(text);
+      setCopiedIndex(index);
+      setTimeout(() => setCopiedIndex(null), 2500);
+    } catch {
+      setError(t("chatbot.error.copy", lang));
+    }
+  }, [lang]);
 
   return (
     <section className="px-4 py-4 pb-8">
@@ -185,21 +198,38 @@ export function AskMyMedicChatbot() {
         {/* Chat messages */}
         {isOpen && messages.length > 0 && (
           <div ref={messagesContainerRef} className="mb-3 max-h-[300px] overflow-y-auto space-y-3 scroll-smooth">
-            {messages.map((msg, i) => (
-              <div key={i} className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"}`}>
-                <div
-                  className={`max-w-[85%] rounded-2xl px-3 py-2 text-[13px] leading-relaxed ${
-                    msg.role === "user"
-                      ? "bg-[#8E44AD] text-white rounded-br-sm"
-                      : "bg-[var(--surface-warm)] text-[var(--text)] border border-[var(--border)] rounded-bl-sm"
-                  }`}
-                >
-                  {msg.content.split("\n").map((line, j) => (
-                    <p key={j} className={j > 0 ? "mt-2" : ""}>{line}</p>
-                  ))}
+            {messages.map((msg, i) => {
+              const question = i > 0 && messages[i - 1]?.role === "user" ? messages[i - 1].content : null;
+
+              return (
+                <div key={i} className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"}`}>
+                  <div className={`max-w-[85%] ${msg.role === "assistant" ? "space-y-1.5" : ""}`}>
+                    <div
+                      className={`rounded-2xl px-3 py-2 text-[13px] leading-relaxed ${
+                        msg.role === "user"
+                          ? "bg-[#8E44AD] text-white rounded-br-sm"
+                          : "bg-[var(--surface-warm)] text-[var(--text)] border border-[var(--border)] rounded-bl-sm"
+                      }`}
+                    >
+                      {msg.content.split("\n").map((line, j) => (
+                        <p key={j} className={j > 0 ? "mt-2" : ""}>{line}</p>
+                      ))}
+                    </div>
+                    {msg.role === "assistant" && question && (
+                      <button
+                        type="button"
+                        onClick={() => copyQa(question, msg.content, i)}
+                        aria-label={t("chatbot.aria.copyQa", lang)}
+                        className="flex items-center gap-1 text-[10px] text-[var(--text-soft)] hover:text-[#8E44AD] transition-colors px-1"
+                      >
+                        {copiedIndex === i ? <Check size={12} /> : <Copy size={12} />}
+                        {copiedIndex === i ? t("chatbot.copied", lang) : t("chatbot.copyQa", lang)}
+                      </button>
+                    )}
+                  </div>
                 </div>
-              </div>
-            ))}
+              );
+            })}
             {sending && (
               <div className="flex justify-start">
                 <div className="bg-[var(--surface-warm)] border border-[var(--border)] rounded-2xl rounded-bl-sm px-3 py-2">
