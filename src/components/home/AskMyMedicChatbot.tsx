@@ -217,9 +217,20 @@ export function AskMyMedicChatbot() {
             onChange={e => setInput(e.target.value)}
             placeholder={t("chatbot.placeholder", lang)}
             disabled={sending}
-            className="w-full px-3.5 py-2.5 pr-20 bg-white border border-[var(--border)] rounded-2xl text-[14px] placeholder:text-[var(--text-soft)] focus:outline-none focus:border-[#8E44AD] focus:shadow-[0_0_0_3px_rgba(142,68,173,0.15)] disabled:opacity-60" 
+            className={`w-full px-3.5 py-2.5 ${input.trim() ? "pr-28" : "pr-20"} bg-white border border-[var(--border)] rounded-2xl text-[14px] placeholder:text-[var(--text-soft)] focus:outline-none focus:border-[#8E44AD] focus:shadow-[0_0_0_3px_rgba(142,68,173,0.15)] disabled:opacity-60`}
           />
           <div className="absolute right-1.5 top-1/2 -translate-y-1/2 flex gap-1">
+            {input.trim() && (
+              <button
+                type="button"
+                onClick={() => setInput("")}
+                disabled={sending}
+                aria-label={t("chatbot.aria.clearInput", lang)}
+                className="w-8 h-8 rounded-full grid place-items-center text-[var(--text-soft)] hover:text-[var(--text-muted)] hover:bg-[var(--surface-warm)] disabled:opacity-50"
+              >
+                <X size={16} />
+              </button>
+            )}
             <button 
               type="button"
               onClick={handleMicClick} 

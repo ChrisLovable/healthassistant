@@ -76,6 +76,7 @@ export const T = {
   "chatbot.aria.stopRec":    { en: "Stop recording", af: "Stop opname", xh: "Misa ukurekhoda" },
   "chatbot.aria.voice":      { en: "Voice input", af: "Steminvoer", xh: "Ungeniso lwelizwi" },
   "chatbot.aria.send":       { en: "Send", af: "Stuur", xh: "Thumela" },
+  "chatbot.aria.clearInput": { en: "Clear text", af: "Maak teks skoon", xh: "Cima isicatshulwa" },
   "chatbot.clearChat":       { en: "Clear chat", af: "Maak klets skoon", xh: "Cima incoko" },
   "chatbot.recording":       { en: "Recording... tap stop when done", af: "Besig om op te neem... tik stop wanneer jy klaar is", xh: "Kuyarekhodwa... cofa u-misa xa ugqibile" },
   "chatbot.emergencyTitle":  { en: "Emergency?", af: "Noodgeval?", xh: "Ungxamiseko?" },
