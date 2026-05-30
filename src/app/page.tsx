@@ -37,9 +37,9 @@ export default async function HomePage() {
               href="https://www.myaipartner.co.za"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline underline-offset-2 hover:text-[var(--text-muted)]"
+              className="text-[var(--accent)] underline underline-offset-2 hover:opacity-80"
             >
-              MyAIpartner
+              www.myaipartner.co.za
             </a>
           </p>
           <p>{t("home.footer.line2", lang)}</p>
