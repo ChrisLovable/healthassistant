@@ -5,7 +5,7 @@ export const runtime = "nodejs"
 
 const resend = new Resend(process.env.RESEND_API_KEY)
 const LEAD_TO = "chris@spreakr.com"
-const LEAD_FROM = "MyMedic Leads <onboarding@resend.dev>"
+const LEAD_FROM = "MyMedic Leads <noreply@spreakr.com>"
 
 export async function POST(req: Request) {
   try {
