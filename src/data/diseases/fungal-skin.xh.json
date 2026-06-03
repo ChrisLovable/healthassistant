@@ -1,7 +1,7 @@
 {
   "slug": "fungal-skin",
   "group_slug": "skin",
-  "name": "Usulelo lwesikhumba somngundo",
+  "name": "Izifo zolusu ezibangelwa yifungus",
   "tagline": "Unyawo lomdlali, intshulube, i-jock itch. Kutshiphu ukunyanga.",
   "read_time_minutes": 3,
   "last_reviewed": "2026-05-21",
@@ -34,7 +34,7 @@
         "color": "green",
         "icon": "check-circle",
         "headline": "Kulula ukunyanga",
-        "body": "Uninzi lwezifo zolusu lomngundo ziyacaca ngekhrimu ye-over-the-counter kwiiveki ezi-2-4. Ixabiso eliphantsi, elifumaneka kuyo nayiphi na ikhemesti."
+        "body": "Uninzi lwezifo zolusu lomngundo ziyacaca ngekhrimu ye-ngaphandle kwegqirha kwiiveki ezi-2-4. Ixabiso eliphantsi, elifumaneka kuyo nayiphi na ikhemesti."
       },
       {
         "color": "coral",
@@ -129,7 +129,7 @@
     "heading": "Kwenziwe ntoni",
     "items": [
       {
-        "title": "Qala phezu-the-counter antifungal cream",
+        "title": "Qala ngaphandle kwegqirha antifungal cream",
         "description": "I-Clotrimazole okanye i-terbinafine - sebenzisa kabini ngosuku kwindawo echaphazelekayo kunye ne-2cm ngeenxa zonke. Qhubeka uqhubeka iiveki ezi-2 emva kokuba irhashalala iphelile ukuthintela ukubuya."
       },
       {

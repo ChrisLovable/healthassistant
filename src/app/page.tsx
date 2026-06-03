@@ -1,4 +1,5 @@
 import { TopBar } from "@/components/ui/TopBar";
+import { StruisbaaiPharmacy } from "@/components/home/StruisbaaiPharmacy";
 import { CategoryGrid } from "@/components/home/CategoryGrid";
 import { AskMyMedicChatbot } from "@/components/home/AskMyMedicChatbot";
 import { QuickLinks } from "@/components/home/QuickLinks";
@@ -15,6 +16,8 @@ export default async function HomePage() {
       <TopBar />
 
       <main>
+        <StruisbaaiPharmacy />
+
         <section className="px-4 pt-5 pb-1">
           <h1 className="font-serif font-bold text-[24px] text-[var(--text)] tracking-tight leading-[1.08]">
             {t("home.hero.title", lang)}

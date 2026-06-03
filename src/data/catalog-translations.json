@@ -188,7 +188,7 @@
         "tagline": "FAST tekens. Elke minuut tel."
       },
       "xh": {
-        "name": "Istroke",
+        "name": "Istrowuku",
         "tagline": "Iimpawu ze-FAST. Umzuzu ngamnye ubalulekile."
       },
       "zu": {
@@ -220,11 +220,11 @@
     },
     "severe-allergic-reaction": {
       "af": {
-        "name": "Ernstige allergiese reaksie (anafilakse)",
+        "name": "Ernstige allergiese reaksie",
         "tagline": "Swelling, asemhalingsprobleme — noodgeval."
       },
       "xh": {
-        "name": "Ukusabela okukhulu kwe-allergy (anafilaksisi)",
+        "name": "Ukusabela okukhulu kwe-allergy (i-anaphylaxis)",
         "tagline": "Ukudumba, ukuphefumla nzima — ungxamiseko."
       },
       "zu": {
@@ -260,11 +260,11 @@
         "tagline": "Stywe nek, erge hoofpyn, pers uitslag."
       },
       "xh": {
-        "name": "Imeningitis",
+        "name": "I-meningitis",
         "tagline": "Intamo eqinileyo, intloko ebuhlungu kakhulu, urhashalala omfusa."
       },
       "zu": {
-        "name": "I-Meningitis",
+        "name": "I-meningitis",
         "tagline": "Intamo eqinile, ikhanda elibuhlungu, ukuqubuka okunsomi."
       },
       "st": {
@@ -292,7 +292,7 @@
     },
     "diabetes": {
       "af": {
-        "name": "Suikersiekte",
+        "name": "Diabetes",
         "tagline": "Vinnigste-groeiende chroniese siekte in SA."
       },
       "xh": {
@@ -346,11 +346,11 @@
     },
     "tb": {
       "af": {
-        "name": "TB (Tuberkulose)",
+        "name": "TB",
         "tagline": "Hoes vir 2+ weke? Toets vandag — behandeling is gratis."
       },
       "xh": {
-        "name": "I-TB (Isifo sephepha)",
+        "name": "I-TB (isifo sephepha)",
         "tagline": "Ukhohlela iiveki ezi-2 nangaphezulu? Vavanya namhlanje — unyango lwasimahla."
       },
       "zu": {
@@ -382,7 +382,7 @@
     },
     "flu": {
       "af": {
-        "name": "Griep (influensa)",
+        "name": "Griep",
         "tagline": "Wanneer om te rus. Wanneer om jou dokter te bel."
       },
       "xh": {
@@ -436,7 +436,7 @@
     },
     "cervical-cancer-hpv": {
       "af": {
-        "name": "Servikale kanker & HPV",
+        "name": "Servikale kanker en HPV",
         "tagline": "Voorkombaar met entstof en sifting."
       },
       "xh": {
@@ -444,7 +444,7 @@
         "tagline": "Kungathintelwa ngesitofu novavanyo."
       },
       "zu": {
-        "name": "Umdlavuza womlomo wesibeletho kanye ne-HPV",
+        "name": "Umdlavuza womlomo wesibeletho ne-HPV",
         "tagline": "Kuvikeleka ngomuthi wokugoma nokuhlolwa."
       },
       "st": {
@@ -472,7 +472,7 @@
     },
     "pregnancy-danger-signs": {
       "af": {
-        "name": "Swangerskap gevaartekens",
+        "name": "Gevaartekens tydens swangerskap",
         "tagline": "Bloeding, erge pyn, geen beweging — wanneer om in te gaan."
       },
       "xh": {
@@ -526,7 +526,7 @@
     },
     "childhood-diarrhoea": {
       "af": {
-        "name": "Kinderdiarree",
+        "name": "Diarree by kinders",
         "tagline": "ORS red lewens. Ken die tekens van dehidrasie."
       },
       "xh": {
@@ -544,7 +544,7 @@
     },
     "child-fever": {
       "af": {
-        "name": "Kinderkoors",
+        "name": "Koors by 'n kind",
         "tagline": "Wanneer dit normaal is. Wanneer dit nie is nie."
       },
       "xh": {
@@ -634,11 +634,11 @@
     },
     "substance-use": {
       "af": {
-        "name": "Substansgebruik en verslawing",
+        "name": "Middelgebruik en verslawing",
         "tagline": "Alkohol, dwelms — hoe om dit te herken, waar om hulp te kry."
       },
       "xh": {
-        "name": "Ukusetyenziswa kwezinto nokuxhomekeka",
+        "name": "Ukusetyenziswa gwenxa kweziyobisi nokuxhomekeka",
         "tagline": "Utywala, iziyobisi — indlela yokukuqaphela nendawo yokufumana uncedo."
       },
       "zu": {
@@ -688,11 +688,11 @@
     },
     "fungal-skin": {
       "af": {
-        "name": "Swam-velinfeksies",
+        "name": "Swamvelinfeksies",
         "tagline": "Ringwurm, atletevoet, liesskimmel — maklik om te behandel."
       },
       "xh": {
-        "name": "Izifo zolusu lwefungus",
+        "name": "Izifo zolusu ezibangelwa yifungus",
         "tagline": "Ringworm, athlete’s foot, jock itch — kulula ukuzinyanga."
       },
       "zu": {
@@ -706,7 +706,7 @@
     },
     "headache-migraine": {
       "af": {
-        "name": "Hoofpyn & migraine",
+        "name": "Hoofpyn en migraine",
         "tagline": "Wanneer dit spanning is. Wanneer dit 'n rooi vlag is."
       },
       "xh": {
@@ -714,7 +714,7 @@
         "tagline": "Nini sisithintelo. Nini luphawu olubomvu."
       },
       "zu": {
-        "name": "Ikhanda elibuhlungu kanye ne-migraine",
+        "name": "Ikhanda elibuhlungu ne-migraine",
         "tagline": "Lapho kushubile. Lapho kuyifulegi elibomvu."
       },
       "st": {
@@ -724,7 +724,7 @@
     },
     "heartburn-reflux": {
       "af": {
-        "name": "Sooibrand & oorsuur",
+        "name": "Sooibrand en refluks",
         "tagline": "Algemeen — maar soms 'n waarskuwingsteken."
       },
       "xh": {
@@ -732,7 +732,7 @@
         "tagline": "Kuqhelekile — kodwa ngamanye amaxesha luphawu lwesilumkiso."
       },
       "zu": {
-        "name": "Isilungulela kanye ne-reflux",
+        "name": "Isilungulela ne-reflux",
         "tagline": "Okuvamile - kodwa ngezinye izikhathi uphawu oluyisixwayiso."
       },
       "st": {
@@ -742,7 +742,7 @@
     },
     "uti": {
       "af": {
-        "name": "Urineweginfeksie (UWI)",
+        "name": "Urienweginfeksie (UTI)",
         "tagline": "Brand, dringendheid, behandel vroeg."
       },
       "xh": {
@@ -750,7 +750,7 @@
         "tagline": "Ukutsha, ukuhamba rhoqo, nyanga kwangoko."
       },
       "zu": {
-        "name": "I-Urinary tract infection (UTI)",
+        "name": "Ukutheleleka komgudu womchamo (UTI)",
         "tagline": "Ukushiswa, ukuphuthuma, ukwelashwa kusenesikhathi."
       },
       "st": {

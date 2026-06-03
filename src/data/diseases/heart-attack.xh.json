@@ -1,7 +1,7 @@
 {
   "slug": "heart-attack",
   "group_slug": "emergency-signs",
-  "name": "Ihlaselo lentliziyo",
+  "name": "Uhlaselo lwentliziyo",
   "tagline": "Intlungu yesifuba engadluliyo — tsalela umnxeba ngoku.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
@@ -151,7 +151,7 @@
       {
         "name": "I-ambulensi engxamisekileyo",
         "description": "Inkonzo karhulumente yezonyango ezingxamisekileyo",
-        "meta": "Simahla · iiyure ezingama-24 · yithi 'heart attack'",
+        "meta": "Simahla · iiyure ezingama-24 · yithi 'uhlaselo lwentliziyo'",
         "phone": "10177",
         "phone_display": "10177",
         "primary": true

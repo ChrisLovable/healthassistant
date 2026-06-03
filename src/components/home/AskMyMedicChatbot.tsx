@@ -165,6 +165,7 @@ export function AskMyMedicChatbot() {
     setMessages([]);
     setIsOpen(false);
     setCopiedIndex(null);
+    setError(null);
   };
 
   const copyQa = useCallback(async (question: string, answer: string, index: number) => {
@@ -181,23 +182,30 @@ export function AskMyMedicChatbot() {
   return (
     <section className="px-4 py-4 pb-8">
       <div className="bg-white/90 backdrop-blur border border-white/80 rounded-3xl p-4 shadow-card">
-        <div className="flex items-center gap-2.5 mb-3">
+        <div className="flex items-start gap-2.5 mb-3">
           <Sticker color="#8E44AD" icon="sparkles" size="sm" />
-          <div className="flex-1">
+          <div className="flex-1 min-w-0">
             <h2 className="font-serif font-bold text-[16px] text-[var(--text)] leading-tight">{t("chatbot.title", lang)}</h2>
             <p className="text-[10px] text-[var(--text-muted)]">{t("chatbot.subtitle", lang)}</p>
             <p className="text-[10px] text-[var(--text-soft)] mt-1 leading-relaxed">{t("chatbot.disclaimer", lang)}</p>
           </div>
-          {isOpen && messages.length > 0 && (
-            <button onClick={clearChat} className="text-[var(--text-soft)] hover:text-[var(--text)] p-1" aria-label={t("chatbot.clearChat", lang)}>
-              <X size={16} />
-            </button>
-          )}
         </div>
 
         {/* Chat messages */}
         {isOpen && messages.length > 0 && (
-          <div ref={messagesContainerRef} className="mb-3 max-h-[300px] overflow-y-auto space-y-3 scroll-smooth">
+          <>
+            <div className="mb-2 flex items-center justify-end">
+              <button
+                type="button"
+                onClick={clearChat}
+                className="flex items-center gap-1 text-[10px] text-[var(--text-soft)] hover:text-[#8E44AD] transition-colors px-1 py-0.5"
+                aria-label={t("chatbot.clearChat", lang)}
+              >
+                <X size={14} />
+                {t("chatbot.clearChat", lang)}
+              </button>
+            </div>
+            <div ref={messagesContainerRef} className="mb-3 max-h-[300px] overflow-y-auto space-y-3 scroll-smooth">
             {messages.map((msg, i) => {
               const question = i > 0 && messages[i - 1]?.role === "user" ? messages[i - 1].content : null;
 
@@ -237,7 +245,8 @@ export function AskMyMedicChatbot() {
                 </div>
               </div>
             )}
-          </div>
+            </div>
+          </>
         )}
 
         {/* Input form */}

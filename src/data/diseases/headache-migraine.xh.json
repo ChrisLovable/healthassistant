@@ -1,7 +1,7 @@
 {
   "slug": "headache-migraine",
   "group_slug": "pain",
-  "name": "Intloko kunye ne-migraine",
+  "name": "Intloko ebuhlungu ne-migraine",
   "tagline": "Uninzi alunabungozi. Abanye banjalo. Yazi imiqondiso.",
   "read_time_minutes": 4,
   "last_reviewed": "2026-05-21",
@@ -162,7 +162,7 @@
       },
       {
         "name": "Nayiphi na ikhemesti yendawo",
-        "description": "Kwi-counter-the-counter paracetamol kunye ne-ibuprofen ukuze zisetyenziswe ngamaxesha athile",
+        "description": "Kwi-ngaphandle kwegqirha paracetamol kunye ne-ibuprofen ukuze zisetyenziswe ngamaxesha athile",
         "meta": "Akukho myalelo ufunekayo we-OTC",
         "phone": null,
         "phone_display": "Ndwendwela ikhemesti",

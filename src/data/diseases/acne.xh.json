@@ -18,7 +18,7 @@
     "lede": "I-acne yinto eyenzekayo xa ioli kunye neeseli zesikhumba ezifileyo zivala iipores. Ngamanye amaxesha i-pore evaliweyo ivuvukala yintsholongwane yesiqhelo yolusu - kulapho ufumana amabala abomvu, abuhlungu. Ayibangelwa kukungcola.",
     "paragraphs": [
       "I-acne ixhaphake kakhulu kulutsha ngenxa yokuba utshintsho lwamahomoni lunyusa imveliso yeoli. Kodwa abantu abadala nabo bayayifumana - ngakumbi abafazi abakwiminyaka yabo yama-20 kunye nama-30, rhoqo ecaleni komhlathi. Malunga nama-85% abemi boMzantsi Afrika baya kuba namaqhakuva ngaxa lithile.",
-      "I-acne ethambileyo idla ngokuphendula kunyango lwe-counter-the-counter kunye nemikhwa elungileyo yolusu. Amaqhakuva aphakathi ukuya kobukhali - ngakumbi ngamaqhakuva, amanxeba, okanye iintlungu - ifuna ugqirha. Unyango olusebenzayo lwamayeza lukhona. I-acne enganyangwayo inokushiya amanxeba asisigxina kwaye ichaphazele ukuzithemba iminyaka."
+      "I-acne ethambileyo idla ngokuphendula kunyango lwe-ngaphandle kwegqirha kunye nemikhwa elungileyo yolusu. Amaqhakuva aphakathi ukuya kobukhali - ngakumbi ngamaqhakuva, amanxeba, okanye iintlungu - ifuna ugqirha. Unyango olusebenzayo lwamayeza lukhona. I-acne enganyangwayo inokushiya amanxeba asisigxina kwaye ichaphazele ukuzithemba iminyaka."
     ]
   },
   "facts": {
@@ -62,13 +62,13 @@
         "color": "green",
         "icon": "circle",
         "title": "Mild - blackheads kunye whiteheads",
-        "description": "Amaqhuma amancinci ngaphandle kokuvuvukala okuninzi. Ngokuqhelekileyo iphendula kwi-skincare elungileyo kunye neemveliso ze-counter-the-counter. Zama i-benzoyl peroxide okanye i-salicylic acid kuqala."
+        "description": "Amaqhuma amancinci ngaphandle kokuvuvukala okuninzi. Ngokuqhelekileyo iphendula ngokunakekela ulusu elungileyo kunye neemveliso ze-ngaphandle kwegqirha. Zama i-benzoyl peroxide okanye i-salicylic acid kuqala."
       },
       {
         "color": "orange",
         "icon": "alert-circle",
         "title": "Imodareyitha - ebomvu, amabala avuthayo",
-        "description": "Iipapule ezibomvu kunye neepustules ebusweni, isifuba, umqolo. Zama unyango lwe-over-the-counter kwiiveki ezisi-8. Ukuba akukho phuculo - bonana nogqirha. Iinketho zamayeza zisebenza ngcono."
+        "description": "Iipapule ezibomvu kunye neepustules ebusweni, isifuba, umqolo. Zama unyango lwe-ngaphandle kwegqirha kwiiveki ezisi-8. Ukuba akukho phuculo - bonana nogqirha. Iinketho zamayeza zisebenza ngcono."
       },
       {
         "color": "coral",
@@ -133,7 +133,7 @@
     "heading": "Kwenziwe ntoni",
     "items": [
       {
-        "title": "Qala nge-over-the-counter ye-acne ephakathi",
+        "title": "Qala nge-ngaphandle kwegqirha ye-acne ephakathi",
         "description": "Benzoyl peroxide 2.5% gel okanye salicylic acid ukuhlamba. Sebenzisa kanye ngosuku ngeveki, emva koko kabini ukuba ukunyamezela. Ifumaneka kuyo nayiphi na ikhemesti ngaphandle kwencwadi kagqirha."
       },
       {
@@ -169,7 +169,7 @@
       },
       {
         "name": "Nayiphi na ikhemesti yendawo",
-        "description": "Kwi-counter-the-counter benzoyl peroxide, i-salicylic acid, i-retinoid creams",
+        "description": "Kwi-ngaphandle kwegqirha benzoyl peroxide, i-salicylic acid, iikhrimu ze-retinoid",
         "meta": "Akukho myalelo ufunekayo kwiimveliso ze-OTC",
         "phone": null,
         "phone_display": "Ndwendwela ikhemesti",
